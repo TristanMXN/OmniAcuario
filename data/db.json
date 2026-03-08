@@ -2739,8 +2739,8 @@
     },
     {
       "id": "red_tail_shark",
-      "name": "Tiburón de Aletas Rojas",
-      "scientific": "Epalzeorhynchos frenatum",
+      "name": "Tiburón Cola Roja",
+      "scientific": "Epalzeorhynchos bicolor",
       "family": "Cyprinidae",
       "type": "fish",
       "category": "fish",
@@ -2768,11 +2768,49 @@
       ],
       "schooling": false,
       "min_school": 1,
-      "origin_region": "Asia (Tailandia — extinto en naturaleza)",
-      "path": "data/species/fish/ciprinidos_y_rasboras/epalzeorhynchos_frenatum.json",
+      "origin_region": "Asia (Tailandia — extinto en la naturaleza)",
+      "path": "data/species/fish/ciprinidos_y_rasboras/epalzeorhynchos_bicolor.json",
       "diet": "Omnívoro / Herbívoro",
       "subcategory": "ciprinido",
       "name_en": "Red Tail Shark",
+      "emoji": "🐟"
+    },
+    {
+      "id": "rainbow_shark",
+      "name": "Tiburón Arcoíris",
+      "scientific": "Epalzeorhynchos frenatum",
+      "family": "Cyprinidae",
+      "type": "fish",
+      "category": "fish",
+      "color": "#616161",
+      "care": "Intermedio",
+      "temperament": "Semi-agresivo",
+      "size_cm": 15,
+      "min_liters": 200,
+      "liters_per_unit": 0,
+      "temp": [
+        22,
+        27
+      ],
+      "ph": [
+        6.5,
+        7.5
+      ],
+      "gh": [
+        5,
+        15
+      ],
+      "kh": [
+        3,
+        10
+      ],
+      "schooling": false,
+      "min_school": 1,
+      "origin_region": "Asia (Tailandia, Laos, Camboya)",
+      "path": "data/species/fish/ciprinidos_y_rasboras/epalzeorhynchos_frenatum.json",
+      "diet": "Omnívoro / Herbívoro",
+      "subcategory": "ciprinido",
+      "name_en": "Rainbow Shark",
       "emoji": "🐟"
     },
     {
