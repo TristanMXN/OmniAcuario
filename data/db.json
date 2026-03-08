@@ -1638,7 +1638,7 @@
     {
       "id": "kissing_gourami",
       "name": "Gourami Besucón",
-      "scientific": "Helostoma temminkii",
+      "scientific": "Helostoma temminckii",
       "family": "Helostomatidae",
       "type": "fish",
       "care": "Intermedio",
@@ -2436,7 +2436,7 @@
     {
       "id": "dwarf_puffer",
       "name": "Globo Enano",
-      "scientific": "Carinotetraodon travanoricus",
+      "scientific": "Carinotetraodon travancoricus",
       "family": "Tetraodontidae",
       "type": "fish",
       "category": "fish",
