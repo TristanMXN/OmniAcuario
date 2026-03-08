@@ -323,12 +323,13 @@ function renderCatalog() {
 function updateCatalogGrid() {
   const wrap = document.getElementById('catalog-grid-wrap');
   if (!wrap) return;
-  const q = state.catalogSearch.toLowerCase();
+  const normalize = t => (t || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  const q = normalize(state.catalogSearch);
   let species = filteredSpecies();
   if (q) species = species.filter(s =>
-    s.name.toLowerCase().includes(q) ||
-    s.scientific.toLowerCase().includes(q) ||
-    s.family?.toLowerCase().includes(q)
+    normalize(s.name).includes(q) ||
+    normalize(s.scientific).includes(q) ||
+    normalize(s.name_en).includes(q)
   );
   species = sortedSpecies(species);
   wrap.innerHTML = species.length === 0
