@@ -1,0 +1,56 @@
+{
+  "variants": [
+    "Hemigrammus bleheri — cabeza completamente roja hasta detrás del opérculo",
+    "Nota: muy similar a H. rhodostomus (Borrachito) — en H. bleheri el rojo llega más atrás"
+  ],
+  "description": "El Tetra Nariz de Borracho (Hemigrammus bleheri) es originario del río Negro y del río Vichada en Brasil y Venezuela. Extremadamente similar al Tetra Borrachito (H. rhodostomus), se distingue porque la mancha roja de la cabeza se extiende más hacia atrás, hasta detrás del opérculo. Ambas especies se mezclan frecuentemente en tiendas bajo el mismo nombre comercial.",
+  "origin": {
+    "region": "América del Sur (Brasil, Venezuela)",
+    "countries": [
+      "Brasil",
+      "Venezuela"
+    ],
+    "basin": "Río Negro, Río Vichada",
+    "habitat": "Aguas negras, blandas y ácidas, bajo vegetación densa.",
+    "wild_params": "pH 5.5–7.0, GH 1–8, temperatura 24–28 °C."
+  },
+  "max_size_cm": 5,
+  "lifespan_years": "5–6",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Escamas/gránulos de calidad, artemia congelada, dafnia. 2 veces al día en pequeñas cantidades.",
+  "behavior": "Cardumen activo y cohesionado de zona media. Los machos exhiben coloración al verse entre sí. Mínimo 8 individuos para comportamiento natural.",
+  "recommended_school": 10,
+  "level": "Moderado",
+  "substrate": [
+    "Arena fina oscura"
+  ],
+  "substrate_detail": "Arena fina oscura o grava pequeña. Hojas de catappa y vegetación densa para replicar su hábitat de aguas negras.",
+  "plants": "Recomendadas",
+  "plant_detail": "Acuario bien plantado, idealmente biotopo Rio Negro.",
+  "light": "Tenue",
+  "light_detail": "6–8 h/día, luz suave o difusa. Especie de aguas oscuras — la luz intensa la estresa.",
+  "filtration": "Filtro de esponja o externo de bajo caudal. Agua ligeramente ácida (pH 6.0–7.0) y blanda.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Hembras más redondeadas en el abdomen. Los machos algo más esbeltos y coloridos.",
+  "reproduction": "Ovíparo de freza libre entre plantas finas. Sin cuidado parental — separar adultos tras la puesta.",
+  "compatibility_notes": "Compatible con Tetras pequeños pacíficos, Corydoras y Rasboras. Cardumen de mínimo 8 individuos para comportamiento natural.",
+  "diseases": [
+    {
+      "symptom": "Puntos blancos",
+      "cause": "Ich",
+      "solution": "Elevar temperatura a 28–30°C. Anti-ich comercial."
+    },
+    {
+      "symptom": "Decoloración progresiva",
+      "cause": "Microsporidio / Pleistophora",
+      "solution": "Sin cura. Aislar."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Frecuentemente confundido con H. rhodostomus. Verificar la extensión del rojo.",
+  "order": "Characiformes",
+  "class": "Actinopterygii",
+  "important_notes": "El Tetra de Rathbun es menos conocido que otros tetras pero igualmente decorativo. Cardumen numeroso para mostrar el comportamiento natural."
+}

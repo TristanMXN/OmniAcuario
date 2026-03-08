@@ -1,0 +1,74 @@
+{
+  "order": "Cypriniformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    5,
+    10
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 1,
+  "origin": {
+    "region": "Sudeste Asiático",
+    "countries": [
+      "Malasia",
+      "Tailandia",
+      "Singapur",
+      "Indonesia"
+    ],
+    "basin": "Ríos de la Península Malaya, Sumatra y Borneo",
+    "habitat": "Ríos de turba y bosque oscuro, aguas ácidas de color té con poca corriente",
+    "wild_params": "pH 4.5–6.5, GH 1–8, temperatura 22–27 °C"
+  },
+  "substrate": [
+    "Arena fina oscura"
+  ],
+  "substrate_detail": "Sustrato oscuro (arena negra o grava fina) con hojas de catappa. Realza los colores y el triángulo negro del flanco.",
+  "lighting": "Moderada",
+  "description": "La Rasbora Arlequín (Trigonostigma heteromorpha) es originaria de la Península Malaya, Tailandia, Sumatra y Borneo, habitando ríos de turba con agua oscura, blanda y ácida. Su distintiva marca triangular negra en el tercio posterior del cuerpo es inconfundible. Una de las especies fundadoras del hobby moderno, importada desde los años 1930.",
+  "behavior": "Pacífico y de cardumen. Grupo mínimo de 6–8. Compatible con tetras, corydoras y otros peces pacíficos de agua blanda.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Puntos blancos tipo sal",
+      "cause": "Ich",
+      "solution": "Anti-ich suave. Temperatura a 27–28 °C."
+    },
+    {
+      "symptom": "Pérdida de color, decaimiento",
+      "cause": "Agua incorrecta (dura o alcalina) o estrés",
+      "solution": "Corregir parámetros: pH 6.0–7.0, GH < 10."
+    },
+    {
+      "symptom": "Infecciones bacterianas cutáneas",
+      "cause": "Columnaris u otras bacterias",
+      "solution": "Antibiótico de amplio espectro a dosis reducida."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "max_size_cm": 5,
+  "lifespan_years": "5–6",
+  "feeding_detail": "Omnívoro. Acepta escamas micro, artemia, dafnia, gusanos de sangre. Alimentar 2 veces al día en pequeñas cantidades.",
+  "recommended_school": 8,
+  "level": "Fácil",
+  "plants": "Recomendadas",
+  "plant_detail": "Plantas de hoja ancha (Cryptocoryne preferida para la freza). Vegetación densa.",
+  "light": "Baja–Media",
+  "light_detail": "6–8 h/día, luz suave o difusa. El follaje tupido de plantas crea las zonas de sombra que prefiere.",
+  "filtration": "Filtro de esponja o externo con caudal bajo-moderado. Agua ligeramente ácida y blanda — usar turba o extracto de catappa.",
+  "water_changes": "20% semanal",
+  "sexing": "El borde posterior del triángulo negro es redondeado en hembras y recto o angulado en machos. Diferencia sutil.",
+  "reproduction": "Ovíparo con comportamiento especializado: el macho abraza a la hembra mientras deposita los huevos en la cara inferior de hojas anchas (Anubias, lirio acuático). Sin cuidado parental.",
+  "compatibility_notes": "Compatible con Neon Tetra, Danio, Corydoras pequeños y Gurami enano. Incompatible con peces de agua alcalina y dura.",
+  "iucn": "Preocupación menor (LC)",
+  "market_notes": "Disponible en todas las tiendas. Las variedades T. hengeli y T. espei son similares y a veces confundidas.",
+  "class": "Actinopterygii",
+  "variants": [
+    "Trigonostigma heteromorpha — forma tipo, marca triangular negra clásica",
+    "Trigonostigma heteromorpha var. Negro — marca triangular expandida oscura",
+    "Trigonostigma espei — \"Lambchop\", marca más elongada (especie distinta)"
+  ],
+  "important_notes": "Una de las rasboras más resistentes del hobby. Prefiere acuarios plantados maduros. El triángulo negro puede palidecer con estrés o agua de mala calidad."
+}

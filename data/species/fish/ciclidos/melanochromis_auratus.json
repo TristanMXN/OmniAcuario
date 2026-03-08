@@ -1,0 +1,51 @@
+{
+  "variants": [
+    "Melanochromis auratus — hembra amarilla con rayas negras; macho adulto azul-negro"
+  ],
+  "description": "El Auratus (Melanochromis auratus) es uno de los mbunas más agresivos del Lago Malawi. Su polimorfismo sexual es inverso al habitual: las hembras y machos jóvenes son amarillos con rayas negras, mientras que los machos dominantes adultos se transforman en azul-negro casi completo. Este cambio de color señala la dominancia en el grupo.",
+  "origin": {
+    "region": "África Oriental (Lago Malawi)",
+    "countries": [
+      "Malawi"
+    ],
+    "basin": "Lago Malawi — costas rocosas del sur, Monkey Bay y Nkhata Bay",
+    "habitat": "Zona litoral rocosa poco profunda (1–10m). Agua dura, alcalina y muy transparente.",
+    "wild_params": "pH 7.8–8.8, GH 12–20, temperatura 24–28 °C."
+  },
+  "max_size_cm": 11,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Herbívoro. Gránulos con espirulina, verduras blanqueadas. Poca proteína animal.",
+  "behavior": "Muy agresivo. Los machos dominantes se vuelven completamente azul-negro. Territorial extremo.",
+  "recommended_school": 1,
+  "level": "Intermedio",
+  "substrate": [
+    "Grava",
+    "Arena gruesa",
+    "Roca calcárea"
+  ],
+  "substrate_detail": "Arena de lago Malawi o aragonita. Rocas y cuevas OBLIGATORIAS — especie que vive entre grietas rocosas y defiende territorio de roca.",
+  "plants": "Recomendadas",
+  "plant_detail": "Sin plantas — agua alcalina dura del Lago Malawi.",
+  "light": "Media",
+  "light_detail": "10–12 h/día, intensidad alta. El cambio de color (amarillo a negro-azul) solo ocurre en machos dominantes bien alimentados con buena iluminación.",
+  "filtration": "Filtro externo muy potente. pH 7.8–8.8, GH 12–20, KH 8–15 obligatorios. Alta oxigenación.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Los juveniles y hembras son amarillos con rayas negras. Los machos dominantes adultos se transforman en negro-azul casi completo — el cambio de color indica dominancia.",
+  "reproduction": "Incubadora bucal — la hembra guarda los huevos en la boca durante 3 semanas. El macho puede ser muy agresivo con la hembra tras la freza.",
+  "compatibility_notes": "Uno de los mbunas más agresivos. Solo con mbunas robustos de tamaño similar. Sobrepoblar el acuario para dispersar la agresividad. Sin peces de agua blanda.",
+  "diseases": [
+    {
+      "symptom": "Bloat (hinchazón abdominal)",
+      "cause": "Hexamita o dieta con exceso de proteína",
+      "solution": "Metronidazol. Reducir proteína animal."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Uno de los mbunas más agresivos. Solo para acuaristas experimentados.",
+  "order": "Cichliformes",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

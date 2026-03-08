@@ -1,0 +1,80 @@
+{
+  "variants": [
+    "Anubias barteri var. nana — forma enana, la más popular",
+    "Anubias barteri var. nana 'Petite' — aún más pequeña, hojas de 1–2cm",
+    "Anubias barteri var. nana 'Golden' — hojas amarillo-verdosas"
+  ],
+  "description": "La Anubia Nana (Anubias barteri var. nana) es originaria de Camerún y Nigeria. Planta de rizoma de crecimiento muy lento y extraordinaria dureza. Tolera poca luz, no necesita CO₂ ni sustrato nutritivo. El rizoma debe quedar siempre expuesto — enterrarlo provoca pudrición. Resistente incluso a los cíclidos.",
+  "origin": {
+    "region": "África Occidental (Camerún, Nigeria)",
+    "countries": [
+      "Camerún",
+      "Nigeria"
+    ],
+    "basin": "Ríos y arroyos con corriente moderada en selvas de África Occidental",
+    "habitat": "Sumergida o emergente sobre rocas y raíces en ríos sombreados.",
+    "wild_params": "pH 6.0–8.0, GH 3–20, temperatura 20–28 °C."
+  },
+  "max_size_cm": 10,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": false,
+  "fertilizer": "Fertilizante líquido con hierro muy ocasionalmente.",
+  "uses": "Planta de rizoma para primer plano y decoración sobre rocas y troncos.",
+  "propagation": "División del rizoma. Atar con hilo de algodón a rocas o troncos — nunca enterrar el rizoma.",
+  "substrate": [
+    "Sobre roca",
+    "Sobre tronco",
+    "Grava"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Baja",
+  "light_detail": "6–8 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Muy disponible. Ligar al sustrato con hilo de algodón — nunca enterrar el rizoma.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Rizoma de crecimiento muy lento adherido a roca o madera. Las hojas oscuras duran años. Muy resistente a peces herbívoros.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Ideal junto a helechos de Java y musgos. No compite — convive con cualquier especie vegetal.",
+  "co2_detail": "No necesario. El Anubias es la planta sin CO₂ por excelencia."
+}

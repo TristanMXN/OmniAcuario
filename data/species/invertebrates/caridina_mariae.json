@@ -1,0 +1,58 @@
+{
+  "variants": [
+    "Caridina mariae var. Orange Eye Blue Tiger (OEBT) — azul con ojos naranja, muy valorada",
+    "Caridina mariae var. Green — verdoso con rayas",
+    "Caridina mariae var. Black — negro con rayas grises",
+    "Caridina mariae — forma tipo, naranja-marrón con rayas oscuras"
+  ],
+  "description": "La Gamba Tigre (Caridina mariae) es originaria de Hong Kong y el sur de China, habitando en arroyos de montaña con agua blanda y ligeramente ácida. Su patrón de rayas verticales recuerda a un tigre. La variedad más buscada es la Orange Eye Blue Tiger (OEBT), con cuerpo azul intenso y ojos naranja. Es una especie intermedia entre la facilidad de Neocaridina y la exigencia de Crystal Red.",
+  "origin": {
+    "region": "Asia (Hong Kong, sur de China)",
+    "countries": [
+      "China",
+      "Hong Kong"
+    ],
+    "basin": "Arroyos de montaña del sur de China",
+    "habitat": "Arroyos de agua blanda y fresca, fondo de grava y hojarasca.",
+    "wild_params": "pH 6.0–7.5, GH 4–10, temperatura 22–26 °C."
+  },
+  "max_size_cm": 3,
+  "lifespan_years": "1–2",
+  "nitrate_max": 15,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Biofilm, algas blandas, hojas de catappa. Alimento específico para Caridina. Porciones pequeñas y frecuentes.",
+  "behavior": "Activa y exploradora. Más tolerante que Crystal Red pero más exigente que Cherry. Aclimatación por goteo recomendada.",
+  "recommended_school": 8,
+  "level": "Fondo / Todas las zonas",
+  "substrate": [
+    "Sustrato activo Caridina o arena fina inerte"
+  ],
+  "substrate_detail": "Sustrato activo recomendado para mantener pH bajo. Con agua naturalmente blanda puede usarse arena inerte.",
+  "plants": "Muy recomendadas",
+  "plant_detail": "Musgos, Bucephalandra, Anubias. Hojas de catappa y alder cones beneficiosos.",
+  "light": "Baja-Media",
+  "light_detail": "6–8 h/día.",
+  "filtration": "Filtro de esponja. Caudal bajo.",
+  "water_changes": "10% semanal con agua envejecida o de ósmosis parcial",
+  "sexing": "Hembras más grandes y redondeadas. Silla de montar visible.",
+  "reproduction": "Posible en cautiverio con parámetros estables. 15–30 huevos por hembra, incubación 3–4 semanas.",
+  "compatibility_notes": "Compatible con peces nano pacíficos. Acuario de camarones preferible para reproducción exitosa.",
+  "diseases": [
+    {
+      "symptom": "Muerte en masa",
+      "cause": "Cobre, nitratos altos o choque osmótico",
+      "solution": "Cambio de agua con agua limpia. Carbón activo. Verificar parámetros."
+    },
+    {
+      "symptom": "Rayas que palidecen",
+      "cause": "Estrés o temperatura alta",
+      "solution": "Bajar temperatura a 22–24°C. Verificar nitratos (<15 ppm)."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "La variedad OEBT es la más valiosa. Disponible en tiendas especializadas y criadores online.",
+  "order": "Decapoda",
+  "class": "Malacostraca",
+  "important_notes": "El patrón de rayas negras y blancas es muy variable. Los especímenes con rayas más definidas son más valorados. Intermedio entre Neocaridina y Caridina."
+}

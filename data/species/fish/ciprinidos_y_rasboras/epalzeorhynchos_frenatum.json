@@ -1,0 +1,51 @@
+{
+  "variants": [
+    "Epalzeorhynchos bicolor — forma tipo, cuerpo negro aleta caudal roja",
+    "Epalzeorhynchos bicolor var. Albino — cuerpo blanco, aleta caudal naranja"
+  ],
+  "description": "El Tiburón de Cola Roja (Epalzeorhynchos bicolor) es originario de Tailandia, donde está prácticamente extinto en la naturaleza. Su cuerpo negro aterciopelado y la cola rojo-naranja brillante lo hacen inconfundible. A pesar de su nombre, no es un tiburón — es un ciprínido. Muy territorial: solo 1 ejemplar por acuario. Todos los especímenes comerciales son criados en cautiverio.",
+  "origin": {
+    "region": "Asia (Tailandia — cuenca del río Chao Phraya)",
+    "countries": [
+      "Tailandia"
+    ],
+    "basin": "Cuenca del río Chao Phraya, Tailandia central — extinto en la naturaleza",
+    "habitat": "Ríos de agua clara sobre fondos rocosos con algas — hábitat destruido por agricultura.",
+    "wild_params": "pH 6.5–7.5, GH 5–15, temperatura 22–26 °C."
+  },
+  "max_size_cm": 12,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Omnívoro herbívoro. Gránulos con espirulina, verduras, algas, artemia ocasional.",
+  "behavior": "Territorial. Solo 1 por acuario. Ataca a otros del mismo aspecto. Activo de noche.",
+  "recommended_school": 1,
+  "level": "Intermedio",
+  "substrate": [
+    "Grava fina",
+    "Arena"
+  ],
+  "substrate_detail": "Arena o grava con cuevas y tubos de PVC — el Tiburón de Cola Roja es extremadamente territorial y necesita una cueva como territorio propio.",
+  "plants": "Recomendadas",
+  "plant_detail": "Compatible con plantas robustas.",
+  "light": "Media",
+  "light_detail": "8–10 h/día, intensidad media. El negro aterciopelado del cuerpo y el rojo-naranja de la cola se aprecian con cualquier iluminación de calidad.",
+  "filtration": "Filtro externo de caudal moderado. Agua ligeramente ácida (pH 6.5–7.5). Especie resistente que tolera cierta variación de parámetros.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Prácticamente imposible externamente. Las hembras pueden ser ligeramente más redondeadas en el abdomen. Sin dimorfismo claro.",
+  "reproduction": "No se ha reproducido con éxito en cautiverio doméstico. En la naturaleza, especie prácticamente extinta — todos los ejemplares son criados en criaderos.",
+  "compatibility_notes": "Solo 1 por acuario — los machos se matan entre sí. Agresivo con peces de coloración similar (rayas rojas). Compatible con peces robustos de zona media-alta.",
+  "diseases": [
+    {
+      "symptom": "Puntos blancos",
+      "cause": "Ich",
+      "solution": "Anti-ich. Elevar temperatura."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Extinto en la naturaleza (Tailandia). Solo criados en cautiverio.",
+  "order": "Cypriniformes",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

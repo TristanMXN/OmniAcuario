@@ -1,0 +1,77 @@
+{
+  "variants": [
+    "Bacopa caroliniana — hojas grandes ovaladas carnosas, limonada si se frotan"
+  ],
+  "description": "La Bacopa Caroliniana es originaria del sureste de EE.UU. Sus hojas son notablemente más grandes que B. monnieri. Con buena luz desarrolla tonos verde intenso a bronceado. Curiosidad: las hojas emiten aroma a limón al frotarlas. Más exigente que B. monnieri.",
+  "origin": {
+    "region": "América del Norte (sureste de EE.UU.)",
+    "countries": [
+      "EE.UU."
+    ],
+    "basin": "Zonas pantanosas y bordes de agua del sureste de EE.UU.",
+    "habitat": "Semisumergida en marismas y orillas de ríos.",
+    "wild_params": "pH 6.0–8.0, GH 3–18, temperatura 18–28 °C."
+  },
+  "max_size_cm": 40,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": false,
+  "fertilizer": "Fertilizante líquido completo semanal. CO₂ mejora el crecimiento.",
+  "uses": "Planta de tallo para fondo medio. Hojas grandes redondeadas aromáticas.",
+  "propagation": "Esquejes del tallo.",
+  "substrate": [
+    "Arena",
+    "Grava",
+    "Sustrato nutritivo"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Media",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Algo menos común que B. monnieri. Aroma a limón al frotar las hojas.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Tallo erecto similar a B. monnieri pero con hojas algo más grandes. Olor a limón al frotar.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con todas las plantas de tallo de requerimientos medios.",
+  "co2_detail": "No necesario pero mejora la densidad."
+}

@@ -1,0 +1,46 @@
+{
+  "description": "El Loro o Blood Parrot es un cíclido híbrido creado artificialmente en Taiwán en los años 80, cruce entre Amphilophus citrinellus y A. synspilum. Su cuerpo redondeado, boca en forma de V y coloración naranja-roja intensa lo hacen inconfundible. Especie controversial por las deformidades que acarrea su crianza.",
+  "origin": {
+    "region": "Asia (crianza artificial)",
+    "countries": [
+      "Taiwán"
+    ],
+    "basin": "Especie de acuario — no existe en la naturaleza",
+    "habitat": "Acuarios con cuevas y refugios amplios.",
+    "wild_params": "Adaptado a parámetros tropicales estándar."
+  },
+  "max_size_cm": 25,
+  "lifespan_years": "10–15",
+  "nitrate_max": 20,
+  "feeding_detail": "Omnívoro. Pellets de cíclido de tamaño medio, gusanos de sangre, camarones y verduras. La boca deformada en V dificulta comer alimento muy grande.",
+  "behavior": "Semi-agresivo y territorial pero menos agresivo que otros cíclidos grandes. Reconoce a su dueño y reacciona a su presencia. Puede cambiar de color por estrés o enfermedad.",
+  "sexing": "Prácticamente imposible con certeza — la hibridación altera los caracteres sexuales secundarios. Los machos suelen ser algo más grandes.",
+  "reproduction": "Pone huevos con frecuencia pero los machos son estériles en la mayoría de casos — resultado directo de la hibridación. La hembra cuida los huevos aunque no eclosionen jamás.",
+  "filtration": "Filtro externo potente (4–5x el volumen/hora). Cíclido de tamaño medio con producción moderada de residuos. Cambios del 25% semanales.",
+  "water_changes": "25% semanal",
+  "substrate": [
+    "Arena fina",
+    "Grava media"
+  ],
+  "substrate_detail": "Arena fina o grava pequeña. Cuevas y refugios de tamaño grande obligatorios — su boca deformada lo hace más vulnerable y ansioso sin refugio.",
+  "plants": "Tolerante",
+  "plant_detail": "Puede arrancar plantas blandas. Usar Anubias y Java Fern ancladas a roca.",
+  "light": "Media",
+  "light_detail": "8–10 h/día. La iluminación no es determinante. El naranja-rojo se intensifica con dieta rica en carotenoides.",
+  "compatibility_notes": "Semi-agresivo. Compatible con cíclidos medianos no muy agresivos, Tetras grandes y Corydoras grandes. La boca deformada le impide morder con eficacia real.",
+  "diseases": [
+    {
+      "symptom": "Decoloración a blanco o negro",
+      "cause": "Estrés, mala calidad del agua o enfermedad",
+      "solution": "Cambio de agua 30%. Revisar parámetros. El color puede tardar días en recuperarse."
+    },
+    {
+      "symptom": "Manchas blancas en cuerpo",
+      "cause": "Ich (Ichthyophthirius)",
+      "solution": "Elevar temperatura a 30°C. Tratamiento con medicamento anti-ich sin cobre."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Especie de crianza artificial muy popular. Evitar ejemplares teñidos artificialmente con inyecciones de colorante.",
+  "important_notes": "Especie 100% artificial — no existe en la naturaleza. La boca en V es una deformidad que le dificulta comer. Los colores muy intensos pueden ser producto de tintes artificiales."
+}

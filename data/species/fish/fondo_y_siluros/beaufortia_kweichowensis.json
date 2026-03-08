@@ -1,0 +1,66 @@
+{
+  "order": "Cypriniformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    6,
+    8
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 3,
+  "origin": {
+    "region": "Asia Oriental (China meridional — Guizhou, Guangxi)",
+    "countries": [
+      "China"
+    ],
+    "basin": "Ríos de montaña de la provincia de Guizhou y Guangxi, China meridional",
+    "habitat": "Ríos de corriente muy rápida sobre rocas con algas, agua fría y muy oxigenada.",
+    "wild_params": "pH 6.5–7.8, GH 6–15, temperatura 18–24 °C."
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Grava y roca con superficie lisa cubierta de algas — se adhiere a estas superficies. Arena fina entre las rocas para descansar. Sin grava con bordes cortantes.",
+  "lighting": "Moderada",
+  "description": "El Pez Mariposa (Beaufortia kweichowensis) es originario de los ríos de montaña de China meridional. Su cuerpo completamente aplanado dorsoventralmente y sus aletas pectorales y ventrales extendidas le dan la forma de una manta ray en miniatura. Vive adherido a las rocas en ríos de corriente fuerte y agua muy oxigenada y fría. La corriente potente es OBLIGATORIA.",
+  "behavior": "Se adhiere a superficies lisas con su boca tipo ventosa. Raspa algas de piedras. Territorial con sus congéneres — grupos de 3+ o solo 1. Muy activo buscando alimento.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Letargia o muerte",
+      "cause": "Temperatura alta (>25°C) o falta de oxígeno",
+      "solution": "Temperatura máxima 24°C. Corriente fuerte obligatoria."
+    },
+    {
+      "symptom": "Ich",
+      "cause": "Temperatura alta",
+      "solution": "Bajar temperatura. Anti-ich."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "variants": [
+    "Beaufortia kweichowensis — cuerpo aplanado dorsoventralmente, patrón marmolado",
+    "Sewellia lineolata — cuerpo más redondeado con rayas (vendida como hillstream)"
+  ],
+  "max_size_cm": 7,
+  "lifespan_years": "5–8",
+  "feeding_detail": "Herbívoro. Raspa algas del vidrio y decoración. Suplementar con verduras y tabletas de espirulina.",
+  "recommended_school": 3,
+  "level": "Intermedio",
+  "plants": "Muy recomendadas",
+  "plant_detail": "Compatible. Prefiere superficies duras con algas.",
+  "light": "Moderada-Alta",
+  "light_detail": "10 h/día, intensidad media-alta. La luz estimula el crecimiento de algas blandas en las rocas que son su principal alimento. Sin luz suficiente las algas desaparecen.",
+  "filtration": "Filtro de alto caudal — simular río de montaña rápido. Mínimo 10–15x el volumen por hora. Sin corriente fuerte no sobrevive. Agua bien oxigenada y fresca (18–24°C).",
+  "water_changes": "20–25% semanal",
+  "sexing": "Machos adultos con espinas dérmicas más pronunciadas en la cabeza y mejillas, visibles con lupa. Las hembras son ligeramente más redondeadas.",
+  "reproduction": "Ovíparo de freza entre rocas. Muy difícil en acuario doméstico — la fuerte corriente y temperatura fresca son difíciles de mantener.",
+  "compatibility_notes": "Completamente pacífico con otras especies. Territorial con sus propios congéneres — 1 por acuario o grupos de 3+ para dispersar la agresividad. Incompatible con agua cálida o sin corriente.",
+  "iucn": "No evaluado",
+  "market_notes": "Corriente fuerte y temperatura fresca OBLIGATORIAS. Muere en agua caliente.",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

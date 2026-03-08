@@ -1,0 +1,67 @@
+{
+  "order": "Cichliformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    15,
+    17
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 2,
+  "origin": {
+    "region": "América Central (México — Yucatán, Guatemala, Belice)",
+    "countries": [
+      "México",
+      "Guatemala",
+      "Belice"
+    ],
+    "basin": "Ríos de la Península de Yucatán, incluyendo el sistema del río Usumacinta",
+    "habitat": "Aguas calcáreas alcalinas sobre fondo rocoso y arenoso.",
+    "wild_params": "pH 7.0–8.5, GH 8–25, temperatura 22–28 °C."
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena gruesa o grava media con cuevas de roca o cerámica para desovar. El Firemouth excava ligeramente — decoración anclada.",
+  "lighting": "Moderada",
+  "description": "El Cíclido Boca de Fuego (Thorichthys meeki) es originario de la Península de Yucatán en México y Guatemala. Su nombre alude al vientre y garganta de color rojo-naranja intenso que infla para intimidar a los rivales o predadores. Es uno de los cíclidos centroamericanos más populares por su manageable temperamento y su espectacular exhibición de amenaza.",
+  "behavior": "Territorial en reproducción pero relativamente manejable. El macho infla el vientre rojo para intimidar — raramente ataca si el rival cede. Excava moderadamente.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Ich",
+      "cause": "Temperatura baja",
+      "solution": "Anti-ich. Elevar temperatura a 28°C."
+    },
+    {
+      "symptom": "Úlceras en la boca",
+      "cause": "Bacterias por peleas",
+      "solution": "Antibiótico. Separar los ejemplares en conflicto."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "reproduction": "Ovíparo con cuidado biparental. La pareja limpia una superficie plana (roca, hoja). Puesta de 100–500 huevos. Los padres muestran la boca roja como señal de defensa del territorio durante la cría.",
+  "variants": [
+    "Thorichthys meeki — vientre rojo-naranja intenso, mancha negra en opérculo"
+  ],
+  "max_size_cm": 15,
+  "lifespan_years": "8–10",
+  "feeding_detail": "Omnívoro. Gránulos de cíclidos, gusanos de sangre, artemia, vegetales. 2 veces al día.",
+  "recommended_school": 1,
+  "level": "Intermedio",
+  "plants": "Parcialmente compatible",
+  "plant_detail": "Excava y puede arrancar plantas. Anubias resistente.",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día, intensidad media. La iluminación normal resalta bien el rojo del vientre. Sin preferencias especiales.",
+  "filtration": "Filtro externo moderado-potente (4x el volumen/hora). Agua ligeramente dura y alcalina (pH 7.0–8.5) — diferente a la mayoría de cíclidos sudamericanos.",
+  "water_changes": "25% semanal",
+  "sexing": "Machos con vientre más rojo y extenso, aleta dorsal con punta más alargada. Hembras más pequeñas y con el rojo del vientre menos intenso y menos extenso.",
+  "compatibility_notes": "Territorial en reproducción pero relativamente pacífico fuera de ella. Compatible con cíclidos centroamericanos medianos. En pecera comunal mantener distancia visual entre territorios.",
+  "iucn": "No evaluado",
+  "market_notes": "Exhibe el vientre rojo inflado para intimidar — comportamiento muy llamativo.",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

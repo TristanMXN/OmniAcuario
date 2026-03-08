@@ -1,0 +1,65 @@
+{
+  "order": "Cichliformes",
+  "class": "Actinopterygii",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "max_size_cm": 12,
+  "lifespan_years": "8–12",
+  "variants": [
+    "Maylandia zebra — azul uniforme con rayas verticales negras oscuras (BB = Blue/Black)",
+    "Maylandia zebra var. OB — mosaico naranja y negro (mayoritariamente hembras)",
+    "Maylandia zebra var. Red Dorsal — dorsal con borde rojo",
+    "Nota: el nombre científico ha cambiado de Pseudotropheus zebra a Maylandia zebra"
+  ],
+  "description": "El Cíclido Cebra Azul (Maylandia zebra) es originario del Lago Malawi (África Oriental), donde habita las zonas rocosas poco profundas. Es uno de los mbunas más conocidos y populares. Raspa algas (aufwuchs) de las rocas con sus dientes especializados. Muy polimórfico — existe en docenas de morfos de color según localidad. El polimorfismo OB (naranja moteado) es casi exclusivo de hembras y es resultado de selección sexual.",
+  "origin": {
+    "region": "África Oriental — Lago Malawi",
+    "countries": [
+      "Malawi",
+      "Tanzania",
+      "Mozambique"
+    ],
+    "basin": "Lago Malawi (el 9º lago más grande del mundo)",
+    "habitat": "Zona litoral rocosa a 3–15m de profundidad. Aguas duras, alcalinas y muy transparentes.",
+    "wild_params": "pH 7.8–8.8, GH 12–20, KH 5–15, temperatura 24–28 °C."
+  },
+  "behavior": "Muy agresivo y territorial, especialmente entre machos del mismo morfo. Los machos defienden cuevas y zonas rocosas activamente. Las hembras incuban los huevos en la boca. Alta agresividad intraespecífica — sistema de harén con 1 macho y varias hembras.",
+  "feeding_detail": "Herbívoro estricto (aufwuchs). Gránulos con espirulina (mínimo 40% vegetal), verduras blanqueadas (espinaca, calabacín). Evitar alimento con alto contenido proteico animal — causa 'Malawi Bloat' (enfermedad mortal).",
+  "recommended_school": 1,
+  "level": "Fondo / Zona media",
+  "substrate": [
+    "Arena fina",
+    "Grava gruesa"
+  ],
+  "substrate_detail": "Arena de lago Malawi o aragonita. Fondo arenoso entre rocas para excavar. Sin plantas — las destroza.",
+  "plants": "Incompatible",
+  "plant_detail": "El agua alcalina y dura del Lago Malawi es incompatible con la mayoría de plantas de acuario. Solo plantas muy duras tipo Vallisnerias en casos excepcionales.",
+  "light": "Moderada-Alta",
+  "light_detail": "10–12 h/día, intensidad alta. El lago Malawi es muy soleado — la buena iluminación favorece el crecimiento de algas que come.",
+  "filtration": "Filtro externo muy potente — mínimo 4–6x el volumen. Alta carga de peces y pH alcalino requieren gran superficie filtrante.",
+  "water_changes": "25–30% semanal. Mantener pH alcalino con roca calcárea o buffer.",
+  "sexing": "Ambos sexos lucen muy similares en juveniles. Machos adultos con manchas en la aleta anal (ocelos) que simulan huevos para atraer a la hembra.",
+  "reproduction": "Incubadora bucal — la hembra recoge los huevos en la boca y los incuba 3 semanas sin comer. Las crías salen completamente formadas.",
+  "compatibility_notes": "Solo con otros mbunas robustos de tamaño similar. Incompatible con peces suaves o más pequeños. Sobrepoblar reduce agresividad intraespecífica.",
+  "diseases": [
+    {
+      "symptom": "Hinchazón abdominal repentina (Malawi Bloat)",
+      "cause": "Exceso de proteína animal o bacteria (Hexamita)",
+      "solution": "Metronidazol urgente. Dieta 100% vegetal. La mortalidad es alta si no se trata inmediatamente."
+    },
+    {
+      "symptom": "Perforación de la cabeza (HLLE)",
+      "cause": "Deficiencia nutricional o Hexamita crónica",
+      "solution": "Mejorar dieta con vitaminas. Metronidazol preventivo."
+    },
+    {
+      "symptom": "Decoloración y letargia",
+      "cause": "pH bajo o estrés por incompatibilidades",
+      "solution": "Verificar pH (mínimo 7.8). Revisar composición del acuario."
+    }
+  ],
+  "iucn": "Preocupación menor (LC) — abundante en Lago Malawi",
+  "market_notes": "Uno de los mbunas más disponibles. Verificar morfo — cada localidad tiene patrón diferente. Nunca mezclar con cíclidos de Tanganika o Sudamérica.",
+  "important_notes": "El nombre 'Zebra Mbuna' agrupa varias especies similares del lago Malawi. La dieta debe ser estrictamente herbívora — la proteína animal causa el temido 'Malawi Bloat'."
+}

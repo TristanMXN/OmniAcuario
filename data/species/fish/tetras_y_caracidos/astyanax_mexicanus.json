@@ -1,0 +1,60 @@
+{
+  "variants": [
+    "Tetra Ciego de Caverna"
+  ],
+  "description": "Tetra Ciego de Caverna (Astyanax mexicanus) es una especie de acuario fácil de cuidar, originaria de América Central. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 9 cm en cautiverio.",
+  "origin": {
+    "region": "América Central (México — Sierra del Abra, San Luis Potosí)",
+    "countries": [
+      "México"
+    ],
+    "basin": "Cuencas hidrográficas de América Central.",
+    "habitat": "Aguas dulces de América Central con temperatura 18–25°C, pH 6.5–8.0.",
+    "wild_params": "pH 6.5–8.0, GH 5–20, temperatura 18–25 °C."
+  },
+  "max_size_cm": 9,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "En acuario: escamas/gránulos de calidad, artemia congelada, dafnia, gusanos de sangre, tubifex. Alimentar 2 veces al día en pequeñas cantidades.",
+  "behavior": "Mantener en grupos de mínimo 4 ejemplares. Especie pacífico que habita el estrato medio-bajo del acuario.",
+  "recommended_school": 4,
+  "level": "Medio",
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena fina o sin sustrato. Los ojos vestigiales no le dan ventaja en ningún tipo de fondo — navega por sensores laterales.",
+  "plants": "Recomendadas",
+  "plant_detail": "La vegetación densa reduce el estrés y ofrece refugio.",
+  "light": "Media",
+  "light_detail": "Cualquier intensidad — completamente ciego, la luz no afecta su comportamiento. Se puede mantener incluso sin luz.",
+  "filtration": "Filtro de esponja o externo moderado. Especie robusta que tolera variaciones de parámetros.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Hembras más redondeadas en el vientre. Extremadamente difícil de sexar — especie sin dimorfismo externo claro.",
+  "reproduction": "Ovíparo de freza libre. Puede reproducirse en acuario pero los huevos son canibalizado — retirar adultos.",
+  "compatibility_notes": "Compatible con peces de temperamento similar. Su incapacidad de ver puede hacerlo vulnerable a agresores. Semi-agresivo con peces lentos.",
+  "diseases": [
+    {
+      "symptom": "Decoloración, cuerpo blancuzco progresivo",
+      "cause": "Microsporidio Pleistophora (Enfermedad del Tetra Neón)",
+      "solution": "Sin cura. Aislar inmediatamente. No hay tratamiento efectivo conocido."
+    },
+    {
+      "symptom": "Puntos blancos como sal",
+      "cause": "Ich (Ichthyophthirius multifiliis)",
+      "solution": "Elevar temperatura a 28-30°C 10 días. Anti-ich comercial. Cambios 25% diarios."
+    },
+    {
+      "symptom": "Abdomen hinchado, heces blancas",
+      "cause": "Parasitosis intestinal (Hexamita)",
+      "solution": "Metronidazol 400mg/100L durante 3 días con recambios parciales."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Única en el hobby por su ceguera total. No requiere luz — ideal para cuevas decorativas.",
+  "order": "Characiformes",
+  "class": "Actinopterygii",
+  "important_notes": "Los ejemplares criados en acuario recuperan parcialmente la visión tras varias generaciones — demostrando que la ceguera es un rasgo adaptativo reversible, no fijo."
+}

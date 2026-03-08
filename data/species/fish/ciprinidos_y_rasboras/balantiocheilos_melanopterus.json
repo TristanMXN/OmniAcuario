@@ -1,0 +1,52 @@
+{
+  "variants": [
+    "Balantiocheilos melanopterus — plateado brillante, aletas con borde negro y blanco"
+  ],
+  "description": "El Tiburón de Aleta Plateada (Balantiocheilos melanopterus) es originario del SE asiático, de Tailandia a Borneo. Su aspecto de tiburón (cuerpo plateado fusiforme con aletas negras bordeadas de blanco) le da su nombre popular. Es un pez de cardumen que necesita mucho espacio — crece hasta 35cm. Frecuentemente vendido a 5cm sin informar del tamaño adulto.",
+  "origin": {
+    "region": "Asia (SE Asia — Tailandia, Malasia, Indonesia, Borneo)",
+    "countries": [
+      "Tailandia",
+      "Malasia",
+      "Indonesia"
+    ],
+    "basin": "Ríos Chao Phraya, Mekong, Mahakam y sistemas fluviales de Borneo y Sumatra",
+    "habitat": "Ríos grandes y rápidos de agua clara. Especie de aguas medias.",
+    "wild_params": "pH 6.5–8.0, GH 5–15, temperatura 22–28 °C."
+  },
+  "max_size_cm": 35,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Omnívoro. Gránulos de calidad, artemia, verduras. 2 veces al día.",
+  "behavior": "Cardumen de mínimo 5. Asustadizo — salta al estresarse. Crece mucho.",
+  "recommended_school": 5,
+  "level": "Intermedio",
+  "substrate": [
+    "Grava",
+    "Arena"
+  ],
+  "substrate_detail": "Arena fina o grava. Sin preferencias especiales de sustrato. Acuario muy largo (mínimo 150cm) con zona de nado abierta amplia — especie muy veloz.",
+  "plants": "Recomendadas",
+  "plant_detail": "Compatible con plantas robustas.",
+  "light": "Media",
+  "light_detail": "8–10 h/día, intensidad media. Tolera bien variaciones de iluminación — especie robusta y adaptable.",
+  "filtration": "Filtro externo potente. Especie que crece hasta 35cm — produce residuos considerables en adultos. Buena oxigenación.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Prácticamente imposible externamente. Las hembras pueden ser algo más voluminosas en el abdomen cuando llenas de huevos.",
+  "reproduction": "No se ha reproducido con éxito en cautiverio doméstico. En su hábitat natural, migra río arriba para desovar.",
+  "compatibility_notes": "Pacífico pero su tamaño adulto (35cm) y velocidad puede aterrorizar peces pequeños. Necesita acuario de 500L+ en adultos. Come peces < 5cm. Cardumen de 5+ obligatorio.",
+  "diseases": [
+    {
+      "symptom": "Ich",
+      "cause": "Estrés o temperatura baja",
+      "solution": "Anti-ich."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Se vende pequeño pero crece hasta 35cm. Necesita acuario muy grande.",
+  "order": "Cypriniformes",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

@@ -1,0 +1,80 @@
+{
+  "variants": [
+    "Hydrocotyle leucocephala — hojas redondas lobuladas verde claro brillante"
+  ],
+  "description": "La Hydrocotyle Leucocephala es originaria de América Central y del Sur. Sus hojas redondas y brillantes son muy decorativas. Puede cultivarse plantada en sustrato o flotante. Crecimiento muy rápido — excelente filtradora de nitratos. Algo menos invasiva que H. verticillata.",
+  "origin": {
+    "region": "América Central y del Sur",
+    "countries": [
+      "Brasil",
+      "Argentina",
+      "Paraguay",
+      "México"
+    ],
+    "basin": "Ríos, lagunas y zonas pantanosas de América Central y del Sur",
+    "habitat": "Flotante o semisumergida en bordes de ríos cálidos.",
+    "wild_params": "pH 6.0–7.5, GH 3–15, temperatura 20–28 °C."
+  },
+  "max_size_cm": 50,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": false,
+  "fertilizer": "Fertilizante líquido completo.",
+  "uses": "Planta de tallo o flotante. Hojas redondas características. Crecimiento muy rápido.",
+  "propagation": "Esquejes del tallo.",
+  "substrate": [
+    "Arena",
+    "Grava",
+    "Sustrato nutritivo"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Media",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Disponible. Crecimiento muy rápido — puede invadir el acuario.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Tallo flotante o semisumergido con hojas redondas. Crecimiento rápido y colonizador.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Puede dominar el espacio rápidamente. Controlar para no sombrear otras plantas.",
+  "co2_detail": "No necesario."
+}

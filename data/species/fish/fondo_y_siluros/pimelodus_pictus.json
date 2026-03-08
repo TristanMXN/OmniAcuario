@@ -1,0 +1,52 @@
+{
+  "variants": [
+    "Pimelodus pictus — blanco plateado con puntos negros, barbillas muy largas"
+  ],
+  "description": "El Bagre Pictus (Pimelodus pictus) es originario de la cuenca del Amazonas y Orinoco. Su cuerpo blanco-plateado cubierto de puntos negros y sus barbillas extraordinariamente largas (pueden ser más largas que el cuerpo) lo hacen inconfundible. Las barbillas contienen quimiorreceptores que detectan el alimento en la oscuridad. Activo de noche y come peces pequeños.",
+  "origin": {
+    "region": "América del Sur (Brasil, Colombia, Perú, Venezuela)",
+    "countries": [
+      "Brasil",
+      "Colombia",
+      "Perú",
+      "Venezuela"
+    ],
+    "basin": "Cuencas del Amazonas y Orinoco, incluyendo el río Meta",
+    "habitat": "Aguas claras y negras de corriente moderada sobre fondos arenosos.",
+    "wild_params": "pH 5.5–7.5, GH 2–15, temperatura 22–27 °C."
+  },
+  "max_size_cm": 12,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Carnívoro. Gránulos de fondo, gusanos, artemia, peces pequeños ocasionalmente.",
+  "behavior": "Activo y veloz. Nocturno. Las barbillas largas detectan el alimento. Cardumen de 4+.",
+  "recommended_school": 4,
+  "level": "Intermedio",
+  "substrate": [
+    "Arena fina"
+  ],
+  "substrate_detail": "Arena fina OBLIGATORIA — las barbillas muy largas del Pictus rozan constantemente el sustrato. La grava áspero las daña e infecta.",
+  "plants": "Recomendadas",
+  "plant_detail": "Compatible con plantas robustas.",
+  "light": "Media",
+  "light_detail": "8–10 h/día, intensidad media. Especie activa de noche — pocas observaciones durante el día. Refugios oscuros durante el día.",
+  "filtration": "Filtro externo potente. Produce residuos moderados. Las barbillas extra-largas pueden engancharse en los filtros — cubrir las entradas.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Prácticamente imposible externamente. Las hembras pueden ser algo más gordas en el abdomen.",
+  "reproduction": "No se ha reproducido con éxito en cautiverio doméstico. Requiere condiciones de río amazónico difíciles de reproducir.",
+  "compatibility_notes": "Come peces pequeños que quepan en su boca — incompatible con Tetras < 5cm. Compatible con peces medianos robustos. Las barbillas muy largas lo hacen vulnerable en acuarios con grava.",
+  "diseases": [
+    {
+      "symptom": "Ich",
+      "cause": "Temperatura baja",
+      "solution": "Anti-ich."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Las barbillas largas son sensores del alimento. Arena fina obligatoria.",
+  "order": "Siluriformes",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

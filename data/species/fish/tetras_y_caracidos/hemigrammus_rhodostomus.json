@@ -1,0 +1,66 @@
+{
+  "order": "Characiformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    5,
+    10
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 1,
+  "origin": {
+    "region": "América del Sur (Amazonas, Brasil)",
+    "countries": [
+      "Brasil"
+    ],
+    "basin": "Cuenca del río Amazonas, principalmente río Negro y afluentes",
+    "habitat": "Aguas negras ácidas y cálidas con hojas en descomposición y poca luz.",
+    "wild_params": "pH 4.5–6.5, GH 0–8, temperatura 24–28 °C."
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena fina oscura o sustrato plantado. Hojas de catappa en el fondo replican las aguas negras del Amazonas y potencian el rojo de la cabeza.",
+  "lighting": "Moderada",
+  "description": "El Tetra Nariz Roja (Hemigrammus rhodostomus) es originario de la cuenca del río Amazonas en Brasil. Su característica más llamativa es la cabeza completamente roja que contrasta con el cuerpo plateado y la aleta caudal con rayas negras y blancas. Es uno de los indicadores de calidad de agua más fiables del hobby — cuando el rojo de la cabeza palidece, algo va mal.",
+  "behavior": "Cardumen muy cohesionado — nadan en perfecta sincronía. Mínimo 10 individuos para comportamiento natural. Zona media del acuario. El rojo de la cabeza es barómetro de salud.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Cabeza que palidece",
+      "cause": "Estrés, pH alto o parámetros incorrectos",
+      "solution": "Verificar pH (máx 7.0), temperatura y nitratos. Agua blanda ácida obligatoria."
+    },
+    {
+      "symptom": "Ich (puntos blancos)",
+      "cause": "Bajada de temperatura o estrés",
+      "solution": "Elevar temperatura a 28°C. Anti-ich a media dosis."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "variants": [
+    "Hemigrammus rhodostomus — cabeza roja hasta el opérculo, franja negra en caudal",
+    "Hemigrammus bleheri — el rojo llega atrás del opérculo (a veces vendido igual)"
+  ],
+  "max_size_cm": 5,
+  "lifespan_years": "5–6",
+  "feeding_detail": "Escamas y micro-gránulos, artemia y dafnia congelada. 2 veces al día.",
+  "recommended_school": 10,
+  "level": "Medio",
+  "plants": "Muy recomendadas",
+  "plant_detail": "Acuario plantado con zonas oscuras. Hojas de catappa.",
+  "light": "Tenue",
+  "light_detail": "6–8 h/día, luz tenue o difusa. El dosel forestal del Amazonas filtra la luz — en acuario replicar con plantas flotantes.",
+  "filtration": "Filtro de esponja o externo con salida difusa. Sin corriente directa. El rojo de la cabeza palidece con nitratos > 15 ppm.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Hembras notablemente más redondeadas en el vientre vistas desde arriba, especialmente llenas de huevos. Machos más esbeltos.",
+  "reproduction": "Ovíparo de freza libre en agua muy blanda (GH 0–4) y ácida (pH 5.5–6.5). Oscuridad total 24h antes. Separar adultos tras la puesta — los devoran inmediatamente.",
+  "compatibility_notes": "Compatible con Tetras pequeños, Corydoras, Otocinclus, Rasboras nano y Apistogramma. Incompatible con peces > 8 cm que los cachen y con agua alcalina (pH > 7.2).",
+  "iucn": "No evaluado",
+  "market_notes": "Muy popular. Sensible al transporte.",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

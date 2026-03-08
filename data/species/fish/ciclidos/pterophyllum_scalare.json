@@ -1,0 +1,77 @@
+{
+  "order": "Cichliformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    5,
+    10
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 1,
+  "origin": {
+    "region": "Sudamérica",
+    "countries": [
+      "Brasil",
+      "Colombia",
+      "Perú",
+      "Ecuador"
+    ],
+    "basin": "Amazónico — río Amazonas, Tapajós, Essequibo, Orinoco",
+    "habitat": "Ríos de corriente lenta, zonas de inundación con vegetación emergente densa, profundidades de 1–3 m",
+    "wild_params": "pH 6.0–7.5, GH 3–15, temperatura 24–30 °C"
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava fina"
+  ],
+  "substrate_detail": "Sustrato fino oscuro. Plantas de hoja larga vertical (Vallisneria, Amazon Sword) replican el hábitat natural y son superficie de freza.",
+  "lighting": "Moderada",
+  "description": "El Escalar (Pterophyllum scalare) es originario de la cuenca del Amazonas y sus afluentes en Brasil, Colombia y Perú. Su cuerpo triangular comprimido y las aletas muy elongadas dorsales, ventrales y caudales son inconfundibles. Existen numerosas variedades de color: mármol, negro, dorado, leopardo, koi, velo, entre otras. Posiblemente el cíclido más vendido en la historia del hobby.",
+  "behavior": "Semi-agresivo en pareja reproductiva. Los juveniles en grupo son pacíficos. Los adultos establecen jerarquía y defienden zona de desove. Puede comer tetras pequeños (Neon, Cardinal) con los que haya convivido desde pequeño.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Hoyos en la cabeza, heces blanquecinas",
+      "cause": "Hexamita / HITH",
+      "solution": "Metronidazol 400 mg/100 L. Mejorar dieta y calidad del agua."
+    },
+    {
+      "symptom": "Aletas descompuestas con bordes blancos",
+      "cause": "Columnaris bacteriana / Pudrición de aletas",
+      "solution": "Antibiótico (Kanamicina o Eritromicina). Agua limpia. Sal 1 g/L."
+    },
+    {
+      "symptom": "Puntos blancos tipo sal",
+      "cause": "Ich",
+      "solution": "Temperatura a 28–30 °C. Anti-ich. Cambios de agua diarios."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "max_size_cm": 15,
+  "lifespan_years": "8–12",
+  "feeding_detail": "Omnívoro. Acepta gránulos de cíclido, escamas, artemia congelada, gusanos de sangre, gambas. Los adultos pueden rechazar escamas — preferir gránulos de calidad. 2 veces al día. Los Escalares comen tetras pequeños — tener en cuenta.",
+  "recommended_school": 5,
+  "level": "Fácil–Medio",
+  "plants": "Recomendadas",
+  "plant_detail": "Plantas de hoja ancha como Echinodorus y Vallisneria imitan el hábitat natural y son usadas para desovar.",
+  "light": "Media",
+  "light_detail": "8–10 h/día, intensidad media. Evitar cambios bruscos de iluminación — provoca comportamiento errático y estrés.",
+  "filtration": "Filtro externo con caudal moderado. El Escalar no tolera corrientes fuertes — reduce la aleta dorsal como indicador de estrés.",
+  "water_changes": "25% semanal",
+  "sexing": "Difícil fuera de la reproducción. Machos con frente más pronunciada. En época reproductiva, el tubo genital del macho es puntiagudo y el de la hembra redondeado.",
+  "reproduction": "Ovíparo con cuidado biparental. La pareja limpia una hoja larga o superficie vertical y deposita 200–1.000 huevos en filas. Cuidan los huevos y abanican constantemente. Primera puesta: frecuentemente la comen.",
+  "compatibility_notes": "Compatible con Tetras grandes (Congo, Buenos Aires), Corydoras, Gurami de perla. Incompatible con Neon y Cardinal Tetra (los caza de noche), Betta y Barbo Tigre.",
+  "iucn": "Preocupación menor (LC)",
+  "market_notes": "Disponible en todas las tiendas. Las variedades velo y koi son más sensibles.",
+  "class": "Actinopterygii",
+  "variants": [
+    "Pterophyllum scalare var. Mármol — fondo plateado con manchas negras irregulares",
+    "Pterophyllum scalare var. Cebra — barras verticales negras muy definidas",
+    "Pterophyllum scalare var. Negro — pigmentación negra completa o semiplena",
+    "Pterophyllum scalare var. Gold — fondo amarillo-dorado sin barras",
+    "Pterophyllum scalare var. Koi — blanco, naranja y negro tipo carpa koi"
+  ],
+  "important_notes": "El Escalar no soporta la corriente fuerte ni los cambios bruscos de temperatura. Una pareja establecida defiende su territorio agresivamente durante la reproducción."
+}

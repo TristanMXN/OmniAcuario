@@ -1,0 +1,81 @@
+{
+  "variants": [
+    "Ceratopteris thalictroides — hojas finamente divididas, verde brillante"
+  ],
+  "description": "El Helecho de Sumatra (Ceratopteris thalictroides) es pantropical. Helecho acuático que puede crecer plantado o flotante. Crecimiento muy rápido. Las hojas viejas producen plantlets de forma espontánea. Excelente refugio para crías y camarones.",
+  "origin": {
+    "region": "Pantropical (Asia, África, América)",
+    "countries": [
+      "India",
+      "Tailandia",
+      "Indonesia",
+      "África tropical",
+      "América tropical"
+    ],
+    "basin": "Pantropical — India, SE Asia, África tropical, América tropical",
+    "habitat": "Flotante o plantada en aguas cálidas con luz moderada.",
+    "wild_params": "pH 5.5–7.5, GH 2–15, temperatura 20–30 °C."
+  },
+  "max_size_cm": 40,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": false,
+  "fertilizer": "Fertilizante líquido básico. Absorbe nutrientes del agua.",
+  "uses": "Planta de fondo medio o flotante. Crecimiento rápido. Refugio para crías.",
+  "propagation": "Plantlets en las hojas viejas. Puede cultivarse flotante o plantada.",
+  "substrate": [
+    "Arena",
+    "Grava",
+    "Sustrato nutritivo"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Media",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Muy versátil — puede crecer flotante o plantada. Crecimiento rápido.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Puede crecer flotante o plantada — versatilidad única. Las raíces flotantes son refugio para crías.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con todo. Si flota compite con otras flotantes por superficie.",
+  "co2_detail": "No necesario."
+}

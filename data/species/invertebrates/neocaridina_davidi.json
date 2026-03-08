@@ -1,0 +1,68 @@
+{
+  "variants": [
+    "Neocaridina davidi var. Red Cherry — rojo básico, la forma más común",
+    "Neocaridina davidi var. Sakura — rojo más intenso y uniforme",
+    "Neocaridina davidi var. Fire Red — rojo opaco sin transparencia",
+    "Neocaridina davidi var. Bloody Mary — rojo oscuro casi granate",
+    "Neocaridina davidi var. Blue Velvet — azul profundo",
+    "Neocaridina davidi var. Yellow Neon — amarillo limón brillante",
+    "Neocaridina davidi var. Orange — naranja vivo",
+    "Neocaridina davidi var. Snowball — blanco opaco",
+    "⚠️ No mezclar colores distintos — los híbridos revierten al color silvestre marrón-oliváceo"
+  ],
+  "description": "La Gamba Cherry (Neocaridina davidi) es originaria de Taiwán, donde habita en pequeños arroyos y canales de agua dulce bajo vegetación densa. Es el camarón ornamental más popular del mundo. La forma silvestre es marrón-olivácea; las múltiples variedades de color (rojo, azul, amarillo, naranja, blanco) son resultado de selección en cautiverio. Especie muy tolerante y prolífica, ideal para principiantes.",
+  "origin": {
+    "region": "Asia (Taiwán)",
+    "countries": [
+      "Taiwán"
+    ],
+    "basin": "Arroyos y canales de baja altitud",
+    "habitat": "Aguas limpias de corriente lenta bajo vegetación densa.",
+    "wild_params": "pH 6.5–7.5, GH 6–15, temperatura 18–26 °C."
+  },
+  "max_size_cm": 3,
+  "lifespan_years": "1–2",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Biofilm, algas blandas, hojas en descomposición. Suplementar con tabletas de espirulina, verduras blanqueadas (espinaca, calabacín) y alimento específico para camarones.",
+  "behavior": "Activa durante el día. Rastrea todas las superficies en busca de biofilm y algas. Las hembras 'berried' (con huevos) se vuelven discretas y buscan refugio. Compatible con peces muy pequeños y pacíficos.",
+  "recommended_school": 5,
+  "level": "Fondo / Todas las zonas",
+  "substrate": [
+    "Arena fina oscura",
+    "Sustrato neutro inerte"
+  ],
+  "substrate_detail": "Sustrato oscuro realza la coloración. Musgos (Java moss, musgos de piedra) son esenciales para el biofilm.",
+  "plants": "Muy recomendadas",
+  "plant_detail": "Musgo, Anubias, Java fern. Las plantas generan el biofilm que constituye su dieta principal.",
+  "light": "Baja-Media",
+  "light_detail": "6–8 h/día para estimular crecimiento de biofilm.",
+  "filtration": "Filtración suave (esponja). NUNCA filtros de cascada sin protección — aspiran las crías.",
+  "water_changes": "10–15% semanal con agua envejecida",
+  "sexing": "Hembras más grandes (3cm), color más intenso y silla de montar visible en el dorso. Machos más pequeños y pálidos.",
+  "reproduction": "Muy fácil. La hembra lleva 20–40 huevos bajo el abdomen durante 3–4 semanas. Las crías son miniaturas perfectas, no requieren cuidados especiales.",
+  "compatibility_notes": "Compatible con peces nano pacíficos (Ember tetra, Otocinclus, Corydoras pygmaeus). Incompatible con peces que los coman (casi cualquier pez >5cm).",
+  "diseases": [
+    {
+      "symptom": "Muerte súbita en masa",
+      "cause": "Cobre (medicamentos, plomería, abonos)",
+      "solution": "Cambio de agua 50% inmediato. Carbón activo. El cobre es letal — verificar todo lo que entra al acuario."
+    },
+    {
+      "symptom": "Caparazón blando, opaco",
+      "cause": "Deficiencia de calcio o pH bajo",
+      "solution": "Añadir mineral de calcio. Subir KH y pH si es necesario."
+    },
+    {
+      "symptom": "Parásito verde en cabeza",
+      "cause": "Ellobiopsidae",
+      "solution": "Aislar. Tratamiento con sal + cambios de agua. Sin cura garantizada."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "La más accesible y recomendada para comenzar con camarones. Verificar que sea N. davidi puro si se quiere mantener el color.",
+  "order": "Decapoda",
+  "class": "Malacostraca",
+  "important_notes": "El rojo se intensifica con fondo oscuro y ausencia de estrés. Las hembras 'Saddleback' (con silla de montar amarilla) son las reproductoras."
+}

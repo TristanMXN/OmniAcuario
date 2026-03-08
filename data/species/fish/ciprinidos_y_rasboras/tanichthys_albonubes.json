@@ -1,0 +1,53 @@
+{
+  "variants": [
+    "Tanichthys albonubes — forma tipo, línea lateral roja",
+    "Tanichthys albonubes var. Dorado — sin línea roja, cuerpo dorado",
+    "Tanichthys albonubes var. Velo — aletas elongadas (cultivar)"
+  ],
+  "description": "La Nube Blanca (Tanichthys albonubes) es originaria de los ríos de montaña de la provincia de Guangdong, China. Fue descubierta en 1932 por un niño scout chino llamado Tan. Tolera temperaturas desde 14°C — ideal para acuarios sin calefacción. Fue considerada extinta en la naturaleza pero se redescubrió en los años 90. Su coloración iridiscente recuerda en miniatura al Neon Tetra.",
+  "origin": {
+    "region": "Asia Oriental (China — Guangdong)",
+    "countries": [
+      "China",
+      "Vietnam"
+    ],
+    "basin": "Río Baiyun Shan (Nube Blanca) en Guangdong, y ríos vietnamitas similares",
+    "habitat": "Arroyos y ríos de montaña fríos, rápidos y bien oxigenados.",
+    "wild_params": "pH 6.0–8.0, GH 4–15, temperatura 14–22 °C."
+  },
+  "max_size_cm": 4,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Omnívoro. Micro-gránulos, artemia nauplius, dafnia. 2 veces al día.",
+  "behavior": "Cardumen activo de mínimo 8. Tolera temperaturas muy bajas (14°C).",
+  "recommended_school": 8,
+  "level": "Fácil",
+  "substrate": [
+    "Arena fina",
+    "Grava fina"
+  ],
+  "substrate_detail": "Arena fina o grava pequeña. Sustrato oscuro resalta la iridiscencia lateral. Vegetación densa con zona de nado abierta en el centro.",
+  "plants": "Recomendadas",
+  "plant_detail": "Acuario plantado con zonas abiertas para nadar.",
+  "light": "Media",
+  "light_detail": "8–10 h/día, intensidad media. Tolera temperaturas bajas — puede no necesitar calentador en ambientes templados. Especie de montaña.",
+  "filtration": "Filtro de esponja o externo de bajo caudal. Temperatura 14–22°C — incompatible con calentadores tropicales estándar. El calor excesivo acorta su vida.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Machos más esbeltos y coloridos con el rojo del lateral más intenso. Hembras más redondeadas en el abdomen cuando llenas de huevos.",
+  "reproduction": "Ovíparo fácil. Agua fresca (18°C), plantas densas de musgo de Java. Los adultos no depredan activamente sus propios huevos — más fácil de criar que la mayoría de Tetras.",
+  "compatibility_notes": "Perfectamente pacífico. Ideal con Corydoras de agua fresca, Goldfish pequeño y Danio de montaña. La temperatura fresca limita los compañeros compatibles.",
+  "diseases": [
+    {
+      "symptom": "Ich",
+      "cause": "Temperatura alta (>24°C)",
+      "solution": "Bajar temperatura. Anti-ich."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Tolera desde 14°C — ideal para acuarios sin calefacción.",
+  "order": "Cypriniformes",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

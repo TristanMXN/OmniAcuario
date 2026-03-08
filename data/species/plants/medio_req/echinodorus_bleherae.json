@@ -1,0 +1,77 @@
+{
+  "variants": [
+    "Echinodorus bleherae — hojas muy largas y anchas, verde intenso"
+  ],
+  "description": "El Echinodorus Bleheri es la especie tipo que antes se llamaba E. bleheri. Más grande que E. grisebachii — hojas que pueden alcanzar 60cm. Planta central imponente para acuarios de 200L+. Algo más exigente que la Espada Amazónica común.",
+  "origin": {
+    "region": "América del Sur (Brasil, Argentina)",
+    "countries": [
+      "Brasil",
+      "Argentina"
+    ],
+    "basin": "Brasil y Argentina — cuencas del Amazonas y Paraná",
+    "habitat": "Orillas inundadas de ríos amazónicos con fondo rico.",
+    "wild_params": "pH 6.5–7.5, GH 3–15, temperatura 20–28 °C."
+  },
+  "max_size_cm": 60,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": false,
+  "fertilizer": "Fertilizante en pastillas en el sustrato + líquido completo semanal.",
+  "uses": "Planta central para acuarios grandes. La Espada Amazónica más grande.",
+  "propagation": "Plantlets en los escapos florales.",
+  "substrate": [
+    "Sustrato nutritivo",
+    "Arena con pastillas"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Media",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Disponible. Necesita acuario de 200L+ para adultos.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Roseta grande (50cm) de hojas lanceoladas. Produce flores emergentes. Necesita sustrato nutritivo.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Solo para acuarios de 200L+. No combinar en primer plano.",
+  "co2_detail": "No necesario."
+}

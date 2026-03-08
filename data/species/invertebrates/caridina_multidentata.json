@@ -1,0 +1,59 @@
+{
+  "variants": [
+    "Caridina multidentata — la única forma, sin variedades de color"
+  ],
+  "description": "La Gamba Amano (Caridina multidentata) fue popularizada por el acuarista japonés Takashi Amano como el limpiador de algas por excelencia en acuarios plantados estilo Nature. Con 5cm es la mayor gamba limpiadora del hobby. Su eficacia contra algas filamentosas, pelo de algas y barba negra es insuperable entre los camarones. El nombre japonés es 'Yamato Numa Ebi' (camarón de los pantanos de Yamato).",
+  "origin": {
+    "region": "Asia (Japón, China, Corea, Taiwán)",
+    "countries": [
+      "Japón",
+      "China",
+      "Corea del Sur",
+      "Taiwán"
+    ],
+    "basin": "Ríos costeros de flujo rápido",
+    "habitat": "Ríos de corriente moderada con fondo de grava y algas.",
+    "wild_params": "pH 6.5–7.5, GH 4–15, temperatura 18–26 °C."
+  },
+  "max_size_cm": 5,
+  "lifespan_years": "2–3",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Algas filamentosas, restos de alimento, biofilm. Suplementar con tabletas de espirulina o verduras blanqueadas cuando no hay suficientes algas.",
+  "behavior": "Muy activa y constante. Rasca superficies energéticamente. No toca plantas sanas. En grupos de 5+ individuos su eficacia limpiadora es notable.",
+  "recommended_school": 3,
+  "level": "Fondo / Todas las zonas",
+  "substrate": [
+    "Arena fina",
+    "Grava fina",
+    "Cualquier sustrato inerte"
+  ],
+  "substrate_detail": "Sin preferencias especiales. Prefiere zonas con corriente moderada.",
+  "plants": "Muy recomendadas",
+  "plant_detail": "Cualquier planta. No come plantas sanas — solo algas sobre ellas.",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración moderada. Proteger entradas de filtro con esponja.",
+  "water_changes": "15–20% semanal",
+  "sexing": "Hembras notablemente más grandes (5cm). Machos más pequeños (3–3.5cm). Hembra con puntos en línea, macho con guiones.",
+  "reproduction": "Prácticamente imposible en agua dulce. Las larvas son planctónicas y requieren agua marina para desarrollarse (especie catadrómosa).",
+  "compatibility_notes": "Compatible con casi todos los peces. Solo peces grandes carnívoros las comen. Excelente con Discus, Ángeles y cualquier comunidad.",
+  "diseases": [
+    {
+      "symptom": "Muerte súbita en masa",
+      "cause": "Cobre (medicamentos)",
+      "solution": "Cambio inmediato 50% agua. Carbón activo. El cobre es letal."
+    },
+    {
+      "symptom": "Pérdida de color, letargia",
+      "cause": "Estrés o mala calidad de agua",
+      "solution": "Verificar nitratos, temperatura y oxígeno disuelto."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "La más recomendada para control de algas. Usar al menos 1 por cada 10L para efecto notable.",
+  "order": "Decapoda",
+  "class": "Malacostraca",
+  "important_notes": "El Camarón Amano fue popularizado por Takashi Amano en los años 90 como control biológico del alga negra barba (BBA). Solo se reproduce en agua salobre."
+}

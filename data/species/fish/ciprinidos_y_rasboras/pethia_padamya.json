@@ -1,0 +1,60 @@
+{
+  "variants": [
+    "Barbo Odessa"
+  ],
+  "description": "Barbo Odessa (Pethia padamya) es una especie de acuario fácil de cuidar, originaria de Asia del Sur. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 5 cm en cautiverio.",
+  "origin": {
+    "region": "Asia (Myanmar — cuenca del río Irrawaddy)",
+    "countries": [
+      "Myanmar"
+    ],
+    "basin": "Cuencas hidrográficas de Asia del Sur.",
+    "habitat": "Aguas dulces de Asia del Sur con temperatura 17–25°C, pH 6.0–7.5.",
+    "wild_params": "pH 6.0–7.5, GH 5–15, temperatura 17–25 °C."
+  },
+  "max_size_cm": 5,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "En acuario: escamas/gránulos de calidad, artemia congelada, dafnia, gusanos de sangre, tubifex. Alimentar 2 veces al día en pequeñas cantidades.",
+  "behavior": "Mantener en grupos de mínimo 6 ejemplares. Especie semi-agresivo que habita el estrato medio-bajo del acuario.",
+  "recommended_school": 6,
+  "level": "Medio",
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena fina o grava pequeña. Sustrato oscuro realza el rojo intenso de los machos. Plantas resistentes (Anubias, Java Fern) aguantan su actividad.",
+  "plants": "Recomendadas",
+  "plant_detail": "La vegetación densa reduce el estrés y ofrece refugio.",
+  "light": "Media",
+  "light_detail": "8–10 h/día, intensidad media-alta. Los colores del macho se intensifican notablemente con buena iluminación.",
+  "filtration": "Filtro externo o interior de caudal moderado. Agua ligeramente dura y con pH neutro ideal.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Macho con franja lateral roja intensa y escamas con bordes plateados iridiscentes. Hembra de color marrón-dorado mucho más apagado.",
+  "reproduction": "Ovíparo de freza libre entre plantas finas. Sin cuidado parental. Voraz con sus propios huevos.",
+  "compatibility_notes": "Más pacífico que el Barbo Tigre pero puede ser semi-agresivo. Puede morder aletas largas. Compatible con peces robustos de aletas cortas.",
+  "diseases": [
+    {
+      "symptom": "Puntos blancos como sal en cuerpo y aletas",
+      "cause": "Ich (Ichthyophthirius multifiliis)",
+      "solution": "Elevar temperatura a 28-30°C durante 10 días. Anti-ich comercial."
+    },
+    {
+      "symptom": "Manchas de terciopelo fino, comportamiento de raspado",
+      "cause": "Velvet (Oodinium)",
+      "solution": "Oscurecer el acuario. Anti-protozoo con cobre o formalina."
+    },
+    {
+      "symptom": "Abdomen hinchado, escamas levantadas",
+      "cause": "Hidropesía (bacteria Aeromonas)",
+      "solution": "Antibiótico (kanamicina, eritromicina). Acuario hospital. Pronóstico reservado."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Uno de los barbos más coloridos. Los machos rojo intenso con escamas plateadas son espectaculares.",
+  "order": "Cypriniformes",
+  "class": "Actinopterygii",
+  "important_notes": "El Barbo Odessa fue descrito científicamente en 2003 aunque era popular en el hobby desde los años 80. El origen exacto sigue siendo debatido — posiblemente Myanmar."
+}

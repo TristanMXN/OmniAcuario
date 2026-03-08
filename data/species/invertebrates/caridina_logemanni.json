@@ -1,0 +1,63 @@
+{
+  "variants": [
+    "Caridina logemanni var. SSS — máximo rojo opaco, mínimo blanco (grado superior)",
+    "Caridina logemanni var. SS — rojo y blanco equilibrados",
+    "Caridina logemanni var. S — algo de transparencia visible",
+    "Caridina logemanni var. A/B — transparencia notable, grado básico",
+    "Crystal Black Shrimp (CBS) — misma especie, patrón negro y blanco"
+  ],
+  "description": "La Gamba Cristal (Caridina logemanni) fue desarrollada en Japón a partir de una mutación de color de Caridina cantonensis. Su patrón rojo y blanco intenso y su clasificación en grados de calidad (SSS al C) la convierten en uno de los camarones más estudiados del hobby. Requiere agua muy blanda, ácida y estable — es considerada la especie más exigente entre los camarones populares.",
+  "origin": {
+    "region": "Asia (Japón, selección artificial)",
+    "countries": [
+      "Japón"
+    ],
+    "basin": "Especie de acuario, seleccionada de C. cantonensis de Hong Kong/China",
+    "habitat": "Aguas blandas, frías y ácidas de montaña.",
+    "wild_params": "pH 5.8–6.8, GH 3–6, KH 0–2, temperatura 20–24 °C."
+  },
+  "max_size_cm": 3,
+  "lifespan_years": "1–2",
+  "nitrate_max": 10,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Biofilm, algas blandas. Alimento específico para Caridina (bajo en proteína). Hojas de catappa y alder cones beneficiosos para acidificar y aportar taninos.",
+  "behavior": "Activa y constante en el ramoneo. Muy sensible a cambios bruscos de parámetros. Aclimatación por goteo obligatoria.",
+  "recommended_school": 10,
+  "level": "Fondo / Todas las zonas",
+  "substrate": [
+    "Sustrato activo Caridina (ADA Amazonia, Controsoil, SL-Aqua)"
+  ],
+  "substrate_detail": "Sustrato activo OBLIGATORIO — acidifica y ablanda el agua de forma natural. Sin sustrato activo es imposible mantener los parámetros correctos.",
+  "plants": "Muy recomendadas",
+  "plant_detail": "Musgos, Bucephalandra, Anubias pequeñas. Evitar plantas que alcalinicen el agua.",
+  "light": "Baja-Media",
+  "light_detail": "6–8 h/día.",
+  "filtration": "Filtro de esponja de doble cámara. Caudal bajo. Protección total de tomas de agua.",
+  "water_changes": "5–10% semanal con agua de ósmosis inversa remineralizada",
+  "sexing": "Hembras más grandes, abdomen más ancho y redondeado, silla de montar visible. Machos más esbeltos.",
+  "reproduction": "Más difícil que Neocaridina. Requiere parámetros perfectamente estables. 15–25 huevos por hembra, incubación 4 semanas.",
+  "compatibility_notes": "Solo con peces nano pacíficos. Idealmente en acuario exclusivo de camarones. No mezclar con Neocaridina (híbridos inviables).",
+  "diseases": [
+    {
+      "symptom": "Muerte súbita en masa",
+      "cause": "Cobre o cambio brusco de parámetros",
+      "solution": "Cambio de agua con agua de ósmosis. Carbón activo. Verificar KH/GH."
+    },
+    {
+      "symptom": "Caparazón burbuja o deformidades",
+      "cause": "Virus (Baculovirus) o consanguinidad",
+      "solution": "Sin cura. Aislar y desinfectar el acuario."
+    },
+    {
+      "symptom": "Color rojo que palidece",
+      "cause": "Temperatura alta, nitratos o agua dura",
+      "solution": "Verificar y corregir parámetros. Renovar sustrato activo (pierde eficacia en 12–18 meses)."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Precio según grado: desde básico hasta decenas de euros por ejemplar SSS. Requiere agua de ósmosis inversa — no apta para agua de grifo sin tratamiento.",
+  "order": "Decapoda",
+  "class": "Malacostraca",
+  "important_notes": "El grado de calidad (SSS, SS, S, A, B, C) determina el precio — los SSS con patrón perfecto pueden costar 50€+ por ejemplar."
+}

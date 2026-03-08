@@ -1,0 +1,77 @@
+{
+  "variants": [
+    "Bacopa monnieri — hojas ovaladas pequeñas y carnosas"
+  ],
+  "description": "La Bacopa Monnieri es cosmopolita en trópicos y subtrópicos. Sus hojas redondas y carnosas la distinguen de otras Bacopa. Crece lenta pero es muy resistente. Planta medicinal usada en medicina ayurvédica (Brahmi). Tolera bien el agua dura.",
+  "origin": {
+    "region": "Cosmopolita (trópicos y subtrópicos)",
+    "countries": [
+      "Distribución pantropical global"
+    ],
+    "basin": "Orillas de ríos, lagos y zonas pantanosas en trópicos y subtrópicos",
+    "habitat": "Semisumergida en orillas húmedas y lodosas.",
+    "wild_params": "pH 6.0–8.0, GH 2–18, temperatura 18–30 °C."
+  },
+  "max_size_cm": 30,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": false,
+  "fertilizer": "Fertilizante líquido básico.",
+  "uses": "Planta de tallo para fondo medio. Hojas redondas carnosas características.",
+  "propagation": "Esquejes del tallo. Plantar en grupos.",
+  "substrate": [
+    "Arena",
+    "Grava",
+    "Sustrato nutritivo"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Media",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Disponible. También como planta medicinal (Brahmi). Crecimiento lento.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Tallo erecto de crecimiento lento. Hojas redondeadas pequeñas. Muy útil como planta de fondo medio.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con todas las plantas. No domina el espacio.",
+  "co2_detail": "No necesario pero acelera el crecimiento."
+}

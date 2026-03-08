@@ -1,0 +1,73 @@
+{
+  "order": "Siluriformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    5,
+    10
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 1,
+  "origin": {
+    "region": "Sudamérica",
+    "countries": [
+      "Brasil",
+      "Argentina",
+      "Uruguay"
+    ],
+    "basin": "Cuencas del Paraná, Paraguay y ríos costeros de São Paulo",
+    "habitat": "Ríos de corriente moderada, fondos de arena y grava, aguas claras a moderadamente turbias",
+    "wild_params": "pH 6.0–7.5, GH 2–12, temperatura 18–24 °C"
+  },
+  "substrate": [
+    "Arena fina suave"
+  ],
+  "substrate_detail": "Arena fina redondeada OBLIGATORIA. La grava o sustrato áspero destruye las barbillas sensoriales en semanas, causando infecciones letales.",
+  "lighting": "Moderada",
+  "description": "El Corydoras Paleatus (Corydoras paleatus), también llamado Pespita o Peppered Cory, es uno de los primeros peces exóticos importados a Europa (1880), nativo del sureste de Brasil y norte de Argentina. Habita ríos de corriente moderada con fondos de arena y grava limpia. Es la especie fundadora del género en el hobby y una de las más robustas.",
+  "behavior": "Muy pacífico. Cardumen obligatorio de mínimo 5. Activo principalmente al amanecer y atardecer. Revuelve el sustrato buscando alimento pero no lo excava propiamente. Compatible con cualquier especie no agresiva.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Barbillones cortos, erosionados o desaparecidos",
+      "cause": "Infección bacteriana por sustrato sucio o incorrecto (grava gruesa)",
+      "solution": "Cambiar a arena fina. Limpiar el fondo. Antibiótico tópico o en el agua si es severo."
+    },
+    {
+      "symptom": "Puntos blancos tipo sal",
+      "cause": "Ich",
+      "solution": "Elevar temperatura a 26–27 °C (son de agua fresca — no subir más). Anti-ich a dosis reducida."
+    },
+    {
+      "symptom": "Pez tumbado en el fondo, hinchado",
+      "cause": "Infección bacteriana sistémica por agua contaminada",
+      "solution": "Cambio inmediato de agua 50%. Antibiótico sistémico. Aislar el ejemplar afectado."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "max_size_cm": 7,
+  "lifespan_years": "5–8",
+  "feeding_detail": "Omnívoro bentónico. Pastillas o gránulos de fondo, artemia congelada, dafnia, gusanos de sangre. Alimentar preferiblemente en el momento de apagar las luces. Las pastillas de espirulina y vegetales son bien aceptadas. No depender solo de restos de otros peces.",
+  "recommended_school": 5,
+  "level": "Fácil",
+  "plants": "Recomendadas",
+  "plant_detail": "Plantas de fondo y medio con vegetación densa para refugio.",
+  "light": "Baja–Media",
+  "light_detail": "8 h/día, cualquier intensidad. Especie que vive en el fondo — la iluminación no afecta directamente su comportamiento.",
+  "filtration": "Filtrado moderado con buena circulación en el fondo. El nitrato acumulado en el sustrato los enferma — aspirar el fondo en cada cambio.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Hembras notablemente más anchas y redondeadas vistas desde arriba. Machos más esbeltos y algo más pequeños.",
+  "reproduction": "La hembra forma una 'bolsa' con las aletas ventrales donde recibe el esperma y transporta huevos. Los deposita en sustratos duros (cristal, hojas). Sin cuidado parental tras la freza.",
+  "compatibility_notes": "Ideal con Tetras, Rasboras, Guppys y prácticamente cualquier pez pacífico. Evitar con Cichlidae grandes. Mínimo 6 de la misma especie — solitarios se estresan y mueren.",
+  "iucn": "Preocupación menor (LC)",
+  "market_notes": "Ampliamente disponible. Especie robusta ideal para principiantes. Los albinos son la misma especie — forma pigmentaria.",
+  "class": "Actinopterygii",
+  "variants": [
+    "Corydoras paleatus — forma tipo, cuerpo gris con manchas oscuras",
+    "Corydoras paleatus var. Albino — cuerpo blanco-rosado, ojos rojos",
+    "Corydoras paleatus var. Velo — aletas elongadas (cultivar)"
+  ],
+  "important_notes": "Sube verticalmente a la superficie para respirar air atmosférico — es completamente normal y no indica falta de oxígeno en el agua."
+}

@@ -1,0 +1,58 @@
+{
+  "variants": [
+    "Atya gabonensis — azul-grisáceo a marrón oscuro según el estado de ánimo",
+    "Atya gabonensis var. azul — coloración azul eléctrico en algunos ejemplares"
+  ],
+  "description": "El Camarón Filtrador del Gabón o Camarón Vampiro (Atya gabonensis) es originario de África Occidental (Gabón, Camerún, Nigeria), habitando en ríos de corriente fuerte. Es el mayor camarón filtrador disponible en el hobby (hasta 15cm). Como el Camarón Bambú, usa abanicos de pelos para filtrar partículas en suspensión. Su nombre 'Vampiro' no tiene que ver con su comportamiento — es completamente pacífico.",
+  "origin": {
+    "region": "África Occidental (Gabón, Camerún, Nigeria)",
+    "countries": [
+      "Gabón",
+      "Camerún",
+      "Nigeria"
+    ],
+    "basin": "Ríos costeros de África Occidental",
+    "habitat": "Ríos de corriente moderada a fuerte, fondo rocoso.",
+    "wild_params": "pH 6.5–7.5, GH 4–15, temperatura 22–28 °C."
+  },
+  "max_size_cm": 15,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Idéntico al Camarón Bambú: partículas en suspensión. Levadura, espirulina en polvo, Bacter AE. Requiere corriente orientada hacia él. Si come del fondo, está pasando hambre.",
+  "behavior": "Muy pacífico y tranquilo. Pasa horas inmóvil filtrando con los abanicos extendidos. Activo de noche. Puede cambiar de color (azul intenso al marrón grisáceo) según el humor o muda.",
+  "recommended_school": 2,
+  "level": "Fondo / Medio (zona de corriente)",
+  "substrate": [
+    "Grava",
+    "Rocas lisas"
+  ],
+  "substrate_detail": "Rocas y raíces donde posarse frente a la corriente. Corriente moderada-fuerte orientada hacia él.",
+  "plants": "Recomendadas",
+  "plant_detail": "Anubias, Java fern, musgos sobre rocas y troncos.",
+  "light": "Baja-Media",
+  "light_detail": "6–8 h/día.",
+  "filtration": "Corriente moderada-fuerte OBLIGATORIA. Mismo principio que el Camarón Bambú.",
+  "water_changes": "15% semanal",
+  "sexing": "Hembras más grandes. Diferenciación difícil sin comparación directa.",
+  "reproduction": "Larvas planctónicas que requieren agua salobre. No reproducible en cautiverio doméstico.",
+  "compatibility_notes": "Perfectamente compatible con peces pacíficos de todos los tamaños — su tamaño lo protege de ser comido.",
+  "diseases": [
+    {
+      "symptom": "Abanicos encogidos permanentemente",
+      "cause": "Cobre, corriente insuficiente o estrés",
+      "solution": "Verificar ausencia de cobre. Aumentar flujo."
+    },
+    {
+      "symptom": "Muerte tras muda",
+      "cause": "Déficit de calcio o yodo",
+      "solution": "Mineralizar el agua. Traza de yodo marino mensual."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Menos común que el Camarón Bambú pero más espectacular por su tamaño. Disponible en tiendas especializadas.",
+  "order": "Decapoda",
+  "class": "Malacostraca",
+  "important_notes": "Especie de camarón africana poco común en el hobby. Requiere parámetros muy estables y agua suave ligeramente ácida."
+}

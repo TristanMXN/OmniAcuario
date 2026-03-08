@@ -1,0 +1,77 @@
+{
+  "variants": [
+    "Ceratophyllum demersum — forma tipo, hojas rígidas verticiladas oscuras"
+  ],
+  "description": "La Cola de Zorro (Ceratophyllum demersum) es cosmopolita — se encuentra en aguas dulces de todo el planeta. Sin raíces verdaderas, flota o se ancla en el sustrato. Extraordinariamente resistente a cualquier condición. Filtradora de nitratos y nitrato de amonio excepcional. Compite con las algas por nutrientes.",
+  "origin": {
+    "region": "Cosmopolita (aguas dulces de todo el mundo)",
+    "countries": [
+      "Distribución global"
+    ],
+    "basin": "Ríos, lagos y estanques de todo el mundo — distribución cosmopolita",
+    "habitat": "Cualquier cuerpo de agua dulce estancada o de corriente lenta con luz.",
+    "wild_params": "pH 6.0–8.0, GH 2–25, temperatura 15–30 °C."
+  },
+  "max_size_cm": 100,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": false,
+  "fertilizer": "No requiere fertilización. Absorbe nutrientes directamente del agua.",
+  "uses": "Planta flotante o semi-sumergida. Refugio y oxigenadora. Filtradora de nitratos.",
+  "propagation": "Simplemente cortar y dejar flotar o anclar ligeramente.",
+  "substrate": [
+    "Arena",
+    "Grava",
+    "Sustrato nutritivo"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Baja-Media",
+  "light_detail": "6–10 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Muy disponible. Puede perder hojas al transplante — normal, rebrota pronto.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Tallo flotante o anclado de crecimiento muy rápido. Absorbe nitratos eficazmente. Puede perder agujas al transplante.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Excelente compañera de otras plantas por su rápida absorción de nutrientes del agua.",
+  "co2_detail": "No necesario. Uno de los pocos peces que crece bien sin CO₂ incluso con luz intensa."
+}

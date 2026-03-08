@@ -1,0 +1,53 @@
+{
+  "variants": [
+    "Potamotrygon motoro — marrón con ocelos (círculos) naranjas, disco circular"
+  ],
+  "description": "La Raya Motoro (Potamotrygon motoro) es originaria de las cuencas del Amazonas, Orinoco y Río de la Plata. Su disco circular marrón con ocelos (círculos naranjas con borde negro) es inconfundible. El aguijón en la base de la cola contiene veneno — causa heridas muy dolorosas. Solo para acuaristas muy experimentados con instalaciones adecuadas.",
+  "origin": {
+    "region": "América del Sur (Brasil, Colombia, Venezuela, Argentina)",
+    "countries": [
+      "Brasil",
+      "Colombia",
+      "Venezuela",
+      "Argentina",
+      "Paraguay"
+    ],
+    "basin": "Cuencas del Amazonas, Orinoco y Río de la Plata",
+    "habitat": "Fondos arenosos de ríos lentos donde se entierra parcialmente. Agua cálida.",
+    "wild_params": "pH 6.0–7.5, GH 0–15, temperatura 23–28 °C."
+  },
+  "max_size_cm": 50,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Carnívoro. Gusanos de tierra, langostinos, filetes de pescado, mejillón. Alimentar de noche.",
+  "behavior": "Semi-activo. Se entierra parcialmente en arena. Aguijón venenoso — NO meter la mano.",
+  "recommended_school": 1,
+  "level": "Avanzado",
+  "substrate": [
+    "Arena muy fina y profunda (mínimo 8cm)"
+  ],
+  "substrate_detail": "Arena fina y suave MUY profunda (5–8cm) donde la Raya pueda enterrarse completamente. Sin grava — hiere el disco ventral y el aguijón.",
+  "plants": "Recomendadas",
+  "plant_detail": "Compatible con plantas robustas plantadas en macetas.",
+  "light": "Media",
+  "light_detail": "8–10 h/día, intensidad media. La Raya Motoro prefiere zonas de sombra donde enterrarse — plantas densas en los márgenes del acuario.",
+  "filtration": "Filtro externo muy potente. Sensible a nitratos y al cobre — NUNCA usar medicamentos con cobre. Cambios 30% semanales mínimo.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Machos con claspers (órgano copulador) visibles en la base de la cola, entre las aletas pélvicas. Hembras sin claspers.",
+  "reproduction": "Vivípara. Las crías nacen completamente desarrolladas. Muy difícil en cautiverio doméstico — requiere parejas compatibles y espacio enorme.",
+  "compatibility_notes": "Incompatible con peces que quepan en su boca o que la pisoteen. El aguijón es una defensa — NO recortar (ilegal en muchos países y extremadamente dolorosa para el animal).",
+  "diseases": [
+    {
+      "symptom": "Úlceras en el disco",
+      "cause": "Bacteria o sustrato inapropiado",
+      "solution": "Arena suave. Antibiótico. Veterinario especializado."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "LEGAL verificar en tu país. Aguijón venenoso — peligroso. Solo para expertos.",
+  "order": "Myliobatiformes",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

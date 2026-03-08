@@ -1,0 +1,51 @@
+{
+  "variants": [
+    "Synodontis nigriventris — marrón moteado, nada permanentemente boca abajo"
+  ],
+  "description": "El Bagre Boca Abajo (Synodontis nigriventris) es originario de la cuenca del río Congo en África Central. Como su nombre indica, nada permanentemente boca abajo — tiene el vientre más oscuro que el dorso (inversión del patrón habitual) para mimetizarse cuando nada al revés. Este comportamiento es completamente normal y no indica enfermedad.",
+  "origin": {
+    "region": "África Central (República Democrática del Congo)",
+    "countries": [
+      "República Democrática del Congo",
+      "Camerún"
+    ],
+    "basin": "Cuenca del río Congo, especialmente el río Congo Central y sus afluentes",
+    "habitat": "Ríos lentos con mucha vegetación, troncos y refugios donde esconderse.",
+    "wild_params": "pH 6.0–8.0, GH 4–18, temperatura 22–26 °C."
+  },
+  "max_size_cm": 10,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Omnívoro. Tabletas de fondo (come al revés), artemia, gusanos, vegetales.",
+  "behavior": "Nada boca abajo continuamente. Activo de noche. Sociable — grupos de 4+.",
+  "recommended_school": 4,
+  "level": "Fácil",
+  "substrate": [
+    "Arena fina",
+    "Troncos"
+  ],
+  "substrate_detail": "Arena fina o grava. Troncos, cuevas y raíces donde esconderse de día — especie nocturna que necesita refugios oscuros en los que 'sentarse' al revés.",
+  "plants": "Recomendadas",
+  "plant_detail": "Compatible con plantas. Pasa tiempo bajo las hojas.",
+  "light": "Media",
+  "light_detail": "8 h/día. Especie estrictamente nocturna — casi invisible de día. La luz difusa o tenue aumenta el tiempo de actividad visible.",
+  "filtration": "Filtro de esponja o externo moderado. Agua ligeramente ácida a neutra (pH 6.0–8.0). Especie robusta que tolera cierta variación.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Hembras más grandes y redondeadas. La diferencia es más evidente cuando las hembras están llenas de huevos.",
+  "reproduction": "Ovíparo. Muy difícil en acuario doméstico. El macho limpia una cueva y la hembra deposita los huevos al revés (nada boca abajo incluso en reproducción).",
+  "compatibility_notes": "Pacífico. Compatible con peces africanos de agua moderada: Cíclidos enanos africanos, Tetras del Congo y Botias. No mezclar con peces muy pequeños que coma de noche.",
+  "diseases": [
+    {
+      "symptom": "Ich",
+      "cause": "Temperatura baja",
+      "solution": "Anti-ich."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "El nado invertido es completamente normal — no es un problema de salud.",
+  "order": "Siluriformes",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

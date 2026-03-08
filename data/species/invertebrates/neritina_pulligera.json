@@ -1,0 +1,58 @@
+{
+  "variants": [
+    "Neritina pulligera — concha negra o gris oscura, casi lisa, con iridiscencia",
+    "Neritina turrita — similar, concha más cónica (especie relacionada)"
+  ],
+  "description": "El Caracol Casco Militar (Neritina pulligera) es originario del sudeste asiático. Su concha oscura, casi negra, de forma ovoide le da un aspecto elegante y minimalista muy apreciado en acuarios plantados de estética japonesa o Dutch. Como todos los Neritina, es un excelente limpiador de algas y no se reproduce en agua dulce. Algo más grande que el Caracol Cebra.",
+  "origin": {
+    "region": "Asia (SE Asia)",
+    "countries": [
+      "Tailandia",
+      "Indonesia",
+      "Filipinas",
+      "Malasia"
+    ],
+    "basin": "Ríos costeros y estuarios del SE asiático",
+    "habitat": "Aguas de dureza media-alta, corriente moderada.",
+    "wild_params": "pH 7.0–8.5, GH 8–20, temperatura 22–28 °C."
+  },
+  "max_size_cm": 3,
+  "lifespan_years": "1–3",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Algas adheridas al vidrio, rocas y decoración. Suplementar con espirulina o verduras si el acuario está muy limpio.",
+  "behavior": "Muy similar al Caracol Cebra. Activo en vidrio y decoración. Deja huevecillos blancos inofensivos.",
+  "recommended_school": 1,
+  "level": "Fondo / Vidrios",
+  "substrate": [
+    "Cualquier sustrato"
+  ],
+  "substrate_detail": "Agua dura esencial para la concha.",
+  "plants": "Perfectamente compatible",
+  "plant_detail": "No toca plantas.",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "sexing": "Imposible externamente.",
+  "reproduction": "Igual que N. natalensis — huevecillos blancos sin reproducción en agua dulce.",
+  "compatibility_notes": "Compatible con gambas, peces pacíficos y plantas.",
+  "diseases": [
+    {
+      "symptom": "Concha erosionada",
+      "cause": "Agua ácida o blanda",
+      "solution": "Aumentar KH y pH. Calcio suplementario."
+    },
+    {
+      "symptom": "Muerte súbita",
+      "cause": "Cobre",
+      "solution": "Cambio de agua. Carbón activo."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Menos común que el Cebra pero igualmente eficaz. Muy valorado en acuarios de estética oscura.",
+  "order": "Cycloneritida",
+  "class": "Gastropoda",
+  "important_notes": "El más grande de los Neritina — hasta 3 cm. Limpiador eficaz de algas verdes en cristal y decoración. No se reproduce en agua dulce."
+}

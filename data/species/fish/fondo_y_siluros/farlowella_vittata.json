@@ -1,0 +1,51 @@
+{
+  "variants": [
+    "Farlowella vittata — cuerpo extremadamente alargado tipo rama, marrón jaspeado"
+  ],
+  "description": "La Farlowella (Farlowella vittata) es originaria de la cuenca del Orinoco en Venezuela y Colombia. Su cuerpo extremadamente delgado y alargado, con textura de corteza de madera, la hace parecer una rama. Es el maestro del camuflaje entre los bagres de acuario. Completamente inofensiva y frágil — muere fácilmente por estrés o manipulación brusca.",
+  "origin": {
+    "region": "América del Sur (Venezuela, Colombia)",
+    "countries": [
+      "Venezuela",
+      "Colombia"
+    ],
+    "basin": "Cuenca del río Orinoco y río Meta, Venezuela y Colombia",
+    "habitat": "Ríos de corriente moderada con troncos sumergidos y ramas donde posarse.",
+    "wild_params": "pH 6.0–7.5, GH 2–12, temperatura 23–27 °C."
+  },
+  "max_size_cm": 18,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Herbívoro. Raspa algas, tabletas de espirulina, verduras blanqueadas. Come muy lento.",
+  "behavior": "Completamente pacífico e inmóvil durante horas. Imita una rama. Frágil.",
+  "recommended_school": 3,
+  "level": "Intermedio",
+  "substrate": [
+    "Arena fina",
+    "Troncos"
+  ],
+  "substrate_detail": "Arena fina con troncos lisos y ramas sumergidas — la Farlowella se posa sobre estas superficies imitando una rama perfectamente.",
+  "plants": "Recomendadas",
+  "plant_detail": "Compatible con plantas. Prefiere posarse en ellas.",
+  "light": "Media",
+  "light_detail": "8–10 h/día, intensidad media. Necesita algas suaves en las superficies donde se posa — la luz estimula su crecimiento.",
+  "filtration": "Filtro de esponja o externo de bajo caudal. Agua blanda y ligeramente ácida (pH 6.0–7.5). Muy sensible al nitrato — máximo 10 ppm.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Machos adultos con espinas odontodas (pelos rígidos) en el morro — perfectamente visibles con luz lateral rasante. Las hembras tienen el morro liso.",
+  "reproduction": "Ovíparo — el macho cuida los huevos pegados a una superficie vertical (cristal, roca, tronco) abanicándolos constantemente. Eclosión en 7–10 días.",
+  "compatibility_notes": "Pacífico. Incompatible con peces agresivos que la muerdan o intimiden. Compatible con Tetras pequeños, Corydoras y Otocinclus. Muy frágil al manejo — no usar redes.",
+  "diseases": [
+    {
+      "symptom": "Caída al fondo sin moverse",
+      "cause": "Enfermedad bacteriana o mala calidad de agua",
+      "solution": "Mejorar calidad de agua. Antibiótico si necesario."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Muy frágil para el transporte. Aclimatación muy lenta. Evitar peces activos.",
+  "order": "Siluriformes",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

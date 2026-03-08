@@ -1,0 +1,65 @@
+{
+  "order": "Cypriniformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    1,
+    2
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 10,
+  "origin": {
+    "region": "Asia (Indonesia — sur de Borneo)",
+    "countries": [
+      "Indonesia"
+    ],
+    "basin": "Pantanos de turba (peat swamps) del sur de Borneo, Kalimantan",
+    "habitat": "Aguas negras extremadamente ácidas con turba, hojas en descomposición y muy poco mineral.",
+    "wild_params": "pH 4.0–6.5, GH 0–4, temperatura 22–28 °C."
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena negra fina o sustrato de turba. Hojas de catappa en el fondo OBLIGATORIAS para reproducir los pantanos de turba de Borneo donde vive.",
+  "lighting": "Moderada",
+  "description": "La Rasbora Chili (Boraras brigittae) es originaria del sur de Borneo en Indonesia. Con apenas 2cm es uno de los peces más pequeños del hobby. Su cuerpo rojo brillante con una línea negra lateral lo hace inconfundible. Especie típica de aguas negras (blackwater) ácidas con turba. Necesita parámetros específicos y compañeros de su tamaño.",
+  "behavior": "Cardumen muy activo de mínimo 10–15 individuos. Zona media del acuario. Los machos se exhiben constantemente. Muy sensible a cambios bruscos de parámetros.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Muerte súbita",
+      "cause": "Agua dura o pH alto",
+      "solution": "Agua de ósmosis. pH máximo 6.5. GH máximo 4."
+    },
+    {
+      "symptom": "Ich",
+      "cause": "Temperatura baja o estrés",
+      "solution": "Anti-ich a dosis muy reducida — especie frágil."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "variants": [
+    "Boraras brigittae — línea roja brillante con manchas negras, el más pequeño"
+  ],
+  "max_size_cm": 2,
+  "lifespan_years": "4–6",
+  "feeding_detail": "Micro-gránulos, artemia nauplius, infusorios. 2–3 veces al día.",
+  "recommended_school": 10,
+  "level": "Intermedio",
+  "plants": "Muy recomendadas",
+  "plant_detail": "Acuario plantado denso con musgos. Resalta el color rojo.",
+  "light": "Tenue",
+  "light_detail": "6–8 h/día, intensidad muy tenue. Especie de pantanos de turba con dosel cerrado — la luz difusa o muy tenue es su hábitat natural.",
+  "filtration": "Filtro de esponja de flujo mínimo — cualquier corriente es excesiva para esta especie nano. Agua de ósmosis con pH 4.0–6.5, GH 0–4.",
+  "water_changes": "10–15% semanal con agua envejecida",
+  "sexing": "Hembras más redondeadas en el abdomen y ligeramente más grandes. Machos con el rojo-naranja más intenso en la región lateral del cuerpo.",
+  "reproduction": "Ovíparo de freza libre entre musgos. Agua de ósmosis muy blanda y ácida necesaria. Los adultos depredan los huevos — densidad de musgo muy alta para protegerlos.",
+  "compatibility_notes": "Solo con especies nano de aguas negras: Boraras sp., Scarlet Badis hembra y camarones Neocaridina (no Caridina — los parámetros son distintos). Sin peces > 3 cm.",
+  "iucn": "No evaluado",
+  "market_notes": "Especie nano — mínimo 10 individuos en biotopo tipo blackwater.",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

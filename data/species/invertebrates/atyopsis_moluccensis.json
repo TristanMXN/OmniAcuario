@@ -1,0 +1,63 @@
+{
+  "variants": [
+    "Atyopsis moluccensis — coloración marrón-rojiza con línea dorsal pálida",
+    "Atyopsis spinipes — especie similar del sur de Asia, ligeramente diferente"
+  ],
+  "description": "El Camarón Filtrador de Molucas o Camarón Bambú (Atyopsis moluccensis) es originario del sudeste asiático, habitando en ríos y arroyos de corriente moderada. En lugar de pinzas, tiene abanicos de pelos (pleópodos modificados) con los que filtra partículas en suspensión del agua. Es el camarón filtrador más común en tiendas y uno de los más grandes de agua dulce disponibles en el hobby.",
+  "origin": {
+    "region": "Asia (Islas Molucas, Borneo, Tailandia, Malasia)",
+    "countries": [
+      "Indonesia",
+      "Malasia",
+      "Tailandia"
+    ],
+    "basin": "Ríos y riachuelos de corriente moderada",
+    "habitat": "Zonas de corriente con fondo de grava y raíces sumergidas.",
+    "wild_params": "pH 6.5–7.5, GH 4–15, temperatura 22–28 °C."
+  },
+  "max_size_cm": 8,
+  "lifespan_years": "2–4",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Filtra partículas en suspensión. REQUIERE corriente de agua orientada hacia él. Suplementar con levadura de cerveza, espirulina en polvo o Bacter AE disueltos en agua. Si lo ves comiendo del fondo con las pinzas, está pasando hambre.",
+  "behavior": "Pacífico y estático cuando se alimenta (se posta frente a la corriente con los abanicos extendidos). Se desplaza por el acuario de noche. Muda cada 4–6 semanas — normal verlo quieto durante la muda.",
+  "recommended_school": 2,
+  "level": "Fondo / Medio (zona de corriente)",
+  "substrate": [
+    "Grava fina",
+    "Arena gruesa"
+  ],
+  "substrate_detail": "Necesita zona de corriente moderada para alimentarse. Posicionar cerca de la salida del filtro.",
+  "plants": "Muy recomendadas",
+  "plant_detail": "Raíces, musgos y troncos donde posarse frente a la corriente.",
+  "light": "Baja-Media",
+  "light_detail": "6–8 h/día.",
+  "filtration": "Corriente moderada OBLIGATORIA orientada hacia el camarón. Filtro de esponja para proteger los abanicos.",
+  "water_changes": "15% semanal",
+  "sexing": "Machos con primer par de pereiópodos más largos. Hembras más grandes.",
+  "reproduction": "Las larvas son planctónicas y requieren agua salobre. Prácticamente imposible en cautiverio doméstico.",
+  "compatibility_notes": "Compatible con gambas pequeñas, peces nano y pacíficos. Incompatible con peces agresivos que le muerdan los abanicos.",
+  "diseases": [
+    {
+      "symptom": "Abanicos encogidos, no filtra",
+      "cause": "Corriente insuficiente o agua con cobre",
+      "solution": "Aumentar flujo hacia el camarón. Verificar ausencia de cobre."
+    },
+    {
+      "symptom": "Come del suelo en vez de filtrar",
+      "cause": "Hambre — no hay partículas en suspensión",
+      "solution": "Añadir levadura o espirulina en polvo disueltos frente a él."
+    },
+    {
+      "symptom": "Muerte tras muda",
+      "cause": "Deficiencia de calcio o yodo",
+      "solution": "Añadir mineral de calcio y traza de yodo marino (1 gota/100L mensual)."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Disponible en tiendas especializadas. El éxito depende casi enteramente de darle corriente y alimentación en suspensión.",
+  "order": "Decapoda",
+  "class": "Malacostraca",
+  "important_notes": "El Camarón Bambú filtra el agua con sus abanicos — necesita corriente moderada dirigida hacia sus aletas filtradoras. Sin corriente, abandona los abanicos y se estresa."
+}

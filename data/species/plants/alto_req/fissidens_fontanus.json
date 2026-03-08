@@ -1,0 +1,80 @@
+{
+  "variants": [
+    "Fissidens fontanus — frondas planas tipo helecho miniatura, verde oscuro",
+    "Fissidens nobilis — especie asiática similar pero más delicada"
+  ],
+  "description": "El Musgo Fissidens (Fissidens fontanus) es originario de América del Norte y Europa. Sus frondas dispuestas en un solo plano crean un efecto completamente diferente al Musgo de Java — más estructurado y elegante. Preferido en aquascaping de competición. Crece lento pero es muy estable una vez establecido.",
+  "origin": {
+    "region": "América del Norte y Europa",
+    "countries": [
+      "EE.UU.",
+      "México",
+      "Francia",
+      "España"
+    ],
+    "basin": "Arroyos y ríos de América del Norte y Europa",
+    "habitat": "Sobre rocas y troncos sumergidos en arroyos de corriente moderada.",
+    "wild_params": "pH 5.5–7.5, GH 2–12, temperatura 18–24 °C."
+  },
+  "max_size_cm": 10,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": true,
+  "fertilizer": "CO₂ beneficioso + fertilizante líquido con micro.",
+  "uses": "Musgo premium de aquascaping. Frondas en plano único muy elegantes.",
+  "propagation": "Porciones pequeñas atadas a decoración con hilo de algodón.",
+  "substrate": [
+    "Sobre roca (atado)",
+    "Sobre tronco (atado)"
+  ],
+  "substrate_detail": "Sustrato nutritivo para mejores resultados.",
+  "light": "Media",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Disponible en tiendas especializadas. El musgo más elegante para aquascaping.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Musgo plumoso con frondes en estructura de helecho. El musgo más elegante del aquascaping.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con Christmas Moss y Java Moss. Textura completamente distinta.",
+  "co2_detail": "No obligatorio pero mejora mucho el crecimiento plumoso característico."
+}

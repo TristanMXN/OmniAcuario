@@ -1,0 +1,64 @@
+{
+  "variants": [
+    "Pez Cuerda"
+  ],
+  "description": "Pez Cuerda (Erpetoichthys calabaricus) es una especie de acuario moderado de cuidar, originaria de África Occidental. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 37 cm en cautiverio.",
+  "origin": {
+    "region": "África Occidental y Central (Nigeria, Camerún, Congo, Benín)",
+    "countries": [
+      "Nigeria",
+      "Camerún",
+      "República Democrática del Congo",
+      "Benín",
+      "Gabón"
+    ],
+    "basin": "Cuencas hidrográficas de África Occidental.",
+    "habitat": "Aguas dulces de África Occidental con temperatura 22–28°C, pH 6.0–7.5.",
+    "wild_params": "pH 6.0–7.5, GH 5–20, temperatura 22–28 °C."
+  },
+  "max_size_cm": 37,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "En acuario: artemia viva o congelada, gusanos de sangre, tubifex, insectos acuáticos, gambas. Alimentar 1-2 veces al día en cantidades moderadas.",
+  "behavior": "Mantener en grupos de mínimo 2 ejemplares. Especie pacífico que habita el estrato medio-bajo del acuario.",
+  "recommended_school": 2,
+  "level": "Medio",
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena fina. Especie que se esconde entre rocas y raíces — refugios tubulares de PVC o bambú esenciales.",
+  "plants": "Recomendadas",
+  "plant_detail": "La vegetación densa reduce el estrés y ofrece refugio.",
+  "light": "Media",
+  "light_detail": "8 h/día. Especie nocturna — casi completamente inactivo de día. Se mueve activamente de noche.",
+  "filtration": "Filtro externo moderado. Cubrir TODAS las aberturas del acuario — el Pez Serpiente escapa por agujeros de 1 cm.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Machos con aleta anal de mayor longitud — diferencia sutil.",
+  "reproduction": "Nunca documentado en acuario doméstico. Ovíparo en la naturaleza — desova entre vegetación.",
+  "compatibility_notes": "Come peces que quepan en su boca — peligroso con peces de menos de 5 cm. Compatible con peces grandes robustos. Los caracoles no son suficiente para saciarlo.",
+  "diseases": [
+    {
+      "symptom": "Puntos blancos como sal en cuerpo y aletas",
+      "cause": "Ich (Ichthyophthirius multifiliis)",
+      "solution": "Elevar temperatura a 28-30°C durante 10 días. Anti-ich comercial."
+    },
+    {
+      "symptom": "Manchas de terciopelo fino, comportamiento de raspado",
+      "cause": "Velvet (Oodinium)",
+      "solution": "Oscurecer el acuario. Anti-protozoo con cobre o formalina."
+    },
+    {
+      "symptom": "Abdomen hinchado, escamas levantadas",
+      "cause": "Hidropesía (bacteria Aeromonas)",
+      "solution": "Antibiótico (kanamicina, eritromicina). Acuario hospital. Pronóstico reservado."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Pez prehistórico con aspecto de serpiente. Muy resistente pero salta — tapa hermética obligatoria.",
+  "order": "Varies",
+  "class": "Actinopterygii",
+  "important_notes": "El Pez Cuerda tiene pulmones primitivos y puede respirar aire — sobrevive fuera del agua hasta 1 hora en ambiente húmedo. Escapa con facilidad asombrosa."
+}

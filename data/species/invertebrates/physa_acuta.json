@@ -1,0 +1,49 @@
+{
+  "variants": [
+    "Physa acuta — concha sinistrorsa (espiral a la izquierda), gris-marrón transparente"
+  ],
+  "description": "El Caracol Physa (Physa acuta) es cosmopolita — originario de Norteamérica pero introducido en todo el mundo. Se caracteriza por su concha sinistrorsa (la espiral gira hacia la izquierda, al contrario que la mayoría de caracoles). Extraordinariamente resistente y tolerante a todo tipo de agua. Frecuentemente considerado plaga, pero cumple función importante como limpiador de detritos y algas blandas. El Caracol Asesino lo elimina eficazmente.",
+  "origin": {
+    "region": "Cosmopolita (nativo de Norteamérica)",
+    "countries": [
+      "Global"
+    ],
+    "basin": "Cualquier cuerpo de agua dulce",
+    "habitat": "Extremadamente tolerante — charcos, ríos, acuarios, estanques.",
+    "wild_params": "pH 6.5–8.5, GH 3–25, temperatura 15–30 °C."
+  },
+  "max_size_cm": 1.5,
+  "lifespan_years": "1",
+  "nitrate_max": 40,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Algas blandas, biofilm, restos de alimento, materia orgánica. Limpiador eficiente del fondo.",
+  "behavior": "Hermafrodita y muy prolífico. Nada hacia la superficie para respirar. Pone masas de huevos gelatinosas transparentes. Considerado plaga cuando hay sobrealimentación.",
+  "recommended_school": 1,
+  "level": "Fondo / Todas las zonas",
+  "substrate": [
+    "Cualquier sustrato"
+  ],
+  "substrate_detail": "Completamente indiferente al sustrato.",
+  "plants": "Compatible",
+  "plant_detail": "Come algas sobre plantas, no las plantas mismas.",
+  "light": "Cualquiera",
+  "light_detail": "Indiferente.",
+  "filtration": "Cualquier filtración.",
+  "water_changes": "Variable",
+  "sexing": "Hermafrodita.",
+  "reproduction": "Muy prolífico. Control con Caracol Asesino, reducción de alimento o ayuno de 2–3 días.",
+  "compatibility_notes": "Compatible con todo. Muchos peces (tetras, cíclidos) los comen y los controlan naturalmente.",
+  "diseases": [
+    {
+      "symptom": "Muerte súbita en masa",
+      "cause": "Cobre",
+      "solution": "Cambio de agua. Carbón activo."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Raramente vendido — llega solo en plantas. Útil como limpiador si se controla la población.",
+  "order": "Hygrophila",
+  "class": "Gastropoda",
+  "important_notes": "El Physa es considerado plaga por muchos acuaristas — se reproduce muy rápido. Útil como comida para el Caracol Asesino o como indicador de sobrealimentación."
+}

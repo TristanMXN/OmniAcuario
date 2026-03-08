@@ -1,0 +1,63 @@
+{
+  "variants": [
+    "Pez Dólar de Plata"
+  ],
+  "description": "Pez Dólar de Plata (Metynnis argenteus) es una especie de acuario fácil de cuidar, originaria de América del Sur. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 15 cm en cautiverio.",
+  "origin": {
+    "region": "América del Sur (Brasil, Venezuela, Guyana, Paraguay)",
+    "countries": [
+      "Brasil",
+      "Venezuela",
+      "Guyana",
+      "Paraguay"
+    ],
+    "basin": "Cuencas hidrográficas de América del Sur.",
+    "habitat": "Aguas dulces de América del Sur con temperatura 24–28°C, pH 5.5–7.0.",
+    "wild_params": "pH 5.5–7.0, GH 4–15, temperatura 24–28 °C."
+  },
+  "max_size_cm": 15,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "En acuario: espirulina, algas, verduras blanqueadas (espinaca, pepino, calabacín), alimento en escamas vegetales. Alimentar 2-3 veces al día.",
+  "behavior": "Mantener en grupos de mínimo 6 ejemplares. Especie pacífico que habita el estrato medio-bajo del acuario.",
+  "recommended_school": 6,
+  "level": "Medio",
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Grava gruesa o arena. Sin plantas blandas — las destroza en horas. Solo Anubias y Java Fern en rocas resisten su apetito.",
+  "plants": "Recomendadas",
+  "plant_detail": "La vegetación densa reduce el estrés y ofrece refugio.",
+  "light": "Media",
+  "light_detail": "8–10 h/día, intensidad media. Especie robusta que tolera bien variaciones de iluminación.",
+  "filtration": "Filtro externo potente. Especie grande que produce muchos residuos nitrogenados.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Machos con borde posterior de la aleta anal rojizo. Hembras más redondeadas y sin el borde rojo.",
+  "reproduction": "Ovíparo de freza libre. Puede desovar en acuario pero rara vez se logra criar las crías — comen los huevos.",
+  "compatibility_notes": "Compatible solo con peces grandes que no entren en su boca. Incompatible absolutamente con plantas blandas y con cualquier pez pequeño.",
+  "diseases": [
+    {
+      "symptom": "Decoloración, cuerpo blancuzco progresivo",
+      "cause": "Microsporidio Pleistophora (Enfermedad del Tetra Neón)",
+      "solution": "Sin cura. Aislar inmediatamente. No hay tratamiento efectivo conocido."
+    },
+    {
+      "symptom": "Puntos blancos como sal",
+      "cause": "Ich (Ichthyophthirius multifiliis)",
+      "solution": "Elevar temperatura a 28-30°C 10 días. Anti-ich comercial. Cambios 25% diarios."
+    },
+    {
+      "symptom": "Abdomen hinchado, heces blancas",
+      "cause": "Parasitosis intestinal (Hexamita)",
+      "solution": "Metronidazol 400mg/100L durante 3 días con recambios parciales."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Crece hasta 15cm. Devora plantas absolutamente todas. Solo para acuarios sin vegetación.",
+  "order": "Characiformes",
+  "class": "Actinopterygii",
+  "important_notes": "El Dólar de Plata puede llegar a 15 cm — frecuentemente comprado a 3 cm. Devora cualquier planta que no sea dura. Solo para acuarios grandes con peces robustos."
+}

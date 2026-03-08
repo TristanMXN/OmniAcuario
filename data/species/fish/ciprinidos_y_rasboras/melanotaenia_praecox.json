@@ -1,0 +1,65 @@
+{
+  "order": "Atheriniformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    5,
+    6
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 6,
+  "origin": {
+    "region": "Asia (Indonesia — Irian Jaya, Papua Occidental)",
+    "countries": [
+      "Indonesia"
+    ],
+    "basin": "Ríos Mamberamo y afluentes, Irian Jaya, Indonesia",
+    "habitat": "Ríos de agua clara y vegetación densa en selva tropical.",
+    "wild_params": "pH 6.5–8.0, GH 8–18, temperatura 22–28 °C."
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena fina oscura o grava pequeña. El contraste del sustrato oscuro con el azul eléctrico del cuerpo es espectacular. Vegetación densa lateral.",
+  "lighting": "Moderada",
+  "description": "El Arcoíris Neón (Melanotaenia praecox) es originario de los ríos de la Cuenca del Mamberamo en Irian Jaya, Indonesia. Es el arcoíris más pequeño del hobby (6cm). Los machos son azul eléctrico intenso con aletas rojo-naranja — uno de los azules más brillantes entre todos los peces de agua dulce. Las hembras son completamente plateadas. La coloración solo es visible con buena iluminación.",
+  "behavior": "Cardumen de mínimo 8, con más hembras que machos. Zona media. Los machos persiguen a las hembras continuamente. Puede saltar — tapa recomendada.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Decoloración del azul",
+      "cause": "Luz insuficiente o estrés",
+      "solution": "Iluminación de calidad. Verificar parámetros."
+    },
+    {
+      "symptom": "Ich",
+      "cause": "Temperatura baja",
+      "solution": "Anti-ich. Elevar temperatura a 26°C."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "variants": [
+    "Melanotaenia praecox — macho azul eléctrico con aletas rojas. Hembra plateada."
+  ],
+  "max_size_cm": 6,
+  "lifespan_years": "3–5",
+  "feeding_detail": "Omnívoro. Micro-gránulos, artemia, mosquito larvae. 2 veces al día.",
+  "recommended_school": 8,
+  "level": "Fácil",
+  "plants": "Muy recomendadas",
+  "plant_detail": "Plantas densas para que los machos exhiban colores.",
+  "light": "Moderada-Alta",
+  "light_detail": "10–12 h/día, intensidad media-alta. El azul eléctrico del macho solo se revela plenamente con buena iluminación lateral — con luz cenital el color desaparece.",
+  "filtration": "Filtro externo de caudal moderado con buena oxigenación. Agua de pH 6.5–8.0 y dureza media. Temperatura 22–28°C.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Machos adultos de azul eléctrico intenso con aletas dorsales y anales de color naranja-rojo vivo. Hembras completamente plateadas sin el azul eléctrico.",
+  "reproduction": "Ovíparo. Pone huevos con filamentos pegajosos entre plantas o musgos. Sin cuidado parental. Los adultos no suelen comer los huevos activamente.",
+  "compatibility_notes": "Pacífico. Ideal con otros Arcoíris, Tetras de tamaño similar y Corydoras. Compatible con agua neutra-alcalina. Incompatible con peces de agua muy ácida.",
+  "iucn": "No evaluado",
+  "market_notes": "El arcoíris más pequeño. Colores solo visibles con buena luz.",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

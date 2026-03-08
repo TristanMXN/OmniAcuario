@@ -1,0 +1,61 @@
+{
+  "variants": [
+    "Cíclido Terror Verde"
+  ],
+  "description": "Cíclido Terror Verde (Andinoacara rivulatus) es una especie de acuario moderado de cuidar, originaria de América del Sur. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 30 cm en cautiverio.",
+  "origin": {
+    "region": "América del Sur (Ecuador, Perú — cuencas del Tumbes y Esmeraldas)",
+    "countries": [
+      "Ecuador",
+      "Perú"
+    ],
+    "basin": "Cuencas hidrográficas de América del Sur.",
+    "habitat": "Aguas dulces de América del Sur con temperatura 20–24°C, pH 6.5–7.5.",
+    "wild_params": "pH 6.5–7.5, GH 5–20, temperatura 20–24 °C."
+  },
+  "max_size_cm": 30,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "En acuario: artemia viva o congelada, gusanos de sangre, tubifex, insectos acuáticos, gambas. Alimentar 1-2 veces al día en cantidades moderadas.",
+  "behavior": "Se puede mantener individualmente o en pequeños grupos. Especie agresivo que habita el estrato medio-bajo del acuario.",
+  "recommended_school": 1,
+  "level": "Medio",
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena gruesa o grava. Excava activamente — anclar toda la decoración con silicona. Sin plantas — las arranca.",
+  "plants": "Recomendadas",
+  "plant_detail": "La vegetación densa reduce el estrés y ofrece refugio.",
+  "light": "Media",
+  "light_detail": "8–10 h/día, intensidad media. La buena iluminación resalta el iridiscente azul-verde metálico de los escamas.",
+  "filtration": "Filtro externo muy potente — mínimo 5x el volumen. Cíclido grande con alta producción de residuos.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Macho adulto desarrolla una joroba nucal prominente y colores más intensos. Las hembras son más pequeñas y menos iridiscentes.",
+  "reproduction": "Ovíparo con cuidado biparental muy agresivo. La pareja excava un nido en el sustrato y defiende violentamente el territorio completo.",
+  "compatibility_notes": "Solo con cíclidos sudamericanos grandes de temperamento similar: Oscar, Severum, Uaru. Incompatible con peces más pequeños que quepan en su boca.",
+  "diseases": [
+    {
+      "symptom": "Manchas negras, oscurecimiento",
+      "cause": "Estrés, peleas, cambios de parámetros",
+      "solution": "Revisar compatibilidad. Añadir más escondites. Estabilizar parámetros."
+    },
+    {
+      "symptom": "Abultamiento lateral, escamas levantadas",
+      "cause": "Hidropesía bacteriana",
+      "solution": "Kanamicina o Maracyn Two. Agua limpia. Pronóstico reservado."
+    },
+    {
+      "symptom": "Agujeros en la cabeza",
+      "cause": "Enfermedad HLLE (Hexamita + deficiencias)",
+      "solution": "Metronidazol + vitaminas. Mejorar dieta. Reducir nitratos."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Especie de temperamento imprevisible. Solo para acuaristas con experiencia en cíclidos grandes.",
+  "order": "Cichliformes",
+  "class": "Actinopterygii",
+  "important_notes": "El Cíclido Terror Verde es bello pero impredecible — puede volverse extremadamente territorial sin previo aviso. El nombre no es exagerado."
+}

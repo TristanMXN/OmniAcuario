@@ -1,0 +1,72 @@
+{
+  "order": "Siluriformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    5,
+    10
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 1,
+  "origin": {
+    "region": "Sudamérica",
+    "countries": [
+      "Brasil"
+    ],
+    "basin": "Ríos costeros del sureste de Brasil — afluentes del Paraná",
+    "habitat": "Ríos de corriente moderada con plantas y rocas cubiertas de biofilm y algas verdes",
+    "wild_params": "pH 6.0–7.5, GH 3–15, temperatura 20–26 °C"
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava fina"
+  ],
+  "substrate_detail": "Sustrato fino con biofilm establecido. Sin biofilm visible en cristal y decoración el Otocinclus muere de hambre aunque el agua sea perfecta.",
+  "lighting": "Moderada",
+  "description": "El Otocinclus (Otocinclus affinis) es originario del sureste de Brasil (cuencas de los ríos costeros de São Paulo y Rio de Janeiro), habitando en ríos de corriente moderada con abundante vegetación. Con apenas 4 cm, es el limpiador de algas per cápita más eficiente del hobby, especializado en devorar algas verdes filamentosas y diatomeas de hojas de plantas sin dañarlas.",
+  "behavior": "Pacífico pero sociable intraespecie — en solitario declina y muere de estrés. Cardumen mínimo de 6. Muy activo raspeando hojas y vidrios durante el día. Compatible con todos los peces pacíficos y camarones.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Adelgazamiento progresivo, pérdida de actividad",
+      "cause": "Inanición — falta de algas y biofilm suficientes",
+      "solution": "Proporcionar tabletas de algas y verduras blanqueadas diariamente. Es la causa de muerte más frecuente."
+    },
+    {
+      "symptom": "Muerte súbita tras compra",
+      "cause": "Estrés agudo de transporte — son capturados en la naturaleza y el 50% muere en tránsito o los primeros días",
+      "solution": "Aclimatación muy lenta (goteo), temperatura estable, evitar manipulación."
+    },
+    {
+      "symptom": "Puntos blancos",
+      "cause": "Ich",
+      "solution": "Anti-ich a dosis muy reducida — son muy sensibles al cobre y medicamentos."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "max_size_cm": 4,
+  "lifespan_years": "3–5",
+  "feeding_detail": "Herbívoro especializado. En acuario: algas verdes (principal alimento), tabletas de espirulina, pepino, calabacín y espinaca blanqueados. Si no hay algas suficientes proporcionar vegetales a diario — muchos mueren de hambre en acuarios sin algas. No come algas marrones (diatomeas incrustadas) ni pelos de algas.",
+  "recommended_school": 6,
+  "level": "Medio",
+  "plants": "Recomendadas (imprescindibles)",
+  "plant_detail": "Las plantas de hoja ancha (Anubias, Echinodorus) cubiertas de algas verdes son el hábitat ideal.",
+  "light": "Media–Alta",
+  "light_detail": "8–10 h/día, intensidad media-alta. La luz favorece el crecimiento de algas blandas que son su alimento principal.",
+  "filtration": "Filtración moderada sin corriente excesiva. Muy sensible al amoniaco — solo añadir a acuarios con más de 3 meses de maduración.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Hembras notablemente más anchas y redondeadas vistas desde arriba, especialmente en condición reproductiva.",
+  "reproduction": "Ovíparo. Los huevos son depositados en hojas o cristal en grupos de 2–6. Sin cuidado parental. Muy difícil en acuario doméstico.",
+  "compatibility_notes": "El compañero perfecto para acuarios plantados con Tetras, Corydoras y Rasboras. Incompatible con Cichlidae que los persigan y con caracoles Asesinos que los atacan.",
+  "iucn": "Preocupación menor (LC)",
+  "market_notes": "Disponible en tiendas. Casi toda la oferta son de captura silvestre. Alta mortalidad en tránsito. Comprar en lote de 6+ y aclimatar muy despacio.",
+  "class": "Actinopterygii",
+  "variants": [
+    "Otocinclus affinis — forma tipo, línea lateral marrón sobre plateado",
+    "Otocinclus macrospilus — puntos irregulares en flancos",
+    "Otocinclus vittatus — banda lateral más gruesa y oscura"
+  ],
+  "important_notes": "Muere frecuentemente en los primeros días por inanición — los cristales limpios no ofrecen suficiente biofilm. Supplementar con calabacín, pepino y espinacas hervidas."
+}

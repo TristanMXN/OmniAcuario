@@ -1,0 +1,77 @@
+{
+  "variants": [
+    "Cryptocoryne beckettii — hojas lanceoladas onduladas, verde-marrón"
+  ],
+  "description": "La Cryptocoryne Beckettii es originaria de Sri Lanka. Algo más pequeña que C. wendtii con hojas lanceoladas onduladas características. Misma facilidad de mantenimiento. Ideal para crear alfombras medianas de fondo.",
+  "origin": {
+    "region": "Asia (Sri Lanka)",
+    "countries": [
+      "Sri Lanka"
+    ],
+    "basin": "Ríos del sudoeste de Sri Lanka",
+    "habitat": "Sumergida en corrientes lentas con substrato rico.",
+    "wild_params": "pH 6.0–7.5, GH 3–15, temperatura 22–28 °C."
+  },
+  "max_size_cm": 20,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": false,
+  "fertilizer": "Fertilizante en pastillas en el sustrato.",
+  "uses": "Primer plano y fondo medio. Hojas onduladas decorativas.",
+  "propagation": "División de la mata o runners.",
+  "substrate": [
+    "Arena",
+    "Grava",
+    "Sustrato nutritivo"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Baja-Media",
+  "light_detail": "6–10 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Disponible. Algo más delicada que C. wendtii.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Roseta de hoja más pequeña y delgada que C. wendtii. Crece lentamente en el fondo.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con otras Cryptocorynes y plantas de media-baja demanda.",
+  "co2_detail": "No necesario."
+}

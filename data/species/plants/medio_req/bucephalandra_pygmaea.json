@@ -1,0 +1,79 @@
+{
+  "variants": [
+    "Bucephalandra pygmaea — hojas muy pequeñas verde-azul iridiscente",
+    "Bucephalandra sp. 'Kedagang' — hojas ovaladas con borde ondulado",
+    "Bucephalandra sp. 'Brownie Ghost' — hojas oscuras con puntos blancos",
+    "Nota: cientos de especies/morfos endémicos de Borneo"
+  ],
+  "description": "La Bucephalandra es un género endémico de Borneo. Sus hojas iridiscentes con reflejos azules, verdes o rojos según el ángulo de la luz la convierten en una de las plantas más buscadas para acuarios plantados. Crecimiento muy lento. Compatible con agua blanda y ácida.",
+  "origin": {
+    "region": "Asia (Borneo — endémica)",
+    "countries": [
+      "Indonesia (Borneo)"
+    ],
+    "basin": "Ríos de corriente rápida sobre rocas en selvas de Borneo",
+    "habitat": "Sumergida sobre rocas en ríos forestales bien oxigenados.",
+    "wild_params": "pH 6.0–7.5, GH 3–12, temperatura 20–28 °C."
+  },
+  "max_size_cm": 8,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": false,
+  "fertilizer": "Fertilizante líquido con micro y macro. CO₂ beneficioso pero no obligatorio.",
+  "uses": "Rizoma para primer plano, paredes y decoración. Hojas iridiscentes únicas.",
+  "propagation": "División del rizoma. Atar a roca o tronco — nunca enterrar el rizoma.",
+  "substrate": [
+    "Sobre roca",
+    "Sobre tronco"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Baja-Media",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "⚠️ Muchas especies, verificar identificación. Crecimiento muy lento.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Rizoma de crecimiento muy lento adherido a roca. Hojas iridiscentes con reflejos azules-morados únicos.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con Anubias y Java Fern — mismo nicho y mismas condiciones.",
+  "co2_detail": "No necesario pero mejora la iridiscencia foliar."
+}

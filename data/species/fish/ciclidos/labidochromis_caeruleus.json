@@ -1,0 +1,68 @@
+{
+  "order": "Cichliformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    10,
+    12
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 3,
+  "origin": {
+    "region": "África Oriental (Lago Malawi)",
+    "countries": [
+      "Malawi",
+      "Tanzania",
+      "Mozambique"
+    ],
+    "basin": "Lago Malawi — principalmente costas rocosas de la isla Nkhata Bay y Lion's Cove",
+    "habitat": "Zonas rocosas poco profundas (2–40m) del Lago Malawi. Agua dura y alcalina.",
+    "wild_params": "pH 7.8–8.8, GH 12–20, KH 8–15, temperatura 24–28 °C."
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena calcárea o aragonita blanca que eleva el pH y la dureza. Rocas apiladas formando cuevas y grietas que replicen el hábitat rocoso del Lago Malawi.",
+  "lighting": "Moderada",
+  "description": "El Yellow Lab (Labidochromis caeruleus) es originario del Lago Malawi en África. Su nombre científico 'caeruleus' (azul) es irónico — en la naturaleza existe en muchas formas, pero la variante amarilla limón de Electric Yellow es la más popular en el hobby. Es el mbuna menos agresivo disponible, lo que lo hace más fácil de mantener que otros cíclidos del lago.",
+  "behavior": "El mbuna más tolerante. Los machos defienden un territorio de roca pero sin la agresividad extrema de otras especies. Incubadora bucal — la hembra guarda los huevos en la boca.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Malawi Bloat (hinchazón)",
+      "cause": "Exceso de proteína animal o Hexamita",
+      "solution": "Metronidazol urgente. Dieta estrictamente herbívora."
+    },
+    {
+      "symptom": "HLLE",
+      "cause": "Deficiencia nutricional",
+      "solution": "Mejorar dieta. Vitaminas."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "reproduction": "Incubación bucal materna. La hembra incuba 15–30 huevos durante 21–28 días. Las crías se liberan completamente formadas de 1–1.5 cm. La hembra puede ser 'strippeada' (extraer las crías artificialmente) a los 21 días.",
+  "variants": [
+    "Labidochromis caeruleus — amarillo limón uniforme, líneas negras en aletas",
+    "Labidochromis caeruleus var. Albino — amarillo muy pálido"
+  ],
+  "max_size_cm": 10,
+  "lifespan_years": "6–10",
+  "feeding_detail": "Herbívoro. Gránulos con espirulina, verduras blanqueadas, artemia ocasional. 2 veces al día.",
+  "recommended_school": 1,
+  "level": "Intermedio",
+  "plants": "Incompatible (agua alcalina dura)",
+  "plant_detail": "Agua dura del Lago Malawi no es apta para plantas tropicales.",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración potente. pH alcalino (7.8–8.5) mantenido con roca calcárea.",
+  "water_changes": "25% semanal",
+  "sexing": "Machos amarillo más intenso. Hembras más pálidas.",
+  "compatibility_notes": "El menos agresivo de los Mbuna. Compatible con otras especies del Lago Malawi.",
+  "iucn": "No evaluado",
+  "market_notes": "El mbuna más popular por su facilidad relativa.",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

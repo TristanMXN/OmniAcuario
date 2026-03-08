@@ -1,0 +1,60 @@
+{
+  "variants": [
+    "Rasbora Esmeralda Enana"
+  ],
+  "description": "Rasbora Esmeralda Enana (Microdevario nana) es una especie de acuario moderado de cuidar, originaria de Asia del Sur. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 2 cm en cautiverio.",
+  "origin": {
+    "region": "Asia del Sur (Myanmar — cuenca del río Irrawaddy)",
+    "countries": [
+      "Myanmar"
+    ],
+    "basin": "Cuencas hidrográficas de Asia del Sur.",
+    "habitat": "Aguas dulces de Asia del Sur con temperatura 20–26°C, pH 5.5–7.5.",
+    "wild_params": "pH 5.5–7.5, GH 2–10, temperatura 20–26 °C."
+  },
+  "max_size_cm": 2,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "En acuario: escamas/gránulos de calidad, artemia congelada, dafnia, gusanos de sangre, tubifex. Alimentar 2 veces al día en pequeñas cantidades.",
+  "behavior": "Mantener en grupos de mínimo 10 ejemplares. Especie pacífico que habita el estrato medio-bajo del acuario.",
+  "recommended_school": 10,
+  "level": "Medio",
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Sustrato oscuro con hojas de catappa. Aguas negras — fondo con turba y hojas en descomposición ideal.",
+  "plants": "Recomendadas",
+  "plant_detail": "La vegetación densa reduce el estrés y ofrece refugio.",
+  "light": "Media",
+  "light_detail": "6–8 h/día, intensidad muy suave. Especie de pantanos de turba — la luz intensa la estresa.",
+  "filtration": "Filtro de esponja de caudal mínimo. Agua muy blanda y ácida — pH 4.0–6.0, GH 0–4.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Machos con colores más intensos — verde esmeralda más brillante y flancos con iridiscencias doradas.",
+  "reproduction": "Ovíparo de freza libre entre plantas finas. Condiciones de aguas negras extremas para reproducción.",
+  "compatibility_notes": "Solo con peces nano de aguas negras. Compatible con Chili Rasbora, Boraras sp. y Scarlet Badis. Incompatible con agua dura.",
+  "diseases": [
+    {
+      "symptom": "Puntos blancos como sal en cuerpo y aletas",
+      "cause": "Ich (Ichthyophthirius multifiliis)",
+      "solution": "Elevar temperatura a 28-30°C durante 10 días. Anti-ich comercial."
+    },
+    {
+      "symptom": "Manchas de terciopelo fino, comportamiento de raspado",
+      "cause": "Velvet (Oodinium)",
+      "solution": "Oscurecer el acuario. Anti-protozoo con cobre o formalina."
+    },
+    {
+      "symptom": "Abdomen hinchado, escamas levantadas",
+      "cause": "Hidropesía (bacteria Aeromonas)",
+      "solution": "Antibiótico (kanamicina, eritromicina). Acuario hospital. Pronóstico reservado."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Especie nano perfecta para blackwater. Menos frecuente que la Chili Rasbora.",
+  "order": "Cypriniformes",
+  "class": "Actinopterygii",
+  "important_notes": "La Rasbora Esmeralda Enana (Celestichthys erythromicron) es originaria del lago Inle, Myanmar. Extremadamente sensible al deterioro de la calidad del agua."
+}

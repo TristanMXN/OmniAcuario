@@ -1,0 +1,77 @@
+{
+  "order": "Siluriformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    6,
+    7
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 6,
+  "origin": {
+    "region": "América del Sur (Trinidad, Venezuela, Colombia, Brasil)",
+    "countries": [
+      "Trinidad",
+      "Venezuela",
+      "Colombia",
+      "Brasil",
+      "Perú"
+    ],
+    "basin": "Cuencas del río Orinoco y Amazonas, ríos costeros de Trinidad",
+    "habitat": "Aguas lentas y cálidas sobre fondos arenosos blandos con vegetación.",
+    "wild_params": "pH 6.0–8.0, GH 2–20, temperatura 22–28 °C."
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena fina redondeada OBLIGATORIA — sin grava. La barbilla del Corydoras Bronze es su órgano sensorial más importante y se destruye con sustrato áspero.",
+  "lighting": "Moderada",
+  "description": "El Corydoras Bronze (Corydoras aeneus) es originario de Trinidad y la cuenca del Orinoco y Amazonas. Es el corydoras más popular y resistente del hobby. Su cuerpo metálico bronceado con reflejos verdes lo hace muy atractivo. Es un limpiador de fondo esencial — patrulla el sustrato buscando restos de comida. Arena fina es OBLIGATORIA: la grava destroza sus barbillas sensoriales.",
+  "behavior": "Social — mínimo 6 individuos de la misma especie. Patrulla el fondo en grupo. Sube a respirar aire a la superficie periódicamente (normal). Activo durante el día.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Barbillas cortas o inexistentes",
+      "cause": "Grava con bordes cortantes o infección bacteriana",
+      "solution": "ARENA FINA OBLIGATORIA. Antibiótico si hay infección visible."
+    },
+    {
+      "symptom": "Ich",
+      "cause": "Temperatura baja",
+      "solution": "Anti-ich a media dosis — sensibles a medicamentos."
+    },
+    {
+      "symptom": "Pudrición de barbillas",
+      "cause": "Sustrato contaminado",
+      "solution": "Sustituir por arena fina limpia. Antibiótico."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "variants": [
+    "Corydoras aeneus — forma tipo, bronce-verde iridiscente",
+    "Corydoras aeneus var. albino — forma albina dorada, ojos rojos",
+    "Corydoras aeneus var. super albino — albino con manchas muy leves",
+    "Corydoras aeneus \"green\" — variedad con iridiscencia verde intensa"
+  ],
+  "max_size_cm": 7,
+  "lifespan_years": "10–15",
+  "feeding_detail": "Omnívoro de fondo. Tabletas de fondo, gusanos de sangre, tubifex, artemia. Alimentar de noche.",
+  "recommended_school": 6,
+  "level": "Fácil",
+  "plants": "Muy recomendadas",
+  "plant_detail": "Cualquier planta. Los Corydoras no dañan las plantas.",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración moderada. ARENA OBLIGATORIA — la grava destruye las barbillas.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Hembras más grandes y redondeadas vistas desde arriba.",
+  "reproduction": "Ovíparo. Pegan huevos en el vidrio y plantas. Fácil en cautiverio.",
+  "compatibility_notes": "Perfectamente pacífico. Compatible con todo excepto peces muy agresivos.",
+  "iucn": "No evaluado",
+  "market_notes": "El Corydoras más resistente y popular. Arena fina obligatoria.",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

@@ -1,0 +1,76 @@
+{
+  "variants": [
+    "Glossostigma elatinoides — hojas diminutas ovaladas, estolones rastreros"
+  ],
+  "description": "El Glossostigma elatinoides es originario de Australia y Nueva Zelanda. Fue popularizado por Takashi Amano como la primera tapizante de primer plano en el estilo Nature Aquarium. Con luz intensa y CO₂ crea una alfombra perfecta de 3cm de altura. Sin estas condiciones crece vertical.",
+  "origin": {
+    "region": "Australia y Nueva Zelanda",
+    "countries": [
+      "Australia",
+      "Nueva Zelanda"
+    ],
+    "basin": "Lagos, ríos y zonas pantanosas de Australia y Nueva Zelanda",
+    "habitat": "Orillas fangosas inundadas de lagos con mucha luz solar.",
+    "wild_params": "pH 5.5–7.0, GH 2–10, temperatura 15–26 °C."
+  },
+  "max_size_cm": 3,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": true,
+  "fertilizer": "CO₂ inyectado OBLIGATORIO + fertilización completa.",
+  "uses": "Tapizante de primer plano muy densa. Pionera del aquascaping Nature.",
+  "propagation": "Porciones del estolón. Plantar en grupos.",
+  "substrate": [
+    "Sustrato nutritivo fino"
+  ],
+  "substrate_detail": "Sustrato nutritivo para mejores resultados.",
+  "light": "Alta",
+  "light_detail": "10–12 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Pionera del aquascaping Nature (Amano). CO₂ obligatorio para crecer rastrera.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Tapizante icónica del aquascaping Nature (Amano). Hojas minúsculas (2–3mm). Forma un tapiz perfecto con CO₂.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "La tapizante original del estilo Nature. Combinar con Cuba o Hairgrass.",
+  "co2_detail": "Obligatorio. Sin CO₂ no crece rastrera — el efecto tapizante es imposible sin inyección."
+}

@@ -1,0 +1,65 @@
+{
+  "order": "Characiformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    5,
+    10
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 1,
+  "origin": {
+    "region": "América del Sur (Brasil — río Araguaia)",
+    "countries": [
+      "Brasil"
+    ],
+    "basin": "Cuenca del río Araguaia, Mato Grosso, Brasil central",
+    "habitat": "Aguas negras muy ácidas, lentas y cálidas con densa vegetación acuática.",
+    "wild_params": "pH 5.5–7.0, GH 0–6, temperatura 24–28 °C."
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena oscura o sustrato de turba — el fondo oscuro intensifica el color naranja-rojizo del cuerpo. Hojas de catappa para acidificar el agua.",
+  "lighting": "Moderada",
+  "description": "El Tetra Ember (Hyphessobrycon amandae) es originario del río Araguaia en Brasil central. Es uno de los peces de acuario más pequeños del hobby (máx. 2cm) y uno de los más populares para nano-acuarios. Su cuerpo completamente naranja-rojizo translúcido crea un efecto visual espectacular en grupos numerosos sobre plantas verdes.",
+  "behavior": "Cardumen muy activo y cohesionado. Mínimo 10 individuos. Zona media del acuario. Los machos persiguen a las hembras constantemente. Perfectamente pacífico.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Ich",
+      "cause": "Temperatura baja",
+      "solution": "Anti-ich. Temperatura 26–28°C."
+    },
+    {
+      "symptom": "Parasitosis interna",
+      "cause": "Agua con mucho nitrato",
+      "solution": "Cambios de agua frecuentes. Antiparasitario si necesario."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "variants": [
+    "Hyphessobrycon amandae — cuerpo naranja-rojo translúcido uniforme"
+  ],
+  "max_size_cm": 2,
+  "lifespan_years": "2–4",
+  "feeding_detail": "Micro-gránulos, artemia baby, infusorios. 2–3 veces al día.",
+  "recommended_school": 10,
+  "level": "Fácil",
+  "plants": "Muy recomendadas",
+  "plant_detail": "Acuario plantado denso. Musgos y plantas finas.",
+  "light": "Tenue-Media",
+  "light_detail": "6–8 h/día, intensidad tenue. Plantas flotantes (Salvinia, Riccia) filtran la luz y reproducen las aguas negras oscuras donde vive en la naturaleza.",
+  "filtration": "Filtro de esponja de flujo mínimo. Especie nano extremadamente sensible a nitratos y corriente. Cambios de agua del 20% semanales con agua de características similares.",
+  "water_changes": "15–20% semanal",
+  "sexing": "Hembras ligeramente más redondeadas en el abdomen. Machos con el naranja-rojo más intenso y uniforme en todo el cuerpo.",
+  "reproduction": "Ovíparo de freza libre entre plantas finas (musgo de Java). Agua muy blanda (GH 2–6, pH 6.0–6.5). Sin cuidado parental — los adultos depredan los huevos.",
+  "compatibility_notes": "Solo con especies nano pacíficas: Boraras, Chili Rasbora, Corydoras habrosus, Otocinclus y camarones Neocaridina. Incompatible con peces de agua dura o > 4 cm.",
+  "iucn": "No evaluado",
+  "market_notes": "Especie nano. Mínimo 10 individuos.",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

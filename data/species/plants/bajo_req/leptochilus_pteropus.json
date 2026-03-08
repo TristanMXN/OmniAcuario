@@ -1,0 +1,82 @@
+{
+  "variants": [
+    "Leptochilus pteropus — forma tipo, hojas lanceoladas verde oscuro",
+    "Leptochilus pteropus 'Narrow' — hojas muy estrechas",
+    "Leptochilus pteropus 'Trident' — hojas con lóbulos dentados",
+    "Leptochilus pteropus 'Windeløv' — puntas de hoja muy ramificadas"
+  ],
+  "description": "El Helecho de Java (Leptochilus pteropus, antes Microsorum pteropus) es originario del SE asiático. Una de las plantas más populares y versátiles del hobby. Sin raíces para sustrato — se ata a decoración. Extraordinariamente tolerante. Los plantlets nacen directamente en las hojas viejas.",
+  "origin": {
+    "region": "Asia (SE Asia — Indonesia, Malasia, Tailandia)",
+    "countries": [
+      "Indonesia",
+      "Malasia",
+      "Tailandia",
+      "Filipinas"
+    ],
+    "basin": "Ríos, cascadas y zonas húmedas de SE Asia tropical",
+    "habitat": "Emergente o sumergida sobre rocas y troncos en zonas de corriente.",
+    "wild_params": "pH 6.0–8.0, GH 2–20, temperatura 18–30 °C."
+  },
+  "max_size_cm": 35,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": false,
+  "fertilizer": "Fertilizante líquido básico ocasionalmente.",
+  "uses": "Planta de rizoma versátil para fondo medio. Atar a rocas o troncos.",
+  "propagation": "División del rizoma o separación de plantlets de las hojas viejas.",
+  "substrate": [
+    "Sobre roca",
+    "Sobre tronco"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Baja-Media",
+  "light_detail": "6–10 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "La planta de rizoma más popular. Atar a decoración. No enterrar.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Rizoma que produce nuevas plantas en los bordes de las hojas maduras. Hojas de textura rugosa muy resistentes.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con todas las plantas. Las nuevas plántulas nacen en las hojas viejas.",
+  "co2_detail": "No necesario. El Helecho de Java es referencia de planta sin CO₂."
+}

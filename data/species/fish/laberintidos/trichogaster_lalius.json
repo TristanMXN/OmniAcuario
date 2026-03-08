@@ -1,0 +1,75 @@
+{
+  "order": "Anabantiformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    5,
+    10
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 1,
+  "origin": {
+    "region": "Sur de Asia",
+    "countries": [
+      "India",
+      "Bangladesh",
+      "Myanmar",
+      "Pakistán"
+    ],
+    "basin": "Cuencas del Indo, Ganges y Brahmaputra en el norte de India",
+    "habitat": "Arrozales, canales de irrigación y ríos lentos con densa vegetación marginal y flotante, agua cálida",
+    "wild_params": "pH 6.0–7.5, GH 4–15, temperatura 22–28 °C"
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava suave"
+  ],
+  "substrate_detail": "Sustrato oscuro con vegetación densa y plantas flotantes (Pistia, Salvinia). Las plantas flotantes son esenciales para el nido de burbujas.",
+  "lighting": "Moderada",
+  "description": "El Gurami Enano (Trichogaster lalius) es nativo del norte de India, Bangladesh y Myanmar, habitando arrozales y ríos lentos con vegetación densa. Los machos exhiben una coloración espectacular de rayas azul turquesa y rojo naranja alternadas. Existe una preocupación real sobre el Iridovirus del Gurami Enano (DGiV), enfermedad viral incurable muy extendida en ejemplares de criadero asiático.",
+  "behavior": "Pacífico y tímido. Compatible con especies pequeñas y no agresivas. Los machos pueden ser territoriales entre sí en acuarios pequeños. Respira en superficie regularmente.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Adelgazamiento, letargia, hinchazón abdominal — sin respuesta a tratamiento",
+      "cause": "Iridovirus del Gurami Enano (DGiV) — enfermedad viral incurable",
+      "solution": "Sin tratamiento. Aislar y sacrificar humanitariamente. Prevención: comprar en tiendas de confianza con ejemplares locales."
+    },
+    {
+      "symptom": "Puntos blancos tipo sal",
+      "cause": "Ich",
+      "solution": "Anti-ich. Temperatura a 28 °C."
+    },
+    {
+      "symptom": "Aletas descompuestas o ulceradas",
+      "cause": "Columnaris bacteriana / infección fúngica",
+      "solution": "Antibiótico o anti-fúngico según identificación."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "max_size_cm": 9,
+  "lifespan_years": "3–5",
+  "feeding_detail": "Omnívoro. Acepta escamas, gránulos pequeños, artemia, dafnia, gusanos de sangre, insectos de superficie. Alimentar 2 veces al día con variedad para mantener la coloración.",
+  "recommended_school": 1,
+  "level": "Fácil",
+  "plants": "Recomendadas (esenciales)",
+  "plant_detail": "Plantas flotantes (Salvinia, Pistia) para el nido de burbujas. Vegetación densa para refugio.",
+  "light": "Baja–Media",
+  "light_detail": "8–10 h/día, intensidad suave-media. Evitar cambios bruscos de iluminación — especie que se estresa fácilmente.",
+  "filtration": "Filtro de esponja o externo de muy bajo caudal. La corriente destruye el nido de burbujas y estresa las aletas largas.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Macho: azul metálico brillante con franjas rojas o naranja diagonales según variedad. Hembra: completamente gris-plateada sin coloración llamativa.",
+  "reproduction": "El macho construye un nido de burbujas muy elaborado incorporando fragmentos de plantas. Tras la freza, cuida solo los huevos y expulsa a la hembra.",
+  "compatibility_notes": "Compatible con Tetras pequeños, Rasboras y Corydoras. Solo 1 macho por acuario. Incompatible con Betta — peleas mortales.",
+  "iucn": "Preocupación menor (LC)",
+  "market_notes": "Disponible en todas las tiendas. PRECAUCIÓN: alta prevalencia de DGiV en ejemplares de criadero asiático. Preferir ejemplares de cría local o de tiendas que garanticen salud.",
+  "class": "Actinopterygii",
+  "variants": [
+    "Trichogaster lalius var. Neón — rayas azul turquesa muy intensas",
+    "Trichogaster lalius var. Cobalto — azul sólido predominante",
+    "Trichogaster lalius var. Flame — rojo-naranja predominante con poco azul"
+  ],
+  "important_notes": "El Gurami Enano es muy susceptible al 'Iridovirus del Gurami Enano' (DGIV) — una enfermedad viral incurable que causa mortalidad masiva. Los ejemplares de Asia pueden ser portadores."
+}

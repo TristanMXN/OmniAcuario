@@ -1,0 +1,77 @@
+{
+  "variants": [
+    "Rotala macrandra — hojas grandes onduladas rojo intenso",
+    "Rotala macrandra 'Mini' — hojas más pequeñas",
+    "Rotala macrandra 'Green' — variante verde-rosada"
+  ],
+  "description": "La Rotala Macrandra es originaria de India. La planta de tallo roja más espectacular del hobby — sus hojas grandes onduladas desarrollan un rojo intenso magenta con CO₂, buena luz y agua blanda. Una de las más difíciles de mantener. Requiere condiciones óptimas constantes.",
+  "origin": {
+    "region": "Asia (India)",
+    "countries": [
+      "India"
+    ],
+    "basin": "Ríos y zonas inundadas de India",
+    "habitat": "Sumergida en aguas lentas con sustrato fangoso.",
+    "wild_params": "pH 5.5–7.0, GH 2–8, temperatura 22–28 °C."
+  },
+  "max_size_cm": 30,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": true,
+  "fertilizer": "CO₂ inyectado + fertilización completa + agua blanda OBLIGATORIOS.",
+  "uses": "Planta de tallo roja espectacular. La reina del color rojo en aquascaping.",
+  "propagation": "Esquejes del tallo. Plantar en grupos.",
+  "substrate": [
+    "Sustrato nutritivo"
+  ],
+  "substrate_detail": "Sustrato nutritivo para mejores resultados.",
+  "light": "Alta",
+  "light_detail": "10–12 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "La más difícil de las Rotala. Solo para acuaristas avanzados con CO₂.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Tallo con hojas grandes rosado-rojas muy intensas. La más exigente de las Rotala.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Solo para acuarios de alto requerimiento. Las hojas rojas dominan la visual del acuario.",
+  "co2_detail": "Obligatorio. Sin CO₂ las hojas son verdes y el tallo muy frágil."
+}

@@ -1,0 +1,83 @@
+{
+  "variants": [
+    "Rotala rotundifolia — hojas redondas verde-rosado",
+    "Rotala rotundifolia 'Orange Juice' — naranja intenso con CO₂",
+    "Rotala rotundifolia 'H'Ra' — rojo-naranja compacto"
+  ],
+  "description": "La Rotala Rotundifolia es originaria de India y SE Asia. Una de las plantas más usadas en aquascaping por su coloración cambiante: verde sin CO₂, naranja-rojo intenso con CO₂ y buena luz. Tallos finos y gráciles que crean volumen sin ocupar demasiado espacio.",
+  "origin": {
+    "region": "Asia (India, SE Asia)",
+    "countries": [
+      "India",
+      "Sri Lanka",
+      "Tailandia",
+      "Vietnam",
+      "China"
+    ],
+    "basin": "Ríos y campos de arroz inundados de India y SE Asia",
+    "habitat": "Semisumergida en bordes de ríos y arrozales.",
+    "wild_params": "pH 5.5–7.5, GH 2–12, temperatura 20–28 °C."
+  },
+  "max_size_cm": 30,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": true,
+  "fertilizer": "Fertilizante completo + CO₂ para coloración óptima.",
+  "uses": "Planta de tallo fina y colorida. Fondo medio-trasero. Muy usada en aquascaping.",
+  "propagation": "Esquejes del tallo. Plantar en grupos densos.",
+  "substrate": [
+    "Arena",
+    "Grava",
+    "Sustrato nutritivo"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Media-Alta",
+  "light_detail": "10–12 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Muy disponible. La variante naranja requiere CO₂.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Tallo delgado con hojas pequeñas redondeadas. En corriente se dobla formando arcos elegantes. Crecimiento moderado.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con todas las plantas de tallo.",
+  "co2_detail": "Beneficioso. La variante naranja requiere CO₂ obligatoriamente."
+}

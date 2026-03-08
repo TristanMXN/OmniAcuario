@@ -1,0 +1,57 @@
+{
+  "variants": [
+    "Híbrido var. Rojo/Naranja — la forma más común en tiendas",
+    "Híbrido var. Amarillo — pigmentación reducida, más pálido",
+    "Híbrido var. Corazón — variante con cuerpo más comprimido"
+  ],
+  "description": "El Pez Loro Sangre es un híbrido artificial creado en Taiwán en los años 80, probablemente cruzando Amphilophus citrinellus con Heros sp. Su boca triangular deformada, cuerpo redondeado y coloración naranja-rojo son resultado de selección artificial. La boca deformada le impide cerrar completamente — solo puede comer alimento esférico pequeño. Especie controvertida éticamente.",
+  "origin": {
+    "region": "Híbrido artificial — creado en Taiwán (Asia Oriental)",
+    "countries": [
+      "Taiwán"
+    ],
+    "basin": "No existe en la naturaleza — todas las poblaciones son cautivas",
+    "habitat": "Acuario. Requiere agua cálida, limpia y con zonas de refugio.",
+    "wild_params": "pH 6.5–7.5, GH 5–15, temperatura 25–30 °C."
+  },
+  "max_size_cm": 20,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Omnívoro. Gránulos pequeños redondos (boca deformada), artemia, gusanos. 2 veces al día.",
+  "behavior": "Semi-agresivo territorial. La boca deformada limita su dieta — solo alimento pequeño.",
+  "recommended_school": 1,
+  "level": "Fácil",
+  "substrate": [
+    "Arena",
+    "Grava fina"
+  ],
+  "substrate_detail": "Arena fina o grava pequeña. Cuevas y refugios de mayor tamaño para que se esconda — su boca deformada lo hace más vulnerable y ansioso.",
+  "plants": "Recomendadas",
+  "plant_detail": "Parcialmente compatible. Puede arrancar plantas al excavar.",
+  "light": "Media",
+  "light_detail": "8–10 h/día, intensidad media. El naranja-rojo brillante se intensifica con buena iluminación y dieta rica en carotenoides.",
+  "filtration": "Filtro externo potente. Cíclido de tamaño medio con producción moderada de residuos. Cambios 25% semanales.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Machos generalmente más grandes y con cuerpo más voluminoso. Prácticamente imposible con certeza — la hibridación altera los caracteres sexuales.",
+  "reproduction": "Pone huevos (generalmente infértiles). Los machos son estériles en la mayoría de casos — resultado de la hibridación artificial. La hembra cuida los huevos aunque no eclosionen.",
+  "compatibility_notes": "Semi-agresivo. Compatible con cíclidos medianos no agresivos, Tetras grandes y peces que no quepan en su boca. La boca deformada le impide morder eficazmente.",
+  "diseases": [
+    {
+      "symptom": "Ich",
+      "cause": "Temperatura baja",
+      "solution": "Anti-ich."
+    },
+    {
+      "symptom": "Perforación en la cabeza (HLLE)",
+      "cause": "Deficiencia nutricional o agua pobre",
+      "solution": "Mejorar dieta y calidad de agua."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Híbrido artificial — la boca deformada es una deformidad. Debate ético.",
+  "order": "Cichliformes",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

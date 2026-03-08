@@ -1,0 +1,51 @@
+{
+  "variants": [
+    "Cyrtocara moorii — azul uniforme con joroba frontal prominente en adultos"
+  ],
+  "description": "El Delfín Azul (Cyrtocara moorii) es originario del Lago Malawi. Su nombre popular viene de la joroba frontal que desarrollan los machos adultos, que les da un aspecto similar a un delfín. Especie de haps — más pacífica que los mbunas. En la naturaleza sigue a otros peces excavadores para comer los invertebrados que estos desenterran.",
+  "origin": {
+    "region": "África Oriental (Lago Malawi)",
+    "countries": [
+      "Malawi",
+      "Tanzania",
+      "Mozambique"
+    ],
+    "basin": "Lago Malawi — aguas intermedias sobre arena y fango",
+    "habitat": "Zona intermedia de arena y sedimento a 3–20m. Agua dura y alcalina.",
+    "wild_params": "pH 7.8–8.5, GH 12–20, temperatura 24–28 °C."
+  },
+  "max_size_cm": 25,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Omnívoro detritívoro. Gránulos, artemia, pellets de fondo. 2 veces al día.",
+  "behavior": "Semi-agresivo con machos. Forma grupos jerárquicos. Sigue a otros peces para comer detritos.",
+  "recommended_school": 1,
+  "level": "Intermedio",
+  "substrate": [
+    "Arena fina"
+  ],
+  "substrate_detail": "Arena fina OBLIGATORIA — el Delfín Azul excava constantemente buscando invertebrados enterrados. Sin rocas en el área de arena — excava bajo ellas.",
+  "plants": "Recomendadas",
+  "plant_detail": "Sin plantas — Lago Malawi.",
+  "light": "Media",
+  "light_detail": "10–12 h/día, intensidad alta. El azul iridiscente del cuerpo se aprecia mejor con buena iluminación — el lago Malawi es muy transparente.",
+  "filtration": "Filtro externo muy potente. pH 7.8–8.5, GH 12–20 obligatorios. Alta oxigenación y renovación del agua.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Machos adultos con giba frontal enorme muy prominente — el rasgo más llamativo de la especie. Las hembras tienen una giba pequeña o inexistente.",
+  "reproduction": "Incubadora bucal — la hembra guarda los huevos en la boca durante 3 semanas sin comer. Los machos desarrollan la joroba frontal (giba) progresivamente.",
+  "compatibility_notes": "Compatible con otros haps y peacocks del lago Malawi. En la naturaleza sigue a otros peces excavadores para comer lo que desenterran — comportamiento que se observa en acuario.",
+  "diseases": [
+    {
+      "symptom": "Bloat",
+      "cause": "Hexamita",
+      "solution": "Metronidazol."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "La joroba se desarrolla con la edad y buena alimentación.",
+  "order": "Cichliformes",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

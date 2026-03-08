@@ -1,0 +1,52 @@
+{
+  "variants": [
+    "Apistogramma agassizii var. Fire Red — tonos rojos muy intensificados",
+    "Apistogramma agassizii var. Double Blue — azul iridiscente intenso"
+  ],
+  "description": "La Apistogramma de Agassiz (Apistogramma agassizii) es uno de los cíclidos enanos más populares del Amazonas. Existen decenas de variedades de colección: Fire Red, Double Blue, Tefe, etc., cada una de un curso de agua diferente. El macho puede alcanzar 9cm con aletas espectaculares; la hembra apenas 5cm y amarilla brillante al cuidar crías.",
+  "origin": {
+    "region": "América del Sur (Brasil, Perú — cuenca del Amazonas)",
+    "countries": [
+      "Brasil",
+      "Perú",
+      "Colombia"
+    ],
+    "basin": "Amplia distribución en toda la cuenca amazónica — múltiples formas geográficas",
+    "habitat": "Aguas negras ácidas y cálidas con hojas en descomposición y poca luz.",
+    "wild_params": "pH 4.5–6.5, GH 0–8, temperatura 24–30 °C."
+  },
+  "max_size_cm": 9,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Carnívoro. Artemia, dafnia, gusanos de sangre, micro-gránulos. 2 veces al día.",
+  "behavior": "Semi-agresivo territorial. Macho defiende su zona. La hembra cuida las crías.",
+  "recommended_school": 1,
+  "level": "Intermedio",
+  "substrate": [
+    "Arena fina oscura"
+  ],
+  "substrate_detail": "Arena fina oscura con hojas de catappa, roca plana y cuevas pequeñas para que la hembra pueda criar. El Apisto es muy territorial en el fondo.",
+  "plants": "Recomendadas",
+  "plant_detail": "Acuario plantado estilo blackwater. Musgos y Anubias.",
+  "light": "Media",
+  "light_detail": "8 h/día, luz difusa o suave. Zonas de sombra creadas por plantas densas son esenciales. La luz intensa estresa a la hembra en cría.",
+  "filtration": "Filtro de esponja de bajo caudal. Agua de ósmosis con extracto de catappa. pH 4.5–6.5, GH 0–8. Nitratos < 10 ppm OBLIGATORIO.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Macho de 8–10cm con aletas espectaculares en azul, amarillo y rojo según variante geográfica. Hembra de solo 4–5cm, amarilla dorada brillante cuando cuida crías.",
+  "reproduction": "La hembra deposita 50–150 huevos en cueva y los cuida ferozmente — puede atacar a peces mucho más grandes. El macho es expulsado durante toda la fase de cría.",
+  "compatibility_notes": "Semi-agresivo territorial en fondo. Compatible con Tetras de cardumen de zona media que distraigan la atención del macho. Incompatible con otros Apisto machos.",
+  "diseases": [
+    {
+      "symptom": "Ich",
+      "cause": "Temperatura baja o estrés",
+      "solution": "Anti-ich. Temperatura 26°C+."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Fire Red y Double Blue son las variantes más buscadas.",
+  "order": "Cichliformes",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

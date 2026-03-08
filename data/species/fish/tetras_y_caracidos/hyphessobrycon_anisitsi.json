@@ -1,0 +1,68 @@
+{
+  "order": "Characiformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    5,
+    10
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 1,
+  "origin": {
+    "region": "América del Sur (Argentina, Paraguay, Brasil sur)",
+    "countries": [
+      "Argentina",
+      "Paraguay",
+      "Brasil"
+    ],
+    "basin": "Cuenca del Río de la Plata, incluyendo ríos Paraná y Paraguay",
+    "habitat": "Ríos y arroyos de agua clara o ligeramente turbia, temperatura moderada.",
+    "wild_params": "pH 6.0–8.0, GH 5–20, temperatura 18–28 °C."
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena o grava fina. Sin plantas blandas — devora absolutamente toda la vegetación excepto Anubias, Java Fern y helechos de agua dura atados a roca.",
+  "lighting": "Moderada",
+  "description": "El Tetra de Buenos Aires (Hyphessobrycon anisitsi) es originario de la cuenca del Río de la Plata en Argentina, Paraguay y sur de Brasil. Es uno de los tetras más robustos y tolerantes del hobby, pero tiene dos problemas conocidos: come todas las plantas blandas y puede morder las aletas de peces lentos. Ideal para acuarios sin plantas.",
+  "behavior": "Activo y semiagresi voraz. Come todas las plantas excepto las más duras. Puede morder aletas largas. En cardumen de 8+ la agresividad se dispersa.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Ich",
+      "cause": "Temperatura baja",
+      "solution": "Anti-ich. Elevar temperatura."
+    },
+    {
+      "symptom": "Pudrición de aletas",
+      "cause": "Mala calidad de agua o agresión",
+      "solution": "Antibiótico local. Mejorar filtración."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "important_notes": "DEVORA PLANTAS: El Tetra Buenos Aires es uno de los pocos caraciformes que consume activamente plantas de hoja blanda (Cabomba, Egeria, Micranthemum). Solo compatible con plantas de hoja muy dura (Anubias, Microsorum, Crinum). También morde aletas de peces de aleta larga (Betta, Angelfish, Guppies). Mantener en grupos grandes (8+) reduce la agresión interespecie.",
+  "variants": [
+    "Hyphessobrycon anisitsi — plateado con aletas rojas y manchas negras",
+    "Hyphessobrycon anisitsi var. Albino — cuerpo dorado, aletas naranjas"
+  ],
+  "max_size_cm": 7,
+  "lifespan_years": "5–7",
+  "feeding_detail": "Omnívoro voraz. Escamas, gránulos, artemia, vegetales. 2 veces al día.",
+  "recommended_school": 6,
+  "level": "Fácil",
+  "plants": "Incompatible (devora plantas)",
+  "plant_detail": "Solo plantas muy duras (Anubias, Java fern) o artificiales.",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día, intensidad media. Especie robusta que tolera cualquier régimen de luz. Sin preferencias especiales.",
+  "filtration": "Filtro externo o interior de caudal moderado. Especie muy resistente que tolera cierta variación en la calidad del agua.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Hembras notablemente más redondeadas y voluminosas que los machos cuando llenas de huevos. Los machos son algo más esbeltos.",
+  "reproduction": "Ovíparo de freza libre entre plantas o en sustrato. Sin cuidado parental — los adultos comen los huevos inmediatamente. Retirar adultos tras la puesta.",
+  "compatibility_notes": "Semi-agresivo. Puede morder aletas largas de Bettas, Guramis y peces lentos. Compatible con peces de aletas cortas y robustos. En cardumen de 8+ la agresividad intraespecífica se reduce.",
+  "iucn": "No evaluado",
+  "market_notes": "Resistente y fácil, pero come plantas y muerde aletas.",
+  "class": "Actinopterygii"
+}

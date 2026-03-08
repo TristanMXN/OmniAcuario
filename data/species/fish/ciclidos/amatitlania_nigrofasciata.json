@@ -1,0 +1,70 @@
+{
+  "order": "Cichliformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    5,
+    10
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 1,
+  "origin": {
+    "region": "América Central (Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica)",
+    "countries": [
+      "Guatemala",
+      "Honduras",
+      "El Salvador",
+      "Nicaragua",
+      "Costa Rica"
+    ],
+    "basin": "Ríos del Pacífico centroamericano, especialmente río Río Grande de Térraba",
+    "habitat": "Aguas claras o turbias de corriente moderada sobre fondo rocoso y arenoso.",
+    "wild_params": "pH 6.5–8.0, GH 8–20, temperatura 22–28 °C."
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena gruesa o grava media. Cuevas de cerámica, PVC o coco hueco OBLIGATORIAS para desovar. Excava activamente — anclar la decoración.",
+  "lighting": "Moderada",
+  "description": "El Cíclido Convicto (Amatitlania nigrofasciata) es originario de América Central, desde Guatemala hasta Costa Rica. Su nombre viene del patrón de rayas verticales negras sobre fondo plateado-grisáceo, similar al uniforme de presidiario. Es uno de los cíclidos más fáciles de criar — forma parejas monógamas fuertes y defiende a sus crías con ferocidad.",
+  "behavior": "Forma parejas monógamas muy estables. Extraordinariamente territorial y agresivo en reproducción — puede matar peces mucho más grandes. Los machos son claramente más grandes.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Ich",
+      "cause": "Temperatura baja o estrés",
+      "solution": "Anti-ich. Elevar temperatura a 28°C."
+    },
+    {
+      "symptom": "HLLE (agujeros en cabeza)",
+      "cause": "Deficiencia nutricional",
+      "solution": "Mejorar dieta. Vitaminas. Agua limpia."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "reproduction": "Uno de los cíclidos más fáciles de reproducir. Deposita en cuevas o superficies planas. Ambos padres cuidan los huevos y las crías por semanas con extraordinaria dedicación. Los padres atacarán a cualquier intruso, incluido el cuidador.",
+  "variants": [
+    "Amatitlania nigrofasciata var. Rayado — forma tipo, gris con barras negras",
+    "Amatitlania nigrofasciata var. Albino/Rosa — cuerpo rosado, barras muy tenues"
+  ],
+  "max_size_cm": 15,
+  "lifespan_years": "8–10",
+  "feeding_detail": "Omnívoro. Gránulos de cíclidos, artemia, gusanos de sangre, verduras.",
+  "recommended_school": 1,
+  "level": "Fácil",
+  "plants": "Incompatible (las destruye)",
+  "plant_detail": "Solo plantas muy robustas o artificiales.",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día, intensidad media. La iluminación no es determinante — se adapta bien a cualquier régimen de luz.",
+  "filtration": "Filtro externo potente (4–5x el volumen/hora). La pareja en reproducción produce muchos residuos y el agua debe mantenerse impecable para las crías.",
+  "water_changes": "25% semanal",
+  "sexing": "Hembras adultas con vientre rosado-anaranjado brillante y aleta dorsal sin el filamento posterior que tienen los machos. Machos más grandes con frente más prominente.",
+  "compatibility_notes": "En reproducción, incompatible con absolutamente todo lo que no pueda defenderse de la pareja. Sin reproducción, compatible con cíclidos centroamericanos robustos de tamaño similar.",
+  "iucn": "No evaluado",
+  "market_notes": "Cría en pareja. Muy territorial con crías.",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

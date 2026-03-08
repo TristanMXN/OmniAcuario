@@ -1,0 +1,72 @@
+{
+  "order": "Anabantiformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    5,
+    10
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 1,
+  "origin": {
+    "region": "Sudeste Asiático",
+    "countries": [
+      "Malasia",
+      "Indonesia",
+      "Tailandia"
+    ],
+    "basin": "Pantanos de turba de Sumatra, Borneo y Península Malaya",
+    "habitat": "Pantanos de turba, ríos lentos de aguas oscuras y ácidas bajo dosel forestal denso",
+    "wild_params": "pH 4.5–7.0, GH 1–8, temperatura 22–28 °C"
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava suave"
+  ],
+  "substrate_detail": "Sustrato oscuro con vegetación densa. Plantas flotantes (Pistia, Salvinia) esenciales para que el macho construya el nido de burbujas.",
+  "lighting": "Moderada",
+  "description": "El Gurami Perla (Trichopodus leerii) es originario de la Península Malaya, Sumatra y Borneo, habitando pantanos de turba y ríos de aguas oscuras ácidas bajo bosque denso. Su cuerpo cubierto de manchas blancas iridiscentes y la línea lateral oscura que recorre de la boca a la cola lo hacen uno de los laberínticos más elegantes del hobby. Los machos maduros presentan el pecho y el vientre de color rojo-naranja intenso.",
+  "behavior": "Pacífico y elegante. Los machos maduros pueden ser levemente territoriales entre sí en acuarios pequeños. Compatible con la mayoría de peces no agresivos. Respira en superficie regularmente.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Úlceras en el cuerpo, aletas descompuestas",
+      "cause": "Columnaris bacteriana / Aeromonas",
+      "solution": "Antibiótico (Kanamicina o Eritromicina). Agua limpia. Sal 1 g/L."
+    },
+    {
+      "symptom": "Puntos blancos tipo sal",
+      "cause": "Ich",
+      "solution": "Anti-ich a 28 °C. Cambios diarios."
+    },
+    {
+      "symptom": "Nodo de burbujas no se construye",
+      "cause": "Corriente excesiva, falta de plantas flotantes, temperatura baja o ausencia de hembra",
+      "solution": "Reducir filtración, añadir plantas flotantes, elevar temperatura a 27–28 °C."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "max_size_cm": 12,
+  "lifespan_years": "4–5",
+  "feeding_detail": "Omnívoro. Acepta escamas, gránulos, artemia, dafnia, vegetales. Come insectos de la superficie con la boca terminal especializada. 2 veces al día.",
+  "recommended_school": 2,
+  "level": "Fácil",
+  "plants": "Recomendadas",
+  "plant_detail": "Plantas flotantes (Salvinia, Pistia) para la construcción del nido de burbujas.",
+  "light": "Baja–Media",
+  "light_detail": "8–10 h/día, intensidad suave-media. Las plantas flotantes filtran la luz creando el ambiente difuso que prefiere.",
+  "filtration": "Filtro de esponja o externo de bajo caudal. La corriente fuerte destruye el nido de burbujas en superficie.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Macho con aleta dorsal puntiaguda y franja ventral naranja-roja intensa en reproducción. Hembra con aleta dorsal redondeada y sin el color naranja.",
+  "reproduction": "El macho construye un nido de burbujas bajo hojas flotantes. Tras la freza, el macho custodia los huevos — retirar la hembra después. El macho cuida las larvas hasta que nadan libremente.",
+  "compatibility_notes": "Uno de los guramis más pacíficos. Compatible con Tetras, Corydoras y Rasboras. Solo 1 macho por acuario si hay espacio limitado — los machos se enfrentan.",
+  "iucn": "Preocupación menor (LC)",
+  "market_notes": "Disponible en tiendas especializadas. Uno de los laberínticos más recomendados por su temperamento y belleza.",
+  "class": "Actinopterygii",
+  "variants": [
+    "Trichogaster leerii — cuerpo con reticulado perlado blanco sobre marrón-rojizo"
+  ],
+  "important_notes": "El Gurami Perla es el gurami más elegante del hobby. Los puntos blancos en escamas nacaradas lo hacen único. Muy sensible al estrés — evitar cambios bruscos de parámetros."
+}

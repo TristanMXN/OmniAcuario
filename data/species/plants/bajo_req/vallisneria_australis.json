@@ -1,0 +1,79 @@
+{
+  "variants": [
+    "Vallisneria australis — hojas muy largas y anchas, verde intenso"
+  ],
+  "description": "La Vallisneria Gigante (Vallisneria australis) es la especie más grande del género — las hojas pueden superar el metro y medio. Originaria de Australia y partes de Asia. Requiere acuarios altos (mínimo 50cm). Misma robustez que V. spiralis pero con mayor impacto visual.",
+  "origin": {
+    "region": "Australia y Asia",
+    "countries": [
+      "Australia",
+      "Indonesia",
+      "Filipinas"
+    ],
+    "basin": "Australia y partes de Asia tropical",
+    "habitat": "Lagos y ríos lentos de agua dura con fondo arenoso.",
+    "wild_params": "pH 6.5–8.5, GH 5–20, temperatura 18–30 °C."
+  },
+  "max_size_cm": 150,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": false,
+  "fertilizer": "Fertilizante líquido básico con hierro.",
+  "uses": "Planta de cinta gigante para fondos de acuarios grandes. Fondo trasero imponente.",
+  "propagation": "Estolones — separar plantas hijas.",
+  "substrate": [
+    "Arena",
+    "Grava",
+    "Sustrato nutritivo"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Media",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Menos común que V. spiralis. Requiere acuarios altos (60cm+).",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Hojas muy largas (hasta 1.5m) que se doblan en superficie. Solo para acuarios altos (60cm+).",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Combinar con plantas de primer plano que no requieran luz plena.",
+  "co2_detail": "No necesario."
+}

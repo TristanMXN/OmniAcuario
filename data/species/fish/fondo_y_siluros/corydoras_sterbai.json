@@ -1,0 +1,70 @@
+{
+  "order": "Siluriformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    6,
+    7
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 6,
+  "origin": {
+    "region": "Sudamérica",
+    "countries": [
+      "Brasil",
+      "Bolivia"
+    ],
+    "basin": "Cuenca del río Guaporé — afluente del Amazonas",
+    "habitat": "Ríos de arena limpia, aguas cálidas y blandas, bajo dosel forestal",
+    "wild_params": "pH 6.0–7.5, GH 2–10, temperatura 24–30 °C"
+  },
+  "substrate": [
+    "Arena fina"
+  ],
+  "substrate_detail": "Arena fina y suave OBLIGATORIA — las barbillas se infectan irreversiblemente con grava. Color oscuro del sustrato resalta el patrón punteado.",
+  "lighting": "Moderada",
+  "description": "El Corydoras Sterbai (Corydoras sterbai) es originario de la cuenca del Guaporé en la frontera Brasil-Bolivia. Uno de los corydoras más apreciados por su patrón de manchas blancas sobre fondo oscuro en el cuerpo y las aletas pectorales con espinas naranja-amarillas. Es notable por su tolerancia a temperaturas altas (hasta 30 °C), haciéndolo el corydoras más adecuado para acuarios de Discus.",
+  "behavior": "Muy pacífico. Cardumen obligatorio de mínimo 5–6. Activo principalmente al amanecer y atardecer. Excelente compañero de Discus por tolerar 28–30 °C. Compatible con todos los peces pacíficos.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Barbillones erosionados o cortos",
+      "cause": "Sustrato incorrecto o agua contaminada",
+      "solution": "Cambiar a arena fina. Limpiar el fondo con sifón regularmente."
+    },
+    {
+      "symptom": "Puntos blancos, frotamiento",
+      "cause": "Ich",
+      "solution": "Anti-ich a temperatura de 28 °C (ya tolera esa temperatura)."
+    },
+    {
+      "symptom": "Parásitos intestinales, heces blancas",
+      "cause": "Capillaria u otros nematodos",
+      "solution": "Levamisol o Fenbendazol. Tratamiento preventivo recomendado tras compra."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "max_size_cm": 7,
+  "lifespan_years": "8–10",
+  "feeding_detail": "Omnívoro bentónico. Pastillas de fondo, artemia congelada, gusanos de sangre, tabletas de espirulina. Alimentar al apagar las luces. Requiere alimento rico en proteína para mantener las aletas en buen estado.",
+  "recommended_school": 6,
+  "level": "Fácil",
+  "plants": "Recomendadas",
+  "plant_detail": "Plantas tolerantes a temperatura alta: Vallisneria, Echinodorus.",
+  "light": "Baja–Media",
+  "light_detail": "8 h/día, cualquier intensidad. Vive en el fondo — la luz no afecta directamente su comportamiento.",
+  "filtration": "Filtro con buena circulación en el fondo. Aspirar el sustrato en cada cambio de agua — los nitritos acumulados en el fondo los enferman.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Hembras más anchas y redondeadas vistas desde arriba, especialmente en condición reproductiva.",
+  "reproduction": "La hembra transporta los huevos pegados entre las aletas ventrales y los deposita en superficies limpias (cristal, hojas). Sin cuidado parental.",
+  "compatibility_notes": "Compatible con Discus (tolera temperaturas altas — el único Corydoras que puede convivir con Discus), Tetras y Gurami de perla.",
+  "iucn": "Preocupación menor (LC)",
+  "market_notes": "Disponible en tiendas especializadas. Precio mayor que Corydoras aeneus por menor disponibilidad.",
+  "class": "Actinopterygii",
+  "variants": [
+    "Corydoras sterbai — puntos blancos sobre fondo oscuro, aletas ventrales naranja"
+  ],
+  "important_notes": "C. sterbai es el único Corydoras que tolera temperaturas altas (hasta 30°C) — compatible con Discus. Sus aletas pectorales tienen espinas afiladas que se enganchan en redes."
+}

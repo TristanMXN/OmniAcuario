@@ -1,0 +1,68 @@
+{
+  "order": "Anabantiformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    20,
+    30
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 2,
+  "origin": {
+    "region": "Asia (SE Asia — Tailandia, Indonesia, Malasia)",
+    "countries": [
+      "Tailandia",
+      "Indonesia",
+      "Malasia"
+    ],
+    "basin": "Ríos, lagunas y arrozales del SE asiático",
+    "habitat": "Aguas lentas con vegetación densa y abundante materia vegetal.",
+    "wild_params": "pH 6.0–8.0, GH 5–20, temperatura 22–28 °C."
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena fina o grava. Sin plantas blandas — las come activamente. Solo Anubias y helechos de Java resistentes atados a roca. Espacio amplio para nadar.",
+  "lighting": "Moderada",
+  "description": "El Gurami Besucón (Helostoma temminckii) es originario del SE asiático, desde Tailandia hasta Indonesia. Sus labios gruesos y la conducta de 'besarse' con otros individuos es en realidad un ritual de dominancia: los dos peces se empujan mutuamente midiendo su fuerza. Crece hasta 30cm — frecuentemente comprado pequeño y abandonado cuando alcanza su tamaño adulto.",
+  "behavior": "Los 'besos' son duelos de dominancia, no afecto. Puede intimidar a peces más pequeños. Come plantas activamente — no apto para acuarios plantados.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Ich",
+      "cause": "Temperatura baja",
+      "solution": "Anti-ich. Elevar temperatura."
+    },
+    {
+      "symptom": "Infección de labios",
+      "cause": "Peleas o bacterias",
+      "solution": "Antibiótico tópico. Separar si es grave."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "reproduction": "Ovíparo de freza libre sin cuidado parental. Los huevos flotan hacia la superficie. Freza de 1000–10000 huevos. La reproducción en acuario doméstico es muy difícil.",
+  "variants": [
+    "Helostoma temminckii — forma tipo, verde-grisácea silvestre",
+    "Helostoma temminckii var. Rosa — albino/rosado, la más común en tiendas"
+  ],
+  "max_size_cm": 30,
+  "lifespan_years": "7–10",
+  "feeding_detail": "Herbívoro-omnívoro. Escamas con espirulina, verduras, algas, artemia ocasional.",
+  "recommended_school": 1,
+  "level": "Fácil",
+  "plants": "Incompatible (come plantas)",
+  "plant_detail": "Devora plantas blandas activamente.",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día, intensidad media-alta. La buena iluminación favorece el crecimiento de algas blandas que complementan su dieta herbívora.",
+  "filtration": "Filtro externo o interior potente. El Gurami Besucón llega a 30 cm — produce residuos considerables. Cambios 25–30% semanales.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Prácticamente imposible externamente. Las hembras pueden ser ligeramente más redondeadas en el abdomen durante la puesta. Ambos sexos se 'besan' — el beso no indica el sexo.",
+  "compatibility_notes": "Semi-agresivo. Los 'besos' son duelos de dominancia que pueden estressar a peces más pequeños. Compatible con peces de tamaño similar. Incompatible con peces < 8 cm.",
+  "iucn": "No evaluado",
+  "market_notes": "Crece mucho (30cm). Necesita acuario grande.",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

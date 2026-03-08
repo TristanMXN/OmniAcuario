@@ -1,0 +1,73 @@
+{
+  "order": "Cypriniformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    5,
+    10
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 1,
+  "origin": {
+    "region": "Asia Oriental (China)",
+    "countries": [
+      "China"
+    ],
+    "basin": "Domesticado — todas las poblaciones actuales son cautivas",
+    "habitat": "En estado salvaje: lagos y ríos lentos de agua fría con vegetación. En acuario: agua fría y filtración potente.",
+    "wild_params": "pH 6.5–8.0, GH 8–20, temperatura 10–22 °C."
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Grava gruesa o piedra grande — evitar grava pequeña que el Goldfish pueda tragar. Sin plantas blandas que destruya. Macrófitas resistentes (Anubias, Java Fern) ancladas.",
+  "lighting": "Moderada",
+  "description": "El Goldfish (Carassius auratus) es la especie de acuario más antigua del mundo, domesticada en China hace más de 1.000 años. Existen más de 200 variedades seleccionadas. Es un pez de agua fría (18–22°C) que produce enormes cantidades de desechos nitrogenados — requiere filtración muy potente. Incompatible con peces tropicales por temperatura.",
+  "behavior": "Activo en la columna de agua. Muy tolerante y resistente. Come constantemente — propenso a sobrealimentación. La variedad Oranda y Ranchu nadan lentamente por sus aletas modificadas.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Enfermedad del punto negro",
+      "cause": "Trematodos",
+      "solution": "Tratamiento antiparasitario específico."
+    },
+    {
+      "symptom": "Infección bacteriana (úlceras)",
+      "cause": "Mala calidad de agua o heridas",
+      "solution": "Mejorar filtración. Antibiótico de amplio espectro."
+    },
+    {
+      "symptom": "Vejiga natatoria (nado irregular)",
+      "cause": "Sobrealimentación o infección interna",
+      "solution": "Ayuno 3 días. Ofrecer guisantes cocidos sin piel."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "variants": [
+    "Carassius auratus var. Oranda — capucha carnosa (wen) sobre la cabeza",
+    "Carassius auratus var. Telescopio — ojos protruberantes (Black Moor es variante negra)",
+    "Carassius auratus var. Cometa — cuerpo fusiforme, aleta caudal muy elongada",
+    "Carassius auratus var. Ranchu — sin aleta dorsal, lomo arqueado prominente"
+  ],
+  "max_size_cm": 30,
+  "lifespan_years": "10–15",
+  "feeding_detail": "Gránulos específicos para goldfish, verduras blanqueadas, dafnia. 2–3 veces al día en pequeñas cantidades.",
+  "recommended_school": 1,
+  "level": "Fácil",
+  "plants": "Opcional (los devoran)",
+  "plant_detail": "Solo plantas muy duras o artificiales.",
+  "light": "Moderada",
+  "light_detail": "8–12 h/día, intensidad media-alta. Especie que puede vivir en exterior con luz natural. Ciclo de luz regular importante para su ritmo circadiano.",
+  "filtration": "Filtro externo muy potente (6–8x el volumen/hora) — el Goldfish produce 3–4 veces más residuos que un pez tropical del mismo tamaño. Cambios 30% semanales mínimo.",
+  "water_changes": "25–30% semanal",
+  "sexing": "Machos en época reproductiva con tubérculos blancos (puntos blancos ásperos) en el opérculo y aleta pectoral. Hembras más redondeadas desde arriba cuando llenas de huevos.",
+  "reproduction": "Ovíparo en primavera. Los machos persiguen intensamente a las hembras hasta que ellas depositan los huevos sobre plantas. La fertilización es externa. Sin cuidado parental.",
+  "compatibility_notes": "Solo con otros Goldfish de temperatura similar. Incompatible con peces tropicales (temperatura incompatible) y con peces pequeños que caben en su boca. Fantail y Oranda son lentos — no mezclar con variedades de cuerpo alargado.",
+  "iucn": "No evaluado",
+  "market_notes": "Especie de agua fría (18–22°C). No mezclar con tropicales.",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

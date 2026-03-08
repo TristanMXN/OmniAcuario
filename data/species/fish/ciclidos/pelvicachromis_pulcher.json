@@ -1,0 +1,51 @@
+{
+  "variants": [
+    "Pelvicachromis pulcher — forma tipo, vientre violeta-rosa en hembras",
+    "Pelvicachromis pulcher var. Albino — cuerpo pálido, vientre rosado"
+  ],
+  "description": "El Kribensis (Pelvicachromis pulcher) es originario de los ríos del delta del Níger en Nigeria y Camerún. Es el cíclido africano más popular para acuarios comunitarios por su tamaño pequeño (10cm) y comportamiento relativamente pacífico. Las hembras desarrollan un vientre violeta-rosa intenso en reproducción. El cuidado parental en pareja es un espectáculo educativo.",
+  "origin": {
+    "region": "África Occidental (Nigeria, Camerún)",
+    "countries": [
+      "Nigeria",
+      "Camerún"
+    ],
+    "basin": "Delta del río Níger y ríos costeros de Camerún",
+    "habitat": "Aguas de dureza variable — desde blandas y ácidas hasta duras y alcalinas.",
+    "wild_params": "pH 5.5–8.0, GH 2–20, temperatura 24–28 °C."
+  },
+  "max_size_cm": 10,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Omnívoro. Gránulos, artemia, gusanos de sangre, vegetales. 2 veces al día.",
+  "behavior": "Pacífico excepto en reproducción. La hembra protege agresivamente la puesta.",
+  "recommended_school": 1,
+  "level": "Fácil",
+  "substrate": [
+    "Arena fina"
+  ],
+  "substrate_detail": "Arena fina con cuevas pequeñas (cocos huecos, cuevas de cerámica, tubos de PVC de 4cm) OBLIGATORIAS para la reproducción. Vegetación densa.",
+  "plants": "Recomendadas",
+  "plant_detail": "Acuario plantado con cuevas. Las plantas no sufren.",
+  "light": "Media",
+  "light_detail": "8–10 h/día, intensidad media. Los colores del macho — azul, verde y naranja — se muestran mejor con iluminación lateral.",
+  "filtration": "Filtro externo o de esponja de caudal moderado. Agua de dureza muy variable (pH 5.5–8.0) — una de las especies más tolerantes a parámetros.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Hembras con vientre violeta-rosado brillante INTENSO en condición reproductiva — el indicador más claro. Machos más grandes y con aleta dorsal más puntiaguda.",
+  "reproduction": "Ovíparo en cuevas. La hembra incuba y cuida los huevos sola. El macho defiende el exterior de la cueva. Las crías salen en 4–5 días y son cuidadas activamente por la hembra.",
+  "compatibility_notes": "Pacífico excepto en reproducción donde defiende agresivamente la cueva. Compatible con Tetras de África Occidental, Corydoras y peces de zona media. Un par por acuario.",
+  "diseases": [
+    {
+      "symptom": "Ich",
+      "cause": "Temperatura baja",
+      "solution": "Anti-ich."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Excelente para observar comportamiento parental. Cuevas obligatorias.",
+  "order": "Cichliformes",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

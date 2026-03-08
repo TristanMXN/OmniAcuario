@@ -1,0 +1,55 @@
+{
+  "variants": [
+    "Palaemonetes paludosus — completamente transparente, órganos visibles"
+  ],
+  "description": "El Camarón Fantasma (Palaemonetes paludosus) es originario del sureste de EE.UU., habitando en ríos, lagos y pantanos de agua dulce. Su cuerpo completamente transparente — donde se pueden ver sus órganos internos en funcionamiento — lo hace fascinante. Frecuentemente vendido como alimento vivo para peces, pero también es una especie ornamental interesante y muy fácil de mantener.",
+  "origin": {
+    "region": "América del Norte (sureste de EE.UU.)",
+    "countries": [
+      "EE.UU."
+    ],
+    "basin": "Ríos y lagos del sureste norteamericano",
+    "habitat": "Ríos, arroyos y lagos de agua dulce de Norteamérica. Zonas con corriente lenta y vegetación acuática.",
+    "wild_params": "pH 7.0–8.0, GH 6–20, temperatura 20–26 °C."
+  },
+  "max_size_cm": 5,
+  "lifespan_years": "1–2",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Omnívoro oportunista. Come biofilm, algas, restos de alimento, materia orgánica. Suplementar con alimento para camarones o tabletas de verduras.",
+  "behavior": "Activo y exploratorio. Menos tímido que otras gambas. Compatible con peces pequeños. Se puede mantener con vivíparos, tetras pequeños y corydoras.",
+  "recommended_school": 5,
+  "level": "Fondo / Todas las zonas",
+  "substrate": [
+    "Arena fina",
+    "Grava fina"
+  ],
+  "substrate_detail": "Sin preferencias especiales. Vegetación densa para refugio.",
+  "plants": "Recomendadas",
+  "plant_detail": "Cualquier planta. Las plantas flotantes y musgos son especialmente apreciados.",
+  "light": "Baja-Media",
+  "light_detail": "8 h/día.",
+  "filtration": "Filtración suave. Proteger entradas de filtro.",
+  "water_changes": "15–20% semanal",
+  "sexing": "Hembras más grandes y con abdomen más desarrollado para portar huevos.",
+  "reproduction": "Relativamente fácil en agua dulce. La hembra lleva huevos verdes bajo el abdomen. Las crías son larvas planctónicas que necesitan agua envejecida y fitoplancton.",
+  "compatibility_notes": "Compatible con peces pequeños pacíficos. Peces medianos los comen — usar como alimento vivo o mantener sin peces depredadores.",
+  "diseases": [
+    {
+      "symptom": "Muerte súbita",
+      "cause": "Cobre o cambios bruscos de pH",
+      "solution": "Cambio de agua. Carbón activo. Estabilizar parámetros."
+    },
+    {
+      "symptom": "Color amarillo-naranja en órganos",
+      "cause": "Parásito Thelohania (microsporidio)",
+      "solution": "Sin cura. Retirar ejemplar infectado."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Muy económico. En tiendas a menudo vendido como alimento vivo. Excelente para principiantes.",
+  "order": "Decapoda",
+  "class": "Malacostraca",
+  "important_notes": "El Camarón Fantasma es la especie de camarón más económica y resistente. Frecuentemente usado como alimento vivo para peces grandes. Completamente transparente."
+}

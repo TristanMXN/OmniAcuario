@@ -1,0 +1,70 @@
+{
+  "order": "Characiformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    5,
+    6
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 6,
+  "origin": {
+    "region": "América del Sur (Brasil, Bolivia, Paraguay)",
+    "countries": [
+      "Brasil",
+      "Bolivia",
+      "Paraguay"
+    ],
+    "basin": "Cuencas de los ríos Paraguay, Guaporé y Bermejo",
+    "habitat": "Aguas claras de corriente moderada a lenta con vegetación.",
+    "wild_params": "pH 6.0–8.0, GH 4–18, temperatura 20–26 °C."
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena fina o grava pequeña. Sustrato oscuro resalta el contraste negro-plateado del cuerpo. Vegetación lateral con espacio abierto para nadar.",
+  "lighting": "Moderada",
+  "description": "El Tetra de Falda Negra (Gymnocorymbus ternetzi) es originario de las cuencas del río Paraguay y Guaporé en Brasil y Bolivia. Su característica distintiva son las aletas dorsales y anales de un negro intenso que contrasta con el cuerpo plateado. Existe en numerosas variedades de acuario: albino, velo, e incluso versiones fluorescentes transgénicas (GloFish). Semi-agresivo — puede morder aletas.",
+  "behavior": "Semi-agresivo — puede morder aletas largas especialmente de Bettas y Gouramis. En cardumen de 6+ la agresividad intraespecífica reduce. Muy activo y rápido.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Ich",
+      "cause": "Temperatura baja",
+      "solution": "Anti-ich. Elevar temperatura a 28°C."
+    },
+    {
+      "symptom": "Pudrición de aletas",
+      "cause": "Mala calidad de agua",
+      "solution": "Antibiótico. Mejorar filtración."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "variants": [
+    "Gymnocorymbus ternetzi — aleta anal y dorsal negras características",
+    "Gymnocorymbus ternetzi var. Velo — aletas elongadas",
+    "Gymnocorymbus ternetzi var. Albino — cuerpo blanco, aletas translúcidas",
+    "Gymnocorymbus ternetzi var. GloFish — transgénico fluorescente"
+  ],
+  "max_size_cm": 6,
+  "lifespan_years": "3–5",
+  "feeding_detail": "Omnívoro. Escamas, gránulos, artemia congelada. 2 veces al día.",
+  "recommended_school": 6,
+  "level": "Fácil",
+  "plants": "Recomendadas",
+  "plant_detail": "Compatible con plantas. Acuario moderadamente plantado.",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día, intensidad media. Tolera bien variaciones de iluminación — especie robusta y adaptable.",
+  "filtration": "Filtro externo o interior de caudal moderado. Especie resistente — tolera cierta variación en parámetros. pH 6.0–8.0.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Hembras notablemente más redondeadas y voluminosas en el abdomen cuando llenas de huevos. Los machos tienen la aleta anal con un ligero borde blanco más definido.",
+  "reproduction": "Ovíparo de freza libre entre plantas finas. Sin cuidado parental — los adultos comen los huevos. Retirar adultos tras la freza. Agua ligeramente ácida y blanda.",
+  "compatibility_notes": "Semi-agresivo — muerde aletas largas de Bettas, Guramis y Guppys fancy. Compatible con peces de aletas cortas: Tetras, Corydoras, Rasboras. En cardumen de 6+ mejora el comportamiento.",
+  "iucn": "No evaluado",
+  "market_notes": "Muy popular. Robusto y fácil.",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

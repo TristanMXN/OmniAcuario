@@ -1,0 +1,83 @@
+{
+  "variants": [
+    "Nymphaea lotus var. Roja — hojas púrpura-rojizas con manchas",
+    "Nymphaea lotus var. Verde — hojas verdes con manchas rojizas",
+    "Nota: tiende a enviar hojas flotantes que dan sombra — podar regularmente"
+  ],
+  "description": "La Nymphaea Lotus es originaria de Egipto y África tropical. Planta de bulbo que puede alcanzar grandes dimensiones. Sus hojas rojas o verdes moteadas son muy llamativas. Tiende a dominar el acuario enviando hojas flotantes — podar regularmente para mantener compacta.",
+  "origin": {
+    "region": "África (Egipto, África tropical) y Asia (SE Asia)",
+    "countries": [
+      "Egipto",
+      "Uganda",
+      "Tanzania",
+      "India",
+      "Tailandia",
+      "Vietnam"
+    ],
+    "basin": "Lagos y ríos lentos de Egipto, África tropical y SE Asia",
+    "habitat": "En aguas poco profundas con fondo fangoso rico en nutrientes.",
+    "wild_params": "pH 5.5–8.0, GH 5–20, temperatura 22–30 °C."
+  },
+  "max_size_cm": 50,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": false,
+  "fertilizer": "Fertilizante en pastillas en el sustrato. Líquido completo semanal.",
+  "uses": "Planta de bulbo de gran tamaño. Hojas rojas o verdes espectaculares.",
+  "propagation": "Semillas o división del bulbo.",
+  "substrate": [
+    "Sustrato nutritivo",
+    "Arena con pastillas de fondo"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Media",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Disponible. Podar hojas flotantes para mantener las sumergidas.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Roseta bulbosa que produce hojas sumergidas y flotantes. Controlar hojas flotantes para mantener las sumergidas.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con plantas de primer plano. Las hojas flotantes pueden sombear el fondo.",
+  "co2_detail": "No necesario."
+}

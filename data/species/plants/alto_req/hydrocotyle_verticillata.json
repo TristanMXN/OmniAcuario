@@ -1,0 +1,79 @@
+{
+  "variants": [
+    "Hydrocotyle verticillata — hojas circulares perfectas de 1–3cm sobre tallos verticales"
+  ],
+  "description": "La Hydrocotyle Verticillata es originaria de América. Sus hojas circulares perfectas dispuestas sobre tallos rectos como mini-parasoles son completamente únicas. Puede crecer rastrera o erecta. Con CO₂ y luz intensa crea alfombras de parasoles superpuestos muy llamativas.",
+  "origin": {
+    "region": "América del Norte y del Sur",
+    "countries": [
+      "EE.UU.",
+      "México",
+      "Brasil",
+      "Argentina"
+    ],
+    "basin": "Orillas de ríos y lagunas de América del Norte y del Sur",
+    "habitat": "Emergente o sumergida en bordes húmedos con luz directa.",
+    "wild_params": "pH 5.5–7.5, GH 2–12, temperatura 18–28 °C."
+  },
+  "max_size_cm": 10,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": true,
+  "fertilizer": "CO₂ + fertilización completa.",
+  "uses": "Tapizante o planta de tallo con hojas circulares perfectas en parasol.",
+  "propagation": "Rizomas rastreros o esquejes del tallo.",
+  "substrate": [
+    "Sustrato nutritivo",
+    "Arena fina"
+  ],
+  "substrate_detail": "Sustrato nutritivo para mejores resultados.",
+  "light": "Alta",
+  "light_detail": "10–12 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Disponible en tiendas especializadas. Parasoles únicos entre las tapizantes.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Tapizante con hojas circulares en parasol dispuestas en espiral. Efecto tridimensional único.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con tapizantes planas (Hairgrass) para contraste de formas.",
+  "co2_detail": "Recomendado. Sin CO₂ crece vertical en lugar de rastrera."
+}

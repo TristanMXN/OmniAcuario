@@ -1,0 +1,67 @@
+{
+  "order": "Cichliformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    25,
+    30
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 1,
+  "origin": {
+    "region": "África Oriental (Lago Malawi)",
+    "countries": [
+      "Malawi",
+      "Tanzania",
+      "Mozambique"
+    ],
+    "basin": "Lago Malawi — aguas abiertas y zonas de arena intermedia",
+    "habitat": "Zonas intermedias de arena entre zonas rocosas, 3–30m de profundidad.",
+    "wild_params": "pH 7.8–8.8, GH 12–20, temperatura 24–28 °C."
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena de lago Malawi o aragonita. Zona arenosa amplia con algunas rocas — especie que excava entre arena.",
+  "lighting": "Moderada",
+  "description": "El Venustus (Nimbochromis venustus) es originario del Lago Malawi. Su coloración es única: reticulado amarillo sobre fondo azul-verde metálico con cabeza amarilla. En la naturaleza usa una táctica de caza depredadora: se tumba de lado en el fondo simulando estar muerto para atraer carroñeros que luego caza. Cíclido grande que requiere instalaciones serias.",
+  "behavior": "Depredador activo. Caza simulando estar muerto. Agresivo con peces más pequeños. Necesita mucho espacio — mínimo 400L para adultos.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Malawi Bloat",
+      "cause": "Hexamita o exceso de proteína",
+      "solution": "Metronidazol urgente."
+    },
+    {
+      "symptom": "HLLE",
+      "cause": "Deficiencia nutricional",
+      "solution": "Mejorar dieta. Vitaminas."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "reproduction": "Incubadora bucal — la hembra incuba los huevos en la boca. Las crías son grandes y completamente formadas.",
+  "variants": [
+    "Nimbochromis venustus — reticulado amarillo sobre fondo azul, cabeza amarilla"
+  ],
+  "max_size_cm": 25,
+  "lifespan_years": "8–12",
+  "feeding_detail": "Carnívoro. Gránulos de cíclidos grandes, peces pequeños, filetes congelados.",
+  "recommended_school": 1,
+  "level": "Intermedio",
+  "plants": "Incompatible",
+  "plant_detail": "Agua alcalina dura del Lago Malawi.",
+  "light": "Moderada",
+  "light_detail": "10–12 h/día, intensidad alta. La iluminación intensa resalta el reticulado dorado único de sus escamas.",
+  "filtration": "Filtro externo muy potente. pH 7.8–8.8, GH 12–20 obligatorios. Alta oxigenación.",
+  "water_changes": "25–30% semanal",
+  "sexing": "Macho: reticulado dorado con cabeza amarilla y cuerpo azul. Hembra: mismo reticulado pero sin los tonos azules y amarillos brillantes del macho.",
+  "compatibility_notes": "Solo con haps y peacocks del lago Malawi de tamaño similar. Incompatible con mbunas pequeños — los caza.",
+  "iucn": "No evaluado",
+  "market_notes": "Necesita acuario de 400L+ para adultos.",
+  "class": "Actinopterygii",
+  "important_notes": "El Venustus simula estar muerto en el fondo para atraer a peces carroñeros que luego atrapa — única técnica de caza documentada en cíclidos del lago Malawi."
+}

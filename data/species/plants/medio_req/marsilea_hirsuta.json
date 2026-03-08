@@ -1,0 +1,77 @@
+{
+  "variants": [
+    "Marsilea hirsuta — hojitas de 4 lóbulos tipo trébol, muy pequeñas"
+  ],
+  "description": "La Marsilea (Marsilea hirsuta) es originaria de Australia. Sus hojas en forma de trébol de cuatro hojitas son únicas entre las plantas de acuario. Crea una alfombra baja y densa con buena luz. Más tolerante que otras tapizantes — aguanta condiciones moderadas.",
+  "origin": {
+    "region": "Australia",
+    "countries": [
+      "Australia",
+      "Nueva Zelanda"
+    ],
+    "basin": "Bordes de lagos y ríos de Australia",
+    "habitat": "Emergente o sumergida en aguas poco profundas.",
+    "wild_params": "pH 6.0–7.5, GH 3–15, temperatura 18–28 °C."
+  },
+  "max_size_cm": 5,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": true,
+  "fertilizer": "Fertilizante completo. CO₂ mejora la densidad de la alfombra.",
+  "uses": "Tapizante de primer plano con hojas en forma de trébol de 4 hojas.",
+  "propagation": "Rizomas rastreros. Se extiende sola.",
+  "substrate": [
+    "Arena fina",
+    "Sustrato nutritivo"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Media",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Disponible. Trébol de cuatro hojas único entre las acuáticas.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Tapizante con hojas en forma de trébol de cuatro hojas. Crecimiento rastrero lento.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con otras tapizantes de baja demanda.",
+  "co2_detail": "No necesario pero beneficia el crecimiento rastrero."
+}

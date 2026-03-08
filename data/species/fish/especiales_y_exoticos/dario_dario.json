@@ -1,0 +1,50 @@
+{
+  "variants": [
+    "Dario dario — macho rojo intenso con rayas azules iridiscentes. Hembra marrón apagada."
+  ],
+  "description": "El Badis Escarlata (Dario dario) es el pez de acuario más pequeño del mundo junto a la Rasbora Chili, originario de los ríos tributarios del Brahmaputra en India. El macho es de un rojo-naranja intenso con rayas azul iridiscente — espectacular para su tamaño de 2cm. NUNCA acepta alimento seco — solo vivo o congelado.",
+  "origin": {
+    "region": "Asia del Sur (India — Bengala Occidental y Bangladés)",
+    "countries": [
+      "India",
+      "Bangladés"
+    ],
+    "basin": "Ríos tributarios del Brahmaputra en Bengala Occidental, India",
+    "habitat": "Arroyos poco profundos con vegetación densa y corriente lenta.",
+    "wild_params": "pH 6.0–7.5, GH 2–12, temperatura 18–24 °C."
+  },
+  "max_size_cm": 2,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Carnívoro estricto. SOLO come alimento vivo o congelado: artemia, dafnia, copépodos. NO acepta seco.",
+  "behavior": "Semi-agresivo entre machos. Solo 1 macho por acuario pequeño. Muy territorial.",
+  "recommended_school": 1,
+  "level": "Intermedio",
+  "substrate": [
+    "Arena fina oscura"
+  ],
+  "substrate_detail": "Arena oscura fina con musgos de Java y plantas pequeñas. El fondo vegetado replica los arroyos de Bengala donde vive. Refugios pequeños entre plantas.",
+  "plants": "Recomendadas",
+  "plant_detail": "Muy recomendadas. Vegetación densa para territorios.",
+  "light": "Media",
+  "light_detail": "8–10 h/día, intensidad suave. Zonas de sombra entre plantas son esenciales para que los machos exhiban territorios y se sientan seguros.",
+  "filtration": "Filtro de esponja de flujo mínimo. Agua blanda a moderada (GH 2–12, pH 6.0–7.5). Especie que no tolera nitratos elevados.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Machos con rojo-naranja intenso y rayas azul iridiscente en el cuerpo — espectacular. Hembras marrón-oliva completamente apagadas sin ninguna de las bandas del macho.",
+  "reproduction": "Ovíparo. El macho cuida el territorio y la puesta. Solo acepta alimento vivo — los huevos solo se consiguen con artemia recién eclosionada.",
+  "compatibility_notes": "Solo con peces nano muy pacíficos que no compitan por el alimento. Incompatible con cualquier pez que sea más rápido — el Badis nunca obtiene comida.",
+  "diseases": [
+    {
+      "symptom": "No come",
+      "cause": "Solo acepta vivo o congelado",
+      "solution": "Ofrecer artemia o dafnia congelada. Nunca alimento seco."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "La especie más pequeña del hobby. NUNCA acepta alimento seco.",
+  "order": "Perciformes",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

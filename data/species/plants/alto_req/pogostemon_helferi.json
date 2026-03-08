@@ -1,0 +1,75 @@
+{
+  "variants": [
+    "Pogostemon helferi — hojas muy onduladas y dentadas verde claro, roseta compacta"
+  ],
+  "description": "El Pogostemon Helferi, conocido como 'Downoi' (pequeña estrella en tailandés), es endémico del Río Atran en Tailandia. Su aspecto único — roseta de hojas muy onduladas y dentadas — es inconfundible. Planta de primer plano que no necesita ser tapizante. Difícil de mantener compacta sin CO₂.",
+  "origin": {
+    "region": "Asia (Tailandia — endémica del Río Atran)",
+    "countries": [
+      "Tailandia"
+    ],
+    "basin": "Endémica del río Atran y afluentes, Tailandia occidental",
+    "habitat": "Sumergida en ríos de corriente moderada con substrato arenoso.",
+    "wild_params": "pH 5.5–7.0, GH 2–8, temperatura 22–28 °C."
+  },
+  "max_size_cm": 8,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": true,
+  "fertilizer": "CO₂ inyectado + fertilización completa + agua blanda.",
+  "uses": "Planta roseta de primer plano con hojas onduladas únicas.",
+  "propagation": "División de la roseta en plantlets.",
+  "substrate": [
+    "Sustrato nutritivo fino"
+  ],
+  "substrate_detail": "Sustrato nutritivo para mejores resultados.",
+  "light": "Alta",
+  "light_detail": "10–12 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Conocida como 'Downoi'. Disponible en tiendas especializadas.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Planta de roseta con hojas en zigzag muy características. Apariencia de palmera tropical subacuática.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con tapizantes. Su forma única la hace punto focal entre otras plantas.",
+  "co2_detail": "Obligatorio para crecimiento compacto. Sin CO₂ crece alta y pierde la forma característica."
+}

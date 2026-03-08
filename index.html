@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+  <meta name="theme-color" content="#050e1a" />
+  <title>OmniAcuario</title>
+  <link rel="stylesheet" href="css/app.css" />
+</head>
+<body>
+
+  <!-- BUBBLE BACKGROUND -->
+  <canvas id="bubble-canvas"></canvas>
+
+  <!-- TOP BAR -->
+  <nav class="navbar">
+    <div class="navbar-inner">
+      <div class="logo" onclick="switchTab('home')" style="cursor:pointer">
+        <img src="assets/logo.png" alt="OmniAcuario" class="logo-img" />
+      </div>
+      <button class="info-btn" onclick="openInfoModal()">ℹ️</button>
+    </div>
+  </nav>
+
+  <!-- PAGES -->
+  <div id="tab-home"    class="tab-content active"></div>
+  <div id="tab-catalog" class="tab-content"></div>
+  <div id="tab-tank"    class="tab-content"></div>
+  <div id="tab-tools"   class="tab-content"></div>
+  <div id="tab-chem"    class="tab-content"></div>
+
+  <!-- DETAIL MODAL -->
+  <div id="detail-modal" class="modal-overlay hidden">
+    <div id="modal-content" class="modal-box"></div>
+  </div>
+
+  <!-- INFO MODAL -->
+  <div id="info-modal" class="modal-overlay hidden" onclick="if(event.target===this)closeInfoModal()">
+    <div class="modal-box info-modal-box">
+      <div class="info-modal-inner">
+        <div class="info-modal-header">
+          <div class="info-modal-logo">
+            <img src="assets/logo.png" alt="OmniAcuario" style="height:48px;width:auto;" />
+          </div>
+          <button class="modal-close" onclick="closeInfoModal()">×</button>
+        </div>
+        <div class="info-modal-body">
+          <div class="info-version">Versión 1.0 · Agua dulce</div>
+          <p class="info-desc">
+            <strong>OmniAcuario</strong> es una guía de referencia para acuaristas de agua dulce.
+            Incluye catálogo de 170 especies con fichas detalladas, compatibilidades en tiempo real,
+            armado de pecera virtual, calculadoras de acuario y sustrato, y módulo de química del agua.
+          </p>
+
+          <div class="info-stat-row">
+            <div class="info-stat"><span class="info-stat-n">100</span><span class="info-stat-l">Peces</span></div>
+            <div class="info-stat"><span class="info-stat-n">50</span><span class="info-stat-l">Plantas</span></div>
+            <div class="info-stat"><span class="info-stat-n">20</span><span class="info-stat-l">Invertebrados</span></div>
+            <div class="info-stat"><span class="info-stat-n">22</span><span class="info-stat-l">Sustratos</span></div>
+            <div class="info-stat"><span class="info-stat-n">17</span><span class="info-stat-l">Químicos</span></div>
+          </div>
+
+          <div class="info-section-title">Creación</div>
+          <div class="info-credit-row">
+            <span class="info-credit-icon">🎨</span>
+            <div>
+              <div class="info-credit-name">TristanMXN</div>
+              <div class="info-credit-role">Diseño, concepto y dirección de OmniAcuario</div>
+            </div>
+          </div>
+
+          <div class="info-section-title">Fuentes de referencia</div>
+          <div class="info-sources">
+            <div class="info-source">🔬 <strong>FishBase</strong> — parámetros, taxonomía y distribución de especies</div>
+            <div class="info-source">🌿 <strong>The Aquatic Plant Database (TAPD)</strong> — datos de plantas acuáticas</div>
+            <div class="info-source">🦐 <strong>ShrimpScience</strong> — camarones de agua dulce y parámetros</div>
+            <div class="info-source">🌍 <strong>IUCN Red List</strong> — estado de conservación de especies</div>
+            <div class="info-source">🖼️ <strong>Wikimedia Commons</strong> — imágenes y contenido de referencia libre</div>
+            <div class="info-source">🧪 <strong>Seachem, API, Tropica</strong> — fichas técnicas de productos</div>
+            <div class="info-source">📐 <strong>Glasscages & literatura de ingeniería</strong> — cálculos de vidrio y acuario</div>
+          </div>
+
+          <div class="info-footer">
+            El contenido es orientativo — siempre consulta con especialistas.<br/>
+            Hecho con ❤️ para la comunidad acuarística.
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- BOTTOM NAV -->
+  <nav class="bottom-nav">
+    <button class="bottom-btn active" data-tab="home">
+      <span class="bottom-icon">🏠</span>
+      <span class="bottom-label">Inicio</span>
+    </button>
+    <button class="bottom-btn" data-tab="catalog">
+      <span class="bottom-icon">📚</span>
+      <span class="bottom-label">Catálogo</span>
+    </button>
+    <button class="bottom-btn" data-tab="tank">
+      <span class="bottom-icon">🐟</span>
+      <span class="bottom-label">Mi Pecera</span>
+    </button>
+    <button class="bottom-btn" data-tab="chem">
+      <span class="bottom-icon">🧪</span>
+      <span class="bottom-label">Química</span>
+    </button>
+    <button class="bottom-btn" data-tab="tools">
+      <span class="bottom-icon">🔧</span>
+      <span class="bottom-label">Herramientas</span>
+    </button>
+  </nav>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,81 @@
+{
+  "variants": [
+    "Taxiphyllum barbieri — Musgo de Java clásico",
+    "Vesicularia dubyana — Java Moss alternativo (especie relacionada)"
+  ],
+  "description": "El Musgo de Java (Taxiphyllum barbieri) es el musgo de acuario más popular del mundo. Origen en el SE asiático. Sin necesidades especiales de luz, CO₂ ni sustrato. Se adhiere a cualquier superficie. Ecosistema completo en miniatura: acumula biofilm esencial para camarones y crías.",
+  "origin": {
+    "region": "Asia (SE Asia — Java, Sumatra)",
+    "countries": [
+      "Indonesia",
+      "Malasia",
+      "Filipinas",
+      "India"
+    ],
+    "basin": "Arroyos y zonas húmedas de Java, Sumatra y SE Asia",
+    "habitat": "Sobre rocas, raíces y corteza en zonas de corriente moderada.",
+    "wild_params": "pH 6.0–8.0, GH 2–20, temperatura 18–30 °C."
+  },
+  "max_size_cm": 5,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": false,
+  "fertilizer": "No requiere fertilización específica.",
+  "uses": "Musgo para primer plano, paredes, troncos y rocas. Refugio para crías y camarones.",
+  "propagation": "Cortar y atar porciones con hilo de algodón o red de musgo.",
+  "substrate": [
+    "Arena",
+    "Grava",
+    "Sustrato nutritivo"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Baja",
+  "light_detail": "6–8 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "El musgo más disponible y versátil. No requiere fijación permanente.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Tapizante que cubre cualquier superficie a la que se adhiere. Crecimiento moderado. Hogar de infusorios para crías.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Convive perfectamente con todas las plantas. Excelente combinación con Anubias y helechos.",
+  "co2_detail": "No necesario. Crece bien incluso con CO₂ bajo."
+}

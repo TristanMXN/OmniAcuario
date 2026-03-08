@@ -1,0 +1,81 @@
+{
+  "variants": [
+    "Vesicularia montagnei — hojas dispuestas en ángulo recto creando aspecto de abeto"
+  ],
+  "description": "El Musgo Christmas (Vesicularia montagnei) debe su nombre a su aspecto de árbol de Navidad — las hojas laterales se disponen en ángulo recto dándole ese efecto característico. Algo más exigente que el Musgo de Java pero con mayor valor decorativo.",
+  "origin": {
+    "region": "Asia (India, SE Asia)",
+    "countries": [
+      "India",
+      "Tailandia",
+      "Vietnam",
+      "Indonesia",
+      "China"
+    ],
+    "basin": "Ríos y zonas húmedas de India y SE Asia tropical",
+    "habitat": "Sobre rocas y troncos en ríos forestales con luz difusa.",
+    "wild_params": "pH 5.5–7.5, GH 2–15, temperatura 18–28 °C."
+  },
+  "max_size_cm": 10,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": false,
+  "fertilizer": "Fertilizante líquido básico. CO₂ beneficioso.",
+  "uses": "Musgo decorativo que imita ramas de árbol de Navidad. Paredes, troncos, primer plano.",
+  "propagation": "Cortar y atar porciones con hilo de algodón.",
+  "substrate": [
+    "Arena",
+    "Grava",
+    "Sustrato nutritivo"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Media",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Disponible en tiendas. Su aspecto de abeto es muy valorado.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Musgo de aspecto arbóreo único. Se adhiere a superficies y crece en ramas horizontales.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con todos los musgos y plantas de rizoma. No compite por sustrato.",
+  "co2_detail": "No necesario pero mejora la densidad de ramas."
+}

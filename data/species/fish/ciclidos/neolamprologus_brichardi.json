@@ -1,0 +1,63 @@
+{
+  "variants": [
+    "Cíclido de Hada"
+  ],
+  "description": "Cíclido de Hada (Neolamprologus brichardi) es una especie de acuario moderado de cuidar, originaria de África Oriental. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 10 cm en cautiverio.",
+  "origin": {
+    "region": "África Oriental (Lago Tanganyika)",
+    "countries": [
+      "República Democrática del Congo",
+      "Burundi",
+      "Tanzania",
+      "Zambia"
+    ],
+    "basin": "Cuencas hidrográficas de África Oriental.",
+    "habitat": "Aguas dulces de África Oriental con temperatura 24–27°C, pH 7.5–8.5.",
+    "wild_params": "pH 7.5–8.5, GH 10–20, temperatura 24–27 °C."
+  },
+  "max_size_cm": 10,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "En acuario: escamas/gránulos de calidad, artemia congelada, dafnia, gusanos de sangre, tubifex. Alimentar 2 veces al día en pequeñas cantidades.",
+  "behavior": "Mantener en grupos de mínimo 4 ejemplares. Especie semi-agresivo que habita el estrato medio-bajo del acuario.",
+  "recommended_school": 4,
+  "level": "Medio",
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena fina con rocas y grietas. El Brichardi vive en grietas rocosas en el lago Tanganica — la decoración de roca es indispensable.",
+  "plants": "Recomendadas",
+  "plant_detail": "La vegetación densa reduce el estrés y ofrece refugio.",
+  "light": "Media",
+  "light_detail": "10–12 h/día, intensidad alta. El lago Tanganica es excepcionalmente transparente con gran penetración solar.",
+  "filtration": "Filtro externo potente con alta oxigenación. Agua muy dura y alcalina — pH 8.0–9.0, GH 15–25.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Prácticamente imposible externamente. Los machos son ligeramente más grandes. Solo distinguible en reproducción activa.",
+  "reproduction": "Ovíparo con cuidado familiar multigeneracional único — las crías de camadas anteriores ayudan a cuidar las nuevas. Colonia muy cohesionada.",
+  "compatibility_notes": "Solo con otros cíclidos de lago Tanganica de tamaño similar. La colonia defiende agresivamente el territorio de roca completo.",
+  "diseases": [
+    {
+      "symptom": "Distensión abdominal, incapacidad de nadar recto",
+      "cause": "Bloat de Malawi (Protomyxozoa o bacterias)",
+      "solution": "Metronidazol inmediato. Cambios de agua 50% diarios. Ayuno 3 días."
+    },
+    {
+      "symptom": "Colores apagados, esconderse constantemente",
+      "cause": "Estrés severo, dominancia excesiva",
+      "solution": "Más escondites. Revisar ratio macho/hembra. Redistribuir territorio con redecoración."
+    },
+    {
+      "symptom": "Erosión de aletas, heridas",
+      "cause": "Peleas interspecíficas",
+      "solution": "Separar agresores. Tratamiento antibiótico tópico si hay infección secundaria."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "La especie más elegante de Tanganika. Sus colonias de crías son un espectáculo único.",
+  "order": "Cichliformes",
+  "class": "Actinopterygii",
+  "important_notes": "El Brichardi es la única especie de cíclido con comportamiento colonial multigeneracional confirmado — las crías mayores cuidan activamente a sus hermanos menores."
+}

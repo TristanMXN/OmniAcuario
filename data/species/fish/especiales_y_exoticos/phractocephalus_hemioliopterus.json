@@ -1,0 +1,55 @@
+{
+  "variants": [
+    "Phractocephalus hemioliopterus — negro con franja blanca lateral, cola naranja-rojo"
+  ],
+  "description": "El Bagre Colatijera (Phractocephalus hemioliopterus) es originario de la cuenca del Amazonas y Orinoco. Es uno de los bagres de agua dulce más grandes del mundo — puede superar 1.3m y 80kg. Su cola naranja-rojiza sobre cuerpo negro con franja blanca lateral lo hace inconfundible. SOLO apto para instalaciones públicas o estanques enormes — crece demasiado para cualquier acuario doméstico.",
+  "origin": {
+    "region": "América del Sur (Brasil, Colombia, Venezuela, Perú, Ecuador)",
+    "countries": [
+      "Brasil",
+      "Colombia",
+      "Venezuela",
+      "Perú",
+      "Ecuador",
+      "Bolivia"
+    ],
+    "basin": "Cuencas del Amazonas y Orinoco en toda su extensión",
+    "habitat": "Ríos grandes y profundos, lagunas y pozas asociadas a ríos principales.",
+    "wild_params": "pH 5.5–7.5, GH 0–15, temperatura 22–28 °C."
+  },
+  "max_size_cm": 130,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Carnívoro. Peces, camarones, mejillón, filetes. Alimentar 2–3 veces por semana en adultos.",
+  "behavior": "Activo y depredador. Caza todo lo que quepa en su boca. Produce mucho desecho.",
+  "recommended_school": 1,
+  "level": "Avanzado",
+  "substrate": [
+    "Grava gruesa",
+    "Roca"
+  ],
+  "substrate_detail": "Arena gruesa o fondo desnudo. Sin decoración — la destroza. Solo para instalaciones muy grandes (2.000L+) con paredes de fibra de vidrio.",
+  "plants": "Recomendadas",
+  "plant_detail": "Incompatible — destruye todo.",
+  "light": "Media",
+  "light_detail": "8–10 h/día, intensidad media. Especie de ríos grandes amazónicos — tolera cualquier iluminación estándar.",
+  "filtration": "Sistema de filtración de gran capacidad — filtros de tambor o equivalente. El Bagre Colatijera crece a 1.3m y produce cantidades masivas de residuos.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Prácticamente imposible externamente. Sin dimorfismo sexual visible en ejemplares juveniles del comercio.",
+  "reproduction": "No se ha reproducido con éxito en cautiverio doméstico. Solo en instalaciones de gran escala.",
+  "compatibility_notes": "Come absolutamente cualquier pez que quepa en su enorme boca. Con 30cm ya cabe un pez mediano. Solo compatible con Arowanas grandes, Peacock Bass adultos y Pacu.",
+  "diseases": [
+    {
+      "symptom": "HLLE",
+      "cause": "Deficiencia nutricional",
+      "solution": "Mejorar dieta. Vitaminas."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Crece hasta 130cm. Solo para instalaciones públicas o estanques enormes.",
+  "order": "Siluriformes",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

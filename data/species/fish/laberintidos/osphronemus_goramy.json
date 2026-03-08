@@ -1,0 +1,64 @@
+{
+  "variants": [
+    "Gurami Gigante"
+  ],
+  "description": "Gurami Gigante (Osphronemus goramy) es una especie de acuario moderado de cuidar, originaria de Asia Oriental. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 60 cm en cautiverio.",
+  "origin": {
+    "region": "Asia (SE Asia — Indonesia, Malasia, Tailandia, Myanmar)",
+    "countries": [
+      "Indonesia",
+      "Malasia",
+      "Tailandia",
+      "Myanmar",
+      "Vietnam"
+    ],
+    "basin": "Cuencas hidrográficas de Asia Oriental.",
+    "habitat": "Aguas dulces de Asia Oriental con temperatura 22–28°C, pH 6.5–8.0.",
+    "wild_params": "pH 6.5–8.0, GH 5–20, temperatura 22–28 °C."
+  },
+  "max_size_cm": 60,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "En acuario: espirulina, algas, verduras blanqueadas (espinaca, pepino, calabacín), alimento en escamas vegetales. Alimentar 2-3 veces al día.",
+  "behavior": "Se puede mantener individualmente o en pequeños grupos. Especie semi-agresivo que habita el estrato medio-bajo del acuario.",
+  "recommended_school": 1,
+  "level": "Medio",
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena gruesa o grava. Sin plantas blandas — las come. Solo para estanques o acuarios de 1.000L+.",
+  "plants": "Recomendadas",
+  "plant_detail": "La vegetación densa reduce el estrés y ofrece refugio.",
+  "light": "Media",
+  "light_detail": "8–12 h/día, intensidad variable. Especie de superficie — tolera bien cualquier iluminación.",
+  "filtration": "Filtro externo muy potente — el Gourami Gigante llega a 70 cm y produce masas enormes de residuos.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Machos adultos con labios más pronunciados y frente más abultada. Las hembras son más redondeadas en el abdomen.",
+  "reproduction": "Construye el nido de burbujas más grande del hobby — hasta 1 metro de diámetro. El macho cuida los huevos.",
+  "compatibility_notes": "Solo con peces de su mismo tamaño. Incompatible con peces pequeños que caben en su boca. A pesar del nombre, tolerante para ser un pez tan grande.",
+  "diseases": [
+    {
+      "symptom": "Respiración superficial excesiva, superficie",
+      "cause": "Calidad de aire sobre el agua deficiente",
+      "solution": "Mantener espacio de aire entre agua y tapa. Buena ventilación del espacio sobre el acuario."
+    },
+    {
+      "symptom": "Aletas rotas, cuerpo con heridas",
+      "cause": "Agresión (especialmente Betta machos)",
+      "solution": "Separar machos. Un Betta por acuario."
+    },
+    {
+      "symptom": "Vientre hinchado",
+      "cause": "Hidropesía o parásitos internos",
+      "solution": "Kanamicina. Cambios de agua. Acuario hospital."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Crece hasta 70cm. Solo para estanques o instalaciones públicas. Muy inteligente.",
+  "order": "Anabantiformes",
+  "class": "Actinopterygii",
+  "important_notes": "Crece de 5 cm a 70 cm — uno de los mayores cambios de tamaño del hobby acuario. En Asia se cría como pez de consumo. Muy inteligente — reconoce a su cuidador."
+}

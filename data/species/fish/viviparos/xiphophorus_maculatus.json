@@ -1,0 +1,76 @@
+{
+  "order": "Cyprinodontiformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    5,
+    10
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 1,
+  "origin": {
+    "region": "América Central",
+    "countries": [
+      "México",
+      "Guatemala",
+      "Belice",
+      "Honduras"
+    ],
+    "basin": "Ríos costeros del Golfo y Caribe centroamericano",
+    "habitat": "Ríos y arroyos de agua cálida, dura y alcalina, zonas de corriente moderada con vegetación",
+    "wild_params": "pH 7.0–8.5, GH 10–25, temperatura 18–27 °C"
+  },
+  "substrate": [
+    "Arena",
+    "Grava"
+  ],
+  "substrate_detail": "Arena fina o grava pequeña. Plantas densas (Java Moss, Anubias) proporcionan refugio a las crías y reducen el estrés.",
+  "lighting": "Moderada",
+  "description": "El Platy (Xiphophorus maculatus) es nativo de México, Guatemala y Belice, habitando ríos costeros cálidos de agua dura y alcalina. Existen decenas de variedades de color: sunset, mickey mouse, wagtail, hi-fin, papagayo. Es uno de los tres vivíparos más vendidos del mundo y el más recomendado para acuarios de principiantes por su robustez y facilidad.",
+  "behavior": "Muy pacífico con todas las especies. Los machos pueden acosar a las hembras pero menos que el Guppy. Nada en todos los estratos. Compatible con prácticamente cualquier pez comunitario.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Cuerpo doblado, nado en espiral",
+      "cause": "Columnaris bacteriana o defecto genético por endogamia",
+      "solution": "Para Columnaris: antibiótico. Para defecto genético: no hay tratamiento — diversificar genética."
+    },
+    {
+      "symptom": "Puntos blancos tipo sal",
+      "cause": "Ich",
+      "solution": "Temperatura a 28 °C. Anti-ich. Cambios diarios."
+    },
+    {
+      "symptom": "Escamas erizadas, abdomen hinchado",
+      "cause": "Dropsy bacteriano",
+      "solution": "Aislamiento. Antibiótico sistémico. Sal de Epsom."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "max_size_cm": 6,
+  "lifespan_years": "3–5",
+  "feeding_detail": "Omnívoro. Acepta cualquier alimento: escamas, gránulos, artemia, vegetales blanqueados. Tiene tendencia herbívora — incluir espirulina y vegetales en la dieta. 2 veces al día.",
+  "recommended_school": 4,
+  "level": "Fácil",
+  "plants": "Recomendadas",
+  "plant_detail": "Plantas densas y flotantes protegen las crías. Compatible con plantas de agua dura: Vallisneria, Egeria.",
+  "light": "Media–Alta",
+  "light_detail": "8–10 h/día, intensidad media. Los colores de las variedades de crianza se intensifican con buena iluminación.",
+  "filtration": "Filtro de esponja o con prefiltro en la entrada para proteger crías. Agua dura y alcalina — añadir conchas de caracol o rocas calcáreas si el agua es blanda.",
+  "water_changes": "25–30% semanal",
+  "sexing": "Fácil. Macho con gonopodio (aleta anal en forma de bastón). Hembra con aleta anal en abanico y abdomen redondeado cuando gravídica.",
+  "reproduction": "Vivíparo. La hembra pare crías completamente formadas cada 28 días. Una hembra puede almacenar esperma durante 6 meses. Las crías son inmediatamente funcionales — los adultos las depredan.",
+  "compatibility_notes": "Compatible con Guppy, Molly, Espadilla, Tetra pequeño y Corydoras. Incompatible con Betta macho y peces que muerdan aletas largas.",
+  "iucn": "Preocupación menor (LC)",
+  "market_notes": "Disponible en todas las tiendas. Las variedades Mickey Mouse y Sunset son las más comunes.",
+  "class": "Actinopterygii",
+  "variants": [
+    "Xiphophorus maculatus var. Mickey Mouse — mancha en caudal en forma de ratón",
+    "Xiphophorus maculatus var. Wagtail — aletas negras, cuerpo de color",
+    "Xiphophorus maculatus var. Coral — tonos naranja-rosado",
+    "Xiphophorus maculatus var. Tuxedo — mitad posterior negra"
+  ],
+  "important_notes": "El Platy prefiere agua dura y alcalina (GH 10–20, pH 7.2–8.0). En agua blanda y ácida pierde coloración y es más susceptible a enfermedades."
+}

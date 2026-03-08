@@ -1,0 +1,65 @@
+{
+  "order": "Characiformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    4,
+    5
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 6,
+  "origin": {
+    "region": "América del Sur (Brasil — río Tapajós)",
+    "countries": [
+      "Brasil"
+    ],
+    "basin": "Cuenca del río Tapajós, afluente del Amazonas, Pará, Brasil",
+    "habitat": "Aguas negras ácidas con vegetación densa y poca corriente.",
+    "wild_params": "pH 5.5–7.5, GH 0–12, temperatura 23–28 °C."
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena fina o grava pequeña. Sustrato claro o ligeramente dorado resalta el color amarillo del cuerpo. Vegetación densa lateral.",
+  "lighting": "Moderada",
+  "description": "El Tetra Limón (Hyphessobrycon pulchripinnis) es originario del río Tapajós en Brasil. Su nombre hace referencia al color amarillo translúcido del cuerpo y las aletas. La aleta anal muestra un borde negro y amarillo muy distintivo. Es uno de los tetras más fáciles y resistentes, ideal para acuarios plantados donde el amarillo resalta sobre el verde.",
+  "behavior": "Cardumen tranquilo de mínimo 8. Zona media. Completamente pacífico. Los machos algo más esbeltos y coloridos.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Ich",
+      "cause": "Temperatura baja",
+      "solution": "Anti-ich. Elevar temperatura."
+    },
+    {
+      "symptom": "Clorosis (palidece)",
+      "cause": "pH alto o agua muy dura",
+      "solution": "Ablandar el agua. Reducir pH a 6.5–7.0."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "variants": [
+    "Hyphessobrycon pulchripinnis — cuerpo amarillo translúcido, aleta anal con borde negro y amarillo"
+  ],
+  "max_size_cm": 5,
+  "lifespan_years": "3–5",
+  "feeding_detail": "Omnívoro. Escamas pequeñas, artemia, dafnia. 2 veces al día.",
+  "recommended_school": 8,
+  "level": "Fácil",
+  "plants": "Muy recomendadas",
+  "plant_detail": "Acuario plantado. El verde resalta el amarillo del pez.",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día, intensidad media. El amarillo y el borde negro de la aleta anal se aprecian mejor con iluminación lateral de calidad.",
+  "filtration": "Filtro de esponja o externo de bajo caudal. Agua ligeramente ácida (pH 6.0–7.5) y blanda — el color amarillo se apaga con agua muy dura.",
+  "water_changes": "20% semanal",
+  "sexing": "Hembras más redondeadas en el abdomen. El borde negro de la aleta anal es más pronunciado en los machos. Diferencia sutil en comparación con otras especies.",
+  "reproduction": "Ovíparo de freza libre entre plantas finas. Sin cuidado parental. Los adultos comen los huevos — separar tras la puesta. Agua blanda (GH 4–10) facilita la reproducción.",
+  "compatibility_notes": "Completamente pacífico. Ideal en comunidad con Neon Tetra, Corydoras, Rasboras y Otocinclus. Incompatible con peces agresivos que persigan al cardumen.",
+  "iucn": "No evaluado",
+  "market_notes": "Fácil de encontrar. Ideal para acuarios plantados amarillo-verde.",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}

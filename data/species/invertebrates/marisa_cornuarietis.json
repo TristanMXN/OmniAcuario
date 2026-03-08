@@ -1,0 +1,59 @@
+{
+  "variants": [
+    "Marisa cornuarietis — concha discoidal, rayas marrones sobre fondo amarillo-naranja",
+    "Marisa cornuarietis var. Rojo — tonos más rojizos en la concha"
+  ],
+  "description": "El Caracol Marisa (Marisa cornuarietis) es originario de Venezuela, Colombia y Cuba. Su concha en espiral plana grande (hasta 5cm de diámetro) lo hace inconfundible. ⚠️ ADVERTENCIA: A diferencia del Caracol Manzana, la Marisa SÍ come plantas — todas las plantas blandas desaparecerán rápidamente. Es ideal para acuarios sin plantas o estanques donde se quiera controlar vegetación acuática.",
+  "origin": {
+    "region": "América Central y del Sur",
+    "countries": [
+      "Venezuela",
+      "Colombia",
+      "Cuba",
+      "Trinidad"
+    ],
+    "basin": "Ríos lentos y lagunas de América tropical",
+    "habitat": "Aguas lentas con vegetación densa que devora activamente.",
+    "wild_params": "pH 7.0–8.5, GH 8–20, temperatura 18–28 °C."
+  },
+  "max_size_cm": 5,
+  "lifespan_years": "3–4",
+  "nitrate_max": 30,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Plantas acuáticas, algas, verduras blanqueadas, tabletas de espirulina. Come todo lo que sea vegetal.",
+  "behavior": "Activo y voraz con las plantas. Compatible con peces robustos que no la ataquen. Sale del agua — necesita tapa.",
+  "recommended_school": 1,
+  "level": "Fondo / Todas las zonas",
+  "substrate": [
+    "Arena",
+    "Grava"
+  ],
+  "substrate_detail": "Sin preferencias. Agua dura necesaria para la concha.",
+  "plants": "⚠️ INCOMPATIBLE — devora todas las plantas blandas",
+  "plant_detail": "Solo Anubias, Java fern y plantas muy duras sobreviven. Mejor en acuario sin plantas.",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración moderada-alta — produce muchos desechos.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Sexos separados. Puesta de huevos en superficie del agua.",
+  "reproduction": "Pone masas de huevos en la superficie del agua. Reproducción moderada.",
+  "compatibility_notes": "⚠️ NO para acuarios plantados. Compatible con peces grandes. Incompatible con gambas pequeñas (las puede comer).",
+  "diseases": [
+    {
+      "symptom": "Concha erosionada",
+      "cause": "Agua ácida o blanda",
+      "solution": "Subir KH y pH. Calcio suplementario."
+    },
+    {
+      "symptom": "Muerte súbita",
+      "cause": "Cobre",
+      "solution": "Cambio de agua. Carbón activo."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "⚠️ Invasora en algunas regiones. Verificar legalidad antes de comprar. No soltar en aguas naturales.",
+  "order": "Architaenioglossa",
+  "class": "Gastropoda",
+  "important_notes": "El Caracol Marisa puede comerse plantas blandas — solo apto para acuarios sin vegetación. Muy resistente y fácil de mantener. Puede salir del agua."
+}

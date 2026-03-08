@@ -1,0 +1,81 @@
+{
+  "order": "Cyprinodontiformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    5,
+    10
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 1,
+  "origin": {
+    "region": "Sudamérica / Caribe",
+    "countries": [
+      "Venezuela",
+      "Trinidad",
+      "Barbados",
+      "Guyana"
+    ],
+    "basin": "Ríos costeros del norte de Sudamérica",
+    "habitat": "Ríos lentos, arroyos, lagunas costeras, estuarios; aguas cálidas y duras",
+    "wild_params": "pH 7.0–8.5, GH 8–25, temperatura 22–28 °C"
+  },
+  "substrate": [
+    "Arena fina",
+    "Grava",
+    "Sustrato plantado"
+  ],
+  "substrate_detail": "Arena fina o grava pequeña redondeada. Zonas densas de Java Moss o Salvinia proporcionan refugio a las crías.",
+  "lighting": "Moderada",
+  "description": "El Guppy (Poecilia reticulata) es originario de Venezuela, Trinidad y el norte de Sudamérica, pero ha sido introducido en casi todos los países tropicales para control de larvas de mosquito. Los machos presentan variabilidad de color y forma de aleta extraordinaria, producto de décadas de selección intensiva en Asia y Europa. Es el pez ornamental más vendido del mundo.",
+  "behavior": "Pacífico y activo. Los machos acosan continuamente a las hembras — proporción ideal 1 macho por 2–3 hembras. El acoso excesivo estresa y mata a las hembras. Compatible con casi cualquier especie no agresiva.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Cuerpo curvado en 'S', nado en espiral",
+      "cause": "Columnaris (Flavobacterium columnare) o deformidad genética",
+      "solution": "Para Columnaris: antibiótico (Kanamicina). Para deformidad: no hay tratamiento — no reproducir esa línea."
+    },
+    {
+      "symptom": "Puntos blancos tipo sal",
+      "cause": "Ich",
+      "solution": "Elevar temperatura a 28 °C. Anti-ich comercial. Cambios 25% diarios."
+    },
+    {
+      "symptom": "Aletas desgarradas, sueltas",
+      "cause": "Pudrición de aletas bacteriana",
+      "solution": "Agua limpia, sal 1 g/L, antibiótico si es severo."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "variants": [
+    "Poecilia reticulata var. Tuxedo — mitad posterior negra",
+    "Poecilia reticulata var. Moscow — azul metálico iridiscente",
+    "Poecilia reticulata var. Cobra — patrón reticulado tipo cobra",
+    "Poecilia reticulata var. Dumbo Ear — aletas pectorales muy agrandadas",
+    "Poecilia reticulata var. Grass — cola punteada tipo hierba",
+    "Poecilia reticulata var. Endler × Guppy — híbrido estéril decorativo",
+    "Poecilia reticulata var. Ribbon / Lyretail — aleta anal modificada (produce menos crías)",
+    "Poecilia reticulata var. Snakeskin"
+  ],
+  "important_notes": "El cruce continuo con endlers produce híbridos fértiles que diluyen ambas líneas. Los fancy guppys de exposición son más delicados que los de tienda — requieren parámetros estrictos.",
+  "max_size_cm": 6,
+  "lifespan_years": "2–3",
+  "feeding_detail": "Omnívoro. Acepta casi cualquier alimento: escamas, gránulos, artemia, dafnia, gusanos de sangre. Los machos selectivos de línea de exposición agradecen proteína viva. 2–3 veces al día en pequeñas cantidades.",
+  "recommended_school": 6,
+  "level": "Fácil",
+  "plants": "Recomendadas",
+  "plant_detail": "Plantas densas y flotantes (Salvinia, Ceratophyllum) protegen las crías del canibalismo adulto.",
+  "light": "Media–Alta",
+  "light_detail": "8–10 h/día, intensidad media-alta. Los colores del macho se intensifican notablemente con buena iluminación.",
+  "filtration": "Filtro de esponja o con prefiltro de esponja en la entrada. La succión de un filtro convencional mata las crías.",
+  "water_changes": "25–30% semanal",
+  "sexing": "Fácil. Macho: pequeño (3–4 cm), colorido, gonopodio (aleta anal en tubo). Hembra: grande (5–6 cm), gris-verdosa, mancha oscura gravídica.",
+  "reproduction": "Vivíparo — la hembra retiene esperma y produce camadas de 10–80 crías cada 28 días. Las crías son funcionales desde el nacimiento. Los adultos depredan a sus propias crías — separar o usar densas plantas flotantes.",
+  "compatibility_notes": "Compatible con Platy, Molly, Tetra pequeño, Corydoras y Gurami enano. Incompatible con Betta macho (destroza aletas), Barbo Tigre (morde aletas) y Ángel (caza crías).",
+  "iucn": "Preocupación menor (LC)",
+  "market_notes": "Disponible en todas las tiendas. Las variedades fancy (Ribbon, Delta, Moscow) son criadero Tailandia/Singapur.",
+  "class": "Actinopterygii"
+}

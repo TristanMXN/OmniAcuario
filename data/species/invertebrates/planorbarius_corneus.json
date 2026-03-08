@@ -1,0 +1,57 @@
+{
+  "variants": [
+    "Planorbarius corneus — forma tipo, concha marrón-grisácea",
+    "Planorbarius corneus var. Rojo — pie rojo por hemoglobina, concha más clara",
+    "Planorbella duryi — especie tropical similar, más pequeña (Planorbis rojo de tiendas)"
+  ],
+  "description": "El Caracol Planorbis (Planorbarius corneus) es originario de Europa y Asia. Su concha en espiral plana (como un cuerno de carnero) es característica. Usa hemoglobina para transportar oxígeno — de ahí su color rojizo interno. Eficaz limpiador de algas y detritos. Puede convertirse en plaga si hay exceso de alimento, pero el Caracol Asesino lo controla eficazmente.",
+  "origin": {
+    "region": "Europa y Asia",
+    "countries": [
+      "Toda Europa",
+      "Asia occidental y central"
+    ],
+    "basin": "Lagos, ríos lentos y estanques de Europa y Asia",
+    "habitat": "Aguas lentas con vegetación densa.",
+    "wild_params": "pH 6.5–8.0, GH 5–20, temperatura 18–28 °C."
+  },
+  "max_size_cm": 3,
+  "lifespan_years": "1–2",
+  "nitrate_max": 30,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Algas blandas, biofilm, restos de alimento, plantas muertas. Controlador de la contaminación del fondo.",
+  "behavior": "Activo. Hermafrodita — cualquier dos individuos pueden reproducirse. Se multiplica rápido si hay exceso de nutrientes. Controlable reduciendo la alimentación.",
+  "recommended_school": 1,
+  "level": "Fondo / Vidrios / Plantas",
+  "substrate": [
+    "Cualquier sustrato"
+  ],
+  "substrate_detail": "Sin preferencias.",
+  "plants": "Compatible (come plantas muertas, no sanas)",
+  "plant_detail": "Come hojas muertas o muy dañadas. No toca plantas sanas.",
+  "light": "Cualquiera",
+  "light_detail": "Muy tolerante.",
+  "filtration": "Cualquier filtración.",
+  "water_changes": "15–20% semanal",
+  "sexing": "Hermafrodita — no aplica.",
+  "reproduction": "Muy prolífico. Pone masas gelatinosas de huevos en plantas y decoración. Control: reducir comida y usar Caracol Asesino.",
+  "compatibility_notes": "Compatible con gambas y peces pacíficos. Peces que lo coman lo controlan naturalmente (Tetra Buenos Aires, algunos cíclidos).",
+  "diseases": [
+    {
+      "symptom": "Concha delgada o transparente",
+      "cause": "Agua muy blanda o ácida",
+      "solution": "Añadir calcio. Subir KH."
+    },
+    {
+      "symptom": "Muerte súbita en masa",
+      "cause": "Cobre",
+      "solution": "Cambio de agua. Carbón activo."
+    }
+  ],
+  "iucn": "Preocupación menor",
+  "market_notes": "A menudo llega al acuario como polizón en plantas. Controlable — solo es plaga con sobrealimentación.",
+  "order": "Hygrophila",
+  "class": "Gastropoda",
+  "important_notes": "El Planorbis puede ser plaga si el acuario está sobrealimentado. En cantidades controladas es beneficioso — come restos y algas. Color rojo = hemoglobina, no tinte."
+}

@@ -1,0 +1,63 @@
+{
+  "variants": [
+    "Gurami Chocolate"
+  ],
+  "description": "Gurami Chocolate (Sphaerichthys osphromenoides) es una especie de acuario difícil de cuidar, originaria de Asia Oriental. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 6 cm en cautiverio.",
+  "origin": {
+    "region": "Asia (SE Asia — Malasia, Indonesia, Tailandia)",
+    "countries": [
+      "Malasia",
+      "Indonesia",
+      "Tailandia",
+      "Singapur"
+    ],
+    "basin": "Cuencas hidrográficas de Asia Oriental.",
+    "habitat": "Aguas dulces de Asia Oriental con temperatura 24–30°C, pH 4.0–6.0.",
+    "wild_params": "pH 4.0–6.0, GH 0–5, temperatura 24–30 °C."
+  },
+  "max_size_cm": 6,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "En acuario: escamas/gránulos de calidad, artemia congelada, dafnia, gusanos de sangre, tubifex. Alimentar 2 veces al día en pequeñas cantidades.",
+  "behavior": "Se puede mantener individualmente o en pequeños grupos. Especie pacífico que habita el estrato medio-bajo del acuario.",
+  "recommended_school": 4,
+  "level": "Medio",
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Sustrato oscuro con hojas de catappa en el fondo. Agua de turba o extracto de catappa obligatorio para recrear aguas negras.",
+  "plants": "Recomendadas",
+  "plant_detail": "La vegetación densa reduce el estrés y ofrece refugio.",
+  "light": "Media",
+  "light_detail": "6 h/día, intensidad muy tenue. Especie de aguas negras bajo dosel tupido — la luz intensa la estresa gravemente.",
+  "filtration": "Filtro de esponja de caudal muy bajo. pH 4.0–5.5 obligatorio — agua de ósmosis con turba.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Macho con franja ventral más pronunciada. Prácticamente indistinguible fuera de reproducción.",
+  "reproduction": "Incubadora bucal — el macho incuba los huevos en la boca. Muy raro en acuario doméstico por las exigencias de parámetros.",
+  "compatibility_notes": "Solo con peces de aguas negras ácidas de temperamento muy tranquilo. Incompatible con cualquier especie activa o de agua dura.",
+  "diseases": [
+    {
+      "symptom": "Respiración superficial excesiva, superficie",
+      "cause": "Calidad de aire sobre el agua deficiente",
+      "solution": "Mantener espacio de aire entre agua y tapa. Buena ventilación del espacio sobre el acuario."
+    },
+    {
+      "symptom": "Aletas rotas, cuerpo con heridas",
+      "cause": "Agresión (especialmente Betta machos)",
+      "solution": "Separar machos. Un Betta por acuario."
+    },
+    {
+      "symptom": "Vientre hinchado",
+      "cause": "Hidropesía o parásitos internos",
+      "solution": "Kanamicina. Cambios de agua. Acuario hospital."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "La especie más difícil de los guramis. Solo para agua extremadamente blanda y ácida.",
+  "order": "Anabantiformes",
+  "class": "Actinopterygii",
+  "important_notes": "El Gurami Chocolate es el gurami más difícil del hobby — requiere agua de ósmosis pura con pH 4.0–5.5. Los ejemplares importados mueren frecuentemente en pocos días."
+}

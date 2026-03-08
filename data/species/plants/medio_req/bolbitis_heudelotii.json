@@ -1,0 +1,79 @@
+{
+  "variants": [
+    "Bolbitis heudelotii — hojas finamente divididas verde semitransparente"
+  ],
+  "description": "La Bolbitis (Bolbitis heudelotii) es un helecho originario de la cuenca del Congo. Sus hojas semitransparentes finamente divididas son extraordinariamente decorativas. Se adhiere a rocas y troncos como la Anubia. Prefiere agua ligeramente ácida y corriente moderada.",
+  "origin": {
+    "region": "África Central (Congo)",
+    "countries": [
+      "República Democrática del Congo",
+      "Camerún",
+      "Nigeria",
+      "Angola"
+    ],
+    "basin": "Ríos de la cuenca del Congo, África Central",
+    "habitat": "Sumergida sobre rocas en ríos forestales con corriente moderada.",
+    "wild_params": "pH 5.5–7.5, GH 2–12, temperatura 20–28 °C."
+  },
+  "max_size_cm": 40,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": false,
+  "fertilizer": "Fertilizante líquido con micro. CO₂ beneficioso.",
+  "uses": "Helecho de rizoma para decoración sobre troncos y rocas. Muy elegante.",
+  "propagation": "División del rizoma. Atar a decoración — nunca enterrar el rizoma.",
+  "substrate": [
+    "Sobre roca",
+    "Sobre tronco"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Baja-Media",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Disponible en tiendas especializadas. Crecimiento lento pero muy decorativo.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Rizoma de crecimiento muy lento con hojas translúcidas de gran efecto decorativo.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con Anubias y musgos. Mismo nicho de bajo requerimiento.",
+  "co2_detail": "No necesario."
+}

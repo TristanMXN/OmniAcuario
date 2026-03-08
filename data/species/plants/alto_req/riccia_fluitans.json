@@ -1,0 +1,76 @@
+{
+  "variants": [
+    "Riccia fluitans — talo verde brillante sin hojas ni raíces diferenciadas"
+  ],
+  "description": "La Riccia (Riccia fluitans) es una hepática cosmopolita. En estado natural flota, pero Takashi Amano la popularizó atada al fondo con red de musgo. Con buena luz y CO₂ libera burbujas de oxígeno puro que suben como perlas — el efecto más espectacular del aquascaping. Requiere podas frecuentes.",
+  "origin": {
+    "region": "Cosmopolita",
+    "countries": [
+      "Distribución cosmopolita"
+    ],
+    "basin": "Distribución cosmopolita en aguas dulces",
+    "habitat": "Flotante natural en superficie de aguas lentas.",
+    "wild_params": "pH 6.0–7.5, GH 2–15, temperatura 20–28 °C."
+  },
+  "max_size_cm": 3,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": true,
+  "fertilizer": "CO₂ + luz intensa para el efecto burbuja.",
+  "uses": "Musgo/hepática para paredes y primer plano. Libera burbujas de O₂ espectaculares.",
+  "propagation": "División de porciones. Atar con red de musgo o hilo.",
+  "substrate": [
+    "Sobre roca (atada)",
+    "Sobre red de musgo"
+  ],
+  "substrate_detail": "Sustrato nutritivo para mejores resultados.",
+  "light": "Alta",
+  "light_detail": "10–12 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Disponible. La fotosíntesis con burbujas es el efecto más espectacular del aquascaping.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Musgo flotante que forma burbujas de O₂ en plena fotosíntesis — efecto 'gaseosa' espectacular.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con todos los musgos. Si se ata a roca crea el efecto de burbujeo más llamativo del hobby.",
+  "co2_detail": "Muy recomendado. El efecto de burbujas de O₂ solo se logra con CO₂."
+}

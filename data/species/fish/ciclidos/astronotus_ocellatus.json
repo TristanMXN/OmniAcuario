@@ -1,0 +1,77 @@
+{
+  "order": "Cichliformes",
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "nitrate_max": 20,
+  "size": [
+    5,
+    10
+  ],
+  "lifespan": "3-5 años",
+  "group_min": 1,
+  "origin": {
+    "region": "Sudamérica",
+    "countries": [
+      "Brasil",
+      "Colombia",
+      "Venezuela",
+      "Perú",
+      "Ecuador"
+    ],
+    "basin": "Amazónico / Orinoco",
+    "habitat": "Ríos de corriente lenta, zonas de inundación, fondos de tierra y madera sumergida",
+    "wild_params": "pH 6.0–8.0, GH 5–20, temperatura 22–28 °C"
+  },
+  "substrate": [
+    "Grava gruesa",
+    "Sin sustrato (más higiénico)"
+  ],
+  "substrate_detail": "Grava gruesa o arena de río. El Oscar excava activamente — usar rocas pesadas ancladas para evitar que derrumbe la decoración.",
+  "lighting": "Moderada",
+  "description": "El Óscar o Astronauta (Astronotus ocellatus) es originario de la cuenca del Amazonas y Orinoco en Brasil, Colombia, Venezuela y Perú. Su cuerpo ovalado con coloración mármol gris-naranja y la mancha ocular en la base de la cola son inconfundibles. Los juveniles difieren notablemente de los adultos. Alcanza 35 cm en cautiverio con una esperanza de vida de 10–15 años.",
+  "behavior": "Agresivo territorial. Destruye decoración activamente. Reconoce a su cuidador y responde al alimento en superficie. Incompatible con peces pequeños (los come). Solo con congéneres de tamaño similar.",
+  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "diseases": [
+    {
+      "symptom": "Hoyos o cráteres en la cabeza y línea lateral",
+      "cause": "HITH / Hexamita — Hole in the Head (Spironucleus vortens)",
+      "solution": "Metronidazol 400 mg/100 L durante 5 días. Mejorar dieta con vitaminas. Cambios de agua frecuentes."
+    },
+    {
+      "symptom": "Puntos blancos tipo sal",
+      "cause": "Ich",
+      "solution": "Elevar temperatura a 30 °C con gradualidad. Anti-ich. Cambios diarios."
+    },
+    {
+      "symptom": "Escamas erizadas, abdomen hinchado",
+      "cause": "Dropsy — infección bacteriana sistémica",
+      "solution": "Aislamiento. Sal de Epsom. Antibiótico sistémico. Pronóstico reservado."
+    }
+  ],
+  "compatible_with": [],
+  "incompatible_with": [],
+  "max_size_cm": 35,
+  "lifespan_years": "10–15",
+  "feeding_detail": "Carnívoro oportunista. En cautiverio: gránulos de cíclido de buena calidad como base, complementar con gambas congeladas, mejillón, filete de pescado. Evitar carne de res y pollo (demasiada grasa). No alimentar con peces vivos — vector de enfermedades. 1 vez al día en adultos.",
+  "recommended_school": 2,
+  "level": "Medio",
+  "plants": "No recomendadas",
+  "plant_detail": "Destruye todas las plantas. Solo Anubias en roca o plástico.",
+  "light": "Media",
+  "light_detail": "8–10 h/día, intensidad moderada. Tolera bien cualquier iluminación pero agradece zonas de sombra.",
+  "filtration": "Filtro externo potente — mínimo 4–6x el volumen por hora. El Oscar produce cantidades masivas de residuos nitrogenados.",
+  "water_changes": "30–40% semanal",
+  "sexing": "Sin dimorfismo externo fiable — solo diferenciable por sonda durante la reproducción. Los oscares se eligen pareja solos.",
+  "reproduction": "Ovíparo con cuidado biparental muy pronunciado. La pareja limpia una superficie plana (roca, cristal) y deposita 1.000–3.000 huevos. Ambos padres defienden agresivamente el área.",
+  "compatibility_notes": "Solo con peces de su mismo tamaño o mayor. Incompatible con todo lo que entre en su boca. Compatible con otros Oscares de crianza conjunta, Pacu, Severum y Peces Loro.",
+  "iucn": "Preocupación menor (LC)",
+  "market_notes": "Ampliamente disponible. Juveniles de 5–8 cm frecuentes. El Tiger Oscar y el Red Oscar son las variedades más comunes.",
+  "class": "Actinopterygii",
+  "variants": [
+    "Astronotus ocellatus var. Tigre — patrón naranja y negro tipo tigre",
+    "Astronotus ocellatus var. Albino — fondo blanco, manchas naranja, ojos rojos",
+    "Astronotus ocellatus var. Rojo — base roja más intensa, menos negro",
+    "Astronotus ocellatus var. Velo — aletas elongadas (cultivar)"
+  ],
+  "important_notes": "El Oscar reconoce a su cuidador y puede comer de la mano. Crece muy rápido — de 3 cm a 30 cm en el primer año. El 'síndrome del agujero en la cabeza' (HLLE) es señal de dieta pobre."
+}

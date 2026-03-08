@@ -1,0 +1,64 @@
+{
+  "variants": [
+    "Pez Cuchillo Fantasma Negro"
+  ],
+  "description": "Pez Cuchillo Fantasma Negro (Apteronotus albifrons) es una especie de acuario moderado de cuidar, originaria de América del Sur. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 50 cm en cautiverio.",
+  "origin": {
+    "region": "América del Sur (Brasil, Venezuela, Perú, Ecuador)",
+    "countries": [
+      "Brasil",
+      "Venezuela",
+      "Perú",
+      "Ecuador",
+      "Paraguay"
+    ],
+    "basin": "Cuencas hidrográficas de América del Sur.",
+    "habitat": "Aguas dulces de América del Sur con temperatura 24–28°C, pH 6.0–8.0.",
+    "wild_params": "pH 6.0–8.0, GH 5–15, temperatura 24–28 °C."
+  },
+  "max_size_cm": 50,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "En acuario: artemia viva o congelada, gusanos de sangre, tubifex, insectos acuáticos, gambas. Alimentar 1-2 veces al día en cantidades moderadas.",
+  "behavior": "Se puede mantener individualmente o en pequeños grupos. Especie semi-agresivo que habita el estrato medio-bajo del acuario.",
+  "recommended_school": 1,
+  "level": "Medio",
+  "substrate": [
+    "Arena fina",
+    "Grava"
+  ],
+  "substrate_detail": "Arena fina oscura OBLIGATORIA. Especie que se entierra parcialmente y tiene la piel muy sensible — grava la hiere.",
+  "plants": "Recomendadas",
+  "plant_detail": "La vegetación densa reduce el estrés y ofrece refugio.",
+  "light": "Media",
+  "light_detail": "6–8 h/día. Especie estrictamente nocturna — un tubo de PVC o cueva oscura es obligatoria para que se esconda de día.",
+  "filtration": "Filtro externo potente con buena oxigenación. Muy sensible a contaminantes — agua limpia siempre.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Imposible determinar externamente. Sin dimorfismo sexual visible.",
+  "reproduction": "Prácticamente imposible en acuario doméstico. Especie que requiere condiciones muy específicas de aguas negras para reproducirse.",
+  "compatibility_notes": "Semi-agresivo con su propia especie — solo 1 por acuario. Compatible con peces grandes pacíficos que no compitan por el territorio de fondo.",
+  "diseases": [
+    {
+      "symptom": "Puntos blancos como sal en cuerpo y aletas",
+      "cause": "Ich (Ichthyophthirius multifiliis)",
+      "solution": "Elevar temperatura a 28-30°C durante 10 días. Anti-ich comercial."
+    },
+    {
+      "symptom": "Manchas de terciopelo fino, comportamiento de raspado",
+      "cause": "Velvet (Oodinium)",
+      "solution": "Oscurecer el acuario. Anti-protozoo con cobre o formalina."
+    },
+    {
+      "symptom": "Abdomen hinchado, escamas levantadas",
+      "cause": "Hidropesía (bacteria Aeromonas)",
+      "solution": "Antibiótico (kanamicina, eritromicina). Acuario hospital. Pronóstico reservado."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Pez de electricidad sensorial. Muy sensible a electromagnetismo externo. Solo nocturno.",
+  "order": "Gymnotiformes",
+  "class": "Actinopterygii",
+  "important_notes": "El Cuchillo Negro genera un campo eléctrico débil para orientarse y comunicarse. Detecta perturbaciones electromagnéticas — los electrodomésticos cercanos pueden estresarlo."
+}

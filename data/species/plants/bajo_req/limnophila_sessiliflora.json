@@ -1,0 +1,80 @@
+{
+  "variants": [
+    "Limnophila sessiliflora — hojas verticiladas finas como agujas"
+  ],
+  "description": "Ambulia (Limnophila sessiliflora), originaria del SE asiático, es una planta de tallo con hojas verticiladas finas muy similares a Cabomba pero mucho más resistente. Crece rápido sin CO₂ y es excelente filtradora de nitratos. Ideal para acuarios de bajo presupuesto.",
+  "origin": {
+    "region": "Asia (SE Asia — India, Indonesia, Tailandia)",
+    "countries": [
+      "India",
+      "Indonesia",
+      "Tailandia",
+      "Malasia"
+    ],
+    "basin": "Ríos y arrozales del SE asiático, especialmente India y Tailandia",
+    "habitat": "Aguas lentas o estancadas en llanuras de inundación y arrozales.",
+    "wild_params": "pH 6.0–7.5, GH 2–15, temperatura 20–28 °C."
+  },
+  "max_size_cm": 50,
+  "lifespan_years": "Perenne",
+  "nitrate_max": 50,
+  "ammonia_max": 0.5,
+  "nitrite_max": 0,
+  "co2": false,
+  "fertilizer": "Fertilizante líquido básico con hierro. CO₂ no necesario.",
+  "uses": "Planta de tallo de fondo medio-trasero. Excelente filtradora de nitratos.",
+  "propagation": "Esquejes del tallo. Cortar y plantar directamente.",
+  "substrate": [
+    "Arena",
+    "Grava",
+    "Sustrato nutritivo"
+  ],
+  "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "light": "Media",
+  "light_detail": "8–10 h/día.",
+  "filtration": "Filtración moderada.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
+  "problems": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "diseases": [
+    {
+      "symptom": "Hojas amarillas",
+      "cause": "Deficiencia de hierro o nitrógeno",
+      "solution": "Fertilizante completo con quelato de hierro."
+    },
+    {
+      "symptom": "BBA en hojas",
+      "cause": "Fluctuación de CO₂ o luz excesiva",
+      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
+    },
+    {
+      "symptom": "Hojas transparentes o agujereadas",
+      "cause": "Deficiencia de potasio",
+      "solution": "Añadir sulfato de potasio."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Disponible en tiendas. Crecimiento muy rápido — podar semanalmente.",
+  "order": "Plantae",
+  "class": "Varied",
+  "behavior": "Crece rápido en la columna de agua como tallo erecto. Con buena luz ramifica abundantemente.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Convive con cualquier especie vegetal. Competidora por nutrientes en el agua.",
+  "co2_detail": "No necesario. Sin CO₂ crece más lento pero sano."
+}

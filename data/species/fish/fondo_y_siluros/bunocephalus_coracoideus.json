@@ -1,0 +1,54 @@
+{
+  "variants": [
+    "Bunocephalus coracoideus — cuerpo aplanado con forma de banjo, piel rugosa marrón"
+  ],
+  "description": "El Bagre Banjo (Bunocephalus coracoideus) es originario de la cuenca amazónica y ríos del norte de Sudamérica. Su cuerpo aplanado con forma de banjo y su piel rugosa color tierra lo camuflan perfectamente entre hojas y sedimento. Es tan bueno en camuflaje que pasa literalmente desapercibido durante semanas — muchos acuaristas creen que ha muerto.",
+  "origin": {
+    "region": "América del Sur (Brasil, Colombia, Venezuela, Ecuador, Perú)",
+    "countries": [
+      "Brasil",
+      "Colombia",
+      "Venezuela",
+      "Ecuador",
+      "Perú"
+    ],
+    "basin": "Cuencas del Amazonas, Orinoco y ríos costeros del norte de Sudamérica",
+    "habitat": "Fondos de arena y hojas en descomposición de aguas lentas y oscuras.",
+    "wild_params": "pH 5.5–7.5, GH 0–15, temperatura 22–28 °C."
+  },
+  "max_size_cm": 15,
+  "lifespan_years": "3–5",
+  "nitrate_max": 20,
+  "ammonia_max": 0,
+  "nitrite_max": 0,
+  "feeding_detail": "Omnívoro detritívoro. Tabletas de fondo, gusanos, materia orgánica. Come de noche.",
+  "behavior": "Completamente nocturno. Se entierra en sustrato durante el día. Inmóvil horas.",
+  "recommended_school": 1,
+  "level": "Fácil",
+  "substrate": [
+    "Arena muy fina",
+    "Tierra de acuario"
+  ],
+  "substrate_detail": "Arena fina de color similar al cuerpo (beige-marrón) donde pueda camuflarse perfectamente. Hojas secas de catappa en el fondo para que descanse entre ellas.",
+  "plants": "Recomendadas",
+  "plant_detail": "Compatible con plantas.",
+  "light": "Media",
+  "light_detail": "8 h/día, intensidad baja. Especie que vive enterrada en el sustrato de día. La oscuridad o luz muy baja es su entorno natural.",
+  "filtration": "Filtro de esponja o externo de bajo caudal. Agua ligeramente ácida (pH 5.5–7.5). Especie muy tolerante a variaciones.",
+  "water_changes": "20–25% semanal",
+  "sexing": "Hembras más grandes y redondeadas en el abdomen cuando llenas de huevos. Difícil sin comparar varios ejemplares.",
+  "reproduction": "Ovíparo. El Bagre Banjo deposita los huevos en el sustrato arenoso. El cuidado parental es mínimo. Muy difícil de observar la reproducción por su camuflaje.",
+  "compatibility_notes": "Perfectamente pacífico. Muy tímido — nunca lo verás si hay peces activos que lo asusten. Compatible con cualquier pez no agresivo. Come gusanos y artemia del sustrato de noche.",
+  "diseases": [
+    {
+      "symptom": "No sale nunca",
+      "cause": "Normal — es nocturno",
+      "solution": "Alimentar de noche con luz roja o apagada."
+    }
+  ],
+  "iucn": "No evaluado",
+  "market_notes": "Completamente enterrado de día. Alimento nocturno obligatorio.",
+  "order": "Siluriformes",
+  "class": "Actinopterygii",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+}
