@@ -567,7 +567,7 @@ function changeQty(id, delta) {
 function computeTankStats() {
   const all = state.tank.map(t => t.meta);
   const baseLiters  = Math.max(...state.tank.map(({ meta: s }) => s.min_liters || 0));
-  const extraLiters = state.tank.reduce((sum, { meta: s, qty }) => sum + (s.liters_per_unit || 0) * qty, 0);
+  const extraLiters = state.tank.reduce((sum, { meta: s, qty }) => sum + (s.liters_per_unit || 0) * Math.max(0, qty - 1), 0);
   const totalLiters = baseLiters + extraLiters;
   const totalAnimals = state.tank.reduce((sum, { qty }) => sum + qty, 0);
   const nitrate_max = Math.min(...all.map(s => s.nitrate_max || 25));
