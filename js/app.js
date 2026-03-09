@@ -1270,10 +1270,27 @@ function selectGran(btn, g) {
 function toggleTool(id) {
   const body    = document.getElementById('body-' + id);
   const chevron = document.getElementById('chevron-' + id);
+  const card    = body.closest('.tool-card');
+  const wrap    = card ? card.closest('.tools-section-wrap') : null;
+  const willOpen = body.classList.contains('hidden');
+
+  // Cerrar todas las tarjetas abiertas en la página
+  if (willOpen) {
+    document.querySelectorAll('.tool-card').forEach(c => {
+      const b = c.querySelector('.tool-body');
+      const ch = c.querySelector('[id^="chevron-"]');
+      if (b && !b.classList.contains('hidden')) {
+        b.classList.add('hidden');
+        c.classList.remove('open');
+        if (ch) ch.textContent = '▾';
+      }
+    });
+  }
+
   const isHidden = body.classList.toggle('hidden');
   chevron.textContent = isHidden ? '▾' : '▴';
+  if (card) card.classList.toggle('open', !isHidden);
   if (!isHidden && id === 'substrate') renderSubstrateSelector();
-
 }
 
 function renderSubstrateSelector() {
@@ -1367,6 +1384,9 @@ function renderTools() {
       <div class="page-title">🔧 Herramientas</div>
 
       <!-- VIDRIO -->
+      <div class="tools-section-wrap">
+      <div class="tools-section-title">🧮 Calculadoras</div>
+
       <div class="tool-card">
         <div class="tool-card-header" onclick="toggleTool('glass')" style="cursor:pointer">
           <div class="tool-card-icon">🪟</div>
@@ -1423,6 +1443,122 @@ function renderTools() {
         </div>
       </div>
 
+      </div>
+      <div class="tools-section-wrap">
+      <div class="tools-section-title">📖 Guías</div>
+
+      <div class="tool-card">
+        <div class="tool-card-header" onclick="toggleTool('guide-start')" style="cursor:pointer">
+          <div class="tool-card-icon">📋</div>
+          <div style="flex:1">
+            <div class="tool-card-title">Primeros pasos</div>
+            <div class="tool-card-sub">Qué hacer antes de meter peces</div>
+          </div>
+          <span id="chevron-guide-start" style="color:var(--accent);font-size:18px">▾</span>
+        </div>
+        <div id="body-guide-start" class="tool-body hidden">
+          <p class="guide-intro">Montar un acuario correctamente desde el inicio evita la mayoría de problemas. Sigue este orden.</p>
+          <div class="guide-step"><span class="guide-step-n">1</span><div><strong>Elige el acuario adecuado</strong><br>Más grande es más estable. Un acuario de 60–100 L es ideal para empezar — perdona más errores que uno pequeño. Asegúrate de que la ubicación soporte el peso (1 L = 1 kg).</div></div>
+          <div class="guide-step"><span class="guide-step-n">2</span><div><strong>Equipo mínimo</strong><br>Filtro (caudal 5–10× el volumen/hora), calentador con termostato, termómetro, iluminación y sustrato. El test de agua (amoníaco, nitritos, nitratos, pH) es imprescindible.</div></div>
+          <div class="guide-step"><span class="guide-step-n">3</span><div><strong>Acondiciona el agua</strong><br>Usa siempre acondicionador de agua para eliminar cloro y cloraminasantes de llenar. Nunca uses agua directo del grifo sin tratar.</div></div>
+          <div class="guide-step"><span class="guide-step-n">4</span><div><strong>Cicla antes de agregar peces</strong><br>Deja correr el filtro al menos 4–8 semanas antes del primer pez. Ver guía de Ciclado.</div></div>
+          <div class="guide-step"><span class="guide-step-n">5</span><div><strong>Agrega peces gradualmente</strong><br>Empieza con pocas especies resistentes. Espera 2 semanas entre adiciones para que el filtro se adapte a la carga biológica.</div></div>
+          <div class="guide-step"><span class="guide-step-n">6</span><div><strong>Aclimata los peces nuevos</strong><br>Flota la bolsa 15 min para igualar temperatura. Luego agrega agua de tu acuario poco a poco durante 20–30 min antes de liberar el pez.</div></div>
+        </div>
+      </div>
+
+      <div class="tool-card">
+        <div class="tool-card-header" onclick="toggleTool('guide-cycle')" style="cursor:pointer">
+          <div class="tool-card-icon">🔄</div>
+          <div style="flex:1">
+            <div class="tool-card-title">Ciclado del acuario</div>
+            <div class="tool-card-sub">Cómo establecer el ciclo del nitrógeno</div>
+          </div>
+          <span id="chevron-guide-cycle" style="color:var(--accent);font-size:18px">▾</span>
+        </div>
+        <div id="body-guide-cycle" class="tool-body hidden">
+          <p class="guide-intro">Antes de agregar peces, el acuario debe tener bacterias beneficiosas que procesen los desechos. Este proceso se llama <strong>ciclado</strong> y tarda entre 4 y 8 semanas.</p>
+          <div class="guide-step"><span class="guide-step-n">1</span><div><strong>El ciclo del nitrógeno</strong><br>Los peces producen amoníaco (NH₃) como desecho. Las bacterias lo convierten primero en nitritos (NO₂⁻) y luego en nitratos (NO₃⁻), que son mucho menos tóxicos.</div></div>
+          <div class="guide-step"><span class="guide-step-n">2</span><div><strong>Cómo iniciarlo</strong><br>Agrega una fuente de amoníaco: unas gotas de amoníaco puro sin perfume, comida en descomposición o bacterias comerciales (Tetra SafeStart, Seachem Stability). Enciende el filtro y calentador.</div></div>
+          <div class="guide-step"><span class="guide-step-n">3</span><div><strong>Qué medir y cuándo</strong><br>Mide amoníaco, nitritos y nitratos cada 2–3 días. Primero sube el amoníaco → luego los nitritos → finalmente aparecen nitratos. Cuando amoníaco y nitritos llegan a 0 en 24h, el ciclo está completo.</div></div>
+          <div class="guide-step"><span class="guide-step-n">4</span><div><strong>Acelerar el proceso</strong><br>Usa material de filtro de un acuario ya establecido, bacterias en botella, o plantas vivas. Mantén temperatura entre 25–27 °C y no limpies el filtro durante este proceso.</div></div>
+          <div class="guide-warn">⚠️ Nunca agregues peces a un acuario sin ciclar — el amoníaco y los nitritos son letales incluso en concentraciones bajas.</div>
+        </div>
+      </div>
+
+      <div class="tool-card">
+        <div class="tool-card-header" onclick="toggleTool('guide-params')" style="cursor:pointer">
+          <div class="tool-card-icon">💧</div>
+          <div style="flex:1">
+            <div class="tool-card-title">Cómo leer parámetros</div>
+            <div class="tool-card-sub">pH, GH, KH y nitratos explicados</div>
+          </div>
+          <span id="chevron-guide-params" style="color:var(--accent);font-size:18px">▾</span>
+        </div>
+        <div id="body-guide-params" class="tool-body hidden">
+          <p class="guide-intro">Los parámetros del agua determinan si tus peces estarán sanos o estresados. Estos son los más importantes.</p>
+          <div class="guide-param-block">
+            <div class="guide-param-title">🔵 pH — Acidez del agua</div>
+            <div class="guide-param-desc">Escala de 0 a 14. 7 es neutro, menos es ácido, más es alcalino. La mayoría de peces de acuario prefieren 6.5–7.5. <strong>Lo más importante es la estabilidad</strong> — un pH estable en 7.2 es mejor que uno que oscila entre 6.8 y 7.6.</div>
+          </div>
+          <div class="guide-param-block">
+            <div class="guide-param-title">🟡 GH — Dureza general</div>
+            <div class="guide-param-desc">Mide la cantidad de minerales disueltos (calcio y magnesio). GH bajo = agua blanda (ideal para tetras, discos, camarones). GH alto = agua dura (ideal para cíclidos africanos, livebearers). Se mide en °dH o ppm.</div>
+          </div>
+          <div class="guide-param-block">
+            <div class="guide-param-title">🟠 KH — Dureza de carbonatos</div>
+            <div class="guide-param-desc">Mide la capacidad del agua para resistir cambios de pH (alcalinidad). KH bajo = pH inestable y propenso a caídas bruscas. Mantener KH entre 3–8 °dH protege la estabilidad del pH.</div>
+          </div>
+          <div class="guide-param-block">
+            <div class="guide-param-title">🔴 Nitratos (NO₃⁻)</div>
+            <div class="guide-param-desc">Producto final del ciclo del nitrógeno. Menos tóxico que amoníaco o nitritos, pero acumulados dañan a largo plazo. Mantener bajo 20–40 ppm con cambios de agua regulares. Algunas especies sensibles (discos, camarones) requieren menos de 10 ppm.</div>
+          </div>
+          <div class="guide-param-block">
+            <div class="guide-param-title">☠️ Amoníaco y Nitritos</div>
+            <div class="guide-param-desc">Deben estar siempre en 0. Cualquier lectura positiva indica un problema: acuario sin ciclar, sobrepoblación, pez muerto o exceso de comida. Actúa de inmediato con cambios de agua parciales.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="tool-card">
+        <div class="tool-card-header" onclick="toggleTool('guide-quarantine')" style="cursor:pointer">
+          <div class="tool-card-icon">🏥</div>
+          <div style="flex:1">
+            <div class="tool-card-title">Cuarentena</div>
+            <div class="tool-card-sub">Por qué y cómo aislar peces nuevos</div>
+          </div>
+          <span id="chevron-guide-quarantine" style="color:var(--accent);font-size:18px">▾</span>
+        </div>
+        <div id="body-guide-quarantine" class="tool-body hidden">
+          <p class="guide-intro">Introducir un pez nuevo directamente al acuario principal es uno de los errores más comunes — puede contagiar enfermedades a todos tus peces.</p>
+          <div class="guide-step"><span class="guide-step-n">1</span><div><strong>¿Qué es la cuarentena?</strong><br>Mantener el pez nuevo en un acuario separado durante 2–4 semanas para observar si tiene enfermedades antes de introducirlo con los demás.</div></div>
+          <div class="guide-step"><span class="guide-step-n">2</span><div><strong>Equipo mínimo</strong><br>Un recipiente de 20–40 L, filtro con esponja (fácil de limpiar), calentador y tapa. No necesita sustrato ni decoración elaborada.</div></div>
+          <div class="guide-step"><span class="guide-step-n">3</span><div><strong>Qué observar</strong><br>Manchas blancas (Ich), aletas rotas, comportamiento errático, falta de apetito, respiración acelerada en la superficie o encorvamiento del cuerpo.</div></div>
+          <div class="guide-step"><span class="guide-step-n">4</span><div><strong>Si el pez está sano</strong><br>Después de 4 semanas sin síntomas, puedes introducirlo al acuario principal. Aclimátalo gradualmente al agua del acuario destino.</div></div>
+          <div class="guide-warn">⚠️ Nunca compartas redes, sifones ni herramientas entre el acuario de cuarentena y el principal sin desinfectarlas.</div>
+        </div>
+      </div>
+
+      <div class="tool-card">
+        <div class="tool-card-header" onclick="toggleTool('guide-compat')" style="cursor:pointer">
+          <div class="tool-card-icon">🤝</div>
+          <div style="flex:1">
+            <div class="tool-card-title">Compatibilidad</div>
+            <div class="tool-card-sub">Cómo elegir buenos compañeros de pecera</div>
+          </div>
+          <span id="chevron-guide-compat" style="color:var(--accent);font-size:18px">▾</span>
+        </div>
+        <div id="body-guide-compat" class="tool-body hidden">
+          <p class="guide-intro">No todos los peces conviven bien. Estos son los factores clave para armar una comunidad exitosa.</p>
+          <div class="guide-step"><span class="guide-step-n">1</span><div><strong>Parámetros similares</strong><br>Agrupa especies que requieran pH, temperatura y dureza parecidos. Mezclar un pez de agua blanda y ácida con uno de agua dura y alcalina resultará en estrés crónico para alguno.</div></div>
+          <div class="guide-step"><span class="guide-step-n">2</span><div><strong>Temperamento</strong><br>Evita mezclar especies agresivas con pacíficas. Un cíclido territorial puede acosar a tetras tranquilos. Verifica el temperamento de cada especie en sus fichas.</div></div>
+          <div class="guide-step"><span class="guide-step-n">3</span><div><strong>Tamaño</strong><br>Regla general: si cabe en la boca, es comida. No mezcles peces muy grandes con muy pequeños aunque sean "pacíficos".</div></div>
+          <div class="guide-step"><span class="guide-step-n">4</span><div><strong>Zonas del acuario</strong><br>Distribuye especies por nivel: peces de superficie, zona media y fondo. Así aprovechas todo el espacio y reduces conflictos territoriales.</div></div>
+          <div class="guide-step"><span class="guide-step-n">5</span><div><strong>Usa Mi Pecera</strong><br>La sección Mi Pecera de esta app verifica compatibilidades automáticamente entre las especies que agregues.</div></div>
+        </div>
+      </div>
+
+      </div>
     </div>`;
 }
 
