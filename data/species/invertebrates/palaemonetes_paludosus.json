@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Palaemonetes paludosus — completamente transparente, órganos visibles"
-  ],
-  "description": "El Camarón Fantasma (Palaemonetes paludosus) es originario del sureste de EE.UU., habitando en ríos, lagos y pantanos de agua dulce. Su cuerpo completamente transparente — donde se pueden ver sus órganos internos en funcionamiento — lo hace fascinante. Frecuentemente vendido como alimento vivo para peces, pero también es una especie ornamental interesante y muy fácil de mantener.",
+  "order": "Decapoda",
+  "nitrate_max": 20,
   "origin": {
     "region": "América del Norte (sureste de EE.UU.)",
     "countries": [
@@ -14,13 +12,16 @@
   },
   "max_size_cm": 5,
   "lifespan_years": "1–2",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Omnívoro oportunista. Come biofilm, algas, restos de alimento, materia orgánica. Suplementar con alimento para camarones o tabletas de verduras.",
-  "behavior": "Activo y exploratorio. Menos tímido que otras gambas. Compatible con peces pequeños. Se puede mantener con vivíparos, tetras pequeños y corydoras.",
-  "recommended_school": 5,
   "level": "Fondo / Todas las zonas",
+  "recommended_school": 5,
+  "description": "El Camarón Fantasma (Palaemonetes paludosus) es originario del sureste de EE.UU., habitando en ríos, lagos y pantanos de agua dulce. Su cuerpo completamente transparente — donde se pueden ver sus órganos internos en funcionamiento — lo hace fascinante. Frecuentemente vendido como alimento vivo para peces, pero también es una especie ornamental interesante y muy fácil de mantener.",
+  "variants": [
+    "Palaemonetes paludosus — completamente transparente, órganos visibles"
+  ],
+  "behavior": "Activo y exploratorio. Menos tímido que otras gambas. Compatible con peces pequeños. Se puede mantener con vivíparos, tetras pequeños y corydoras.",
+  "feeding_detail": "Omnívoro oportunista. Come biofilm, algas, restos de alimento, materia orgánica. Suplementar con alimento para camarones o tabletas de verduras.",
+  "sexing": "Hembras más grandes y con abdomen más desarrollado para portar huevos.",
+  "reproduction": "Relativamente fácil en agua dulce. La hembra lleva huevos verdes bajo el abdomen. Las crías son larvas planctónicas que necesitan agua envejecida y fitoplancton.",
   "substrate": [
     "Arena fina",
     "Grava fina"
@@ -32,8 +33,6 @@
   "light_detail": "8 h/día.",
   "filtration": "Filtración suave. Proteger entradas de filtro.",
   "water_changes": "15–20% semanal",
-  "sexing": "Hembras más grandes y con abdomen más desarrollado para portar huevos.",
-  "reproduction": "Relativamente fácil en agua dulce. La hembra lleva huevos verdes bajo el abdomen. Las crías son larvas planctónicas que necesitan agua envejecida y fitoplancton.",
   "compatibility_notes": "Compatible con peces pequeños pacíficos. Peces medianos los comen — usar como alimento vivo o mantener sin peces depredadores.",
   "diseases": [
     {
@@ -47,9 +46,7 @@
       "solution": "Sin cura. Retirar ejemplar infectado."
     }
   ],
+  "important_notes": "El Camarón Fantasma es la especie de camarón más económica y resistente. Frecuentemente usado como alimento vivo para peces grandes. Completamente transparente.",
   "iucn": "No evaluado",
-  "market_notes": "Muy económico. En tiendas a menudo vendido como alimento vivo. Excelente para principiantes.",
-  "order": "Decapoda",
-  "class": "Malacostraca",
-  "important_notes": "El Camarón Fantasma es la especie de camarón más económica y resistente. Frecuentemente usado como alimento vivo para peces grandes. Completamente transparente."
+  "market_notes": "Muy económico. En tiendas a menudo vendido como alimento vivo. Excelente para principiantes."
 }

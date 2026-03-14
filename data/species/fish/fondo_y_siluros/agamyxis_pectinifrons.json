@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Agamyxis pectinifrons — negro brillante con puntos blancos, espinas pectorales fuertes"
-  ],
-  "description": "El Bagre Raphael (Agamyxis pectinifrons) es originario de la cuenca amazónica. Su cuerpo negro brillante cubierto de puntos blancos y sus espinas pectorales muy desarrolladas lo hacen llamativo. Produce sonidos de frotamiento al ser manipulado o estresado — una defensa sonora única. Espinas MUY afiladas: puede engancharse en redes y lastimar manos.",
+  "order": "Siluriformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "América del Sur (Brasil, Ecuador, Perú, Colombia)",
     "countries": [
@@ -17,13 +15,16 @@
   },
   "max_size_cm": 15,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Omnívoro. Tabletas de fondo, gusanos, caracoles, restos. Come de noche.",
-  "behavior": "Nocturno. Se esconde bajo rocas y troncos de día. Produce sonidos al estrés.",
+  "level": "Fondo",
   "recommended_school": 1,
-  "level": "Fácil",
+  "description": "El Bagre Raphael (Agamyxis pectinifrons) es originario de la cuenca amazónica. Su cuerpo negro brillante cubierto de puntos blancos y sus espinas pectorales muy desarrolladas lo hacen llamativo. Produce sonidos de frotamiento al ser manipulado o estresado — una defensa sonora única. Espinas MUY afiladas: puede engancharse en redes y lastimar manos.",
+  "variants": [
+    "Agamyxis pectinifrons — negro brillante con puntos blancos, espinas pectorales fuertes"
+  ],
+  "behavior": "Nocturno. Se esconde bajo rocas y troncos de día. Produce sonidos al estrés.",
+  "feeding_detail": "Omnívoro. Tabletas de fondo, gusanos, caracoles, restos. Come de noche.",
+  "sexing": "Hembras más grandes y redondeadas en el abdomen. Diferencia poco marcada fuera de la condición reproductiva.",
+  "reproduction": "No se ha reproducido con éxito en cautiverio doméstico. Los huevos son depositados en el sustrato en la naturaleza.",
   "substrate": [
     "Arena fina",
     "Grava gruesa"
@@ -35,8 +36,6 @@
   "light_detail": "8 h/día, cualquier intensidad. Especie estrictamente nocturna — invisble de día. La oscuridad total activa su comportamiento.",
   "filtration": "Filtro externo moderado. Especie robusta que tolera variaciones. Las espinas muy afiladas del Raphael pueden engancharse en redes y bolsas — extremar cuidado.",
   "water_changes": "20–25% semanal",
-  "sexing": "Hembras más grandes y redondeadas en el abdomen. Diferencia poco marcada fuera de la condición reproductiva.",
-  "reproduction": "No se ha reproducido con éxito en cautiverio doméstico. Los huevos son depositados en el sustrato en la naturaleza.",
   "compatibility_notes": "Pacífico pero come caracoles y camarones pequeños. Compatible con peces medianos-grandes. Las espinas pectorales muy afiladas pueden herir a otros peces si los asusta.",
   "diseases": [
     {
@@ -45,9 +44,7 @@
       "solution": "Anti-ich."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Emite sonidos de defensa al cogerlo. Espinas muy afiladas — manejar con cuidado.",
-  "order": "Siluriformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Emite sonidos de defensa al cogerlo. Espinas muy afiladas — manejar con cuidado."
 }

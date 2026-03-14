@@ -1,26 +1,34 @@
 {
-  "variants": [
-    "Epalzeorhynchos frenatum — forma tipo, cuerpo gris/oliva con aletas rojas",
-    "Epalzeorhynchos frenatum var. Albino — cuerpo blanco/rosado, aletas naranja-rojo"
-  ],
-  "description": "El Tiburón Arcoíris (Epalzeorhynchos frenatum) es un ciprínido originario del sudeste asiático, especialmente de los ríos de Tailandia, Laos y Camboya. Su cuerpo gris oscuro u oliva contrasta con las aletas dorsales, pectorales y caudal de color rojo-naranja intenso. Muy similar al Tiburón Cola Roja (E. bicolor), del que se diferencia porque en el Arcoíris todas las aletas son rojas, no solo la caudal. Especie territorial que requiere espacio y decoración adecuada.",
+  "order": "Cypriniformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "Asia (Tailandia, Laos, Camboya)",
-    "countries": ["Tailandia", "Laos", "Camboya"],
+    "countries": [
+      "Tailandia",
+      "Laos",
+      "Camboya"
+    ],
     "basin": "Cuenca del río Mekong y afluentes, ríos de corriente moderada con fondos rocosos.",
     "habitat": "Ríos de agua clara con rocas, raíces y vegetación. Fondos con algas donde ramonea.",
     "wild_params": "pH 6.5–7.5, GH 5–15, temperatura 22–27 °C."
   },
   "max_size_cm": 15,
   "lifespan_years": "5–8",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Omnívoro herbívoro. Gránulos con espirulina, verduras blanqueadas (calabacín, pepino), algas en tableta, artemia y tubifex ocasionales. Ramonea algas del sustrato y decoración.",
-  "behavior": "Territorial con su propia especie y con peces de aspecto similar. Mantener solo 1 ejemplar salvo en acuarios muy grandes (400+ L) con múltiples cuevas. Activo y curioso, patrulla su territorio constantemente.",
+  "level": "Fondo",
   "recommended_school": 1,
-  "level": "Intermedio",
-  "substrate": ["Arena", "Grava fina"],
+  "description": "El Tiburón Arcoíris (Epalzeorhynchos frenatum) es un ciprínido originario del sudeste asiático, especialmente de los ríos de Tailandia, Laos y Camboya. Su cuerpo gris oscuro u oliva contrasta con las aletas dorsales, pectorales y caudal de color rojo-naranja intenso. Muy similar al Tiburón Cola Roja (E. bicolor), del que se diferencia porque en el Arcoíris todas las aletas son rojas, no solo la caudal. Especie territorial que requiere espacio y decoración adecuada.",
+  "variants": [
+    "Epalzeorhynchos frenatum — forma tipo, cuerpo gris/oliva con aletas rojas",
+    "Epalzeorhynchos frenatum var. Albino — cuerpo blanco/rosado, aletas naranja-rojo"
+  ],
+  "behavior": "Territorial con su propia especie y con peces de aspecto similar. Mantener solo 1 ejemplar salvo en acuarios muy grandes (400+ L) con múltiples cuevas. Activo y curioso, patrulla su territorio constantemente.",
+  "feeding_detail": "Omnívoro herbívoro. Gránulos con espirulina, verduras blanqueadas (calabacín, pepino), algas en tableta, artemia y tubifex ocasionales. Ramonea algas del sustrato y decoración.",
+  "sexing": "Difícil externamente. Las hembras adultas suelen tener el abdomen más redondeado. Sin dimorfismo claro en coloración.",
+  "reproduction": "Muy rara en cautiverio doméstico. En criaderos comerciales se induce con hormonas. No documentada reproducción espontánea en acuarios caseros.",
+  "substrate": [
+    "Arena",
+    "Grava fina"
+  ],
   "substrate_detail": "Sustrato fino con cuevas, tubos de PVC o rocas apiladas. El Tiburón Arcoíris necesita territorio definido con refugio propio para reducir el estrés y la agresividad.",
   "plants": "Recomendadas",
   "plant_detail": "Compatible con plantas robustas de hoja dura. Puede ramonear algas de las hojas sin dañar la planta. Evitar plantas delicadas de hoja fina.",
@@ -28,8 +36,6 @@
   "light_detail": "8–10 h/día, intensidad media. La coloración roja de las aletas se aprecia mejor con iluminación LED de espectro cálido.",
   "filtration": "Filtro externo de caudal moderado-alto. Agradece buena oxigenación y algo de corriente. Agua limpia con nitratos bajos.",
   "water_changes": "20–25% semanal",
-  "sexing": "Difícil externamente. Las hembras adultas suelen tener el abdomen más redondeado. Sin dimorfismo claro en coloración.",
-  "reproduction": "Muy rara en cautiverio doméstico. En criaderos comerciales se induce con hormonas. No documentada reproducción espontánea en acuarios caseros.",
   "compatibility_notes": "Solo 1 por acuario en instalaciones estándar. Agresivo con peces de coloración similar y con otros de su especie. Compatible con peces robustos de zona media-alta: barbs, danios, tetras grandes, gurramis. Evitar peces lentos de aletas largas.",
   "diseases": [
     {
@@ -43,9 +49,7 @@
       "solution": "Revisar composición del acuario. Asegurar que solo haya 1 ejemplar o añadir decoración para romper líneas de visión."
     }
   ],
+  "important_notes": "No confundir con Epalzeorhynchos bicolor (Tiburón Cola Roja): en el Arcoíris TODAS las aletas son rojas; en el Cola Roja solo la caudal es roja sobre cuerpo completamente negro.",
   "iucn": "Preocupación menor (LC)",
-  "market_notes": "Disponible en tiendas especializadas. La variedad albina es muy popular. Todos los ejemplares comerciales son criados en cautiverio.",
-  "order": "Cypriniformes",
-  "class": "Actinopterygii",
-  "important_notes": "No confundir con Epalzeorhynchos bicolor (Tiburón Cola Roja): en el Arcoíris TODAS las aletas son rojas; en el Cola Roja solo la caudal es roja sobre cuerpo completamente negro."
+  "market_notes": "Disponible en tiendas especializadas. La variedad albina es muy popular. Todos los ejemplares comerciales son criados en cautiverio."
 }

@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Phyllanthus fluitans — hojas redondeadas rojo-rosado por encima, rojo intenso por debajo"
-  ],
-  "description": "El Phyllanthus Fluitans es originario de la cuenca amazónica. Planta flotante con hojas que se vuelven rojo-rosado intenso con buena luz. La más decorativa de las flotantes disponibles en el hobby. Prefiere agua ligeramente ácida y cálida.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "América del Sur (Amazonas)",
     "countries": [
@@ -17,39 +15,28 @@
   },
   "max_size_cm": 3,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": false,
-  "fertilizer": "Fertilizante foliar muy diluido. CO₂ no necesario.",
-  "uses": "Planta flotante rosada. Muy decorativa. Refugio para peces laberínticos.",
+  "level": "Superficie",
+  "description": "El Phyllanthus Fluitans es originario de la cuenca amazónica. Planta flotante con hojas que se vuelven rojo-rosado intenso con buena luz. La más decorativa de las flotantes disponibles en el hobby. Prefiere agua ligeramente ácida y cálida.",
+  "variants": [
+    "Phyllanthus fluitans — hojas redondeadas rojo-rosado por encima, rojo intenso por debajo"
+  ],
+  "behavior": "Flotante con hojas rosadas pequeñas dispuestas alternamente. Una de las flotantes más decorativas.",
   "propagation": "División espontánea de las plantitas.",
   "substrate": [
     "Flotante"
   ],
   "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con plantas sumergidas. Las raíces cortas no compiten con el fondo.",
   "light": "Media-Alta",
   "light_detail": "10–12 h/día.",
+  "co2": false,
+  "co2_detail": "No necesario.",
+  "fertilizer": "Fertilizante foliar muy diluido. CO₂ no necesario.",
+  "uses": "Planta flotante rosada. Muy decorativa. Refugio para peces laberínticos.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -67,12 +54,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "Planta flotante con hojas rojizas muy decorativas. Requiere luz alta para mantener el color rojo. Las raíces rojas son refugio para camarones.",
   "iucn": "No evaluado",
-  "market_notes": "La flotante más decorativa por su color rosado. Disponible en tiendas especializadas.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Flotante con hojas rosadas pequeñas dispuestas alternamente. Una de las flotantes más decorativas.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Compatible con plantas sumergidas. Las raíces cortas no compiten con el fondo.",
-  "co2_detail": "No necesario."
+  "market_notes": "La flotante más decorativa por su color rosado. Disponible en tiendas especializadas."
 }

@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Pistia stratiotes — roseta de hojas aterciopeladas verde pálido",
-    "⚠️ Especie invasora en muchos países — verificar legalidad"
-  ],
-  "description": "La Lechuga de Agua (Pistia stratiotes) es pantropical. Sus raíces largas y densas son uno de los mejores refugios para camarones y alevines. Filtradora de nitratos muy eficaz. ⚠️ Necesita espacio de aire húmedo sobre el agua — no funciona en acuarios completamente cerrados.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "Pantropical (origen incierto, posiblemente América tropical)",
     "countries": [
@@ -15,39 +12,29 @@
   },
   "max_size_cm": 15,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": false,
-  "fertilizer": "No requiere fertilización directa — absorbe del agua.",
-  "uses": "Planta flotante. Raíces densas para camarones. Reduce luz y nitratos.",
+  "level": "Superficie",
+  "description": "La Lechuga de Agua (Pistia stratiotes) es pantropical. Sus raíces largas y densas son uno de los mejores refugios para camarones y alevines. Filtradora de nitratos muy eficaz. ⚠️ Necesita espacio de aire húmedo sobre el agua — no funciona en acuarios completamente cerrados.",
+  "variants": [
+    "Pistia stratiotes — roseta de hojas aterciopeladas verde pálido",
+    "⚠️ Especie invasora en muchos países — verificar legalidad"
+  ],
+  "behavior": "Flotante con hojas en roseta aterciopelada y raíces densas. Necesita espacio de aire húmedo entre el agua y la tapa.",
   "propagation": "Estolones — plantas hijas conectadas a la madre.",
   "substrate": [
     "Flotante"
   ],
   "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Controla nitratos eficazmente. Incompatible con plantas del fondo que necesiten luz máxima.",
   "light": "Alta",
   "light_detail": "10–12 h/día.",
+  "co2": false,
+  "co2_detail": "No necesario.",
+  "fertilizer": "No requiere fertilización directa — absorbe del agua.",
+  "uses": "Planta flotante. Raíces densas para camarones. Reduce luz y nitratos.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -65,12 +52,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "Planta flotante de gran porte — puede alcanzar 15 cm. Sus largas raíces son filtro biológico natural. Especie invasora — no liberar al medio.",
   "iucn": "No evaluado",
-  "market_notes": "⚠️ Invasora en muchos países. Verificar legalidad. Necesita espacio de aire húmedo.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Flotante con hojas en roseta aterciopelada y raíces densas. Necesita espacio de aire húmedo entre el agua y la tapa.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Controla nitratos eficazmente. Incompatible con plantas del fondo que necesiten luz máxima.",
-  "co2_detail": "No necesario."
+  "market_notes": "⚠️ Invasora en muchos países. Verificar legalidad. Necesita espacio de aire húmedo."
 }

@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Arawana Plateada"
-  ],
-  "description": "Arawana Plateada (Osteoglossum bicirrhosum) es una especie de acuario difícil de cuidar, originaria de América del Sur. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 120 cm en cautiverio.",
+  "order": "Varies",
+  "nitrate_max": 20,
   "origin": {
     "region": "América del Sur (cuenca del Amazonas y Orinoco)",
     "countries": [
@@ -19,13 +17,16 @@
   },
   "max_size_cm": 120,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "En acuario: artemia viva o congelada, gusanos de sangre, tubifex, insectos acuáticos, gambas. Alimentar 1-2 veces al día en cantidades moderadas.",
-  "behavior": "Se puede mantener individualmente o en pequeños grupos. Especie agresivo que habita el estrato medio-bajo del acuario.",
+  "level": "Superficie",
   "recommended_school": 1,
-  "level": "Medio",
+  "description": "Arawana Plateada (Osteoglossum bicirrhosum) es una especie de acuario difícil de cuidar, originaria de América del Sur. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 120 cm en cautiverio.",
+  "variants": [
+    "Arawana Plateada"
+  ],
+  "behavior": "Se puede mantener individualmente o en pequeños grupos. Especie agresivo que habita el estrato medio-bajo del acuario.",
+  "feeding_detail": "En acuario: artemia viva o congelada, gusanos de sangre, tubifex, insectos acuáticos, gambas. Alimentar 1-2 veces al día en cantidades moderadas.",
+  "sexing": "Prácticamente imposible externamente. Los machos pueden tener la cavidad bucal ligeramente más pronunciada.",
+  "reproduction": "El macho incuba los huevos y las crías en la boca. Las crías llevan el saco vitelino visible durante semanas.",
   "substrate": [
     "Arena fina",
     "Grava"
@@ -37,8 +38,6 @@
   "light_detail": "8–12 h/día, intensidad variable. Especie de superficie — la luz no afecta significativamente su comportamiento.",
   "filtration": "Filtro externo muy potente. Tapa HERMÉTICA con cierre — puede saltar más de 1 metro fuera del agua.",
   "water_changes": "20–25% semanal",
-  "sexing": "Prácticamente imposible externamente. Los machos pueden tener la cavidad bucal ligeramente más pronunciada.",
-  "reproduction": "El macho incuba los huevos y las crías en la boca. Las crías llevan el saco vitelino visible durante semanas.",
   "compatibility_notes": "Solo con peces de su tamaño (más de 20 cm). Come cualquier cosa que quepa en su boca. Incompatible con prácticamente todo en acuarios domésticos.",
   "diseases": [
     {
@@ -57,9 +56,7 @@
       "solution": "Antibiótico (kanamicina, eritromicina). Acuario hospital. Pronóstico reservado."
     }
   ],
+  "important_notes": "El Arowana Plateado crece de 5 cm a 1 m. Es considerado símbolo de buena suerte en Asia — los especímenes de albino se han vendido por cientos de miles de dólares.",
   "iucn": "No evaluado",
-  "market_notes": "Crece hasta 1m. Solo para instalaciones muy grandes. Puede saltar 1m fuera del agua.",
-  "order": "Varies",
-  "class": "Actinopterygii",
-  "important_notes": "El Arowana Plateado crece de 5 cm a 1 m. Es considerado símbolo de buena suerte en Asia — los especímenes de albino se han vendido por cientos de miles de dólares."
+  "market_notes": "Crece hasta 1m. Solo para instalaciones muy grandes. Puede saltar 1m fuera del agua."
 }

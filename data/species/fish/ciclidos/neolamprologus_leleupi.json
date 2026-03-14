@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Cíclido Limón"
-  ],
-  "description": "Cíclido Limón (Neolamprologus leleupi) es una especie de acuario moderado de cuidar, originaria de África Oriental. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 10 cm en cautiverio.",
+  "order": "Cichliformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "África Oriental (Lago Tanganyika)",
     "countries": [
@@ -16,13 +14,16 @@
   },
   "max_size_cm": 10,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "En acuario: artemia viva o congelada, gusanos de sangre, tubifex, insectos acuáticos, gambas. Alimentar 1-2 veces al día en cantidades moderadas.",
-  "behavior": "Se puede mantener individualmente o en pequeños grupos. Especie semi-agresivo que habita el estrato medio-bajo del acuario.",
+  "level": "Fondo",
   "recommended_school": 2,
-  "level": "Medio",
+  "description": "Cíclido Limón (Neolamprologus leleupi) es una especie de acuario moderado de cuidar, originaria de África Oriental. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 10 cm en cautiverio.",
+  "variants": [
+    "Cíclido Limón"
+  ],
+  "behavior": "Se puede mantener individualmente o en pequeños grupos. Especie semi-agresivo que habita el estrato medio-bajo del acuario.",
+  "feeding_detail": "En acuario: artemia viva o congelada, gusanos de sangre, tubifex, insectos acuáticos, gambas. Alimentar 1-2 veces al día en cantidades moderadas.",
+  "sexing": "Prácticamente imposible — dimorfismo sexual casi inexistente. Solo distinguible con certeza durante la reproducción.",
+  "reproduction": "Ovíparo con cuidado biparental en grietas y cuevas. La pareja es muy territorial durante la reproducción.",
   "substrate": [
     "Arena fina",
     "Grava"
@@ -34,8 +35,6 @@
   "light_detail": "10–12 h/día, intensidad alta. Lago Tanganica es uno de los lagos más claros del mundo.",
   "filtration": "Filtro externo potente. Agua muy dura y alcalina — pH 8.0–9.0, GH 12–20 obligatorios.",
   "water_changes": "20–25% semanal",
-  "sexing": "Prácticamente imposible — dimorfismo sexual casi inexistente. Solo distinguible con certeza durante la reproducción.",
-  "reproduction": "Ovíparo con cuidado biparental en grietas y cuevas. La pareja es muy territorial durante la reproducción.",
   "compatibility_notes": "Solo con cíclidos de lago Tanganica de tamaño y temperamento similar. Muy territorial — acuario biotopo específico recomendado.",
   "diseases": [
     {
@@ -54,9 +53,7 @@
       "solution": "Separar agresores. Tratamiento antibiótico tópico si hay infección secundaria."
     }
   ],
+  "important_notes": "El Leleupi es el cíclido más naranja del lago Tanganica. Su color proviene de los carotenoides de la dieta — con alimento pobre el naranja desaparece.",
   "iucn": "No evaluado",
-  "market_notes": "El cíclido naranja más llamativo de Tanganika. Muy territorial — acuario específico de biotopo.",
-  "order": "Cichliformes",
-  "class": "Actinopterygii",
-  "important_notes": "El Leleupi es el cíclido más naranja del lago Tanganica. Su color proviene de los carotenoides de la dieta — con alimento pobre el naranja desaparece."
+  "market_notes": "El cíclido naranja más llamativo de Tanganika. Muy territorial — acuario específico de biotopo."
 }

@@ -1,14 +1,6 @@
 {
   "order": "Cypriniformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    10,
-    14
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 6,
   "origin": {
     "region": "Asia del Sur (India norte, Pakistán, Nepal, Bangladés)",
     "countries": [
@@ -21,15 +13,32 @@
     "habitat": "Ríos, arroyos y lagos de montaña de agua fría y bien oxigenada.",
     "wild_params": "pH 6.0–8.0, GH 4–15, temperatura 14–22 °C."
   },
+  "max_size_cm": 14,
+  "lifespan_years": "5–7",
+  "level": "Medio",
+  "recommended_school": 6,
+  "description": "El Barbo Rosado (Pethia conchonius) es originario del norte de India, Pakistán y Nepal. Es uno de los barbos más resistentes — tolera temperaturas desde 14°C, lo que lo hace ideal para acuarios sin calefacción. Los machos en época reproductiva se vuelven de un rojo intenso brillante. Come plantas activamente — solo compatible con Anubias y helechos duros.",
+  "variants": [
+    "Pethia conchonius — forma tipo, rosa-rojo moderado",
+    "Pethia conchonius var. Neón — selección para rosa más intenso",
+    "Pethia conchonius var. Velo — aleta dorsal elongada (cultivar)"
+  ],
+  "behavior": "Activo y semi-agresivo. Come plantas blandas. En cardumen de 8+ la agresividad intraespecífica se dispersa. Prefiere temperaturas frescas.",
+  "feeding_detail": "Omnívoro. Escamas, gránulos, artemia, verduras. 2 veces al día.",
+  "sexing": "Machos en condición reproductiva de un rojo-naranja intenso brillante con escamas plateadas. Hembras de color verde-plateado sin el rojo llamativo.",
+  "reproduction": "Ovíparo de freza libre entre plantas. Sin cuidado parental. Temperatura de 18°C estimula la reproducción. Los adultos comen los huevos — separar tras la freza.",
   "substrate": [
     "Arena fina",
     "Grava"
   ],
   "substrate_detail": "Arena fina o grava. Sin plantas blandas — las come. Solo plantas duras: Anubias, Java Fern, Vallisneria. Sustrato sin preferencias especiales.",
-  "lighting": "Moderada",
-  "description": "El Barbo Rosado (Pethia conchonius) es originario del norte de India, Pakistán y Nepal. Es uno de los barbos más resistentes — tolera temperaturas desde 14°C, lo que lo hace ideal para acuarios sin calefacción. Los machos en época reproductiva se vuelven de un rojo intenso brillante. Come plantas activamente — solo compatible con Anubias y helechos duros.",
-  "behavior": "Activo y semi-agresivo. Come plantas blandas. En cardumen de 8+ la agresividad intraespecífica se dispersa. Prefiere temperaturas frescas.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Incompatible (come plantas blandas)",
+  "plant_detail": "Solo plantas muy duras.",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día, intensidad media. El rojo intenso de los machos se desarrolla con buena iluminación y temperatura fresca. Con calor excesivo el color se apaga.",
+  "filtration": "Filtro externo de caudal moderado. Especie robusta que tolera cierta variación. Temperatura fresca (14–22°C) — incompatible con calentadores tropicales estándar.",
+  "water_changes": "20–25% semanal",
+  "compatibility_notes": "Semi-agresivo. Come plantas blandas. Compatible con peces robustos de aletas cortas y temperatura fresca. Incompatible con Bettas, Guramis y peces de aletas largas.",
   "diseases": [
     {
       "symptom": "Ich",
@@ -42,29 +51,7 @@
       "solution": "Antibiótico. Separar si es grave."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "variants": [
-    "Pethia conchonius — forma tipo, rosa-rojo moderado",
-    "Pethia conchonius var. Neón — selección para rosa más intenso",
-    "Pethia conchonius var. Velo — aleta dorsal elongada (cultivar)"
-  ],
-  "max_size_cm": 14,
-  "lifespan_years": "5–7",
-  "feeding_detail": "Omnívoro. Escamas, gránulos, artemia, verduras. 2 veces al día.",
-  "recommended_school": 6,
-  "level": "Fácil",
-  "plants": "Incompatible (come plantas blandas)",
-  "plant_detail": "Solo plantas muy duras.",
-  "light": "Moderada",
-  "light_detail": "8–10 h/día, intensidad media. El rojo intenso de los machos se desarrolla con buena iluminación y temperatura fresca. Con calor excesivo el color se apaga.",
-  "filtration": "Filtro externo de caudal moderado. Especie robusta que tolera cierta variación. Temperatura fresca (14–22°C) — incompatible con calentadores tropicales estándar.",
-  "water_changes": "20–25% semanal",
-  "sexing": "Machos en condición reproductiva de un rojo-naranja intenso brillante con escamas plateadas. Hembras de color verde-plateado sin el rojo llamativo.",
-  "reproduction": "Ovíparo de freza libre entre plantas. Sin cuidado parental. Temperatura de 18°C estimula la reproducción. Los adultos comen los huevos — separar tras la freza.",
-  "compatibility_notes": "Semi-agresivo. Come plantas blandas. Compatible con peces robustos de aletas cortas y temperatura fresca. Incompatible con Bettas, Guramis y peces de aletas largas.",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Prefiere agua fría (18–22°C). Come plantas blandas.",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Prefiere agua fría (18–22°C). Come plantas blandas."
 }

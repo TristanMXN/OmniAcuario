@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Myriophyllum aquaticum — hojas verticiladas verde brillante, tipo pluma",
-    "⚠️ Especie invasora en muchos países — verificar legalidad"
-  ],
-  "description": "El Myriophyllum Aquaticum es originario de la cuenca del Río de la Plata. Sus hojas verticiladas tipo pluma son muy decorativas. Parte de la planta puede crecer fuera del agua (acuaterrario). ⚠️ Especie invasora en Europa, Australia y Norteamérica.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "América del Sur (cuenca del Río de la Plata)",
     "countries": [
@@ -19,39 +16,29 @@
   },
   "max_size_cm": 100,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": true,
-  "fertilizer": "CO₂ + fertilización completa.",
-  "uses": "Planta de tallo muy ornamental con hojas verticiladas tipo pluma.",
+  "level": "Zona media",
+  "description": "El Myriophyllum Aquaticum es originario de la cuenca del Río de la Plata. Sus hojas verticiladas tipo pluma son muy decorativas. Parte de la planta puede crecer fuera del agua (acuaterrario). ⚠️ Especie invasora en Europa, Australia y Norteamérica.",
+  "variants": [
+    "Myriophyllum aquaticum — hojas verticiladas verde brillante, tipo pluma",
+    "⚠️ Especie invasora en muchos países — verificar legalidad"
+  ],
+  "behavior": "Tallo plumoso con hojas muy divididas similares a cabomba pero más densa.",
   "propagation": "Esquejes del tallo.",
   "substrate": [
     "Sustrato nutritivo"
   ],
   "substrate_detail": "Sustrato nutritivo para mejores resultados.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con plantas de tallo. Crecimiento rápido que puede dominar el fondo trasero.",
   "light": "Alta",
   "light_detail": "10–12 h/día.",
+  "co2": true,
+  "co2_detail": "Recomendado. Sin CO₂ el crecimiento es pobre y las hojas se vuelven delgadas.",
+  "fertilizer": "CO₂ + fertilización completa.",
+  "uses": "Planta de tallo muy ornamental con hojas verticiladas tipo pluma.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -69,12 +56,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "Especie invasora en muchos países — no liberar al medio natural. Crecimiento muy rápido. Los tallos emergentes tienen aspecto diferente a los sumergidos.",
   "iucn": "No evaluado",
-  "market_notes": "⚠️ Invasora global. Verificar legalidad en tu país.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Tallo plumoso con hojas muy divididas similares a cabomba pero más densa.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Compatible con plantas de tallo. Crecimiento rápido que puede dominar el fondo trasero.",
-  "co2_detail": "Recomendado. Sin CO₂ el crecimiento es pobre y las hojas se vuelven delgadas."
+  "market_notes": "⚠️ Invasora global. Verificar legalidad en tu país."
 }

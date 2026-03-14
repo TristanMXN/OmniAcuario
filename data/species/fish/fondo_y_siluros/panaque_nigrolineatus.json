@@ -1,14 +1,6 @@
 {
   "order": "Siluriformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    30,
-    40
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "América del Sur (Colombia, Venezuela)",
     "countries": [
@@ -19,15 +11,30 @@
     "habitat": "Ríos de agua negra con troncos sumergidos. Nocturno. Se esconde bajo madera.",
     "wild_params": "pH 6.0–7.5, GH 2–12, temperatura 23–27 °C."
   },
+  "max_size_cm": 43,
+  "lifespan_years": "10–15",
+  "level": "Fondo",
+  "recommended_school": 1,
+  "description": "El Pleco Real (Panaque nigrolineatus) es originario de las cuencas del río Orinoco y afluentes colombianos y venezolanos. Es el único vertebrado capaz de digerir madera (xilófago) gracias a bacterias simbióticas en su intestino. Los troncos de madera blanda son OBLIGATORIOS — sin ellos no sobrevive. Sus ojos rojo brillante sobre el cuerpo con rayas negras y beige son inconfundibles.",
+  "variants": [
+    "Panaque nigrolineatus — rayas negras y beige, ojos rojos brillantes"
+  ],
+  "behavior": "Completamente nocturno. Raspa la madera constantemente con dientes especializados. Territorial con otros Panaque — solo 1 por acuario. Produce enormes cantidades de desechos.",
+  "feeding_detail": "Xilófago (come madera). Troncos de madera blanda OBLIGATORIOS + verduras, espirulina, gránulos de fondo.",
+  "sexing": "Machos con espinas odontodas más desarrolladas en el morro y márgenes del cuerpo, especialmente visibles con luz lateral rasante.",
+  "reproduction": "Ovíparo en cuevas — el macho limpia el interior de una cueva y cuida los huevos. Muy difícil en acuario doméstico. Las condiciones de agua negra son necesarias.",
   "substrate": [
     "Arena fina",
     "Grava"
   ],
   "substrate_detail": "Arena fina o grava pequeña. Troncos de madera blanda OBLIGATORIOS y en cantidad — raspa la madera con dientes especializados como fuente principal de nutrientes y fibra.",
-  "lighting": "Moderada",
-  "description": "El Pleco Real (Panaque nigrolineatus) es originario de las cuencas del río Orinoco y afluentes colombianos y venezolanos. Es el único vertebrado capaz de digerir madera (xilófago) gracias a bacterias simbióticas en su intestino. Los troncos de madera blanda son OBLIGATORIOS — sin ellos no sobrevive. Sus ojos rojo brillante sobre el cuerpo con rayas negras y beige son inconfundibles.",
-  "behavior": "Completamente nocturno. Raspa la madera constantemente con dientes especializados. Territorial con otros Panaque — solo 1 por acuario. Produce enormes cantidades de desechos.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Compatible",
+  "plant_detail": "No come plantas pero puede romperlas al moverse.",
+  "light": "Baja",
+  "light_detail": "6–8 h/día, intensidad baja-media. Especie completamente nocturna que se esconde durante el día. Cueva o espacio bajo un tronco obligatorio.",
+  "filtration": "Filtro externo muy potente (5–6x el volumen/hora). El Royal Pleco produce cantidades masivas de heces de madera semi-digerida — aspirar el fondo a diario.",
+  "water_changes": "25–30% semanal",
+  "compatibility_notes": "Pacífico excepto con otros Panaque — solo 1 macho por acuario. Espacio territorial muy marcado para la madera. Compatible con peces de agua negra ácida.",
   "diseases": [
     {
       "symptom": "Sin actividad, rechaza la madera",
@@ -40,27 +47,7 @@
       "solution": "Anti-ich a media dosis."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "variants": [
-    "Panaque nigrolineatus — rayas negras y beige, ojos rojos brillantes"
-  ],
-  "max_size_cm": 43,
-  "lifespan_years": "10–15",
-  "feeding_detail": "Xilófago (come madera). Troncos de madera blanda OBLIGATORIOS + verduras, espirulina, gránulos de fondo.",
-  "recommended_school": 1,
-  "level": "Intermedio",
-  "plants": "Compatible",
-  "plant_detail": "No come plantas pero puede romperlas al moverse.",
-  "light": "Baja",
-  "light_detail": "6–8 h/día, intensidad baja-media. Especie completamente nocturna que se esconde durante el día. Cueva o espacio bajo un tronco obligatorio.",
-  "filtration": "Filtro externo muy potente (5–6x el volumen/hora). El Royal Pleco produce cantidades masivas de heces de madera semi-digerida — aspirar el fondo a diario.",
-  "water_changes": "25–30% semanal",
-  "sexing": "Machos con espinas odontodas más desarrolladas en el morro y márgenes del cuerpo, especialmente visibles con luz lateral rasante.",
-  "reproduction": "Ovíparo en cuevas — el macho limpia el interior de una cueva y cuida los huevos. Muy difícil en acuario doméstico. Las condiciones de agua negra son necesarias.",
-  "compatibility_notes": "Pacífico excepto con otros Panaque — solo 1 macho por acuario. Espacio territorial muy marcado para la madera. Compatible con peces de agua negra ácida.",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Requiere troncos de madera blanda para raspar. Sin ellos no sobrevive.",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Requiere troncos de madera blanda para raspar. Sin ellos no sobrevive."
 }

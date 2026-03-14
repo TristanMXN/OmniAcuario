@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Ludwigia palustris — hojas pequeñas verde-rojizo por encima, rojo intenso por debajo",
-    "Ludwigia palustris 'Super Red' — rojo uniforme intenso, la más popular"
-  ],
-  "description": "La Ludwigia Palustris es de amplia distribución. Su variante 'Super Red' es una de las plantas de tallo más rojas disponibles. Con CO₂ y luz intensa desarrolla un rojo carmesí uniforme espectacular. Más compacta que L. repens.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "Europa, Asia y América (amplia distribución)",
     "countries": [
@@ -18,39 +15,29 @@
   },
   "max_size_cm": 40,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": true,
-  "fertilizer": "CO₂ inyectado + fertilización completa con hierro + luz intensa.",
-  "uses": "Planta de tallo roja compacta para fondo medio. Excelente con CO₂.",
+  "level": "Zona media",
+  "description": "La Ludwigia Palustris es de amplia distribución. Su variante 'Super Red' es una de las plantas de tallo más rojas disponibles. Con CO₂ y luz intensa desarrolla un rojo carmesí uniforme espectacular. Más compacta que L. repens.",
+  "variants": [
+    "Ludwigia palustris — hojas pequeñas verde-rojizo por encima, rojo intenso por debajo",
+    "Ludwigia palustris 'Super Red' — rojo uniforme intenso, la más popular"
+  ],
+  "behavior": "Tallo con hojas verdes-rojas. La variante 'Super Red' produce uno de los rojos más intensos del hobby.",
   "propagation": "Esquejes del tallo.",
   "substrate": [
     "Sustrato nutritivo"
   ],
   "substrate_detail": "Sustrato nutritivo para mejores resultados.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con plantas de tallo de requerimiento similar. El rojo intenso es punto focal.",
   "light": "Alta",
   "light_detail": "10–12 h/día.",
+  "co2": true,
+  "co2_detail": "Obligatorio para la variante Super Red. Sin CO₂ las hojas son verdes.",
+  "fertilizer": "CO₂ inyectado + fertilización completa con hierro + luz intensa.",
+  "uses": "Planta de tallo roja compacta para fondo medio. Excelente con CO₂.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -68,12 +55,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "La intensidad lumínica determina el color — de verde con luz baja a rojo intenso con luz alta y CO₂. Muy fácil de propagar por esquejes.",
   "iucn": "No evaluado",
-  "market_notes": "Disponible. Variante 'Super Red' la más buscada para acuarios rojos.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Tallo con hojas verdes-rojas. La variante 'Super Red' produce uno de los rojos más intensos del hobby.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Compatible con plantas de tallo de requerimiento similar. El rojo intenso es punto focal.",
-  "co2_detail": "Obligatorio para la variante Super Red. Sin CO₂ las hojas son verdes."
+  "market_notes": "Disponible. Variante 'Super Red' la más buscada para acuarios rojos."
 }

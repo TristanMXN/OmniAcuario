@@ -1,14 +1,6 @@
 {
   "order": "Perciformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    5,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "Sudeste Asiático",
     "countries": [
@@ -21,15 +13,38 @@
     "habitat": "Arrozales, zanjas de irrigación, pantanos de poca profundidad, aguas cálidas y poco oxigenadas",
     "wild_params": "pH 6.0–8.0, GH 5–20, temperatura 24–30 °C"
   },
+  "max_size_cm": 7,
+  "lifespan_years": "2–4",
+  "level": "Superficie",
+  "recommended_school": 1,
+  "description": "El Betta o Pez Luchador Siamés (Betta splendens) es originario de las llanuras inundables de Tailandia, Cambodia y Vietnam, donde habita arrozales, zanjas y charcas cálidas de poca profundidad. Su órgano laberíntico le permite respirar aire directamente. Las variedades ornamentales de aleta larga son producto de siglos de selección; el Betta silvestre tiene aletas cortas y colores crípticos verdes y rojos.",
+  "variants": [
+    "Betta splendens var. Veil Tail — cola velo, la más común en tiendas",
+    "Betta splendens var. Halfmoon — cola con apertura de 180°",
+    "Betta splendens var. Double Tail — cola bífida",
+    "Betta splendens var. Combtail — puntas de cola separadas como corona",
+    "Betta splendens var. Crown Tail — extensiones filiformes",
+    "Betta splendens var. Delta / Super Delta",
+    "Betta splendens var. Plakat — cola corta, forma más cercana al silvestre",
+    "Betta splendens var. Giant — hasta 12 cm",
+    "Betta splendens var. Rosetail — sobreseleccionado, problemas genéticos"
+  ],
+  "behavior": "Los machos son absolutamente solitarios e incompatibles entre sí. Dos machos en el mismo acuario se matan. También agresivos con cualquier pez de aleta larga o colorida que confundan con rival. Las hembras pueden convivir en grupos (sorority) en acuarios de 80L+ con mucha vegetación.",
+  "feeding_detail": "Carnívoro. En cautiverio: gránulos específicos de Betta, artemia congelada, dafnia, gusanos de sangre. Evitar escamas de peces tropicales genéricos — dieta pobre en proteínas arruina las aletas. 1–2 veces al día. Ayuno 1 día/semana.",
+  "sexing": "Machos con aletas muy desarrolladas y coloración intensa. Hembras con aletas cortas, color apagado y punto de freza blanco visible entre aletas ventrales.",
+  "reproduction": "El macho construye nido de burbujas en superficie. Introduce la hembra solo 24h — retirar inmediatamente tras la freza. El macho cuida los huevos y crías solo hasta que nadan libremente.",
   "substrate": [
     "Arena fina",
     "Grava fina"
   ],
   "substrate_detail": "Arena fina o grava pequeña. Vegetación densa de superficie (Pistia, Salvinia) para que el macho haga el nido de burbujas.",
-  "lighting": "Moderada",
-  "description": "El Betta o Pez Luchador Siamés (Betta splendens) es originario de las llanuras inundables de Tailandia, Cambodia y Vietnam, donde habita arrozales, zanjas y charcas cálidas de poca profundidad. Su órgano laberíntico le permite respirar aire directamente. Las variedades ornamentales de aleta larga son producto de siglos de selección; el Betta silvestre tiene aletas cortas y colores crípticos verdes y rojos.",
-  "behavior": "Los machos son absolutamente solitarios e incompatibles entre sí. Dos machos en el mismo acuario se matan. También agresivos con cualquier pez de aleta larga o colorida que confundan con rival. Las hembras pueden convivir en grupos (sorority) en acuarios de 80L+ con mucha vegetación.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Recomendadas",
+  "plant_detail": "Plantas flotantes como Salvinia o Pistia para construir el nido de burbujas. Plantas densas para refugio y reducción del estrés.",
+  "light": "Baja–Media",
+  "light_detail": "8 h/día, intensidad moderada. Evitar luz directa — genera calor y algas que ocultan el nido de burbujas.",
+  "filtration": "Filtro de esponja de flujo muy bajo. La corriente destruye el nido de burbujas y agota las aletas largas.",
+  "water_changes": "20–30% semanal",
+  "compatibility_notes": "Solo 1 macho por acuario — los machos se matan entre sí. Incompatible con peces de aletas largas (Guppys fancy, Guramis) y peces rápidos que lo intimidan. Compatible con Corydoras, Otocinclus y Tetras pacíficos.",
   "diseases": [
     {
       "symptom": "Aletas desintegradas, bordes blanquecinos",
@@ -47,35 +62,7 @@
       "solution": "Oscurecer el acuario. Cobre quelado o Malachite Green. Temperatura 28 °C."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "variants": [
-    "Betta splendens var. Veil Tail — cola velo, la más común en tiendas",
-    "Betta splendens var. Halfmoon — cola con apertura de 180°",
-    "Betta splendens var. Double Tail — cola bífida",
-    "Betta splendens var. Combtail — puntas de cola separadas como corona",
-    "Betta splendens var. Crown Tail — extensiones filiformes",
-    "Betta splendens var. Delta / Super Delta",
-    "Betta splendens var. Plakat — cola corta, forma más cercana al silvestre",
-    "Betta splendens var. Giant — hasta 12 cm",
-    "Betta splendens var. Rosetail — sobreseleccionado, problemas genéticos"
-  ],
   "important_notes": "El Betta salta — tapa siempre. Respira aire atmosférico directamente: nunca taparlo herméticamente sin espacio de aire entre el agua y la tapa.",
-  "max_size_cm": 7,
-  "lifespan_years": "2–4",
-  "feeding_detail": "Carnívoro. En cautiverio: gránulos específicos de Betta, artemia congelada, dafnia, gusanos de sangre. Evitar escamas de peces tropicales genéricos — dieta pobre en proteínas arruina las aletas. 1–2 veces al día. Ayuno 1 día/semana.",
-  "recommended_school": 1,
-  "level": "Fácil",
-  "plants": "Recomendadas",
-  "plant_detail": "Plantas flotantes como Salvinia o Pistia para construir el nido de burbujas. Plantas densas para refugio y reducción del estrés.",
-  "light": "Baja–Media",
-  "light_detail": "8 h/día, intensidad moderada. Evitar luz directa — genera calor y algas que ocultan el nido de burbujas.",
-  "filtration": "Filtro de esponja de flujo muy bajo. La corriente destruye el nido de burbujas y agota las aletas largas.",
-  "water_changes": "20–30% semanal",
-  "sexing": "Machos con aletas muy desarrolladas y coloración intensa. Hembras con aletas cortas, color apagado y punto de freza blanco visible entre aletas ventrales.",
-  "reproduction": "El macho construye nido de burbujas en superficie. Introduce la hembra solo 24h — retirar inmediatamente tras la freza. El macho cuida los huevos y crías solo hasta que nadan libremente.",
-  "compatibility_notes": "Solo 1 macho por acuario — los machos se matan entre sí. Incompatible con peces de aletas largas (Guppys fancy, Guramis) y peces rápidos que lo intimidan. Compatible con Corydoras, Otocinclus y Tetras pacíficos.",
   "iucn": "Vulnerable (VU) en poblaciones silvestres — Tailandia",
-  "market_notes": "Ampliamente disponible. La inmensa mayoría son de criadero (Tailandia, Indonesia). El Betta silvestre (tipo 'wild-type') es raro en tiendas.",
-  "class": "Actinopterygii"
+  "market_notes": "Ampliamente disponible. La inmensa mayoría son de criadero (Tailandia, Indonesia). El Betta silvestre (tipo 'wild-type') es raro en tiendas."
 }

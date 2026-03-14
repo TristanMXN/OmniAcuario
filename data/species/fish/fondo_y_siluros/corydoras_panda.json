@@ -1,14 +1,6 @@
 {
   "order": "Siluriformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    4,
-    5
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 6,
   "origin": {
     "region": "América del Sur (Perú)",
     "countries": [
@@ -18,15 +10,30 @@
     "habitat": "Aguas claras y frías sobre fondos arenosos — más fresco que otros Corydoras.",
     "wild_params": "pH 6.0–7.5, GH 2–12, temperatura 20–25 °C."
   },
+  "max_size_cm": 5,
+  "lifespan_years": "8–12",
+  "level": "Fondo",
+  "recommended_school": 6,
+  "description": "El Corydoras Panda (Corydoras panda) es originario de las cuencas del río Ucayali y Huallaga en Perú. Su nombre viene de sus manchas negras que recuerdan al panda gigante: una mancha en el ojo, una en la aleta dorsal y otra en la base de la caudal sobre fondo beige-rosado. Algo más delicado que C. aeneus pero igualmente fácil con arena fina.",
+  "variants": [
+    "Corydoras panda — manchas negras en ojo, aleta dorsal y base de caudal sobre fondo beige"
+  ],
+  "behavior": "Social — grupos de mínimo 6. Prefiere temperatura ligeramente más fresca que otros corydoras. Activo durante el día. Sube a superficie a respirar.",
+  "feeding_detail": "Omnívoro de fondo. Tabletas, artemia, gusanos de sangre. 1–2 veces al día.",
+  "sexing": "Hembras más gordas y anchas vistas desde arriba, especialmente cuando llenas de huevos. Los machos son claramente más esbeltos.",
+  "reproduction": "Igual que C. aeneus — la hembra transporta los huevos y los deposita en el cristal. Eclosión en 3–5 días. Sin cuidado parental. Agua fresca estimula la reproducción.",
   "substrate": [
     "Arena fina",
     "Grava"
   ],
   "substrate_detail": "Arena fina y suave OBLIGATORIA. Preferiblemente arena de color claro que resalte el patrón bicolor del panda. Sin partículas > 1mm.",
-  "lighting": "Moderada",
-  "description": "El Corydoras Panda (Corydoras panda) es originario de las cuencas del río Ucayali y Huallaga en Perú. Su nombre viene de sus manchas negras que recuerdan al panda gigante: una mancha en el ojo, una en la aleta dorsal y otra en la base de la caudal sobre fondo beige-rosado. Algo más delicado que C. aeneus pero igualmente fácil con arena fina.",
-  "behavior": "Social — grupos de mínimo 6. Prefiere temperatura ligeramente más fresca que otros corydoras. Activo durante el día. Sube a superficie a respirar.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Muy recomendadas",
+  "plant_detail": "Cualquier planta con arena fina.",
+  "light": "Moderada",
+  "light_detail": "8 h/día, cualquier intensidad. Prefiere temperatura algo más fresca (20–25°C) que otros Corydoras — evitar luz que caliente el acuario.",
+  "filtration": "Filtro de esponja o externo moderado. Aspirar el sustrato en cada cambio de agua. Temperatura máxima 26°C — especie de agua más fresca que C. aeneus.",
+  "water_changes": "20–25% semanal",
+  "compatibility_notes": "Perfectamente pacífico. Mínimo 6 individuos. Compatible con Tetras pequeños, Rasboras y Danio. Temperatura más fresca que la mayoría — planificar compañeros compatibles.",
   "diseases": [
     {
       "symptom": "Barbillas desgastadas",
@@ -39,27 +46,7 @@
       "solution": "Bajar temperatura a 22°C. Anti-ich a media dosis."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "variants": [
-    "Corydoras panda — manchas negras en ojo, aleta dorsal y base de caudal sobre fondo beige"
-  ],
-  "max_size_cm": 5,
-  "lifespan_years": "8–12",
-  "feeding_detail": "Omnívoro de fondo. Tabletas, artemia, gusanos de sangre. 1–2 veces al día.",
-  "recommended_school": 6,
-  "level": "Fácil",
-  "plants": "Muy recomendadas",
-  "plant_detail": "Cualquier planta con arena fina.",
-  "light": "Moderada",
-  "light_detail": "8 h/día, cualquier intensidad. Prefiere temperatura algo más fresca (20–25°C) que otros Corydoras — evitar luz que caliente el acuario.",
-  "filtration": "Filtro de esponja o externo moderado. Aspirar el sustrato en cada cambio de agua. Temperatura máxima 26°C — especie de agua más fresca que C. aeneus.",
-  "water_changes": "20–25% semanal",
-  "sexing": "Hembras más gordas y anchas vistas desde arriba, especialmente cuando llenas de huevos. Los machos son claramente más esbeltos.",
-  "reproduction": "Igual que C. aeneus — la hembra transporta los huevos y los deposita en el cristal. Eclosión en 3–5 días. Sin cuidado parental. Agua fresca estimula la reproducción.",
-  "compatibility_notes": "Perfectamente pacífico. Mínimo 6 individuos. Compatible con Tetras pequeños, Rasboras y Danio. Temperatura más fresca que la mayoría — planificar compañeros compatibles.",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Muy popular por su patrón panda. Arena fina obligatoria.",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Muy popular por su patrón panda. Arena fina obligatoria."
 }

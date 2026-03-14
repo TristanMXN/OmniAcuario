@@ -1,14 +1,6 @@
 {
   "order": "Cichliformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    20,
-    30
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "América del Sur (Brasil, Venezuela, Colombia, Guyana)",
     "countries": [
@@ -21,15 +13,32 @@
     "habitat": "Aguas negras ácidas con vegetación densa y madera sumergida.",
     "wild_params": "pH 5.5–7.5, GH 1–10, temperatura 24–30 °C."
   },
+  "max_size_cm": 20,
+  "lifespan_years": "8–12",
+  "level": "Medio",
+  "recommended_school": 1,
+  "description": "El Severum (Heros efasciatus) es originario de la cuenca del Amazonas y Orinoco. Su aspecto recuerda al Disco por su cuerpo redondeado y comprimido, pero es mucho más fácil de mantener. Existe en variedades de crianza con colores espectaculares: dorado, rojo, verde. Es uno de los cíclidos sudamericanos grandes más tolerantes y manejables.",
+  "variants": [
+    "Heros severus var. Verde — forma tipo, verde-dorado con marcas oscuras",
+    "Heros severus var. Gold — amarillo-dorado intenso, pocas marcas oscuras",
+    "Heros efasciatus var. Rotkeil — rojo intenso en la zona ventral (especie distinta H. efasciatus)"
+  ],
+  "behavior": "Semi-agresivo con peces pequeños. Forma parejas en reproducción. Come plantas blandas. Con buena alimentación y espacio es relativamente tolerante para un cíclido grande.",
+  "feeding_detail": "Omnívoro. Gránulos de cíclidos, verduras, artemia, gusanos. 2 veces al día.",
+  "sexing": "Machos con escamas más iridiscentes y colores más intensos. Hembras ligeramente más pequeñas. Diferencia muy sutil — difícil sin comparar varios ejemplares.",
+  "reproduction": "Ovíparo con cuidado biparental. La pareja limpia una superficie plana (roca, raíz) y deposita 200–1.000 huevos. Primeras puestas frecuentemente fallidas — mejoran con la experiencia.",
   "substrate": [
     "Arena fina",
     "Grava"
   ],
   "substrate_detail": "Arena fina o grava media. El Severum excava moderadamente — anclar la decoración. Puede comer plantas blandas — usar solo Anubias y Java Fern.",
-  "lighting": "Moderada",
-  "description": "El Severum (Heros efasciatus) es originario de la cuenca del Amazonas y Orinoco. Su aspecto recuerda al Disco por su cuerpo redondeado y comprimido, pero es mucho más fácil de mantener. Existe en variedades de crianza con colores espectaculares: dorado, rojo, verde. Es uno de los cíclidos sudamericanos grandes más tolerantes y manejables.",
-  "behavior": "Semi-agresivo con peces pequeños. Forma parejas en reproducción. Come plantas blandas. Con buena alimentación y espacio es relativamente tolerante para un cíclido grande.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Parcialmente compatible",
+  "plant_detail": "Come plantas blandas. Anubias y Java fern resisten.",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día, intensidad media. Las variedades de crianza (dorado, rojo) muestran mejor coloración con buena iluminación y alimentación rica en carotenoides.",
+  "filtration": "Filtro externo potente (4–5x el volumen/hora). Especie de tamaño medio-grande que produce residuos moderados. Nitratos < 20 ppm para evitar HLLE.",
+  "water_changes": "25% semanal",
+  "compatibility_notes": "Semi-agresivo con peces pequeños que quepan en su boca. Compatible con Cíclidos sudamericanos grandes (Oscar, German Ram en acuario grande), Corydoras grandes y Tetras grandes.",
   "diseases": [
     {
       "symptom": "HLLE (agujeros en la cabeza)",
@@ -42,29 +51,7 @@
       "solution": "Anti-ich. Elevar temperatura a 28°C."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "reproduction": "Ovíparo con cuidado biparental. La pareja limpia una superficie plana (roca, raíz) y deposita 200–1.000 huevos. Primeras puestas frecuentemente fallidas — mejoran con la experiencia.",
-  "variants": [
-    "Heros severus var. Verde — forma tipo, verde-dorado con marcas oscuras",
-    "Heros severus var. Gold — amarillo-dorado intenso, pocas marcas oscuras",
-    "Heros efasciatus var. Rotkeil — rojo intenso en la zona ventral (especie distinta H. efasciatus)"
-  ],
-  "max_size_cm": 20,
-  "lifespan_years": "8–12",
-  "feeding_detail": "Omnívoro. Gránulos de cíclidos, verduras, artemia, gusanos. 2 veces al día.",
-  "recommended_school": 1,
-  "level": "Intermedio",
-  "plants": "Parcialmente compatible",
-  "plant_detail": "Come plantas blandas. Anubias y Java fern resisten.",
-  "light": "Moderada",
-  "light_detail": "8–10 h/día, intensidad media. Las variedades de crianza (dorado, rojo) muestran mejor coloración con buena iluminación y alimentación rica en carotenoides.",
-  "filtration": "Filtro externo potente (4–5x el volumen/hora). Especie de tamaño medio-grande que produce residuos moderados. Nitratos < 20 ppm para evitar HLLE.",
-  "water_changes": "25% semanal",
-  "sexing": "Machos con escamas más iridiscentes y colores más intensos. Hembras ligeramente más pequeñas. Diferencia muy sutil — difícil sin comparar varios ejemplares.",
-  "compatibility_notes": "Semi-agresivo con peces pequeños que quepan en su boca. Compatible con Cíclidos sudamericanos grandes (Oscar, German Ram en acuario grande), Corydoras grandes y Tetras grandes.",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Uno de los cíclidos grandes más manejables.",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Uno de los cíclidos grandes más manejables."
 }

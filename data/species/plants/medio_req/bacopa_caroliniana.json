@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Bacopa caroliniana — hojas grandes ovaladas carnosas, limonada si se frotan"
-  ],
-  "description": "La Bacopa Caroliniana es originaria del sureste de EE.UU. Sus hojas son notablemente más grandes que B. monnieri. Con buena luz desarrolla tonos verde intenso a bronceado. Curiosidad: las hojas emiten aroma a limón al frotarlas. Más exigente que B. monnieri.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "América del Norte (sureste de EE.UU.)",
     "countries": [
@@ -14,12 +12,12 @@
   },
   "max_size_cm": 40,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": false,
-  "fertilizer": "Fertilizante líquido completo semanal. CO₂ mejora el crecimiento.",
-  "uses": "Planta de tallo para fondo medio. Hojas grandes redondeadas aromáticas.",
+  "level": "Zona media",
+  "description": "La Bacopa Caroliniana es originaria del sureste de EE.UU. Sus hojas son notablemente más grandes que B. monnieri. Con buena luz desarrolla tonos verde intenso a bronceado. Curiosidad: las hojas emiten aroma a limón al frotarlas. Más exigente que B. monnieri.",
+  "variants": [
+    "Bacopa caroliniana — hojas grandes ovaladas carnosas, limonada si se frotan"
+  ],
+  "behavior": "Tallo erecto similar a B. monnieri pero con hojas algo más grandes. Olor a limón al frotar.",
   "propagation": "Esquejes del tallo.",
   "substrate": [
     "Arena",
@@ -27,28 +25,17 @@
     "Sustrato nutritivo"
   ],
   "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con todas las plantas de tallo de requerimientos medios.",
   "light": "Media",
   "light_detail": "8–10 h/día.",
+  "co2": false,
+  "co2_detail": "No necesario pero mejora la densidad.",
+  "fertilizer": "Fertilizante líquido completo semanal. CO₂ mejora el crecimiento.",
+  "uses": "Planta de tallo para fondo medio. Hojas grandes redondeadas aromáticas.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -66,12 +53,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "Emite un aroma mentolado al manipularla fuera del agua. Crecimiento lento pero estable. Los esquejes arraigan fácilmente en el sustrato.",
   "iucn": "No evaluado",
-  "market_notes": "Algo menos común que B. monnieri. Aroma a limón al frotar las hojas.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Tallo erecto similar a B. monnieri pero con hojas algo más grandes. Olor a limón al frotar.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Compatible con todas las plantas de tallo de requerimientos medios.",
-  "co2_detail": "No necesario pero mejora la densidad."
+  "market_notes": "Algo menos común que B. monnieri. Aroma a limón al frotar las hojas."
 }

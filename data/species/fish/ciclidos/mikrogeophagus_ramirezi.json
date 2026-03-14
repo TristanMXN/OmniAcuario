@@ -1,14 +1,6 @@
 {
   "order": "Cichliformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    5,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "Sudamérica",
     "countries": [
@@ -19,14 +11,32 @@
     "habitat": "Riachuelos de corriente lenta, fondos arenosos, aguas cálidas y ácidas con vegetación acuática",
     "wild_params": "pH 4.5–6.5, GH 0–8, temperatura 26–30 °C"
   },
+  "max_size_cm": 7,
+  "lifespan_years": "2–3",
+  "level": "Fondo",
+  "recommended_school": 2,
+  "description": "El Ramirezi (Mikrogeophagus ramirezi) es nativo de los llanos del Orinoco en Colombia y Venezuela, habitando riachuelos de aguas cálidas, blandas y ácidas con fondos arenosos. Su coloración azul, amarillo y rojo iridiscente lo convierte en el cíclido enano más codiciado del hobby. Es exigente en calidad de agua — los ejemplares de criadero intensivo son mucho más frágiles que los silvestres.",
+  "variants": [
+    "Mikrogeophagus ramirezi — forma tipo, colores naturales amarillo-azul",
+    "Mikrogeophagus ramirezi var. Azul Eléctrico — azul intensificado por selección",
+    "Mikrogeophagus ramirezi var. Gold — cuerpo amarillo, manchas azules reducidas",
+    "Mikrogeophagus ramirezi var. Balón — cuerpo redondeado (deformidad vertebral)"
+  ],
+  "behavior": "Semi-agresivo durante la reproducción — defiende territorio con persecuciones cortas. Fuera del período reproductivo es dócil. Compatible con tetras pequeños y corydoras que no invadan su zona.",
+  "feeding_detail": "Omnívoro con tendencia carnívora. Acepta gránulos pequeños de cíclido, artemia congelada, dafnia, gusanos de sangre. No aceptar solo escamas genéricas — proteína animal de calidad es esencial para la longevidad. 2 veces al día.",
+  "sexing": "Machos con aleta dorsal extendida en punta y con rojo intenso en el vientre. Hembras con abdomen rosado-violeta cuando en condición reproductiva y línea dorsal más redondeada.",
+  "reproduction": "Ovíparo con cuidado biparental muy elaborado. La pareja limpia una zona de arena o roca plana. Ambos abanican los huevos y transportan las larvas en la boca hasta que nadan libres.",
   "substrate": [
     "Arena fina muy suave"
   ],
   "substrate_detail": "Arena fina oscura OBLIGATORIA. El Ram excava constantemente con las barbillas — grava o sustrato áspero causa infecciones en la boca y aletas ventrales.",
-  "lighting": "Moderada",
-  "description": "El Ramirezi (Mikrogeophagus ramirezi) es nativo de los llanos del Orinoco en Colombia y Venezuela, habitando riachuelos de aguas cálidas, blandas y ácidas con fondos arenosos. Su coloración azul, amarillo y rojo iridiscente lo convierte en el cíclido enano más codiciado del hobby. Es exigente en calidad de agua — los ejemplares de criadero intensivo son mucho más frágiles que los silvestres.",
-  "behavior": "Semi-agresivo durante la reproducción — defiende territorio con persecuciones cortas. Fuera del período reproductivo es dócil. Compatible con tetras pequeños y corydoras que no invadan su zona.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Recomendadas",
+  "plant_detail": "Plantas de hoja grande como Anubias y Echinodorus delimitan territorios. Helecho Java y musgo proporcionan refugio a crías.",
+  "light": "Baja–Media",
+  "light_detail": "8 h/día, luz suave. Zonas de sombra con plantas densas son esenciales — la luz intensa y directa lo estresa.",
+  "filtration": "Filtro de esponja o externo con caudal bajo. Especie extremadamente sensible a nitratos — máximo 10 ppm. Cambios de agua frecuentes obligatorios.",
+  "water_changes": "20–25% 2 veces por semana",
+  "compatibility_notes": "Compatible con Tetras pacíficos, Corydoras y Otocinclus. Incompatible con todo pez que lo intimide. Necesita pareja estable — los solitarios languidecen.",
   "diseases": [
     {
       "symptom": "Hoyos pequeños en la cabeza, heces blancas, adelgazamiento",
@@ -44,30 +54,7 @@
       "solution": "Corregir agua. La especie muere rápidamente con temperatura < 24 °C o agua dura."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "max_size_cm": 7,
-  "lifespan_years": "2–3",
-  "feeding_detail": "Omnívoro con tendencia carnívora. Acepta gránulos pequeños de cíclido, artemia congelada, dafnia, gusanos de sangre. No aceptar solo escamas genéricas — proteína animal de calidad es esencial para la longevidad. 2 veces al día.",
-  "recommended_school": 2,
-  "level": "Medio–Difícil",
-  "plants": "Recomendadas",
-  "plant_detail": "Plantas de hoja grande como Anubias y Echinodorus delimitan territorios. Helecho Java y musgo proporcionan refugio a crías.",
-  "light": "Baja–Media",
-  "light_detail": "8 h/día, luz suave. Zonas de sombra con plantas densas son esenciales — la luz intensa y directa lo estresa.",
-  "filtration": "Filtro de esponja o externo con caudal bajo. Especie extremadamente sensible a nitratos — máximo 10 ppm. Cambios de agua frecuentes obligatorios.",
-  "water_changes": "20–25% 2 veces por semana",
-  "sexing": "Machos con aleta dorsal extendida en punta y con rojo intenso en el vientre. Hembras con abdomen rosado-violeta cuando en condición reproductiva y línea dorsal más redondeada.",
-  "reproduction": "Ovíparo con cuidado biparental muy elaborado. La pareja limpia una zona de arena o roca plana. Ambos abanican los huevos y transportan las larvas en la boca hasta que nadan libres.",
-  "compatibility_notes": "Compatible con Tetras pacíficos, Corydoras y Otocinclus. Incompatible con todo pez que lo intimide. Necesita pareja estable — los solitarios languidecen.",
+  "important_notes": "Los Ram de crianza intensiva en Asia son mucho más frágiles que los silvestres. Mortalidad alta en los primeros días. Temperatura 26–30°C — más frío que eso y enferman.",
   "iucn": "Preocupación menor (LC)",
-  "market_notes": "Disponible en tiendas. Los Ramirezi de criadero intensivo son más sensibles. Preferir ejemplares de cría local o silvestres de Colombia.",
-  "class": "Actinopterygii",
-  "variants": [
-    "Mikrogeophagus ramirezi — forma tipo, colores naturales amarillo-azul",
-    "Mikrogeophagus ramirezi var. Azul Eléctrico — azul intensificado por selección",
-    "Mikrogeophagus ramirezi var. Gold — cuerpo amarillo, manchas azules reducidas",
-    "Mikrogeophagus ramirezi var. Balón — cuerpo redondeado (deformidad vertebral)"
-  ],
-  "important_notes": "Los Ram de crianza intensiva en Asia son mucho más frágiles que los silvestres. Mortalidad alta en los primeros días. Temperatura 26–30°C — más frío que eso y enferman."
+  "market_notes": "Disponible en tiendas. Los Ramirezi de criadero intensivo son más sensibles. Preferir ejemplares de cría local o silvestres de Colombia."
 }

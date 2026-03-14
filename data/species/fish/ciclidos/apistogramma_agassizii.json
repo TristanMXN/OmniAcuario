@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Apistogramma agassizii var. Fire Red — tonos rojos muy intensificados",
-    "Apistogramma agassizii var. Double Blue — azul iridiscente intenso"
-  ],
-  "description": "La Apistogramma de Agassiz (Apistogramma agassizii) es uno de los cíclidos enanos más populares del Amazonas. Existen decenas de variedades de colección: Fire Red, Double Blue, Tefe, etc., cada una de un curso de agua diferente. El macho puede alcanzar 9cm con aletas espectaculares; la hembra apenas 5cm y amarilla brillante al cuidar crías.",
+  "order": "Cichliformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "América del Sur (Brasil, Perú — cuenca del Amazonas)",
     "countries": [
@@ -17,13 +14,17 @@
   },
   "max_size_cm": 9,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Carnívoro. Artemia, dafnia, gusanos de sangre, micro-gránulos. 2 veces al día.",
-  "behavior": "Semi-agresivo territorial. Macho defiende su zona. La hembra cuida las crías.",
+  "level": "Fondo",
   "recommended_school": 1,
-  "level": "Intermedio",
+  "description": "La Apistogramma de Agassiz (Apistogramma agassizii) es uno de los cíclidos enanos más populares del Amazonas. Existen decenas de variedades de colección: Fire Red, Double Blue, Tefe, etc., cada una de un curso de agua diferente. El macho puede alcanzar 9cm con aletas espectaculares; la hembra apenas 5cm y amarilla brillante al cuidar crías.",
+  "variants": [
+    "Apistogramma agassizii var. Fire Red — tonos rojos muy intensificados",
+    "Apistogramma agassizii var. Double Blue — azul iridiscente intenso"
+  ],
+  "behavior": "Semi-agresivo territorial. Macho defiende su zona. La hembra cuida las crías.",
+  "feeding_detail": "Carnívoro. Artemia, dafnia, gusanos de sangre, micro-gránulos. 2 veces al día.",
+  "sexing": "Macho de 8–10cm con aletas espectaculares en azul, amarillo y rojo según variante geográfica. Hembra de solo 4–5cm, amarilla dorada brillante cuando cuida crías.",
+  "reproduction": "La hembra deposita 50–150 huevos en cueva y los cuida ferozmente — puede atacar a peces mucho más grandes. El macho es expulsado durante toda la fase de cría.",
   "substrate": [
     "Arena fina oscura"
   ],
@@ -34,8 +35,6 @@
   "light_detail": "8 h/día, luz difusa o suave. Zonas de sombra creadas por plantas densas son esenciales. La luz intensa estresa a la hembra en cría.",
   "filtration": "Filtro de esponja de bajo caudal. Agua de ósmosis con extracto de catappa. pH 4.5–6.5, GH 0–8. Nitratos < 10 ppm OBLIGATORIO.",
   "water_changes": "20–25% semanal",
-  "sexing": "Macho de 8–10cm con aletas espectaculares en azul, amarillo y rojo según variante geográfica. Hembra de solo 4–5cm, amarilla dorada brillante cuando cuida crías.",
-  "reproduction": "La hembra deposita 50–150 huevos en cueva y los cuida ferozmente — puede atacar a peces mucho más grandes. El macho es expulsado durante toda la fase de cría.",
   "compatibility_notes": "Semi-agresivo territorial en fondo. Compatible con Tetras de cardumen de zona media que distraigan la atención del macho. Incompatible con otros Apisto machos.",
   "diseases": [
     {
@@ -44,9 +43,7 @@
       "solution": "Anti-ich. Temperatura 26°C+."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Fire Red y Double Blue son las variantes más buscadas.",
-  "order": "Cichliformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Fire Red y Double Blue son las variantes más buscadas."
 }

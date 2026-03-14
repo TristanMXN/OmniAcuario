@@ -1,14 +1,6 @@
 {
   "order": "Cypriniformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    5,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "Sudeste Asiático",
     "countries": [
@@ -18,14 +10,29 @@
     "habitat": "Ríos grandes de gran caudal, aguas ácidas, corriente moderada, fondos de arena con madera sumergida",
     "wild_params": "pH 5.0–7.5, GH 1–8, temperatura 24–30 °C"
   },
+  "max_size_cm": 30,
+  "lifespan_years": "15–25",
+  "level": "Fondo",
+  "recommended_school": 6,
+  "description": "La Locha Payaso (Chromobotia macracanthus) es endémica de Sumatra y Borneo, habitando ríos grandes de agua ácida bajo bosque tropical. Con 30 cm es la locha más grande del hobby y también la más popular. Su coloración naranja con tres barras negras verticales la hace inconfundible. Nota importante: los juveniles de 4–5 cm crecen muy lentamente y tardan 5–10 años en aproximarse al tamaño adulto.",
+  "variants": [
+    "Chromobotia macracanthus — naranja vivo con 3 bandas negras características"
+  ],
+  "behavior": "Pacífico pero muy activo. Cardumen obligatorio — en solitario o grupos pequeños desarrolla estrés severo. Grupo mínimo de 5–6. Cazador activo de caracoles. Se tumba de lado sobre superficies — comportamiento normal, no señal de enfermedad.",
+  "feeding_detail": "Omnívoro con fuerte preferencia por invertebrados. Gránulos de cíclido, pastillas de fondo, artemia, dafnia, gusanos de sangre, caracoles vivos (los caza activamente). Alimentar 2 veces al día.",
+  "sexing": "Prácticamente imposible. Se cree que las hembras son algo más redondeadas en el abdomen cuando llenas de huevos.",
+  "reproduction": "Prácticamente imposible en acuario doméstico. En la naturaleza migra a ríos en época de lluvias para desovar. Todos los ejemplares del comercio son capturados o criados en criaderos asiáticos.",
   "substrate": [
     "Arena muy fina suave (obligatoria)"
   ],
   "substrate_detail": "Arena fina OBLIGATORIA. El Payaso se entierra parcialmente y rasca el fondo — la grava áspera hiere su cuerpo semidesnudo.",
-  "lighting": "Moderada",
-  "description": "La Locha Payaso (Chromobotia macracanthus) es endémica de Sumatra y Borneo, habitando ríos grandes de agua ácida bajo bosque tropical. Con 30 cm es la locha más grande del hobby y también la más popular. Su coloración naranja con tres barras negras verticales la hace inconfundible. Nota importante: los juveniles de 4–5 cm crecen muy lentamente y tardan 5–10 años en aproximarse al tamaño adulto.",
-  "behavior": "Pacífico pero muy activo. Cardumen obligatorio — en solitario o grupos pequeños desarrolla estrés severo. Grupo mínimo de 5–6. Cazador activo de caracoles. Se tumba de lado sobre superficies — comportamiento normal, no señal de enfermedad.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Opcionales",
+  "plant_detail": "Puede excavar plantas enraizadas en arena. Plantas en macetas o adheridas a roca son más estables.",
+  "light": "Media",
+  "light_detail": "8–10 h/día, intensidad moderada. Especie crepuscular-nocturna — más activa con luz tenue o al amanecer/anochecer.",
+  "filtration": "Filtro externo muy potente. Especie de gran tamaño que produce muchos residuos. Cubrir la entrada del filtro — puede meterse en el tubo.",
+  "water_changes": "25–30% semanal",
+  "compatibility_notes": "Compatible con peces de tamaño similar. Excelente cazador de caracoles — los extermina eficazmente. Incompatible con peces pequeños cuando adulto (30 cm).",
   "diseases": [
     {
       "symptom": "Puntos blancos tipo sal, muy frecuente",
@@ -43,27 +50,7 @@
       "solution": "Tratamiento anti-fúngico o anti-parásito específico."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "max_size_cm": 30,
-  "lifespan_years": "15–25",
-  "feeding_detail": "Omnívoro con fuerte preferencia por invertebrados. Gránulos de cíclido, pastillas de fondo, artemia, dafnia, gusanos de sangre, caracoles vivos (los caza activamente). Alimentar 2 veces al día.",
-  "recommended_school": 6,
-  "level": "Medio",
-  "plants": "Opcionales",
-  "plant_detail": "Puede excavar plantas enraizadas en arena. Plantas en macetas o adheridas a roca son más estables.",
-  "light": "Media",
-  "light_detail": "8–10 h/día, intensidad moderada. Especie crepuscular-nocturna — más activa con luz tenue o al amanecer/anochecer.",
-  "filtration": "Filtro externo muy potente. Especie de gran tamaño que produce muchos residuos. Cubrir la entrada del filtro — puede meterse en el tubo.",
-  "water_changes": "25–30% semanal",
-  "sexing": "Prácticamente imposible. Se cree que las hembras son algo más redondeadas en el abdomen cuando llenas de huevos.",
-  "reproduction": "Prácticamente imposible en acuario doméstico. En la naturaleza migra a ríos en época de lluvias para desovar. Todos los ejemplares del comercio son capturados o criados en criaderos asiáticos.",
-  "compatibility_notes": "Compatible con peces de tamaño similar. Excelente cazador de caracoles — los extermina eficazmente. Incompatible con peces pequeños cuando adulto (30 cm).",
+  "important_notes": "El Payaso crece muy lentamente hasta 30 cm — frecuentemente comprado a 5 cm y abandonado al crecer. Muy susceptible al Ich — tratar a media dosis. Grupos de 5+ obligatorios.",
   "iucn": "Preocupación menor (LC)",
-  "market_notes": "Disponible en todas las tiendas. La compra implica un compromiso de 15–25 años. El crecimiento es lento: 1–2 cm por año en los primeros años.",
-  "class": "Actinopterygii",
-  "variants": [
-    "Chromobotia macracanthus — naranja vivo con 3 bandas negras características"
-  ],
-  "important_notes": "El Payaso crece muy lentamente hasta 30 cm — frecuentemente comprado a 5 cm y abandonado al crecer. Muy susceptible al Ich — tratar a media dosis. Grupos de 5+ obligatorios."
+  "market_notes": "Disponible en todas las tiendas. La compra implica un compromiso de 15–25 años. El crecimiento es lento: 1–2 cm por año en los primeros años."
 }

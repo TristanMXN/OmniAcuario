@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Clea helena — concha cónica con bandas amarillas y marrones características"
-  ],
-  "description": "El Caracol Asesino (Clea helena) es originario del sudeste asiático. Es el único caracol de agua dulce de acuario que es activamente carnívoro — caza y devora otros caracoles, convirtiéndolo en el método de control biológico más eficaz contra plagas de Physa, Melanoides y Planorbis. Su concha cónica con bandas amarillas y marrones es inconfundible.",
+  "order": "Neogastropoda",
+  "nitrate_max": 20,
   "origin": {
     "region": "Asia (SE Asia)",
     "countries": [
@@ -16,13 +14,16 @@
   },
   "max_size_cm": 3,
   "lifespan_years": "2–3",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Caza otros caracoles. Si no hay caracoles presa, suplementar con tabletas de fondo, carne de mejillón, artemia congelada o gambas muertas.",
-  "behavior": "Excava en el sustrato para emboscar presas. Muy eficaz contra Physa y Planorbis en 4–6 semanas con un grupo de 6+. No ataca gambas sanas en movimiento ni peces.",
-  "recommended_school": 1,
   "level": "Fondo",
+  "recommended_school": 1,
+  "description": "El Caracol Asesino (Clea helena) es originario del sudeste asiático. Es el único caracol de agua dulce de acuario que es activamente carnívoro — caza y devora otros caracoles, convirtiéndolo en el método de control biológico más eficaz contra plagas de Physa, Melanoides y Planorbis. Su concha cónica con bandas amarillas y marrones es inconfundible.",
+  "variants": [
+    "Clea helena — concha cónica con bandas amarillas y marrones características"
+  ],
+  "behavior": "Excava en el sustrato para emboscar presas. Muy eficaz contra Physa y Planorbis en 4–6 semanas con un grupo de 6+. No ataca gambas sanas en movimiento ni peces.",
+  "feeding_detail": "Caza otros caracoles. Si no hay caracoles presa, suplementar con tabletas de fondo, carne de mejillón, artemia congelada o gambas muertas.",
+  "sexing": "Difícil. Reproducción sexual — necesita pareja.",
+  "reproduction": "Pone huevos individuales en superficies duras. Reproducción lenta. Se autorregula con la disponibilidad de presas.",
   "substrate": [
     "Arena fina",
     "Sustrato blando"
@@ -34,8 +35,6 @@
   "light_detail": "8 h/día.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
-  "sexing": "Difícil. Reproducción sexual — necesita pareja.",
-  "reproduction": "Pone huevos individuales en superficies duras. Reproducción lenta. Se autorregula con la disponibilidad de presas.",
   "compatibility_notes": "Incompatible con Caracol Manzana, Nerites y otras especies que no quieras perder. Compatible con gambas adultas (no ataca gambas en movimiento). Incompatible con gambas muy pequeñas o recién nacidas.",
   "diseases": [
     {
@@ -49,9 +48,7 @@
       "solution": "Subir temperatura. Ofrecer carne de mejillón."
     }
   ],
+  "important_notes": "El Caracol Asesino es el único caracol carnívoro del hobby — caza y come otros caracoles metiendo el pie en su concha. Solución biológica para plagas de Physa y Planorbis.",
   "iucn": "No evaluado",
-  "market_notes": "El mejor método biológico contra plagas de caracoles. Usar 1 Asesino por cada 10–15 caracoles plaga estimados.",
-  "order": "Neogastropoda",
-  "class": "Gastropoda",
-  "important_notes": "El Caracol Asesino es el único caracol carnívoro del hobby — caza y come otros caracoles metiendo el pie en su concha. Solución biológica para plagas de Physa y Planorbis."
+  "market_notes": "El mejor método biológico contra plagas de caracoles. Usar 1 Asesino por cada 10–15 caracoles plaga estimados."
 }

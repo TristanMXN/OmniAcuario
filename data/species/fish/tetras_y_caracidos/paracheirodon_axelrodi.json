@@ -1,14 +1,6 @@
 {
   "order": "Characiformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    5,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "Sudamérica",
     "countries": [
@@ -20,15 +12,30 @@
     "habitat": "Aguas negras ácidas con pH muy bajo, escasa corriente, bajo denso dosel forestal",
     "wild_params": "pH 3.8–6.0, GH 0–3, temperatura 24–29 °C"
   },
+  "max_size_cm": 5,
+  "lifespan_years": "4–5",
+  "level": "Medio",
+  "recommended_school": 10,
+  "description": "El Tetra Cardenal (Paracheirodon axelrodi) habita las aguas negras extremadamente ácidas del Río Negro y Orinoco en Venezuela y Brasil. A diferencia del Tetra Neón, la banda roja cubre todo el vientre desde la cabeza hasta la cola. Es el indicador más sensible de calidad de agua del hobby y uno de los peces más exportados de la Amazonia venezolana.",
+  "variants": [
+    "Paracheirodon axelrodi — banda azul completa de cabeza a cola, rojo desde mitad del cuerpo"
+  ],
+  "behavior": "Cardumen obligatorio de mínimo 10 ejemplares para expresar comportamiento natural de banco. Nada en estrato medio. La coloración roja desaparece visiblemente como señal de estrés o mala calidad de agua.",
+  "feeding_detail": "Omnívoro oportunista. Acepta escamas micro, artemia congelada, dafnia, gusanos de sangre. Los ejemplares de captura silvestre a veces tardan en aceptar alimento artificial — ofrecer primero artemia viva.",
+  "sexing": "Prácticamente indistinguible. Hembras algo más redondeadas en el vientre en condición reproductiva.",
+  "reproduction": "Ovíparo muy difícil. Requiere agua de ósmosis pura (GH 0–1), pH 5.5–6.0, oscuridad total. Muy raramente se logra en acuario doméstico.",
   "substrate": [
     "Arena fina oscura",
     "Hojas de catappa"
   ],
   "substrate_detail": "Arena fina oscura obligatoria. Hojas de catappa y turba para reproducir aguas negras del río Negro.",
-  "lighting": "Moderada",
-  "description": "El Tetra Cardenal (Paracheirodon axelrodi) habita las aguas negras extremadamente ácidas del Río Negro y Orinoco en Venezuela y Brasil. A diferencia del Tetra Neón, la banda roja cubre todo el vientre desde la cabeza hasta la cola. Es el indicador más sensible de calidad de agua del hobby y uno de los peces más exportados de la Amazonia venezolana.",
-  "behavior": "Cardumen obligatorio de mínimo 10 ejemplares para expresar comportamiento natural de banco. Nada en estrato medio. La coloración roja desaparece visiblemente como señal de estrés o mala calidad de agua.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Recomendadas",
+  "plant_detail": "Plantas de agua ácida: Eleocharis, Utricularia, helechos Java. Evitar plantas que requieran agua dura.",
+  "light": "Baja",
+  "light_detail": "6–8 h/día, luz muy tenue o difusa. En luz intensa pierde coloración y se estresa.",
+  "filtration": "Filtro de esponja. Sin corriente. Agua con turba o extracto de catappa para acidificar naturalmente.",
+  "water_changes": "15–20% semanal con agua blanda descalcificada",
+  "compatibility_notes": "Ideal con Neon Tetra, Discus, Apistogramma y Corydoras. Incompatible con peces que excedan 8 cm — presa fácil.",
   "diseases": [
     {
       "symptom": "Pérdida de color rojo intensa y súbita",
@@ -46,27 +53,7 @@
       "solution": "Metronidazol o Levamisol según el parásito identificado."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "max_size_cm": 5,
-  "lifespan_years": "4–5",
-  "feeding_detail": "Omnívoro oportunista. Acepta escamas micro, artemia congelada, dafnia, gusanos de sangre. Los ejemplares de captura silvestre a veces tardan en aceptar alimento artificial — ofrecer primero artemia viva.",
-  "recommended_school": 10,
-  "level": "Medio",
-  "plants": "Recomendadas",
-  "plant_detail": "Plantas de agua ácida: Eleocharis, Utricularia, helechos Java. Evitar plantas que requieran agua dura.",
-  "light": "Baja",
-  "light_detail": "6–8 h/día, luz muy tenue o difusa. En luz intensa pierde coloración y se estresa.",
-  "filtration": "Filtro de esponja. Sin corriente. Agua con turba o extracto de catappa para acidificar naturalmente.",
-  "water_changes": "15–20% semanal con agua blanda descalcificada",
-  "sexing": "Prácticamente indistinguible. Hembras algo más redondeadas en el vientre en condición reproductiva.",
-  "reproduction": "Ovíparo muy difícil. Requiere agua de ósmosis pura (GH 0–1), pH 5.5–6.0, oscuridad total. Muy raramente se logra en acuario doméstico.",
-  "compatibility_notes": "Ideal con Neon Tetra, Discus, Apistogramma y Corydoras. Incompatible con peces que excedan 8 cm — presa fácil.",
+  "important_notes": "Más delicado que el Neon Tetra — requiere parámetros estables y acuarios bien maduros. El rojo llega desde la cola hasta el morro, a diferencia del Neon.",
   "iucn": "Preocupación menor (LC) — poblaciones silvestres monitoreadas por exportación",
-  "market_notes": "Disponible. Mayoría de captura silvestre del Amazonas venezolano. Pedir ejemplares aclimatados.",
-  "class": "Actinopterygii",
-  "variants": [
-    "Paracheirodon axelrodi — banda azul completa de cabeza a cola, rojo desde mitad del cuerpo"
-  ],
-  "important_notes": "Más delicado que el Neon Tetra — requiere parámetros estables y acuarios bien maduros. El rojo llega desde la cola hasta el morro, a diferencia del Neon."
+  "market_notes": "Disponible. Mayoría de captura silvestre del Amazonas venezolano. Pedir ejemplares aclimatados."
 }

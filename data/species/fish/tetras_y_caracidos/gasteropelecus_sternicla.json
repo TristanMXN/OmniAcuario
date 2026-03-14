@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Gasteropelecus sternicla — plateado brillante con franja lateral oscura, pecho muy desarrollado"
-  ],
-  "description": "El Hacha de Plata (Gasteropelecus sternicla) es originario de la cuenca amazónica y Guayanas. Su pecho enormemente desarrollado alberga los músculos pectorales más grandes (en proporción) del reino animal, que le permiten saltar y planear sobre la superficie. Vive estrictamente en la zona superficial del acuario — NUNCA come en el fondo. Tapa hermética OBLIGATORIA.",
+  "order": "Characiformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "América del Sur (Amazonas, Guayanas)",
     "countries": [
@@ -18,13 +16,16 @@
   },
   "max_size_cm": 6,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Insectívoro de superficie. Micro-gránulos flotantes, artemia, mosquito larvae. Solo come en superficie.",
-  "behavior": "Vive en la zona superficial. Puede saltar — tapa obligatoria. Cardumen de mínimo 6.",
+  "level": "Superficie",
   "recommended_school": 6,
-  "level": "Intermedio",
+  "description": "El Hacha de Plata (Gasteropelecus sternicla) es originario de la cuenca amazónica y Guayanas. Su pecho enormemente desarrollado alberga los músculos pectorales más grandes (en proporción) del reino animal, que le permiten saltar y planear sobre la superficie. Vive estrictamente en la zona superficial del acuario — NUNCA come en el fondo. Tapa hermética OBLIGATORIA.",
+  "variants": [
+    "Gasteropelecus sternicla — plateado brillante con franja lateral oscura, pecho muy desarrollado"
+  ],
+  "behavior": "Vive en la zona superficial. Puede saltar — tapa obligatoria. Cardumen de mínimo 6.",
+  "feeding_detail": "Insectívoro de superficie. Micro-gránulos flotantes, artemia, mosquito larvae. Solo come en superficie.",
+  "sexing": "Hembras ligeramente más redondeadas en el pecho (keel) — el área pectoral muscular es proporcionalmente algo mayor en hembras.",
+  "reproduction": "Ovíparo de freza libre en superficie entre plantas flotantes. Muy difícil en acuario doméstico — requiere condiciones precisas de agua blanda y ácida.",
   "substrate": [
     "Arena fina",
     "Cualquier sustrato"
@@ -36,8 +37,6 @@
   "light_detail": "8–10 h/día, intensidad media. Plantas flotantes como Pistia y Salvinia crean la sombra parcial que prefiere en la superficie.",
   "filtration": "Filtro de esponja o externo con salida sumergida para no crear turbulencia en la superficie. La corriente en superficie lo estresa.",
   "water_changes": "20–25% semanal",
-  "sexing": "Hembras ligeramente más redondeadas en el pecho (keel) — el área pectoral muscular es proporcionalmente algo mayor en hembras.",
-  "reproduction": "Ovíparo de freza libre en superficie entre plantas flotantes. Muy difícil en acuario doméstico — requiere condiciones precisas de agua blanda y ácida.",
   "compatibility_notes": "Pacífico. No mezclar con peces que naden en superficie y lo asusten (Bettas, Gurami). Compatible con Tetras de zona media-baja y Corydoras. TAPA HERMÉTICA obligatoria.",
   "diseases": [
     {
@@ -46,9 +45,7 @@
       "solution": "Elevar temperatura. Anti-ich."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Salta — tapa hermética OBLIGATORIA. Solo come en superficie.",
-  "order": "Characiformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Salta — tapa hermética OBLIGATORIA. Solo come en superficie."
 }

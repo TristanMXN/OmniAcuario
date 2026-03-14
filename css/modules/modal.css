@@ -1,0 +1,199 @@
+/* ── MODAL ──────────────────────────────────────── */
+.modal-overlay {
+  position: fixed; inset: 0; z-index: 200;
+  background: rgba(0,0,0,0.7); backdrop-filter: blur(10px);
+  display: flex; align-items: flex-end; justify-content: center; padding: 0;
+}
+.modal-overlay.hidden { display: none; }
+.modal-box {
+  background: var(--bg-card); border-radius: 20px 20px 0 0;
+  max-width: 640px; width: 100%; height: 95vh;
+  display: flex; flex-direction: column;
+  border: 1px solid var(--border); border-bottom: none;
+  box-shadow: 0 -20px 60px rgba(0,0,0,0.5);
+}
+.modal-header { padding: 18px 18px 0; flex-shrink: 0; }
+.modal-color-bar { height: 3px; border-radius: 2px; margin-bottom: 16px; }
+.modal-title-row { display: flex; gap: 14px; align-items: center; margin-bottom: 12px; }
+.modal-emoji-box {
+  width: 56px; height: 56px; border-radius: 14px;
+  background: var(--accent-dim2); border: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: center; font-size: 28px; flex-shrink: 0;
+}
+.modal-title { font-size: 19px; font-weight: 800; color: var(--text-1); line-height: 1.1; }
+.modal-scientific { font-size: 12px; color: var(--text-3); font-style: italic; margin-top: 3px; }
+.modal-family { font-size: 11px; color: var(--text-3); opacity: 0.6; margin-top: 2px; }
+.modal-close {
+  margin-left: auto; background: var(--bg-surface); border: 1px solid var(--border);
+  border-radius: 10px; width: 36px; height: 36px;
+  cursor: pointer; font-size: 18px; color: var(--text-2); flex-shrink: 0;
+}
+
+/* Image hero */
+.modal-img-hero {
+  position: relative; width: 100%; height: 200px;
+  background-size: cover; background-position: center;
+  border-radius: 14px; overflow: hidden; margin-bottom: 12px;
+}
+.modal-img-gradient {
+  position: absolute; inset: 0;
+  background: linear-gradient(to top, rgba(5,14,26,0.92) 0%, rgba(5,14,26,0.2) 50%, transparent 100%);
+}
+.modal-img-titles {
+  position: absolute; bottom: 12px; left: 14px; right: 52px;
+}
+.modal-img-titles .modal-title { color: #fff; text-shadow: 0 1px 4px rgba(0,0,0,0.6); }
+.modal-img-titles .modal-scientific { color: rgba(255,255,255,0.7); }
+.modal-close--img {
+  position: absolute; top: 10px; right: 10px; margin-left: 0;
+  background: rgba(5,14,26,0.6); border-color: rgba(255,255,255,0.2);
+  color: #fff; backdrop-filter: blur(4px);
+}
+.modal-tabs { display: flex; gap: 3px; overflow-x: auto; padding-bottom: 2px; scrollbar-width: none; }
+.modal-tabs::-webkit-scrollbar { display: none; }
+.modal-tab-btn {
+  padding: 7px 12px; border-radius: 10px; border: none;
+  font-weight: 700; font-size: 12px; cursor: pointer; white-space: nowrap;
+  background: transparent; color: var(--text-3); transition: all 0.15s;
+}
+.modal-tab-btn.active { color: var(--bg-deep); }
+.modal-body { flex: 1; overflow-y: auto; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; padding: 16px 18px 8px; min-height: 0; }
+.modal-footer { padding: 12px 18px 20px; flex-shrink: 0; border-top: 1px solid var(--border); }
+
+.detail-section { margin-bottom: 20px; }
+.detail-section-title {
+  font-size: 10px; font-weight: 800; color: var(--text-3);
+  text-transform: uppercase; letter-spacing: 1.5px;
+  border-bottom: 1px solid var(--border); padding-bottom: 6px; margin-bottom: 10px;
+}
+.info-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 14px; }
+.info-cell { background: var(--accent-dim2); border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 10px 12px; }
+.info-cell.wide { grid-column: 1 / -1; }
+.info-cell-label { font-size: 9px; color: var(--text-3); font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; }
+.info-cell-val { font-size: 13px; font-weight: 600; color: var(--text-1); margin-top: 3px; line-height: 1.4; }
+
+.param-bar-wrap { margin-bottom: 10px; }
+.param-bar-labels { display: flex; justify-content: space-between; font-size: 11px; margin-bottom: 4px; }
+.param-bar-labels span:first-child { color: var(--text-2); font-weight: 600; }
+.param-bar-labels span:last-child { font-weight: 700; color: var(--accent); }
+.param-bar-track { position: relative; height: 6px; background: var(--bg-surface); border-radius: 4px; overflow: hidden; }
+.param-bar-fill { position: absolute; height: 100%; border-radius: 4px; }
+
+.disease-card { border-radius: 12px; overflow: hidden; margin-bottom: 10px; border: 1px solid rgba(255,170,0,0.15); }
+.disease-symptom { background: rgba(255,170,0,0.07); padding: 9px 14px; display: flex; gap: 8px; align-items: flex-start; }
+.disease-symptom span:first-child { font-size: 14px; flex-shrink: 0; margin-top: 1px; }
+.disease-symptom-text { font-size: 13px; font-weight: 700; color: #ffcc44; }
+.disease-detail { background: var(--bg-card2); padding: 9px 14px; display: flex; flex-direction: column; gap: 5px; }
+.disease-cause { font-size: 12px; color: var(--text-2); }
+.disease-cause strong { color: var(--text-1); }
+.disease-solution { font-size: 12px; color: var(--success); }
+.disease-solution strong { font-weight: 700; }
+
+.tag-list { display: flex; flex-wrap: wrap; gap: 6px; }
+.compat-row {
+  display: flex; align-items: center; gap: 10px; padding: 9px 12px;
+  background: var(--accent-dim2); border: 1px solid var(--border);
+  border-radius: var(--radius-sm); margin-bottom: 7px;
+}
+.compat-row-name { flex: 1; font-size: 13px; font-weight: 600; color: var(--text-1); }
+.compat-badge { font-size: 11px; font-weight: 700; padding: 3px 9px; border-radius: 20px; white-space: nowrap; opacity: 1; filter: grayscale(0); }
+.modal-action-btn { width: 100%; padding: 13px; border-radius: 12px; border: none; font-weight: 900; font-size: 15px; cursor: pointer; transition: all 0.15s; }
+.modal-action-btn:active { transform: scale(0.98); opacity: 0.9; }
+
+/* ── INFO BUTTON ────────────────────────────────── */
+.info-btn {
+  background: var(--accent-dim); border: 1px solid var(--border2);
+  border-radius: 10px; width: 36px; height: 36px;
+  cursor: pointer; font-size: 18px; color: var(--accent);
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0; transition: all 0.15s;
+}
+.info-btn:active { background: var(--accent); color: var(--bg-deep); }
+
+/* ── INFO MODAL ─────────────────────────────────── */
+.info-modal-box {
+  border-radius: 20px 20px 0 0; height: 95vh;
+}
+.info-modal-inner { padding: 20px; overflow-y: auto; height: 100%; }
+.info-modal-header {
+  display: flex; align-items: center;
+  justify-content: space-between; margin-bottom: 18px;
+}
+.info-version {
+  font-size: 11px; font-weight: 700; color: var(--text-3);
+  text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;
+}
+.info-desc {
+  font-size: 14px; color: var(--text-2); line-height: 1.7; margin-bottom: 18px;
+}
+.info-desc strong { color: var(--text-1); }
+
+.info-stat-row {
+  display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px;
+}
+.info-stat {
+  flex: 1; min-width: 52px;
+  display: flex; flex-direction: column; align-items: center;
+  background: var(--bg-surface); border: 1px solid var(--border);
+  border-radius: 10px; padding: 8px 6px;
+}
+.info-stat-n { font-size: 1.2rem; font-weight: 700; color: var(--accent); }
+.info-stat-l { font-size: 0.68rem; color: var(--text-3); margin-top: 2px; text-align: center; }
+
+.info-section-title {
+  font-size: 0.7rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.06em; color: var(--accent); margin: 16px 0 8px;
+}
+
+.info-credit-row {
+  display: flex; align-items: center; gap: 12px;
+  background: var(--bg-surface); border: 1px solid var(--border);
+  border-radius: 10px; padding: 12px;
+}
+.info-credit-icon { font-size: 1.6rem; }
+.info-credit-name { font-weight: 700; font-size: 0.95rem; color: var(--text-1); }
+.info-credit-role { font-size: 0.78rem; color: var(--text-3); margin-top: 2px; }
+
+.info-sources { display: flex; flex-direction: column; gap: 6px; }
+.info-source {
+  font-size: 0.8rem; color: var(--text-1);
+  background: var(--bg-surface); border: 1px solid var(--border);
+  border-radius: 8px; padding: 8px 10px; line-height: 1.4;
+}
+
+.info-footer {
+  font-size: 12px; color: var(--text-3); text-align: center;
+  line-height: 1.6; padding-top: 16px; margin-top: 20px;
+  border-top: 1px solid var(--border);
+}
+
+/* scroll lock handled via JS lockScroll/unlockScroll */
+
+/* ── COMPAT EMPTY STATE ───────────────────────────── */
+.compat-empty {
+  text-align: center;
+  padding: 40px 24px;
+  color: var(--text-2);
+}
+.compat-empty-title { font-size: 17px; font-weight: 800; color: var(--text-1); margin-bottom: 8px; }
+.compat-empty-sub   { font-size: 13px; line-height: 1.6; color: var(--text-3); }
+
+/* ── INFO CATALOG SUMMARY ────────────────────────── */
+/* ── IUCN BADGE ─────────────────────────────── */
+.iucn-badge {
+  display: flex; align-items: center; gap: 10px;
+  background: color-mix(in srgb, var(--iucn-color) 12%, var(--bg-surface));
+  border: 1px solid color-mix(in srgb, var(--iucn-color) 35%, transparent);
+  border-radius: 10px; padding: 8px 12px; margin-top: 2px;
+}
+.iucn-code {
+  font-size: 16px; font-weight: 700; color: var(--iucn-color);
+  min-width: 32px; text-align: center; font-family: monospace;
+}
+.iucn-label {
+  font-size: 13px; font-weight: 600; color: var(--text-1);
+}
+.iucn-desc {
+  font-size: 11px; color: var(--text-3); margin-top: 2px; line-height: 1.4;
+}
+

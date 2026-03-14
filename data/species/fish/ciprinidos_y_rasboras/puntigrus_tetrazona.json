@@ -1,14 +1,6 @@
 {
   "order": "Cypriniformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    5,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "Sudeste Asiático",
     "countries": [
@@ -20,15 +12,33 @@
     "habitat": "Ríos y arroyos de corriente moderada, aguas claras de temperatura tropical estándar",
     "wild_params": "pH 6.0–7.5, GH 5–15, temperatura 20–26 °C"
   },
+  "max_size_cm": 7,
+  "lifespan_years": "5–7",
+  "level": "Medio",
+  "recommended_school": 8,
+  "description": "El Barbo Tigre (Puntigrus tetrazona) es originario de Sumatra, Borneo y partes de la Indochina, habitando ríos y arroyos de corriente moderada. Su coloración naranja-dorado con cuatro barras negras verticales lo hace inconfundible. Existen variedades: green (mossy), albino y la forma estándar naranja. Es uno de los barbos más vendidos del mundo.",
+  "variants": [
+    "Puntigrus tetrazona — forma tipo naranja con 4 barras negras",
+    "Puntigrus tetrazona var. Verde/Musgo — cuerpo verde oscuro, barras apenas visibles",
+    "Puntigrus tetrazona var. Albino — cuerpo dorado-rosado, barras naranja pálido",
+    "Puntigrus tetrazona var. GloFish — transgénico fluorescente (no permitido en UE)"
+  ],
+  "behavior": "Semi-agresivo — morde aletas largas de peces lentos si el grupo es pequeño. En grupos de 8+ individuos la agresión se redirige intraespecie y los tankmates están relativamente protegidos. Muy activo y rápido.",
+  "feeding_detail": "Omnívoro. Acepta escamas, gránulos, artemia, dafnia. Dieta variada con proteína animal y vegetal. 2 veces al día.",
+  "sexing": "Macho más esbelto con vientre rojo intenso y naranja en el morro. Hembra más redondeada con colores más apagados.",
+  "reproduction": "Ovíparo de freza libre entre plantas finas. Muy voraz con sus propios huevos — retirar adultos tras la freza. Sin cuidado parental.",
   "substrate": [
     "Arena",
     "Grava fina"
   ],
   "substrate_detail": "Grava fina o arena. Plantas resistentes (Anubias, Java Fern) — evitar plantas de hoja fina que destroza.",
-  "lighting": "Moderada",
-  "description": "El Barbo Tigre (Puntigrus tetrazona) es originario de Sumatra, Borneo y partes de la Indochina, habitando ríos y arroyos de corriente moderada. Su coloración naranja-dorado con cuatro barras negras verticales lo hace inconfundible. Existen variedades: green (mossy), albino y la forma estándar naranja. Es uno de los barbos más vendidos del mundo.",
-  "behavior": "Semi-agresivo — morde aletas largas de peces lentos si el grupo es pequeño. En grupos de 8+ individuos la agresión se redirige intraespecie y los tankmates están relativamente protegidos. Muy activo y rápido.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Recomendadas",
+  "plant_detail": "Plantas densas limitan territorios y reducen la persecución.",
+  "light": "Media",
+  "light_detail": "8–10 h/día, intensidad media. Especie robusta que tolera bien variaciones de iluminación.",
+  "filtration": "Filtro externo o interior de caudal moderado. Agua bien oxigenada y ligeramente ácida ideal.",
+  "water_changes": "20–25% semanal",
+  "compatibility_notes": "Incompatible con Betta, Gurami, Guppy fancy y cualquier pez de aletas largas — los muerde sistemáticamente. Compatible con peces de aletas cortas y resistentes o en cardúmenes grandes de la misma especie.",
   "diseases": [
     {
       "symptom": "Puntos blancos tipo sal",
@@ -46,30 +56,7 @@
       "solution": "Malachite Green o cobre quelado. Oscurecer el acuario."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "max_size_cm": 7,
-  "lifespan_years": "5–7",
-  "feeding_detail": "Omnívoro. Acepta escamas, gránulos, artemia, dafnia. Dieta variada con proteína animal y vegetal. 2 veces al día.",
-  "recommended_school": 8,
-  "level": "Fácil",
-  "plants": "Recomendadas",
-  "plant_detail": "Plantas densas limitan territorios y reducen la persecución.",
-  "light": "Media",
-  "light_detail": "8–10 h/día, intensidad media. Especie robusta que tolera bien variaciones de iluminación.",
-  "filtration": "Filtro externo o interior de caudal moderado. Agua bien oxigenada y ligeramente ácida ideal.",
-  "water_changes": "20–25% semanal",
-  "sexing": "Macho más esbelto con vientre rojo intenso y naranja en el morro. Hembra más redondeada con colores más apagados.",
-  "reproduction": "Ovíparo de freza libre entre plantas finas. Muy voraz con sus propios huevos — retirar adultos tras la freza. Sin cuidado parental.",
-  "compatibility_notes": "Incompatible con Betta, Gurami, Guppy fancy y cualquier pez de aletas largas — los muerde sistemáticamente. Compatible con peces de aletas cortas y resistentes o en cardúmenes grandes de la misma especie.",
+  "important_notes": "El Barbo Tigre en cardumen de 8+ redirige la agresividad intraespecífica. En grupos pequeños (3–5) se vuelve despiadado con otras especies.",
   "iucn": "Preocupación menor (LC)",
-  "market_notes": "Disponible en todas las tiendas. Las variedades Green y Albino son de criadero.",
-  "class": "Actinopterygii",
-  "variants": [
-    "Puntigrus tetrazona — forma tipo naranja con 4 barras negras",
-    "Puntigrus tetrazona var. Verde/Musgo — cuerpo verde oscuro, barras apenas visibles",
-    "Puntigrus tetrazona var. Albino — cuerpo dorado-rosado, barras naranja pálido",
-    "Puntigrus tetrazona var. GloFish — transgénico fluorescente (no permitido en UE)"
-  ],
-  "important_notes": "El Barbo Tigre en cardumen de 8+ redirige la agresividad intraespecífica. En grupos pequeños (3–5) se vuelve despiadado con otras especies."
+  "market_notes": "Disponible en todas las tiendas. Las variedades Green y Albino son de criadero."
 }

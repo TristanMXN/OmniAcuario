@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Balantiocheilos melanopterus — plateado brillante, aletas con borde negro y blanco"
-  ],
-  "description": "El Tiburón de Aleta Plateada (Balantiocheilos melanopterus) es originario del SE asiático, de Tailandia a Borneo. Su aspecto de tiburón (cuerpo plateado fusiforme con aletas negras bordeadas de blanco) le da su nombre popular. Es un pez de cardumen que necesita mucho espacio — crece hasta 35cm. Frecuentemente vendido a 5cm sin informar del tamaño adulto.",
+  "order": "Cypriniformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "Asia (SE Asia — Tailandia, Malasia, Indonesia, Borneo)",
     "countries": [
@@ -16,13 +14,16 @@
   },
   "max_size_cm": 35,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Omnívoro. Gránulos de calidad, artemia, verduras. 2 veces al día.",
-  "behavior": "Cardumen de mínimo 5. Asustadizo — salta al estresarse. Crece mucho.",
+  "level": "Medio",
   "recommended_school": 5,
-  "level": "Intermedio",
+  "description": "El Tiburón de Aleta Plateada (Balantiocheilos melanopterus) es originario del SE asiático, de Tailandia a Borneo. Su aspecto de tiburón (cuerpo plateado fusiforme con aletas negras bordeadas de blanco) le da su nombre popular. Es un pez de cardumen que necesita mucho espacio — crece hasta 35cm. Frecuentemente vendido a 5cm sin informar del tamaño adulto.",
+  "variants": [
+    "Balantiocheilos melanopterus — plateado brillante, aletas con borde negro y blanco"
+  ],
+  "behavior": "Cardumen de mínimo 5. Asustadizo — salta al estresarse. Crece mucho.",
+  "feeding_detail": "Omnívoro. Gránulos de calidad, artemia, verduras. 2 veces al día.",
+  "sexing": "Prácticamente imposible externamente. Las hembras pueden ser algo más voluminosas en el abdomen cuando llenas de huevos.",
+  "reproduction": "No se ha reproducido con éxito en cautiverio doméstico. En su hábitat natural, migra río arriba para desovar.",
   "substrate": [
     "Grava",
     "Arena"
@@ -34,8 +35,6 @@
   "light_detail": "8–10 h/día, intensidad media. Tolera bien variaciones de iluminación — especie robusta y adaptable.",
   "filtration": "Filtro externo potente. Especie que crece hasta 35cm — produce residuos considerables en adultos. Buena oxigenación.",
   "water_changes": "20–25% semanal",
-  "sexing": "Prácticamente imposible externamente. Las hembras pueden ser algo más voluminosas en el abdomen cuando llenas de huevos.",
-  "reproduction": "No se ha reproducido con éxito en cautiverio doméstico. En su hábitat natural, migra río arriba para desovar.",
   "compatibility_notes": "Pacífico pero su tamaño adulto (35cm) y velocidad puede aterrorizar peces pequeños. Necesita acuario de 500L+ en adultos. Come peces < 5cm. Cardumen de 5+ obligatorio.",
   "diseases": [
     {
@@ -44,9 +43,7 @@
       "solution": "Anti-ich."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Se vende pequeño pero crece hasta 35cm. Necesita acuario muy grande.",
-  "order": "Cypriniformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Se vende pequeño pero crece hasta 35cm. Necesita acuario muy grande."
 }

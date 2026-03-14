@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Pez Globo Enano"
-  ],
-  "description": "Pez Globo Enano (Carinotetraodon travancoricus) es una especie de acuario moderado de cuidar, originaria de Asia del Sur. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 3 cm en cautiverio.",
+  "order": "Tetraodontiformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "Asia del Sur (India — Kerala, río Pamba y afluentes)",
     "countries": [
@@ -14,13 +12,16 @@
   },
   "max_size_cm": 3,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "En acuario: artemia viva o congelada, gusanos de sangre, tubifex, insectos acuáticos, gambas. Alimentar 1-2 veces al día en cantidades moderadas.",
-  "behavior": "Se puede mantener individualmente o en pequeños grupos. Especie agresivo que habita el estrato medio-bajo del acuario.",
-  "recommended_school": 1,
   "level": "Medio",
+  "recommended_school": 1,
+  "description": "Pez Globo Enano (Carinotetraodon travancoricus) es una especie de acuario moderado de cuidar, originaria de Asia del Sur. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 3 cm en cautiverio.",
+  "variants": [
+    "Pez Globo Enano"
+  ],
+  "behavior": "Se puede mantener individualmente o en pequeños grupos. Especie agresivo que habita el estrato medio-bajo del acuario.",
+  "feeding_detail": "En acuario: artemia viva o congelada, gusanos de sangre, tubifex, insectos acuáticos, gambas. Alimentar 1-2 veces al día en cantidades moderadas.",
+  "sexing": "Macho con línea ventral oscura y arrugas detrás de los ojos. Hembra más redondeada y sin las marcas ventrales del macho.",
+  "reproduction": "El macho persigue intensamente a la hembra. Ovíparo entre musgo de Java. Sin cuidado parental — los huevos se dejan abandonados.",
   "substrate": [
     "Arena fina",
     "Grava"
@@ -32,8 +33,6 @@
   "light_detail": "8–10 h/día, intensidad media. La vegetación densa filtra la luz creando zonas de sombra que usa para cazar.",
   "filtration": "Filtro de esponja de caudal bajo. Agua limpia obligatoria — muy sensible al nitrato. Sin corriente fuerte.",
   "water_changes": "20–25% semanal",
-  "sexing": "Macho con línea ventral oscura y arrugas detrás de los ojos. Hembra más redondeada y sin las marcas ventrales del macho.",
-  "reproduction": "El macho persigue intensamente a la hembra. Ovíparo entre musgo de Java. Sin cuidado parental — los huevos se dejan abandonados.",
   "compatibility_notes": "SOLO en acuario exclusivo — morderá las aletas de cualquier pez sin excepción. Compatible únicamente con caracoles y camarones de cuerpo duro.",
   "diseases": [
     {
@@ -52,9 +51,7 @@
       "solution": "Prazi-pro o levamisol. Los puffers son propensos a parásitos internos."
     }
   ],
+  "important_notes": "Los dientes de pico de loro del Pez Globo Enano crecen continuamente — los caracoles (physa, ramshorn) son indispensables para limarlos. Sin caracoles, los dientes crecen hasta impedir comer.",
   "iucn": "No evaluado",
-  "market_notes": "El pez globo de agua dulce pura más pequeño (2cm). Solo en acuario exclusivo — muerde todo.",
-  "order": "Tetraodontiformes",
-  "class": "Actinopterygii",
-  "important_notes": "Los dientes de pico de loro del Pez Globo Enano crecen continuamente — los caracoles (physa, ramshorn) son indispensables para limarlos. Sin caracoles, los dientes crecen hasta impedir comer."
+  "market_notes": "El pez globo de agua dulce pura más pequeño (2cm). Solo en acuario exclusivo — muerde todo."
 }

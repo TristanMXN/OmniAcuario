@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Kryptopterus vitreolus — completamente transparente, órganos y espina visibles"
-  ],
-  "description": "El Bagre de Cristal (Kryptopterus vitreolus) es originario de Tailandia. Es completamente transparente — los órganos internos y la espina dorsal son perfectamente visibles. Hasta 2013 fue clasificado erróneamente como K. bicirrhis. Especie muy sensible: nada inclinado a 45° de forma constante y es indicador de calidad de agua. Muere sin cardumen.",
+  "order": "Siluriformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "Asia (Tailandia — ríos Chao Phraya y Gulf of Thailand)",
     "countries": [
@@ -14,13 +12,16 @@
   },
   "max_size_cm": 8,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Carnívoro. Micro-gránulos, artemia, dafnia congelada. Nada nocturnamente para comer.",
-  "behavior": "Cardumen de mínimo 6. Nada en zona media con el cuerpo inclinado a 45°. Muy sensible.",
+  "level": "Medio",
   "recommended_school": 6,
-  "level": "Intermedio",
+  "description": "El Bagre de Cristal (Kryptopterus vitreolus) es originario de Tailandia. Es completamente transparente — los órganos internos y la espina dorsal son perfectamente visibles. Hasta 2013 fue clasificado erróneamente como K. bicirrhis. Especie muy sensible: nada inclinado a 45° de forma constante y es indicador de calidad de agua. Muere sin cardumen.",
+  "variants": [
+    "Kryptopterus vitreolus — completamente transparente, órganos y espina visibles"
+  ],
+  "behavior": "Cardumen de mínimo 6. Nada en zona media con el cuerpo inclinado a 45°. Muy sensible.",
+  "feeding_detail": "Carnívoro. Micro-gránulos, artemia, dafnia congelada. Nada nocturnamente para comer.",
+  "sexing": "Hembras ligeramente más redondeadas cuando llenas de huevos. Muy difícil sin comparar varios ejemplares en condición reproductiva.",
+  "reproduction": "No se ha reproducido con éxito en cautiverio doméstico. Los intentos requieren cambios estacionales de temperatura y lluvia simulada.",
   "substrate": [
     "Arena fina oscura"
   ],
@@ -31,8 +32,6 @@
   "light_detail": "8–10 h/día, intensidad media-baja. Evitar cambios bruscos de luz — el destello repentino de luz provoca comportamiento errático y nado errático.",
   "filtration": "Filtro de esponja o externo de bajo-moderado caudal. Especie extremadamente sensible — muere en acuarios no maduros. Sin corriente fuerte.",
   "water_changes": "20–25% semanal",
-  "sexing": "Hembras ligeramente más redondeadas cuando llenas de huevos. Muy difícil sin comparar varios ejemplares en condición reproductiva.",
-  "reproduction": "No se ha reproducido con éxito en cautiverio doméstico. Los intentos requieren cambios estacionales de temperatura y lluvia simulada.",
   "compatibility_notes": "Pacífico. Solo con peces muy pequeños y tranquilos — cualquier pez activo y ruidoso lo estresa mortalmente. Mínimo 6 individuos — en solitario muere de estrés.",
   "diseases": [
     {
@@ -41,9 +40,7 @@
       "solution": "Anti-ich a media dosis — muy sensible a medicamentos."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Muy sensible a cambios de parámetros. Aclimatación lenta obligatoria.",
-  "order": "Siluriformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Muy sensible a cambios de parámetros. Aclimatación lenta obligatoria."
 }

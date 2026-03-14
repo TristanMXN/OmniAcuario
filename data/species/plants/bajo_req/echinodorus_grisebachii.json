@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Echinodorus grisebachii — forma tipo",
-    "Echinodorus grisebachii 'Bleherae' — hojas más anchas y largas"
-  ],
-  "description": "La Espada Amazónica (Echinodorus grisebachii, anteriormente E. bleheri) es originaria de la cuenca amazónica. Es la planta de acuario más icónica del hobby. Sus largas hojas en roseta crean un efecto espectacular. Relativamente fácil pero requiere algo de fertilización.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "América del Sur (cuencas del Amazonas y Orinoco)",
     "countries": [
@@ -19,12 +16,13 @@
   },
   "max_size_cm": 50,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": false,
-  "fertilizer": "Fertilizante líquido con hierro + pastillas en sustrato.",
-  "uses": "Planta central o de fondo trasero. La planta estrella del acuario amazónico.",
+  "level": "Zona media",
+  "description": "La Espada Amazónica (Echinodorus grisebachii, anteriormente E. bleheri) es originaria de la cuenca amazónica. Es la planta de acuario más icónica del hobby. Sus largas hojas en roseta crean un efecto espectacular. Relativamente fácil pero requiere algo de fertilización.",
+  "variants": [
+    "Echinodorus grisebachii — forma tipo",
+    "Echinodorus grisebachii 'Bleherae' — hojas más anchas y largas"
+  ],
+  "behavior": "Roseta grande que puede alcanzar 50cm. Crece hacia el exterior desde el centro. Necesita espacio.",
   "propagation": "Plantlets en los escapos florales. Separar cuando tengan 3–4 hojas.",
   "substrate": [
     "Arena",
@@ -32,28 +30,17 @@
     "Sustrato nutritivo"
   ],
   "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "No combinar con plantas de primer plano que necesiten luz — bloquea la iluminación.",
   "light": "Media",
   "light_detail": "8–10 h/día.",
+  "co2": false,
+  "co2_detail": "No necesario pero beneficia el desarrollo de hojas sumergidas.",
+  "fertilizer": "Fertilizante líquido con hierro + pastillas en sustrato.",
+  "uses": "Planta central o de fondo trasero. La planta estrella del acuario amazónico.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -71,12 +58,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "Especie de talla media, ideal para acuarios desde 100 L. Produce estolones con plantas hijas fácilmente propagables.",
   "iucn": "No evaluado",
-  "market_notes": "La planta estrella del hobby amazónico. Muy disponible.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Roseta grande que puede alcanzar 50cm. Crece hacia el exterior desde el centro. Necesita espacio.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "No combinar con plantas de primer plano que necesiten luz — bloquea la iluminación.",
-  "co2_detail": "No necesario pero beneficia el desarrollo de hojas sumergidas."
+  "market_notes": "La planta estrella del hobby amazónico. Muy disponible."
 }

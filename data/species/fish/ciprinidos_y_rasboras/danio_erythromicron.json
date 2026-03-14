@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Rasbora Esmeralda Enana"
-  ],
-  "description": "La Rasbora Esmeralda Enana (Danio erythromicron) es un ciprínido minúsculo endémico del lago Inlé (Myanmar), donde habita los márgenes vegetados de aguas tranquilas. Su cuerpo verde esmeralda iridiscente con barrado vertical azul-púrpura lo hace inconfundible. Alcanza unos 2–2.5 cm. Antes clasificado como Microrasbora erythromicron y Celestichthys erythromicron — el nombre válido actual es Danio erythromicron.",
+  "order": "Cypriniformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "Asia del Sur (Myanmar — cuenca del río Irrawaddy)",
     "countries": [
@@ -14,13 +12,16 @@
   },
   "max_size_cm": 2,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "En acuario: escamas/gránulos de calidad, artemia congelada, dafnia, gusanos de sangre, tubifex. Alimentar 2 veces al día en pequeñas cantidades.",
-  "behavior": "Mantener en grupos de mínimo 10 ejemplares. Especie pacífico que habita el estrato medio-bajo del acuario.",
-  "recommended_school": 10,
   "level": "Medio",
+  "recommended_school": 10,
+  "description": "La Rasbora Esmeralda Enana (Danio erythromicron) es un ciprínido minúsculo endémico del lago Inlé (Myanmar), donde habita los márgenes vegetados de aguas tranquilas. Su cuerpo verde esmeralda iridiscente con barrado vertical azul-púrpura lo hace inconfundible. Alcanza unos 2–2.5 cm. Antes clasificado como Microrasbora erythromicron y Celestichthys erythromicron — el nombre válido actual es Danio erythromicron.",
+  "variants": [
+    "Rasbora Esmeralda Enana"
+  ],
+  "behavior": "Mantener en grupos de mínimo 10 ejemplares. Especie pacífico que habita el estrato medio-bajo del acuario.",
+  "feeding_detail": "En acuario: escamas/gránulos de calidad, artemia congelada, dafnia, gusanos de sangre, tubifex. Alimentar 2 veces al día en pequeñas cantidades.",
+  "sexing": "Machos con colores más intensos — verde esmeralda más brillante y flancos con iridiscencias doradas.",
+  "reproduction": "Ovíparo de freza libre entre plantas finas. Condiciones de aguas negras extremas para reproducción.",
   "substrate": [
     "Arena fina",
     "Grava"
@@ -32,8 +33,6 @@
   "light_detail": "6–8 h/día, intensidad muy suave. Especie de pantanos de turba — la luz intensa la estresa.",
   "filtration": "Filtro de esponja de caudal mínimo. Agua muy blanda y ácida — pH 4.0–6.0, GH 0–4.",
   "water_changes": "20–25% semanal",
-  "sexing": "Machos con colores más intensos — verde esmeralda más brillante y flancos con iridiscencias doradas.",
-  "reproduction": "Ovíparo de freza libre entre plantas finas. Condiciones de aguas negras extremas para reproducción.",
   "compatibility_notes": "Solo con peces nano de aguas negras. Compatible con Chili Rasbora, Boraras sp. y Scarlet Badis. Incompatible con agua dura.",
   "diseases": [
     {
@@ -52,9 +51,7 @@
       "solution": "Antibiótico (kanamicina, eritromicina). Acuario hospital. Pronóstico reservado."
     }
   ],
+  "important_notes": "Danio erythromicron es originario exclusivamente del lago Inlé, Myanmar — especie endémica vulnerable. Extremadamente sensible al deterioro de la calidad del agua. Puede aparecer en tiendas bajo los nombres Microrasbora erythromicron, Celestichthys erythromicron o simplemente 'Rasbora Esmeralda'.",
   "iucn": "No evaluado",
-  "market_notes": "Especie nano perfecta para blackwater. Menos frecuente que la Chili Rasbora.",
-  "order": "Cypriniformes",
-  "class": "Actinopterygii",
-  "important_notes": "Danio erythromicron es originario exclusivamente del lago Inlé, Myanmar — especie endémica vulnerable. Extremadamente sensible al deterioro de la calidad del agua. Puede aparecer en tiendas bajo los nombres Microrasbora erythromicron, Celestichthys erythromicron o simplemente 'Rasbora Esmeralda'."
+  "market_notes": "Especie nano perfecta para blackwater. Menos frecuente que la Chili Rasbora."
 }

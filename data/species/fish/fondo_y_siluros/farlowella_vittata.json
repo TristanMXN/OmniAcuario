@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Farlowella vittata — cuerpo extremadamente alargado tipo rama, marrón jaspeado"
-  ],
-  "description": "La Farlowella (Farlowella vittata) es originaria de la cuenca del Orinoco en Venezuela y Colombia. Su cuerpo extremadamente delgado y alargado, con textura de corteza de madera, la hace parecer una rama. Es el maestro del camuflaje entre los bagres de acuario. Completamente inofensiva y frágil — muere fácilmente por estrés o manipulación brusca.",
+  "order": "Siluriformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "América del Sur (Venezuela, Colombia)",
     "countries": [
@@ -15,13 +13,16 @@
   },
   "max_size_cm": 18,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Herbívoro. Raspa algas, tabletas de espirulina, verduras blanqueadas. Come muy lento.",
-  "behavior": "Completamente pacífico e inmóvil durante horas. Imita una rama. Frágil.",
+  "level": "Fondo",
   "recommended_school": 3,
-  "level": "Intermedio",
+  "description": "La Farlowella (Farlowella vittata) es originaria de la cuenca del Orinoco en Venezuela y Colombia. Su cuerpo extremadamente delgado y alargado, con textura de corteza de madera, la hace parecer una rama. Es el maestro del camuflaje entre los bagres de acuario. Completamente inofensiva y frágil — muere fácilmente por estrés o manipulación brusca.",
+  "variants": [
+    "Farlowella vittata — cuerpo extremadamente alargado tipo rama, marrón jaspeado"
+  ],
+  "behavior": "Completamente pacífico e inmóvil durante horas. Imita una rama. Frágil.",
+  "feeding_detail": "Herbívoro. Raspa algas, tabletas de espirulina, verduras blanqueadas. Come muy lento.",
+  "sexing": "Machos adultos con espinas odontodas (pelos rígidos) en el morro — perfectamente visibles con luz lateral rasante. Las hembras tienen el morro liso.",
+  "reproduction": "Ovíparo — el macho cuida los huevos pegados a una superficie vertical (cristal, roca, tronco) abanicándolos constantemente. Eclosión en 7–10 días.",
   "substrate": [
     "Arena fina",
     "Troncos"
@@ -33,8 +34,6 @@
   "light_detail": "8–10 h/día, intensidad media. Necesita algas suaves en las superficies donde se posa — la luz estimula su crecimiento.",
   "filtration": "Filtro de esponja o externo de bajo caudal. Agua blanda y ligeramente ácida (pH 6.0–7.5). Muy sensible al nitrato — máximo 10 ppm.",
   "water_changes": "20–25% semanal",
-  "sexing": "Machos adultos con espinas odontodas (pelos rígidos) en el morro — perfectamente visibles con luz lateral rasante. Las hembras tienen el morro liso.",
-  "reproduction": "Ovíparo — el macho cuida los huevos pegados a una superficie vertical (cristal, roca, tronco) abanicándolos constantemente. Eclosión en 7–10 días.",
   "compatibility_notes": "Pacífico. Incompatible con peces agresivos que la muerdan o intimiden. Compatible con Tetras pequeños, Corydoras y Otocinclus. Muy frágil al manejo — no usar redes.",
   "diseases": [
     {
@@ -43,9 +42,7 @@
       "solution": "Mejorar calidad de agua. Antibiótico si necesario."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Muy frágil para el transporte. Aclimatación muy lenta. Evitar peces activos.",
-  "order": "Siluriformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Muy frágil para el transporte. Aclimatación muy lenta. Evitar peces activos."
 }

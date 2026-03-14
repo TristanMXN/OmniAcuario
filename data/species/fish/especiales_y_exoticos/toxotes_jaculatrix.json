@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Toxotes jaculatrix — plateado con manchas negras, boca superior"
-  ],
-  "description": "El Pez Arquero (Toxotes jaculatrix) es originario de las costas del Indo-Pacífico, desde India hasta Australia. Posee la habilidad única de disparar chorros de agua con precisión para derribar insectos de hasta 3m de distancia. Compensa la refracción del agua al apuntar de forma instintiva. Necesita agua salobre y sección emergida para cazar.",
+  "order": "Perciformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "Indo-Pacífico (India, SE Asia, Australia)",
     "countries": [
@@ -18,13 +16,16 @@
   },
   "max_size_cm": 30,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Carnívoro de superficie. Insectos, grillos, moscas. Puede escupir agua hasta 3m para derribar presas.",
-  "behavior": "Escupe chorro de agua para cazar insectos sobre la superficie. Agua salobre preferida.",
+  "level": "Superficie",
   "recommended_school": 1,
-  "level": "Avanzado",
+  "description": "El Pez Arquero (Toxotes jaculatrix) es originario de las costas del Indo-Pacífico, desde India hasta Australia. Posee la habilidad única de disparar chorros de agua con precisión para derribar insectos de hasta 3m de distancia. Compensa la refracción del agua al apuntar de forma instintiva. Necesita agua salobre y sección emergida para cazar.",
+  "variants": [
+    "Toxotes jaculatrix — plateado con manchas negras, boca superior"
+  ],
+  "behavior": "Escupe chorro de agua para cazar insectos sobre la superficie. Agua salobre preferida.",
+  "feeding_detail": "Carnívoro de superficie. Insectos, grillos, moscas. Puede escupir agua hasta 3m para derribar presas.",
+  "sexing": "Prácticamente imposible externamente. Sin dimorfismo sexual visible.",
+  "reproduction": "No se ha reproducido con éxito en cautiverio doméstico. Especie de estuarios con ciclos de marea difíciles de reproducir.",
   "substrate": [
     "Arena gruesa",
     "Grava"
@@ -36,8 +37,6 @@
   "light_detail": "8–10 h/día, intensidad alta. La zona emergida necesita iluminación suficiente para que crezcan plantas y haya insectos — su razón de existir en el acuario.",
   "filtration": "Filtro externo potente adaptado a agua salobre. Sal 5–10 g/L obligatoria — especie de estuarios y manglares que no vive en agua dulce pura.",
   "water_changes": "20–25% semanal",
-  "sexing": "Prácticamente imposible externamente. Sin dimorfismo sexual visible.",
-  "reproduction": "No se ha reproducido con éxito en cautiverio doméstico. Especie de estuarios con ciclos de marea difíciles de reproducir.",
   "compatibility_notes": "Compatible con peces de agua salobre de tamaño similar (Scats, Monos). Incompatible con peces de agua dulce pura — el agua salobre los matará.",
   "diseases": [
     {
@@ -46,9 +45,7 @@
       "solution": "Añadir sal marina (5–10 g/L)."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Necesita agua salobre (5–10g/L sal marina) y sección emergida para cazar.",
-  "order": "Perciformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Necesita agua salobre (5–10g/L sal marina) y sección emergida para cazar."
 }

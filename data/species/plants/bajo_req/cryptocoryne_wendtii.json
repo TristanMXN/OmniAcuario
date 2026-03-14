@@ -1,11 +1,6 @@
 {
-  "variants": [
-    "Cryptocoryne wendtii 'Green' — hojas verdes lisas",
-    "Cryptocoryne wendtii 'Brown' — hojas marrón-rojizas con textura",
-    "Cryptocoryne wendtii 'Red' — hojas rojo oscuro intenso",
-    "Cryptocoryne wendtii 'Tropica' — hojas verde con manchas"
-  ],
-  "description": "La Cryptocoryne Wendtii es originaria de Sri Lanka. La más popular del género — extremadamente tolerante, sobrevive con poca luz y sin CO₂. Sufre 'la crisis de la crypt' al cambiar de acuario (hojas se disuelven temporalmente) pero rebrota completamente en 2–4 semanas.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "Asia (Sri Lanka)",
     "countries": [
@@ -17,12 +12,15 @@
   },
   "max_size_cm": 25,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": false,
-  "fertilizer": "Fertilizante en pastillas en el sustrato. Líquido mensual.",
-  "uses": "Planta de maceta para primer plano y fondo medio. Muy versátil.",
+  "level": "Zona media",
+  "description": "La Cryptocoryne Wendtii es originaria de Sri Lanka. La más popular del género — extremadamente tolerante, sobrevive con poca luz y sin CO₂. Sufre 'la crisis de la crypt' al cambiar de acuario (hojas se disuelven temporalmente) pero rebrota completamente en 2–4 semanas.",
+  "variants": [
+    "Cryptocoryne wendtii 'Green' — hojas verdes lisas",
+    "Cryptocoryne wendtii 'Brown' — hojas marrón-rojizas con textura",
+    "Cryptocoryne wendtii 'Red' — hojas rojo oscuro intenso",
+    "Cryptocoryne wendtii 'Tropica' — hojas verde con manchas"
+  ],
+  "behavior": "Roseta que crece en el fondo lentamente. Puede sufrir 'crisis de la crypt' al transplantarse (pierde hojas — normal).",
   "propagation": "División de la mata o separación de plantas hijas (runners).",
   "substrate": [
     "Arena",
@@ -30,28 +28,17 @@
     "Sustrato nutritivo"
   ],
   "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Ideal en grupos de la misma especie o mezclada con otras Cryptocorynes.",
   "light": "Baja-Media",
   "light_detail": "6–10 h/día.",
+  "co2": false,
+  "co2_detail": "No necesario. Tolera muy bien la oscuridad relativa.",
+  "fertilizer": "Fertilizante en pastillas en el sustrato. Líquido mensual.",
+  "uses": "Planta de maceta para primer plano y fondo medio. Muy versátil.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -69,12 +56,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "La Cryptocoryne más tolerante y versátil. Disponible en morfos verde, marrón y rojo. El color varía según la intensidad lumínica.",
   "iucn": "No evaluado",
-  "market_notes": "Muy disponible. Sufre 'crisis de la crypt' al transplantar — normal.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Roseta que crece en el fondo lentamente. Puede sufrir 'crisis de la crypt' al transplantarse (pierde hojas — normal).",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Ideal en grupos de la misma especie o mezclada con otras Cryptocorynes.",
-  "co2_detail": "No necesario. Tolera muy bien la oscuridad relativa."
+  "market_notes": "Muy disponible. Sufre 'crisis de la crypt' al transplantar — normal."
 }

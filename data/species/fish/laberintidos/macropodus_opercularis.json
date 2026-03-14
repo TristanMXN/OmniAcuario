@@ -1,14 +1,6 @@
 {
   "order": "Anabantiformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    8,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "Asia Oriental (China, Vietnam, Corea, Taiwán)",
     "countries": [
@@ -21,15 +13,31 @@
     "habitat": "Aguas poco profundas, lentas o estancadas, frecuentemente con poco oxígeno.",
     "wild_params": "pH 6.0–8.0, GH 5–20, temperatura 10–26 °C."
   },
+  "max_size_cm": 11,
+  "lifespan_years": "5–8",
+  "level": "Superficie",
+  "recommended_school": 1,
+  "description": "El Pez del Paraíso (Macropodus opercularis) fue uno de los primeros peces ornamentales importados a Europa (1869), antes incluso que el Goldfish. Originario de China, Vietnam y Korea. Tolera temperaturas de 10°C — ideal para acuarios sin calefacción. Los machos son muy agresivos entre sí y con peces de aletas largas. Construye nido de burbujas.",
+  "variants": [
+    "Macropodus opercularis var. Azul — forma tipo, rayas azul y rojo",
+    "Macropodus opercularis var. Albino — fondo blanco, rayas naranja-rosado"
+  ],
+  "behavior": "Muy agresivo con machos de su especie y peces de aletas largas. Laberinítico — respira aire atmosférico. El macho construye nido de burbujas y cuida la puesta.",
+  "feeding_detail": "Carnívoro-omnívoro. Gránulos, artemia, gusanos, mosquito larvae. 2 veces al día.",
+  "sexing": "Machos con aletas muy desarrolladas y coloración rojo-azul brillante. Hembras con aletas más cortas y colores más apagados. Diferencia muy evidente en adultos.",
+  "reproduction": "Nido de burbujas grande. El macho construye y cuida el nido con gran dedicación. Muy fácil de reproducir — una de las primeras especies criadas en cautiverio en Europa (1869).",
   "substrate": [
     "Arena fina",
     "Grava"
   ],
   "substrate_detail": "Arena fina o grava. Vegetación densa con plantas flotantes para el nido de burbujas. Tolera bien cualquier sustrato.",
-  "lighting": "Moderada",
-  "description": "El Pez del Paraíso (Macropodus opercularis) fue uno de los primeros peces ornamentales importados a Europa (1869), antes incluso que el Goldfish. Originario de China, Vietnam y Korea. Tolera temperaturas de 10°C — ideal para acuarios sin calefacción. Los machos son muy agresivos entre sí y con peces de aletas largas. Construye nido de burbujas.",
-  "behavior": "Muy agresivo con machos de su especie y peces de aletas largas. Laberinítico — respira aire atmosférico. El macho construye nido de burbujas y cuida la puesta.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Recomendadas",
+  "plant_detail": "Vegetación densa. Resistente al frío (desde 10°C).",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día, intensidad media. Tolera temperaturas bajas (10°C) — puede no necesitar calentador. La luz no es determinante.",
+  "filtration": "Filtro de esponja de bajo caudal o sin filtro (tolera condiciones pobres). Especie de aguas estancadas y con poco oxígeno — laberinítico.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Agresivo con otros machos de su especie y con peces de aletas largas. Solo 1 macho por acuario. Compatible con peces robustos de aletas cortas que puedan defenderse.",
   "diseases": [
     {
       "symptom": "Ich",
@@ -42,28 +50,7 @@
       "solution": "Separar machos. Solo 1 macho por acuario."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "reproduction": "Nido de burbujas grande. El macho construye y cuida el nido con gran dedicación. Muy fácil de reproducir — una de las primeras especies criadas en cautiverio en Europa (1869).",
-  "variants": [
-    "Macropodus opercularis var. Azul — forma tipo, rayas azul y rojo",
-    "Macropodus opercularis var. Albino — fondo blanco, rayas naranja-rosado"
-  ],
-  "max_size_cm": 11,
-  "lifespan_years": "5–8",
-  "feeding_detail": "Carnívoro-omnívoro. Gránulos, artemia, gusanos, mosquito larvae. 2 veces al día.",
-  "recommended_school": 1,
-  "level": "Fácil",
-  "plants": "Recomendadas",
-  "plant_detail": "Vegetación densa. Resistente al frío (desde 10°C).",
-  "light": "Moderada",
-  "light_detail": "8–10 h/día, intensidad media. Tolera temperaturas bajas (10°C) — puede no necesitar calentador. La luz no es determinante.",
-  "filtration": "Filtro de esponja de bajo caudal o sin filtro (tolera condiciones pobres). Especie de aguas estancadas y con poco oxígeno — laberinítico.",
-  "water_changes": "20% semanal",
-  "sexing": "Machos con aletas muy desarrolladas y coloración rojo-azul brillante. Hembras con aletas más cortas y colores más apagados. Diferencia muy evidente en adultos.",
-  "compatibility_notes": "Agresivo con otros machos de su especie y con peces de aletas largas. Solo 1 macho por acuario. Compatible con peces robustos de aletas cortas que puedan defenderse.",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Tolera temperaturas desde 10°C — ideal para acuarios sin calefacción.",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Tolera temperaturas desde 10°C — ideal para acuarios sin calefacción."
 }

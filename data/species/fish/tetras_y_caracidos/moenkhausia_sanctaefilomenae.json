@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Moenkhausia sanctaefilomenae — forma tipo, ojo rojo intenso, franja negra en caudal"
-  ],
-  "description": "Tetra Ojo Rojo (Moenkhausia sanctaefilomenae) es una especie de acuario fácil de cuidar, originaria de América del Sur. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 7 cm en cautiverio.",
+  "order": "Characiformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "América del Sur (Argentina, Paraguay, Brasil, Bolivia)",
     "countries": [
@@ -17,13 +15,16 @@
   },
   "max_size_cm": 7,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "En acuario: escamas/gránulos de calidad, artemia congelada, dafnia, gusanos de sangre, tubifex. Alimentar 2 veces al día en pequeñas cantidades.",
-  "behavior": "Mantener en grupos de mínimo 6 ejemplares. Especie semi-agresivo que habita el estrato medio-bajo del acuario.",
-  "recommended_school": 6,
   "level": "Medio",
+  "recommended_school": 6,
+  "description": "Tetra Ojo Rojo (Moenkhausia sanctaefilomenae) es una especie de acuario fácil de cuidar, originaria de América del Sur. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 7 cm en cautiverio.",
+  "variants": [
+    "Moenkhausia sanctaefilomenae — forma tipo, ojo rojo intenso, franja negra en caudal"
+  ],
+  "behavior": "Mantener en grupos de mínimo 6 ejemplares. Especie semi-agresivo que habita el estrato medio-bajo del acuario.",
+  "feeding_detail": "En acuario: escamas/gránulos de calidad, artemia congelada, dafnia, gusanos de sangre, tubifex. Alimentar 2 veces al día en pequeñas cantidades.",
+  "sexing": "Hembras más redondeadas en el vientre. Diferencia sutil — similar a la mayoría de Hyphessobrycon.",
+  "reproduction": "Ovíparo de freza libre entre plantas finas. Sin cuidado parental — retirar adultos tras la freza.",
   "substrate": [
     "Arena fina",
     "Grava"
@@ -35,8 +36,6 @@
   "light_detail": "8–10 h/día, intensidad media. Tolera bien variaciones de iluminación — especie muy adaptable.",
   "filtration": "Filtro de esponja o externo de caudal moderado. Especie muy resistente — tolera cierta variación en la calidad del agua.",
   "water_changes": "20–25% semanal",
-  "sexing": "Hembras más redondeadas en el vientre. Diferencia sutil — similar a la mayoría de Hyphessobrycon.",
-  "reproduction": "Ovíparo de freza libre entre plantas finas. Sin cuidado parental — retirar adultos tras la freza.",
   "compatibility_notes": "Semi-agresivo — puede morder aletas largas de Bettas y Guramis. Compatible con peces de aletas cortas y resistentes.",
   "diseases": [
     {
@@ -55,9 +54,7 @@
       "solution": "Metronidazol 400mg/100L durante 3 días con recambios parciales."
     }
   ],
+  "important_notes": "Los ojos rojo brillante son su característica más llamativa. Especie muy resistente ideal para acuarios comunitarios robustos. Puede vivir 5+ años con buen cuidado.",
   "iucn": "No evaluado",
-  "market_notes": "Resistente y fácil. Puede ser semi-agresivo con peces de aletas largas.",
-  "order": "Characiformes",
-  "class": "Actinopterygii",
-  "important_notes": "Los ojos rojo brillante son su característica más llamativa. Especie muy resistente ideal para acuarios comunitarios robustos. Puede vivir 5+ años con buen cuidado."
+  "market_notes": "Resistente y fácil. Puede ser semi-agresivo con peces de aletas largas."
 }

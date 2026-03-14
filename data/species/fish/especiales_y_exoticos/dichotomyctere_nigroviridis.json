@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Dichotomyctere nigroviridis — verde brillante con puntos negros, vientre blanco"
-  ],
-  "description": "El Pez Globo Verde (Dichotomyctere nigroviridis) es originario del SE asiático, desde India hasta Indonesia. Su piel verde brillante con puntos negros y vientre blanco es característica. Necesita agua salobre (no es de agua dulce pura). Sus dientes de pico de loro crecen continuamente — los caracoles son indispensables para limarlos. Morderá las aletas de cualquier pez con quien comparta acuario.",
+  "order": "Tetraodontiformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "Asia (SE Asia — India, Sri Lanka, SE Asia, Indonesia)",
     "countries": [
@@ -19,13 +17,16 @@
   },
   "max_size_cm": 17,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Carnívoro. Caracoles (lima los dientes), gambas, mejillón, krill. NUNCA alimento seco.",
-  "behavior": "Solitario y agresivo. Muerde aletas de todos los peces. Solo en acuario exclusivo.",
+  "level": "Medio",
   "recommended_school": 1,
-  "level": "Avanzado",
+  "description": "El Pez Globo Verde (Dichotomyctere nigroviridis) es originario del SE asiático, desde India hasta Indonesia. Su piel verde brillante con puntos negros y vientre blanco es característica. Necesita agua salobre (no es de agua dulce pura). Sus dientes de pico de loro crecen continuamente — los caracoles son indispensables para limarlos. Morderá las aletas de cualquier pez con quien comparta acuario.",
+  "variants": [
+    "Dichotomyctere nigroviridis — verde brillante con puntos negros, vientre blanco"
+  ],
+  "behavior": "Solitario y agresivo. Muerde aletas de todos los peces. Solo en acuario exclusivo.",
+  "feeding_detail": "Carnívoro. Caracoles (lima los dientes), gambas, mejillón, krill. NUNCA alimento seco.",
+  "sexing": "Prácticamente imposible externamente. Sin dimorfismo sexual visible.",
+  "reproduction": "No se ha reproducido con éxito en cautiverio doméstico. Requiere condiciones de agua salobre variable difíciles de mantener.",
   "substrate": [
     "Arena fina",
     "Grava fina"
@@ -37,8 +38,6 @@
   "light_detail": "8–10 h/día, intensidad media. El verde brillante del cuerpo se aprecia bien con cualquier iluminación de calidad.",
   "filtration": "Filtro externo potente adaptado a agua salobre (sal 5–10 g/L). NUNCA agua dulce pura — especie de estuarios que requiere salinidad.",
   "water_changes": "20–25% semanal",
-  "sexing": "Prácticamente imposible externamente. Sin dimorfismo sexual visible.",
-  "reproduction": "No se ha reproducido con éxito en cautiverio doméstico. Requiere condiciones de agua salobre variable difíciles de mantener.",
   "compatibility_notes": "En acuario exclusivo — morderá las aletas de absolutamente cualquier pez sin excepción. Compatible solo con otros Peces Globo del mismo tamaño (con riesgo de mordidas).",
   "diseases": [
     {
@@ -47,9 +46,7 @@
       "solution": "Ofrecer caracoles semanalmente para limar los dientes."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Necesita agua salobre (5–10g/L). Muy agresivo — solo en solitario. Come caracoles obligatoriamente.",
-  "order": "Tetraodontiformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Necesita agua salobre (5–10g/L). Muy agresivo — solo en solitario. Come caracoles obligatoriamente."
 }

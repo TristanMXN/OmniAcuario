@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Hemianthus callitrichoides — hojas diminutas de 1–2mm, la planta más pequeña del hobby"
-  ],
-  "description": "La HC Cuba (Hemianthus callitrichoides) es endémica de Cuba. La planta de acuario más pequeña conocida. Crea la alfombra más fina y densa posible — un 'césped perfecto'. Requiere CO₂ inyectado obligatorio, luz intensa y sustrato nutritivo. El mayor reto del aquascaping plantado.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "Cuba (endémica de las riberas del Río Almendares)",
     "countries": [
@@ -14,39 +12,28 @@
   },
   "max_size_cm": 3,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": true,
-  "fertilizer": "CO₂ inyectado OBLIGATORIO + fertilización completa diaria.",
-  "uses": "Tapizante de primer plano ultra-densa. La planta más pequeña de acuario.",
+  "level": "Primer plano",
+  "description": "La HC Cuba (Hemianthus callitrichoides) es endémica de Cuba. La planta de acuario más pequeña conocida. Crea la alfombra más fina y densa posible — un 'césped perfecto'. Requiere CO₂ inyectado obligatorio, luz intensa y sustrato nutritivo. El mayor reto del aquascaping plantado.",
+  "variants": [
+    "Hemianthus callitrichoides — hojas diminutas de 1–2mm, la planta más pequeña del hobby"
+  ],
+  "behavior": "Tapizante de crecimiento lento que forma un césped fino y denso de 2–5 cm de altura.",
   "propagation": "Porciones del tapiz. Plantar en grupos pequeños en sustrato.",
   "substrate": [
     "Sustrato nutritivo fino (ADA Amazonia, Tropica Soil)"
   ],
   "substrate_detail": "Sustrato nutritivo para mejores resultados.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "La tapizante de mayor demanda — requiere CO₂ y luz intensa. No mezclar con plantas de baja demanda.",
   "light": "Alta",
   "light_detail": "10–12 h/día.",
+  "co2": true,
+  "co2_detail": "Obligatorio. Sin CO₂ no crece rastrera — se etioliza en vertical sin utilizarse.",
+  "fertilizer": "CO₂ inyectado OBLIGATORIO + fertilización completa diaria.",
+  "uses": "Tapizante de primer plano ultra-densa. La planta más pequeña de acuario.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -64,12 +51,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "HC Cuba — la planta de tapiz más pequeña del mundo. Requiere luz muy alta, CO₂ y fertilización. Solo para acuaristas con experiencia en plantados.",
   "iucn": "No evaluado",
-  "market_notes": "La tapizante más difícil y más buscada. CO₂ y luz intensa OBLIGATORIOS.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Tapizante de crecimiento lento que forma un césped fino y denso de 2–5 cm de altura.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "La tapizante de mayor demanda — requiere CO₂ y luz intensa. No mezclar con plantas de baja demanda.",
-  "co2_detail": "Obligatorio. Sin CO₂ no crece rastrera — se etioliza en vertical sin utilizarse."
+  "market_notes": "La tapizante más difícil y más buscada. CO₂ y luz intensa OBLIGATORIOS."
 }

@@ -1,13 +1,6 @@
 {
-  "variants": [
-    "King Kong — negro sólido sin blanco",
-    "Panda — negro y blanco en bandas",
-    "Red Wine / Wine Red — rojo oscuro profundo",
-    "Blue Bolt — azul eléctrico intenso en cabeza",
-    "Shadow Panda — negro y blanco con degradado difuso",
-    "Tangerine Tiger — naranja con rayas (posible cruce con C. mariae)"
-  ],
-  "description": "La Gamba Taiwán (Caridina sp. 'Taiwan Bee') es un grupo de híbridos y selecciones desarrollados en Taiwán a partir de cruzas entre Caridina cantonensis y posiblemente otras especies. Sus colores extremos (negro sólido, azul eléctrico, rojo intenso) la convierten en la gamba más espectacular del hobby. Requiere los mismos parámetros extremos que la Crystal Red pero con aún menos tolerancia a variaciones.",
+  "order": "Decapoda",
+  "nitrate_max": 5,
   "origin": {
     "region": "Asia (Taiwán, selección artificial)",
     "countries": [
@@ -19,13 +12,21 @@
   },
   "max_size_cm": 3,
   "lifespan_years": "1–2",
-  "nitrate_max": 5,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Biofilm, algas blandas, alimento específico Caridina de alta calidad. Porciones muy pequeñas — el exceso contamina el agua rápidamente.",
-  "behavior": "Activa pero más sensible que Crystal Red. Aclimatación por goteo de 2–3 horas obligatoria. Muy sensible a la contaminación de cobre.",
-  "recommended_school": 10,
   "level": "Fondo / Todas las zonas",
+  "recommended_school": 10,
+  "description": "La Gamba Taiwán (Caridina sp. 'Taiwan Bee') es un grupo de híbridos y selecciones desarrollados en Taiwán a partir de cruzas entre Caridina cantonensis y posiblemente otras especies. Sus colores extremos (negro sólido, azul eléctrico, rojo intenso) la convierten en la gamba más espectacular del hobby. Requiere los mismos parámetros extremos que la Crystal Red pero con aún menos tolerancia a variaciones.",
+  "variants": [
+    "King Kong — negro sólido sin blanco",
+    "Panda — negro y blanco en bandas",
+    "Red Wine / Wine Red — rojo oscuro profundo",
+    "Blue Bolt — azul eléctrico intenso en cabeza",
+    "Shadow Panda — negro y blanco con degradado difuso",
+    "Tangerine Tiger — naranja con rayas (posible cruce con C. mariae)"
+  ],
+  "behavior": "Activa pero más sensible que Crystal Red. Aclimatación por goteo de 2–3 horas obligatoria. Muy sensible a la contaminación de cobre.",
+  "feeding_detail": "Biofilm, algas blandas, alimento específico Caridina de alta calidad. Porciones muy pequeñas — el exceso contamina el agua rápidamente.",
+  "sexing": "Hembras más grandes y con abdomen más redondeado. Silla de montar visible en el dorso.",
+  "reproduction": "Muy exigente. Requiere parámetros absolutamente estables y acuario maduro (mínimo 3 meses). 10–20 huevos por hembra.",
   "substrate": [
     "Sustrato activo Caridina (ADA Amazonia II, Controsoil, Shirakura)"
   ],
@@ -36,8 +37,6 @@
   "light_detail": "6–8 h/día.",
   "filtration": "Filtro de esponja de alta densidad. Caudal muy bajo. Sin filtros de cascada.",
   "water_changes": "5–8% semanal con agua de ósmosis remineralizada (TDS 100–150 µS/cm)",
-  "sexing": "Hembras más grandes y con abdomen más redondeado. Silla de montar visible en el dorso.",
-  "reproduction": "Muy exigente. Requiere parámetros absolutamente estables y acuario maduro (mínimo 3 meses). 10–20 huevos por hembra.",
   "compatibility_notes": "Exclusivamente en acuario de camarones puros. No mezclar con otras Caridina salvo para cruces controlados.",
   "diseases": [
     {
@@ -56,9 +55,7 @@
       "solution": "Aislar inmediatamente. Desinfectar acuario si hay mortandad masiva."
     }
   ],
+  "important_notes": "Requiere agua de ósmosis con TDS 80–120 ppm. Cualquier variación brusca puede matar toda la colonia en horas. Extremadamente sensible al cobre.",
   "iucn": "No evaluado",
-  "market_notes": "Las variedades raras (King Kong, Blue Bolt) alcanzan precios de 20–100€ por ejemplar. Solo para acuaristas experimentados con equipos de ósmosis.",
-  "order": "Decapoda",
-  "class": "Malacostraca",
-  "important_notes": "Requiere agua de ósmosis con TDS 80–120 ppm. Cualquier variación brusca puede matar toda la colonia en horas. Extremadamente sensible al cobre."
+  "market_notes": "Las variedades raras (King Kong, Blue Bolt) alcanzan precios de 20–100€ por ejemplar. Solo para acuaristas experimentados con equipos de ósmosis."
 }

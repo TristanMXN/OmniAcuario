@@ -1,10 +1,6 @@
 {
-  "variants": [
-    "Alternanthera reineckii 'Mini' — variante compacta, la más popular",
-    "Alternanthera reineckii 'Rosanervig' — hojas con nervios rosa sobre verde",
-    "Alternanthera reineckii 'Purple' — tonos púrpura más oscuros"
-  ],
-  "description": "La Alternanthera Reineckii Mini es originaria de América del Sur. Sus hojas rojo-rosadas son el contrapunto de color perfecto al verde dominante en acuarios plantados. La variante 'Mini' es más compacta que la especie tipo. Requiere CO₂ y buena luz para coloración óptima.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "América del Sur (Brasil, Argentina, Paraguay)",
     "countries": [
@@ -19,39 +15,30 @@
   },
   "max_size_cm": 20,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": true,
-  "fertilizer": "CO₂ + fertilización completa con hierro.",
-  "uses": "Planta de tallo rojo-rosa para fondo medio. Contraste de color en aquascaping.",
+  "level": "Zona media",
+  "description": "La Alternanthera Reineckii Mini es originaria de América del Sur. Sus hojas rojo-rosadas son el contrapunto de color perfecto al verde dominante en acuarios plantados. La variante 'Mini' es más compacta que la especie tipo. Requiere CO₂ y buena luz para coloración óptima.",
+  "variants": [
+    "Alternanthera reineckii 'Mini' — variante compacta, la más popular",
+    "Alternanthera reineckii 'Rosanervig' — hojas con nervios rosa sobre verde",
+    "Alternanthera reineckii 'Purple' — tonos púrpura más oscuros"
+  ],
+  "behavior": "Tallo con hojas de colores rosado-rojo en el envés. El rojo se intensifica con luz directa y CO₂.",
   "propagation": "Esquejes del tallo.",
   "substrate": [
     "Sustrato nutritivo"
   ],
   "substrate_detail": "Sustrato nutritivo para mejores resultados.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Planta de color para acuarios de alto requerimiento. El rojo contrasta con el verde.",
   "light": "Alta",
   "light_detail": "10–12 h/día.",
+  "co2": true,
+  "co2_detail": "Muy recomendado. Sin CO₂ el color rojo-rosado desaparece casi completamente.",
+  "fertilizer": "CO₂ + fertilización completa con hierro.",
+  "uses": "Planta de tallo rojo-rosa para fondo medio. Contraste de color en aquascaping.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -69,12 +56,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "Para mantener el color rojo intenso requiere luz alta, CO₂ y fertilización rica en hierro. Sin estas condiciones las hojas revierten a verde.",
   "iucn": "No evaluado",
-  "market_notes": "Disponible. Variante 'Mini' más compacta que la especie tipo.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Tallo con hojas de colores rosado-rojo en el envés. El rojo se intensifica con luz directa y CO₂.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Planta de color para acuarios de alto requerimiento. El rojo contrasta con el verde.",
-  "co2_detail": "Muy recomendado. Sin CO₂ el color rojo-rosado desaparece casi completamente."
+  "market_notes": "Disponible. Variante 'Mini' más compacta que la especie tipo."
 }

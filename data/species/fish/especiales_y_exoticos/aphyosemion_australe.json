@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Aphyosemion australe var. Gold — predominantemente dorado-naranja",
-    "Aphyosemion australe var. Chocolate — marrón-naranja, forma tipo"
-  ],
-  "description": "El Killie de Cape Lopez (Fundulopanchax gardneri gardneri) es un pez killie originario de los ríos de Nigeria y Camerún. Es uno de los killis más populares y accesibles del hobby. Los machos exhiben un patrón extraordinario de puntos rojos y azules sobre cuerpo naranja. Prefiere temperaturas algo frescas (20–24°C) y agua ligeramente ácida.",
+  "order": "Cyprinodontiformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "África Occidental (Nigeria, Camerún)",
     "countries": [
@@ -16,13 +13,17 @@
   },
   "max_size_cm": 6,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Carnívoro. Artemia, dafnia, gusanos de sangre. 2 veces al día. No acepta bien el seco.",
-  "behavior": "Semi-agresivo entre machos. Zona superficie-media. Puede saltar — tapa obligatoria.",
+  "level": "Superficie",
   "recommended_school": 1,
-  "level": "Intermedio",
+  "description": "El Killie de Cape Lopez (Fundulopanchax gardneri gardneri) es un pez killie originario de los ríos de Nigeria y Camerún. Es uno de los killis más populares y accesibles del hobby. Los machos exhiben un patrón extraordinario de puntos rojos y azules sobre cuerpo naranja. Prefiere temperaturas algo frescas (20–24°C) y agua ligeramente ácida.",
+  "variants": [
+    "Aphyosemion australe var. Gold — predominantemente dorado-naranja",
+    "Aphyosemion australe var. Chocolate — marrón-naranja, forma tipo"
+  ],
+  "behavior": "Semi-agresivo entre machos. Zona superficie-media. Puede saltar — tapa obligatoria.",
+  "feeding_detail": "Carnívoro. Artemia, dafnia, gusanos de sangre. 2 veces al día. No acepta bien el seco.",
+  "sexing": "Macho con puntos rojos y azules sobre fondo naranja — extraordinariamente colorido. Hembra marrón-plateada apagada con apenas coloración.",
+  "reproduction": "Ovíparo de tipo continuo (no anual). Pone entre musgos o turba. Los huevos se recolectan del sustrato y se guardan en turba húmeda 4–6 semanas. Fácil de criar para killiaficionados.",
   "substrate": [
     "Turba",
     "Arena oscura"
@@ -34,8 +35,6 @@
   "light_detail": "6–8 h/día, intensidad suave. Especie de aguas lentas bajo vegetación densa — la luz muy intensa la estresa.",
   "filtration": "Filtro de esponja de bajo caudal. Agua blanda (GH 2–10), ácida (pH 5.5–7.0). Temperatura algo más fresca (20–24°C) que la mayoría de peces tropicales.",
   "water_changes": "20–25% semanal",
-  "sexing": "Macho con puntos rojos y azules sobre fondo naranja — extraordinariamente colorido. Hembra marrón-plateada apagada con apenas coloración.",
-  "reproduction": "Ovíparo de tipo continuo (no anual). Pone entre musgos o turba. Los huevos se recolectan del sustrato y se guardan en turba húmeda 4–6 semanas. Fácil de criar para killiaficionados.",
   "compatibility_notes": "Pacífico con otras especies. Semi-agresivo entre machos — 1 macho por acuario o varios con muchas hembras. Compatible con peces nano de agua blanda.",
   "diseases": [
     {
@@ -44,9 +43,7 @@
       "solution": "Anti-ich. Temperatura max 24°C."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Prefiere temperaturas frescas (20–24°C). Tapa hermética obligatoria.",
-  "order": "Cyprinodontiformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Prefiere temperaturas frescas (20–24°C). Tapa hermética obligatoria."
 }

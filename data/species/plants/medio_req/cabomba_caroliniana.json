@@ -1,10 +1,6 @@
 {
-  "variants": [
-    "Cabomba caroliniana — hojas finamente divididas en abanico, verde brillante",
-    "Cabomba aquatica — hojas similares, algo más delicada",
-    "Cabomba furcata — hojas rojas con buena luz (la más difícil)"
-  ],
-  "description": "La Cabomba es originaria de América del Norte y del Sur. Sus hojas finamente divididas en forma de abanico son muy decorativas y oxigenan bien el agua. Algo exigente en luz — con poca luz se etioliza. Favorita para acuarios de agua fría.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "América del Norte y del Sur",
     "countries": [
@@ -20,12 +16,14 @@
   },
   "max_size_cm": 100,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": true,
-  "fertilizer": "Fertilizante líquido completo. CO₂ mejora el crecimiento.",
-  "uses": "Planta de tallo con hojas finas tipo abanico. Fondo trasero muy decorativo.",
+  "level": "Zona media",
+  "description": "La Cabomba es originaria de América del Norte y del Sur. Sus hojas finamente divididas en forma de abanico son muy decorativas y oxigenan bien el agua. Algo exigente en luz — con poca luz se etioliza. Favorita para acuarios de agua fría.",
+  "variants": [
+    "Cabomba caroliniana — hojas finamente divididas en abanico, verde brillante",
+    "Cabomba aquatica — hojas similares, algo más delicada",
+    "Cabomba furcata — hojas rojas con buena luz (la más difícil)"
+  ],
+  "behavior": "Hojas en abanico divididas en finos filamentos. Muy decorativa pero sensible al déficit de luz.",
   "propagation": "Esquejes del tallo.",
   "substrate": [
     "Arena",
@@ -33,28 +31,17 @@
     "Sustrato nutritivo"
   ],
   "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con plantas de tallo. Se deteriora rápidamente sin buena iluminación.",
   "light": "Media-Alta",
   "light_detail": "10–12 h/día.",
+  "co2": true,
+  "co2_detail": "No necesario pero mejora significativamente la densidad foliar.",
+  "fertilizer": "Fertilizante líquido completo. CO₂ mejora el crecimiento.",
+  "uses": "Planta de tallo con hojas finas tipo abanico. Fondo trasero muy decorativo.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -72,12 +59,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "Extremadamente frágil — el flujo del filtro puede desarmarla. Necesita agua muy limpia y parámetros estables. No apta para acuarios con peces excavadores.",
   "iucn": "No evaluado",
-  "market_notes": "Muy disponible. ⚠️ Invasora en varios países. Se etioliza sin luz suficiente.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Hojas en abanico divididas en finos filamentos. Muy decorativa pero sensible al déficit de luz.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Compatible con plantas de tallo. Se deteriora rápidamente sin buena iluminación.",
-  "co2_detail": "No necesario pero mejora significativamente la densidad foliar."
+  "market_notes": "Muy disponible. ⚠️ Invasora en varios países. Se etioliza sin luz suficiente."
 }

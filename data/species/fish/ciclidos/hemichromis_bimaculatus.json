@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Hemichromis bimaculatus — rojo intenso con puntos azules iridiscentes"
-  ],
-  "description": "El Cíclido Joya (Hemichromis bimaculatus) es originario del África Occidental y Central. Su cuerpo completamente rojo-naranja cubierto de puntos azul-turquesa iridiscentes lo convierte en uno de los peces más espectaculares del hobby. Sin embargo, es también uno de los más agresivos — en reproducción, una pareja puede matar cualquier pez que no sea capaz de defenderse.",
+  "order": "Cichliformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "África Occidental y Central",
     "countries": [
@@ -20,13 +18,16 @@
   },
   "max_size_cm": 14,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Carnívoro. Gránulos de cíclidos, gusanos, artemia, peces pequeños ocasionalmente.",
-  "behavior": "Muy agresivo. En pareja reproductiva son inseparables pero atacan todo lo demás.",
+  "level": "Medio",
   "recommended_school": 1,
-  "level": "Intermedio",
+  "description": "El Cíclido Joya (Hemichromis bimaculatus) es originario del África Occidental y Central. Su cuerpo completamente rojo-naranja cubierto de puntos azul-turquesa iridiscentes lo convierte en uno de los peces más espectaculares del hobby. Sin embargo, es también uno de los más agresivos — en reproducción, una pareja puede matar cualquier pez que no sea capaz de defenderse.",
+  "variants": [
+    "Hemichromis bimaculatus — rojo intenso con puntos azules iridiscentes"
+  ],
+  "behavior": "Muy agresivo. En pareja reproductiva son inseparables pero atacan todo lo demás.",
+  "feeding_detail": "Carnívoro. Gránulos de cíclidos, gusanos, artemia, peces pequeños ocasionalmente.",
+  "sexing": "Machos más grandes y con puntos azules más intensos y numerosos. Las hembras pueden ser ligeramente más pequeñas. Sin aleta dorsal especialmente diferente.",
+  "reproduction": "Ovíparo con cuidado biparental muy agresivo. El par defiende violentamente toda la pecera — puede matar a cualquier pez que no escape. Aislar la pareja en reproducción.",
   "substrate": [
     "Arena",
     "Grava fina"
@@ -38,8 +39,6 @@
   "light_detail": "8–10 h/día, intensidad media. El rojo-naranja con puntos azules iridiscentes se aprecia mejor con iluminación lateral de calidad.",
   "filtration": "Filtro externo potente (4–5x el volumen/hora). En reproducción el par produce muchos residuos y el agua debe estar perfecta.",
   "water_changes": "20–25% semanal",
-  "sexing": "Machos más grandes y con puntos azules más intensos y numerosos. Las hembras pueden ser ligeramente más pequeñas. Sin aleta dorsal especialmente diferente.",
-  "reproduction": "Ovíparo con cuidado biparental muy agresivo. El par defiende violentamente toda la pecera — puede matar a cualquier pez que no escape. Aislar la pareja en reproducción.",
   "compatibility_notes": "Muy agresivo en reproducción. Solo en pareja aislada o con cíclidos africanos robustos de tamaño equivalente. Incompatible con peces más pequeños que puedan ser eliminados.",
   "diseases": [
     {
@@ -48,9 +47,7 @@
       "solution": "Anti-ich."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Coloración más intensa en reproducción. No apto para comunidad.",
-  "order": "Cichliformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Coloración más intensa en reproducción. No apto para comunidad."
 }

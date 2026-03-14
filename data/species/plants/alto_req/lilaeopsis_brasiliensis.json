@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Lilaeopsis brasiliensis — tallos cilíndricos cortos de 4–8cm"
-  ],
-  "description": "La Lilaeopsis (Lilaeopsis brasiliensis) es originaria de América del Sur. Sus tallos cilíndricos y huecos son únicos entre las tapizantes. Crea un 'prado' de hojas erectas con CO₂ y luz intensa. Alternativa a Eleocharis con diferente textura.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "América del Sur (Brasil, Argentina, Uruguay)",
     "countries": [
@@ -16,40 +14,29 @@
   },
   "max_size_cm": 8,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": true,
-  "fertilizer": "CO₂ + fertilización completa.",
-  "uses": "Tapizante de primer plano con hojas cilindricas. Efecto 'prado inglés'.",
+  "level": "Primer plano",
+  "description": "La Lilaeopsis (Lilaeopsis brasiliensis) es originaria de América del Sur. Sus tallos cilíndricos y huecos son únicos entre las tapizantes. Crea un 'prado' de hojas erectas con CO₂ y luz intensa. Alternativa a Eleocharis con diferente textura.",
+  "variants": [
+    "Lilaeopsis brasiliensis — tallos cilíndricos cortos de 4–8cm"
+  ],
+  "behavior": "Tapizante de tallos cilíndricos huecos (2–7cm). Forma un tapiz de textura única diferente al resto.",
   "propagation": "Rizomas rastreros. Se extiende sola en sustrato.",
   "substrate": [
     "Sustrato nutritivo fino",
     "Arena fina"
   ],
   "substrate_detail": "Sustrato nutritivo para mejores resultados.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con Hairgrass y Cuba. Textura cilíndrica única entre tapizantes.",
   "light": "Media-Alta",
   "light_detail": "10–12 h/día.",
+  "co2": true,
+  "co2_detail": "Recomendado. Sin CO₂ crece más alta y menos densa.",
+  "fertilizer": "CO₂ + fertilización completa.",
+  "uses": "Tapizante de primer plano con hojas cilindricas. Efecto 'prado inglés'.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -67,12 +54,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "Tapiz fino similar al césped. Crecimiento más lento que HC Cuba. Tolera algo menos de luz. Requiere sustrato nutritivo y CO₂ para un tapiz denso.",
   "iucn": "No evaluado",
-  "market_notes": "Disponible. Prado de tallos cilíndricos — textura única entre tapizantes.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Tapizante de tallos cilíndricos huecos (2–7cm). Forma un tapiz de textura única diferente al resto.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Compatible con Hairgrass y Cuba. Textura cilíndrica única entre tapizantes.",
-  "co2_detail": "Recomendado. Sin CO₂ crece más alta y menos densa."
+  "market_notes": "Disponible. Prado de tallos cilíndricos — textura única entre tapizantes."
 }

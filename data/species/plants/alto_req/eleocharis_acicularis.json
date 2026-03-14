@@ -1,10 +1,6 @@
 {
-  "variants": [
-    "Eleocharis acicularis — tallos muy finos como pelo, verde claro",
-    "Eleocharis parvula — variante más enana",
-    "Eleocharis montevidensis — variante más robusta"
-  ],
-  "description": "El Pelo de Elefante (Eleocharis acicularis) es cosmopolita. Sus tallos ultra-finos como agujas crean el efecto de césped natural más natural posible en aquascaping. Con CO₂ y buena luz crece rastrero y denso. Sin CO₂ crece más alto y lento pero sigue siendo viable.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "Cosmopolita (zonas templadas y tropicales)",
     "countries": [
@@ -16,40 +12,31 @@
   },
   "max_size_cm": 15,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": true,
-  "fertilizer": "CO₂ + fertilización completa para mejor resultado.",
-  "uses": "Tapizante de primer plano. Efecto 'césped natural' en aquascaping.",
+  "level": "Primer plano",
+  "description": "El Pelo de Elefante (Eleocharis acicularis) es cosmopolita. Sus tallos ultra-finos como agujas crean el efecto de césped natural más natural posible en aquascaping. Con CO₂ y buena luz crece rastrero y denso. Sin CO₂ crece más alto y lento pero sigue siendo viable.",
+  "variants": [
+    "Eleocharis acicularis — tallos muy finos como pelo, verde claro",
+    "Eleocharis parvula — variante más enana",
+    "Eleocharis montevidensis — variante más robusta"
+  ],
+  "behavior": "Tapizante en forma de césped cilíndrico. Con CO₂ y luz forma un prado denso; sin CO₂ crece más alta.",
   "propagation": "División de matas. Plantar pequeños grupos separados.",
   "substrate": [
     "Sustrato nutritivo fino",
     "Arena fina"
   ],
   "substrate_detail": "Sustrato nutritivo para mejores resultados.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con todas las tapizantes. Combinar con Staurogyne para variedad de texturas.",
   "light": "Media-Alta",
   "light_detail": "10–12 h/día.",
+  "co2": true,
+  "co2_detail": "Muy recomendado. Sin CO₂ el efecto 'césped' es menos compacto pero posible.",
+  "fertilizer": "CO₂ + fertilización completa para mejor resultado.",
+  "uses": "Tapizante de primer plano. Efecto 'césped natural' en aquascaping.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -67,12 +54,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "Tapiz de \"césped\" más popular del acuario. Con CO₂ y luz alta forma un tapiz denso a ras del suelo. Sin CO₂ crece más alto y menos denso.",
   "iucn": "No evaluado",
-  "market_notes": "Disponible. Sin CO₂ crece más alta — con CO₂ forma césped perfecto.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Tapizante en forma de césped cilíndrico. Con CO₂ y luz forma un prado denso; sin CO₂ crece más alta.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Compatible con todas las tapizantes. Combinar con Staurogyne para variedad de texturas.",
-  "co2_detail": "Muy recomendado. Sin CO₂ el efecto 'césped' es menos compacto pero posible."
+  "market_notes": "Disponible. Sin CO₂ crece más alta — con CO₂ forma césped perfecto."
 }

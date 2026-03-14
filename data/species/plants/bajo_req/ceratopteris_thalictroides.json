@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Ceratopteris thalictroides — hojas finamente divididas, verde brillante"
-  ],
-  "description": "El Helecho de Sumatra (Ceratopteris thalictroides) es pantropical. Helecho acuático que puede crecer plantado o flotante. Crecimiento muy rápido. Las hojas viejas producen plantlets de forma espontánea. Excelente refugio para crías y camarones.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "Pantropical (Asia, África, América)",
     "countries": [
@@ -18,12 +16,12 @@
   },
   "max_size_cm": 40,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": false,
-  "fertilizer": "Fertilizante líquido básico. Absorbe nutrientes del agua.",
-  "uses": "Planta de fondo medio o flotante. Crecimiento rápido. Refugio para crías.",
+  "level": "Superficie",
+  "description": "El Helecho de Sumatra (Ceratopteris thalictroides) es pantropical. Helecho acuático que puede crecer plantado o flotante. Crecimiento muy rápido. Las hojas viejas producen plantlets de forma espontánea. Excelente refugio para crías y camarones.",
+  "variants": [
+    "Ceratopteris thalictroides — hojas finamente divididas, verde brillante"
+  ],
+  "behavior": "Puede crecer flotante o plantada — versatilidad única. Las raíces flotantes son refugio para crías.",
   "propagation": "Plantlets en las hojas viejas. Puede cultivarse flotante o plantada.",
   "substrate": [
     "Arena",
@@ -31,28 +29,17 @@
     "Sustrato nutritivo"
   ],
   "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con todo. Si flota compite con otras flotantes por superficie.",
   "light": "Media",
   "light_detail": "8–10 h/día.",
+  "co2": false,
+  "co2_detail": "No necesario.",
+  "fertilizer": "Fertilizante líquido básico. Absorbe nutrientes del agua.",
+  "uses": "Planta de fondo medio o flotante. Crecimiento rápido. Refugio para crías.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -70,12 +57,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "Puede crecer flotando o plantada. Las hojas flotantes tienen forma distinta a las sumergidas. Crece muy rápido — útil para controlar nitratos.",
   "iucn": "No evaluado",
-  "market_notes": "Muy versátil — puede crecer flotante o plantada. Crecimiento rápido.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Puede crecer flotante o plantada — versatilidad única. Las raíces flotantes son refugio para crías.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Compatible con todo. Si flota compite con otras flotantes por superficie.",
-  "co2_detail": "No necesario."
+  "market_notes": "Muy versátil — puede crecer flotante o plantada. Crecimiento rápido."
 }

@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Macrobrachium rosenbergii — especie grande, pinzas azules en machos adultos",
-    "Macrobrachium lanchesteri — especie enana (3cm), apta para acuario comunitario"
-  ],
-  "description": "El Camarón de Pinzas Largas (Macrobrachium rosenbergii) es originario de la India, el sudeste asiático y Oceanía, habitando en ríos de agua dulce y estuarios. Los machos adultos desarrollan pinzas desproporcionadamente largas de color azul intenso. Es la especie más grande del género — alcanza 30cm y es ampliamente cultivada como alimento en acuicultura. En acuario, es más una curiosidad que un pez comunitario por su agresividad.",
+  "order": "Decapoda",
+  "nitrate_max": 30,
   "origin": {
     "region": "Asia (India, SE Asia, Nueva Guinea, Australia)",
     "countries": [
@@ -19,13 +16,17 @@
   },
   "max_size_cm": 30,
   "lifespan_years": "4–6",
-  "nitrate_max": 30,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Omnívoro agresivo. Come peces pequeños, invertebrados, gusanos, langostinos congelados, mejillón. Suplementar con verduras y alimento de fondo.",
-  "behavior": "Agresivo — territorial con otros Macrobrachium. Caza peces pequeños activamente. Solo apto para acuario de especies o con peces muy grandes que no pueda atrapar.",
-  "recommended_school": 1,
   "level": "Fondo",
+  "recommended_school": 1,
+  "description": "El Camarón de Pinzas Largas (Macrobrachium rosenbergii) es originario de la India, el sudeste asiático y Oceanía, habitando en ríos de agua dulce y estuarios. Los machos adultos desarrollan pinzas desproporcionadamente largas de color azul intenso. Es la especie más grande del género — alcanza 30cm y es ampliamente cultivada como alimento en acuicultura. En acuario, es más una curiosidad que un pez comunitario por su agresividad.",
+  "variants": [
+    "Macrobrachium rosenbergii — especie grande, pinzas azules en machos adultos",
+    "Macrobrachium lanchesteri — especie enana (3cm), apta para acuario comunitario"
+  ],
+  "behavior": "Agresivo — territorial con otros Macrobrachium. Caza peces pequeños activamente. Solo apto para acuario de especies o con peces muy grandes que no pueda atrapar.",
+  "feeding_detail": "Omnívoro agresivo. Come peces pequeños, invertebrados, gusanos, langostinos congelados, mejillón. Suplementar con verduras y alimento de fondo.",
+  "sexing": "Machos adultos con pinzas largas azules características. Hembras más pequeñas con pinzas cortas.",
+  "reproduction": "Las larvas requieren agua salobre. Muy difícil en cautiverio doméstico.",
   "substrate": [
     "Grava gruesa",
     "Arena gruesa",
@@ -38,8 +39,6 @@
   "light_detail": "8–10 h/día.",
   "filtration": "Filtración potente — especie que produce mucho desecho.",
   "water_changes": "20–25% semanal",
-  "sexing": "Machos adultos con pinzas largas azules características. Hembras más pequeñas con pinzas cortas.",
-  "reproduction": "Las larvas requieren agua salobre. Muy difícil en cautiverio doméstico.",
   "compatibility_notes": "INCOMPATIBLE con peces pequeños, gambas y caracoles. Solo con peces grandes (Óscar, Jaguar, Pacu) o en acuario exclusivo.",
   "diseases": [
     {
@@ -53,9 +52,7 @@
       "solution": "Regeneran en mudas sucesivas. Asegurar calcio suficiente en el agua."
     }
   ],
+  "important_notes": "El Camarón Malayo es el único camarón de agua dulce con pinzas largas — las usa para cazar peces pequeños. Incompatible con camarones pequeños.",
   "iucn": "No evaluado",
-  "market_notes": "Especie de acuicultura también vendida en tiendas de acuario. Requiere acuario de 300L+ para un adulto.",
-  "order": "Decapoda",
-  "class": "Malacostraca",
-  "important_notes": "El Camarón Malayo es el único camarón de agua dulce con pinzas largas — las usa para cazar peces pequeños. Incompatible con camarones pequeños."
+  "market_notes": "Especie de acuicultura también vendida en tiendas de acuario. Requiere acuario de 300L+ para un adulto."
 }

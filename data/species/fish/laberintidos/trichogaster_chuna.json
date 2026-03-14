@@ -1,14 +1,6 @@
 {
   "order": "Anabantiformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    5,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "Sur de Asia",
     "countries": [
@@ -19,14 +11,30 @@
     "habitat": "Lagos, estanques y canales de irrigación de aguas lentas con vegetación densa, agua cálida",
     "wild_params": "pH 6.0–7.5, GH 4–12, temperatura 22–28 °C"
   },
+  "max_size_cm": 5,
+  "lifespan_years": "4–6",
+  "level": "Superficie",
+  "recommended_school": 2,
+  "description": "El Gurami Miel (Trichogaster chuna) es nativo del norte de India y Bangladesh, habitando canales de irrigación y lagos de aguas lentas con vegetación densa. Más pequeño que el Gurami Enano, los machos en buena condición muestran un intenso amarillo-naranja miel con el vientre negro-azulado en época reproductiva. Considerado uno de los laberínticos más dóciles y menos agresivos del hobby.",
+  "variants": [
+    "Trichogaster chuna var. Miel — amarillo-naranja natural",
+    "Trichogaster chuna var. Rojo — selección para tonos rojizos más intensos (T. lalius confundido)"
+  ],
+  "behavior": "Muy pacífico, más tolerante con otros machos que el Gurami Enano. Ideal para nano acuarios de 40 L+. Compatible con Tetras pequeños, Corydoras nano y Camarones adultos.",
+  "feeding_detail": "Omnívoro. Acepta escamas pequeñas, gránulos nano, artemia, dafnia, insectos de superficie. Alimentar 2 veces al día. La variedad de alimento mantiene la coloración amarilla intensa.",
+  "sexing": "Macho en época reproductiva: amarillo-naranja brillante con pecho negro. Fuera de reproducción: ambos son amarillentos plateados. Hembra siempre más apagada.",
+  "reproduction": "Similar al Gurami Enano pero el nido es más simple. El macho cuida los huevos. Muy difícil lograr reproducción exitosa — especie frágil.",
   "substrate": [
     "Arena fina"
   ],
   "substrate_detail": "Sustrato oscuro con vegetación densa. Plantas flotantes para el nido de burbujas del macho. Más pequeño y delicado que el Gurami Enano.",
-  "lighting": "Moderada",
-  "description": "El Gurami Miel (Trichogaster chuna) es nativo del norte de India y Bangladesh, habitando canales de irrigación y lagos de aguas lentas con vegetación densa. Más pequeño que el Gurami Enano, los machos en buena condición muestran un intenso amarillo-naranja miel con el vientre negro-azulado en época reproductiva. Considerado uno de los laberínticos más dóciles y menos agresivos del hobby.",
-  "behavior": "Muy pacífico, más tolerante con otros machos que el Gurami Enano. Ideal para nano acuarios de 40 L+. Compatible con Tetras pequeños, Corydoras nano y Camarones adultos.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Recomendadas",
+  "plant_detail": "Plantas flotantes para el nido de burbujas. Vegetación densa para territorios y refugio.",
+  "light": "Baja",
+  "light_detail": "6–8 h/día, intensidad suave. Especie tímida — la luz intensa la estresa y hace que se esconda constantemente.",
+  "filtration": "Filtro de esponja de muy bajo caudal. Especie muy frágil — cualquier corriente moderada la estresa.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Solo con peces muy pequeños y tranquilos. Incompatible con cualquier especie activa o bulliciosa que lo intimide.",
   "diseases": [
     {
       "symptom": "Pérdida de color amarillo, letargia",
@@ -44,28 +52,7 @@
       "solution": "Antibiótico de amplio espectro."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "max_size_cm": 5,
-  "lifespan_years": "4–6",
-  "feeding_detail": "Omnívoro. Acepta escamas pequeñas, gránulos nano, artemia, dafnia, insectos de superficie. Alimentar 2 veces al día. La variedad de alimento mantiene la coloración amarilla intensa.",
-  "recommended_school": 2,
-  "level": "Fácil",
-  "plants": "Recomendadas",
-  "plant_detail": "Plantas flotantes para el nido de burbujas. Vegetación densa para territorios y refugio.",
-  "light": "Baja",
-  "light_detail": "6–8 h/día, intensidad suave. Especie tímida — la luz intensa la estresa y hace que se esconda constantemente.",
-  "filtration": "Filtro de esponja de muy bajo caudal. Especie muy frágil — cualquier corriente moderada la estresa.",
-  "water_changes": "20% semanal",
-  "sexing": "Macho en época reproductiva: amarillo-naranja brillante con pecho negro. Fuera de reproducción: ambos son amarillentos plateados. Hembra siempre más apagada.",
-  "reproduction": "Similar al Gurami Enano pero el nido es más simple. El macho cuida los huevos. Muy difícil lograr reproducción exitosa — especie frágil.",
-  "compatibility_notes": "Solo con peces muy pequeños y tranquilos. Incompatible con cualquier especie activa o bulliciosa que lo intimide.",
+  "important_notes": "El Honey Gourami es más frágil y tímido que el Gurami Enano. Mucho más sensible a la calidad del agua. No confundir con el Gurami Enano dorado — son especies distintas.",
   "iucn": "Preocupación menor (LC)",
-  "market_notes": "Disponible en tiendas especializadas. Menos común que el Gurami Enano pero más saludable en general.",
-  "class": "Actinopterygii",
-  "variants": [
-    "Trichogaster chuna var. Miel — amarillo-naranja natural",
-    "Trichogaster chuna var. Rojo — selección para tonos rojizos más intensos (T. lalius confundido)"
-  ],
-  "important_notes": "El Honey Gourami es más frágil y tímido que el Gurami Enano. Mucho más sensible a la calidad del agua. No confundir con el Gurami Enano dorado — son especies distintas."
+  "market_notes": "Disponible en tiendas especializadas. Menos común que el Gurami Enano pero más saludable en general."
 }

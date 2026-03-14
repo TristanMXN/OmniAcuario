@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Proserpinaca palustris — hojas pectinadas naranja-rojo intenso bajo el agua",
-    "Nota: las hojas submersas son completamente distintas a las emersas"
-  ],
-  "description": "La Proserpinaca Palustris es originaria del este de EE.UU. Una de las plantas de tallo con coloración naranja-rojo más intensa del hobby. Sus hojas submersas son pectinadas (tipo peine) y desarrollan tonos naranja-cobre intensos con CO₂ y luz de espectro rojo.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "América del Norte (este de EE.UU.)",
     "countries": [
@@ -17,39 +14,29 @@
   },
   "max_size_cm": 30,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": true,
-  "fertilizer": "CO₂ + luz intensa con espectro rojo + fertilización completa con hierro.",
-  "uses": "Planta de tallo con cambio de forma dramático: hojas naranja-rojo en fondo medio.",
+  "level": "Zona media",
+  "description": "La Proserpinaca Palustris es originaria del este de EE.UU. Una de las plantas de tallo con coloración naranja-rojo más intensa del hobby. Sus hojas submersas son pectinadas (tipo peine) y desarrollan tonos naranja-cobre intensos con CO₂ y luz de espectro rojo.",
+  "variants": [
+    "Proserpinaca palustris — hojas pectinadas naranja-rojo intenso bajo el agua",
+    "Nota: las hojas submersas son completamente distintas a las emersas"
+  ],
+  "behavior": "Hojas pectinadas (divididas en dientes) de color naranja-rojo intenso único en el hobby.",
   "propagation": "Esquejes del tallo.",
   "substrate": [
     "Sustrato nutritivo"
   ],
   "substrate_detail": "Sustrato nutritivo para mejores resultados.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con Rotala y Alternanthera en acuarios de alto requerimiento.",
   "light": "Alta",
   "light_detail": "10–12 h/día.",
+  "co2": true,
+  "co2_detail": "Obligatorio. Sin CO₂ las hojas son verdes y se deteriora.",
+  "fertilizer": "CO₂ + luz intensa con espectro rojo + fertilización completa con hierro.",
+  "uses": "Planta de tallo con cambio de forma dramático: hojas naranja-rojo en fondo medio.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -67,12 +54,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "El color y forma de las hojas cambian drásticamente según las condiciones — de verde con hojas serradas a rojo-naranja con hojas pectinadas con CO₂ y luz alta.",
   "iucn": "No evaluado",
-  "market_notes": "Disponible. El naranja-rojo de las hojas submersas es único en el hobby.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Hojas pectinadas (divididas en dientes) de color naranja-rojo intenso único en el hobby.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Compatible con Rotala y Alternanthera en acuarios de alto requerimiento.",
-  "co2_detail": "Obligatorio. Sin CO₂ las hojas son verdes y se deteriora."
+  "market_notes": "Disponible. El naranja-rojo de las hojas submersas es único en el hobby."
 }

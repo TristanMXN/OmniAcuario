@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Vallisneria spiralis — hojas rectas, borde ligeramente dentado",
-    "Vallisneria spiralis 'Tiger' — hojas con bandas transversales oscuras"
-  ],
-  "description": "La Vallisneria Spiralis es originaria de la cuenca mediterránea y Asia. Planta de cinta de crecimiento muy rápido que se propaga mediante estolones formando una densa alfombra de fondo. Ideal para crear el efecto 'selva' en el fondo trasero. Muy tolerante al agua dura y alcalina.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "Europa y Asia (cuenca del Mediterráneo y Asia tropical)",
     "countries": [
@@ -16,12 +13,13 @@
   },
   "max_size_cm": 50,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": false,
-  "fertilizer": "Fertilizante líquido básico. CO₂ no necesario.",
-  "uses": "Planta de cinta para fondo trasero. Crea efecto selva de fondo.",
+  "level": "Trasera",
+  "description": "La Vallisneria Spiralis es originaria de la cuenca mediterránea y Asia. Planta de cinta de crecimiento muy rápido que se propaga mediante estolones formando una densa alfombra de fondo. Ideal para crear el efecto 'selva' en el fondo trasero. Muy tolerante al agua dura y alcalina.",
+  "variants": [
+    "Vallisneria spiralis — hojas rectas, borde ligeramente dentado",
+    "Vallisneria spiralis 'Tiger' — hojas con bandas transversales oscuras"
+  ],
+  "behavior": "Hojas en cinta que crecen en vertical hasta la superficie. Se propaga con estolones rapidísimamente.",
   "propagation": "Estolones — separar plantas hijas del rizoma madre.",
   "substrate": [
     "Arena",
@@ -29,28 +27,17 @@
     "Sustrato nutritivo"
   ],
   "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Convive con plantas de fondo pero puede dominar el fondo con estolones.",
   "light": "Media",
   "light_detail": "8–10 h/día.",
+  "co2": false,
+  "co2_detail": "No necesario. Crece muy bien sin CO₂.",
+  "fertilizer": "Fertilizante líquido básico. CO₂ no necesario.",
+  "uses": "Planta de cinta para fondo trasero. Crea efecto selva de fondo.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -68,12 +55,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "Muy similar a V. australis pero de hojas más finas. Sensible al Excel (glutaraldeído) — puede morir con dosis normales. No usar en acuarios con Vallisneria.",
   "iucn": "No evaluado",
-  "market_notes": "Muy disponible. Se propaga sola con estolones — excelente para fondos.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Hojas en cinta que crecen en vertical hasta la superficie. Se propaga con estolones rapidísimamente.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Convive con plantas de fondo pero puede dominar el fondo con estolones.",
-  "co2_detail": "No necesario. Crece muy bien sin CO₂."
+  "market_notes": "Muy disponible. Se propaga sola con estolones — excelente para fondos."
 }

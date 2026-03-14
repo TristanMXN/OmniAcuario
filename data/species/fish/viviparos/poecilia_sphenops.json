@@ -1,14 +1,6 @@
 {
   "order": "Cyprinodontiformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    5,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "América Central y México",
     "countries": [
@@ -22,15 +14,34 @@
     "habitat": "Estuarios, lagunas costeras, ríos de agua dura y alcalina, a veces salobre",
     "wild_params": "pH 7.5–8.5, GH 15–30, temperatura 22–28 °C"
   },
+  "max_size_cm": 12,
+  "lifespan_years": "3–5",
+  "level": "Medio",
+  "recommended_school": 4,
+  "description": "El Molly (Poecilia sphenops) es nativo de México y Centroamérica, habitando estuarios, lagunas costeras y ríos de agua dura. Existen variedades de color: negro, dálmata y naranja/dorado. Tolera muy bien la sal y puede adaptarse a agua salobre. Omnívoro con marcada tendencia herbívora — ramonea algas activamente.",
+  "variants": [
+    "Poecilia sphenops var. Black Molly — completamente negro",
+    "Poecilia sphenops var. Dalmatian — blanco y negro moteado",
+    "Poecilia sphenops var. Balloon Molly — cuerpo globoso (deformidad criada)",
+    "Poecilia latipinna var. Sailfin Molly — aleta dorsal muy desarrollada",
+    "Poecilia latipinna var. Yucatan Molly"
+  ],
+  "behavior": "Pacífico pero los machos acosan a las hembras. Los Mollys en agua de baja calidad desarrollan Columnaris (Enfermedad del Molly). Se benefician de sal de acuario a baja concentración (1–3 g/L).",
+  "feeding_detail": "Omnívoro-herbívoro. Acepta escamas, gránulos, vegetales (espinaca, espirulina), artemia. Ramonea algas de vidrios y decoración. Incluir verduras en la dieta es esencial para la salud del sistema digestivo. 2 veces al día.",
+  "sexing": "Fácil. Macho con gonopodio visible. Hembra con abdomen redondeado y mancha gravídica oscura. El macho Vela tiene aleta dorsal enormemente desarrollada.",
+  "reproduction": "Vivíparo. Camadas de 20–100 crías cada 4–6 semanas. Las crías son inmediatamente funcionales. Los adultos las depredan activamente.",
   "substrate": [
     "Arena",
     "Grava"
   ],
   "substrate_detail": "Arena fina o grava media. Plantas densas (Vallisneria, Hygrophila) proporcionan refugio. Tolera agua salobre — sal 1–3 g/L opcional pero beneficiosa.",
-  "lighting": "Moderada",
-  "description": "El Molly (Poecilia sphenops) es nativo de México y Centroamérica, habitando estuarios, lagunas costeras y ríos de agua dura. Existen variedades de color: negro, dálmata y naranja/dorado. Tolera muy bien la sal y puede adaptarse a agua salobre. Omnívoro con marcada tendencia herbívora — ramonea algas activamente.",
-  "behavior": "Pacífico pero los machos acosan a las hembras. Los Mollys en agua de baja calidad desarrollan Columnaris (Enfermedad del Molly). Se benefician de sal de acuario a baja concentración (1–3 g/L).",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Opcionales",
+  "plant_detail": "Las plantas blandas pueden ser ramoneadas. Plantas duras tipo Java fern son más adecuadas.",
+  "light": "Media–Alta",
+  "light_detail": "8–10 h/día, intensidad media-alta. La iluminación intensa favorece el crecimiento de algas que complementan su dieta.",
+  "filtration": "Filtro de esponja potente. Agua dura y alcalina obligatoria — aguas blandas o ácidas causan enfermedad de terciopelo (Velvet) frecuente en Mollies.",
+  "water_changes": "25–30% semanal",
+  "compatibility_notes": "Compatible con Guppy, Platy, Espadilla y Tetras pacíficos. Incompatible con peces de agua ácida (Neon, Cardinal, Discus) — requieren parámetros opuestos.",
   "diseases": [
     {
       "symptom": "Cuerpo curvado, movilidad reducida, manchas blancas en la piel",
@@ -48,31 +59,7 @@
       "solution": "Suplementar con espirulina, verduras blanqueadas y tabletas de algas."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "variants": [
-    "Poecilia sphenops var. Black Molly — completamente negro",
-    "Poecilia sphenops var. Dalmatian — blanco y negro moteado",
-    "Poecilia sphenops var. Balloon Molly — cuerpo globoso (deformidad criada)",
-    "Poecilia latipinna var. Sailfin Molly — aleta dorsal muy desarrollada",
-    "Poecilia latipinna var. Yucatan Molly"
-  ],
   "important_notes": "El Molly de Vela (Poecilia velifera) es el más grande y requiere más espacio. Todos los Mollies pueden aclimatarse a agua salobre o incluso marina — útil para tratamiento del Velvet.",
-  "max_size_cm": 12,
-  "lifespan_years": "3–5",
-  "feeding_detail": "Omnívoro-herbívoro. Acepta escamas, gránulos, vegetales (espinaca, espirulina), artemia. Ramonea algas de vidrios y decoración. Incluir verduras en la dieta es esencial para la salud del sistema digestivo. 2 veces al día.",
-  "recommended_school": 4,
-  "level": "Fácil",
-  "plants": "Opcionales",
-  "plant_detail": "Las plantas blandas pueden ser ramoneadas. Plantas duras tipo Java fern son más adecuadas.",
-  "light": "Media–Alta",
-  "light_detail": "8–10 h/día, intensidad media-alta. La iluminación intensa favorece el crecimiento de algas que complementan su dieta.",
-  "filtration": "Filtro de esponja potente. Agua dura y alcalina obligatoria — aguas blandas o ácidas causan enfermedad de terciopelo (Velvet) frecuente en Mollies.",
-  "water_changes": "25–30% semanal",
-  "sexing": "Fácil. Macho con gonopodio visible. Hembra con abdomen redondeado y mancha gravídica oscura. El macho Vela tiene aleta dorsal enormemente desarrollada.",
-  "reproduction": "Vivíparo. Camadas de 20–100 crías cada 4–6 semanas. Las crías son inmediatamente funcionales. Los adultos las depredan activamente.",
-  "compatibility_notes": "Compatible con Guppy, Platy, Espadilla y Tetras pacíficos. Incompatible con peces de agua ácida (Neon, Cardinal, Discus) — requieren parámetros opuestos.",
   "iucn": "Preocupación menor (LC)",
-  "market_notes": "Disponible en todas las tiendas. El Balloon Molly tiene cifoscoliosis inducida — morfología de bienestar cuestionable.",
-  "class": "Actinopterygii"
+  "market_notes": "Disponible en todas las tiendas. El Balloon Molly tiene cifoscoliosis inducida — morfología de bienestar cuestionable."
 }

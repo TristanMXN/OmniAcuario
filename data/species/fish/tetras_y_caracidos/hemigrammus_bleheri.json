@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Hemigrammus bleheri — cabeza completamente roja hasta detrás del opérculo",
-    "Nota: muy similar a H. rhodostomus (Borrachito) — en H. bleheri el rojo llega más atrás"
-  ],
-  "description": "El Tetra Nariz de Borracho (Hemigrammus bleheri) es originario del río Negro y del río Vichada en Brasil y Venezuela. Extremadamente similar al Tetra Borrachito (H. rhodostomus), se distingue porque la mancha roja de la cabeza se extiende más hacia atrás, hasta detrás del opérculo. Ambas especies se mezclan frecuentemente en tiendas bajo el mismo nombre comercial.",
+  "order": "Characiformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "América del Sur (Brasil, Venezuela)",
     "countries": [
@@ -16,13 +13,17 @@
   },
   "max_size_cm": 5,
   "lifespan_years": "5–6",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Escamas/gránulos de calidad, artemia congelada, dafnia. 2 veces al día en pequeñas cantidades.",
-  "behavior": "Cardumen activo y cohesionado de zona media. Los machos exhiben coloración al verse entre sí. Mínimo 8 individuos para comportamiento natural.",
+  "level": "Medio",
   "recommended_school": 10,
-  "level": "Moderado",
+  "description": "El Tetra Nariz de Borracho (Hemigrammus bleheri) es originario del río Negro y del río Vichada en Brasil y Venezuela. Extremadamente similar al Tetra Borrachito (H. rhodostomus), se distingue porque la mancha roja de la cabeza se extiende más hacia atrás, hasta detrás del opérculo. Ambas especies se mezclan frecuentemente en tiendas bajo el mismo nombre comercial.",
+  "variants": [
+    "Hemigrammus bleheri — cabeza completamente roja hasta detrás del opérculo",
+    "Nota: muy similar a H. rhodostomus (Borrachito) — en H. bleheri el rojo llega más atrás"
+  ],
+  "behavior": "Cardumen activo y cohesionado de zona media. Los machos exhiben coloración al verse entre sí. Mínimo 8 individuos para comportamiento natural.",
+  "feeding_detail": "Escamas/gránulos de calidad, artemia congelada, dafnia. 2 veces al día en pequeñas cantidades.",
+  "sexing": "Hembras más redondeadas en el abdomen. Los machos algo más esbeltos y coloridos.",
+  "reproduction": "Ovíparo de freza libre entre plantas finas. Sin cuidado parental — separar adultos tras la puesta.",
   "substrate": [
     "Arena fina oscura"
   ],
@@ -33,8 +34,6 @@
   "light_detail": "6–8 h/día, luz suave o difusa. Especie de aguas oscuras — la luz intensa la estresa.",
   "filtration": "Filtro de esponja o externo de bajo caudal. Agua ligeramente ácida (pH 6.0–7.0) y blanda.",
   "water_changes": "20–25% semanal",
-  "sexing": "Hembras más redondeadas en el abdomen. Los machos algo más esbeltos y coloridos.",
-  "reproduction": "Ovíparo de freza libre entre plantas finas. Sin cuidado parental — separar adultos tras la puesta.",
   "compatibility_notes": "Compatible con Tetras pequeños pacíficos, Corydoras y Rasboras. Cardumen de mínimo 8 individuos para comportamiento natural.",
   "diseases": [
     {
@@ -48,9 +47,7 @@
       "solution": "Sin cura. Aislar."
     }
   ],
+  "important_notes": "El Tetra de Rathbun es menos conocido que otros tetras pero igualmente decorativo. Cardumen numeroso para mostrar el comportamiento natural.",
   "iucn": "No evaluado",
-  "market_notes": "Frecuentemente confundido con H. rhodostomus. Verificar la extensión del rojo.",
-  "order": "Characiformes",
-  "class": "Actinopterygii",
-  "important_notes": "El Tetra de Rathbun es menos conocido que otros tetras pero igualmente decorativo. Cardumen numeroso para mostrar el comportamiento natural."
+  "market_notes": "Frecuentemente confundido con H. rhodostomus. Verificar la extensión del rojo."
 }

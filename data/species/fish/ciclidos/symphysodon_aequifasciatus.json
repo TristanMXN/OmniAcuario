@@ -1,14 +1,6 @@
 {
   "order": "Cichliformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    5,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "Sudamérica",
     "countries": [
@@ -18,15 +10,33 @@
     "habitat": "Aguas negras de pH muy bajo junto a maderas sumergidas, temperatura siempre superior a 28 °C",
     "wild_params": "pH 4.5–6.5, GH 0–4, KH 0–3, temperatura 28–32 °C"
   },
+  "max_size_cm": 20,
+  "lifespan_years": "10–15",
+  "level": "Medio",
+  "recommended_school": 5,
+  "description": "El Discus (Symphysodon aequifasciatus) es nativo de la cuenca media y baja del Amazonas en Brasil, habitando en zonas de inundación con aguas negras cálidas, ácidas y muy blandas. Su cuerpo circular altamente comprimido y las extraordinarias variedades de color lo convierten en el 'rey del acuario'. Las variedades criadas en cautiverio (Heckel, Red Turquoise, Pigeon Blood, etc.) superan en color a las silvestres.",
+  "variants": [
+    "Symphysodon aequifasciatus var. Pigeon Blood — fondo naranja-rojizo, manchas oscuras reducidas",
+    "Symphysodon aequifasciatus var. Blue Diamond — azul eléctrico uniforme sin barras",
+    "Symphysodon aequifasciatus var. Snake Skin — patrón de líneas onduladas tipo piel de serpiente",
+    "Symphysodon aequifasciatus var. Red Melon — rojo-naranja intenso uniforme"
+  ],
+  "behavior": "Pacífico con jerarquía social. Grupos de 5–8 individuos. Nada en estrato medio, nunca en el fondo. Los dominantes intimidan con posturas de aletas, raramente con mordiscos. Alimenta a sus crías con moco cutáneo segregado por ambos padres ('leche de Discus').",
+  "feeding_detail": "Omnívoro. En cautiverio: corazón de buey triturado (clásico, controversias sobre HITH), gusanos de sangre, artemia, alimento específico de Discus. Los ejemplares silvestres son difíciles de acostumbrar a alimento artificial. 2–3 veces al día. Temperatura de 28 °C mínima incluso durante el ayuno.",
+  "sexing": "Prácticamente imposible sin sonda. Los machos adultos pueden tener frente más pronunciada. Solo distinguible durante la reproducción por el tubo genital.",
+  "reproduction": "Ovíparo con cuidado biparental único — las larvas se alimentan del mucus que segregan ambos padres en los flancos. La pareja se turna para alimentar a las crías.",
   "substrate": [
     "Arena fina",
     "Sin sustrato (en acuarios de cría)"
   ],
   "substrate_detail": "Arena fina oscura o acuario desnudo (sin sustrato) para facilitar la limpieza. Las heces del Discus son abundantes y contaminantes.",
-  "lighting": "Moderada",
-  "description": "El Discus (Symphysodon aequifasciatus) es nativo de la cuenca media y baja del Amazonas en Brasil, habitando en zonas de inundación con aguas negras cálidas, ácidas y muy blandas. Su cuerpo circular altamente comprimido y las extraordinarias variedades de color lo convierten en el 'rey del acuario'. Las variedades criadas en cautiverio (Heckel, Red Turquoise, Pigeon Blood, etc.) superan en color a las silvestres.",
-  "behavior": "Pacífico con jerarquía social. Grupos de 5–8 individuos. Nada en estrato medio, nunca en el fondo. Los dominantes intimidan con posturas de aletas, raramente con mordiscos. Alimenta a sus crías con moco cutáneo segregado por ambos padres ('leche de Discus').",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Opcionales",
+  "plant_detail": "Solo plantas tolerantes a 28–32 °C: Vallisneria, Echinodorus, helechos Java. Las plantas de agua fría (Anubias, Bucephalandra) sobreviven pero crecen lento.",
+  "light": "Baja–Media",
+  "light_detail": "8–10 h/día, intensidad suave-media. Evitar iluminación muy intensa — prefiere luz difusa que simula el dosel amazónico.",
+  "filtration": "Filtro externo muy potente con cambios de agua del 30–50% diario. El Discus no tolera nitratos > 10 ppm.",
+  "water_changes": "25–30% diario en cría / 20–25% cada 2 días en mantenimiento",
+  "compatibility_notes": "Solo con peces de agua extremadamente blanda y ácida. Compatible con Cardinal Tetra, Altum Angelfish y Corydoras de aguas negras. Incompatible con cualquier especie bulliciosa.",
   "diseases": [
     {
       "symptom": "Heces blancas gelatinosas, pérdida de apetito, adelgazamiento progresivo",
@@ -44,30 +54,7 @@
       "solution": "Baños cortos de sal. Tratamiento anti-parásito externo. Temperatura alta (30 °C)."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
   "important_notes": "El Discus es el pez de agua dulce más exigente del hobby. Requiere cambios de agua diarios, temperatura 28–30°C constante y agua de ósmosis. No apto para principiantes.",
-  "max_size_cm": 20,
-  "lifespan_years": "10–15",
-  "feeding_detail": "Omnívoro. En cautiverio: corazón de buey triturado (clásico, controversias sobre HITH), gusanos de sangre, artemia, alimento específico de Discus. Los ejemplares silvestres son difíciles de acostumbrar a alimento artificial. 2–3 veces al día. Temperatura de 28 °C mínima incluso durante el ayuno.",
-  "recommended_school": 5,
-  "level": "Experto",
-  "plants": "Opcionales",
-  "plant_detail": "Solo plantas tolerantes a 28–32 °C: Vallisneria, Echinodorus, helechos Java. Las plantas de agua fría (Anubias, Bucephalandra) sobreviven pero crecen lento.",
-  "light": "Baja–Media",
-  "light_detail": "8–10 h/día, intensidad suave-media. Evitar iluminación muy intensa — prefiere luz difusa que simula el dosel amazónico.",
-  "filtration": "Filtro externo muy potente con cambios de agua del 30–50% diario. El Discus no tolera nitratos > 10 ppm.",
-  "water_changes": "25–30% diario en cría / 20–25% cada 2 días en mantenimiento",
-  "sexing": "Prácticamente imposible sin sonda. Los machos adultos pueden tener frente más pronunciada. Solo distinguible durante la reproducción por el tubo genital.",
-  "reproduction": "Ovíparo con cuidado biparental único — las larvas se alimentan del mucus que segregan ambos padres en los flancos. La pareja se turna para alimentar a las crías.",
-  "compatibility_notes": "Solo con peces de agua extremadamente blanda y ácida. Compatible con Cardinal Tetra, Altum Angelfish y Corydoras de aguas negras. Incompatible con cualquier especie bulliciosa.",
   "iucn": "Preocupación menor (LC)",
-  "market_notes": "Disponible en tiendas especializadas. Las variedades fancy son de criadero asiático. Los silvestres (Heckel, Alenquer) son más exigentes y costosos.",
-  "class": "Actinopterygii",
-  "variants": [
-    "Symphysodon aequifasciatus var. Pigeon Blood — fondo naranja-rojizo, manchas oscuras reducidas",
-    "Symphysodon aequifasciatus var. Blue Diamond — azul eléctrico uniforme sin barras",
-    "Symphysodon aequifasciatus var. Snake Skin — patrón de líneas onduladas tipo piel de serpiente",
-    "Symphysodon aequifasciatus var. Red Melon — rojo-naranja intenso uniforme"
-  ]
+  "market_notes": "Disponible en tiendas especializadas. Las variedades fancy son de criadero asiático. Los silvestres (Heckel, Alenquer) son más exigentes y costosos."
 }

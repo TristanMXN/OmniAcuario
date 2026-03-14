@@ -1,0 +1,72 @@
+/* ── HOME PAGE ──────────────────────────────────── */
+.home-page { padding: 16px 14px; max-width: 600px; margin: 0 auto; display: flex; flex-direction: column; gap: 14px; }
+
+
+
+/* Especie del día */
+
+
+/* ── HOME REDESIGN ──────────────────────────────── */
+
+/* Hero */
+.home-hero {
+  position: relative; border-radius: 24px; overflow: hidden;
+  padding: 32px 22px 28px; margin-bottom: 0;
+  min-height: 140px; display: flex; align-items: flex-end;
+}
+.home-hero-bg {
+  position: absolute; inset: 0;
+  background:
+    radial-gradient(ellipse at 20% 50%, rgba(0,180,255,0.35) 0%, transparent 60%),
+    radial-gradient(ellipse at 80% 20%, rgba(0,229,160,0.2) 0%, transparent 55%),
+    radial-gradient(ellipse at 60% 90%, rgba(100,80,255,0.15) 0%, transparent 50%),
+    linear-gradient(135deg, #051828 0%, #0a2540 60%, #061e35 100%);
+  animation: heroShimmer 8s ease-in-out infinite alternate;
+}
+@keyframes heroShimmer {
+  0%   { filter: brightness(1); }
+  100% { filter: brightness(1.12); }
+}
+.home-hero-content { position: relative; z-index: 1; }
+.home-hero-greeting { font-size: 13px; color: rgba(255,255,255,0.5); font-weight: 600; margin-bottom: 6px; letter-spacing: 0.3px; }
+.home-hero-title    { font-size: 32px; font-weight: 900; color: #fff; letter-spacing: -1px; line-height: 1; }
+.home-hero-sub      { font-size: 13px; color: rgba(255,255,255,0.4); margin-top: 6px; }
+
+/* Especie del día */
+.home-sod {
+  background: var(--bg-card); border: 1px solid var(--border2);
+  border-radius: 20px; padding: 18px; cursor: pointer;
+  transition: transform 0.15s;
+}
+.home-sod:active { transform: scale(0.98); }
+.home-sod-label { font-size: 10px; font-weight: 800; color: var(--warn); text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 14px; }
+.home-sod-body  { display: flex; gap: 16px; align-items: center; margin-bottom: 14px; }
+.home-sod-emoji { font-size: 52px; line-height: 1; flex-shrink: 0; }
+.home-sod-name  { font-size: 20px; font-weight: 900; color: var(--text-1); line-height: 1.2; }
+.home-sod-sci   { font-size: 12px; color: var(--text-3); font-style: italic; margin-top: 4px; }
+.home-sod-origin{ font-size: 11px; color: var(--text-3); margin-top: 5px; }
+.home-sod-tags  { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
+.home-tag { font-size: 11px; font-weight: 700; color: var(--text-2); }
+.home-sod-cta   { font-size: 12px; font-weight: 700; color: var(--accent); border-top: 1px solid var(--border); padding-top: 12px; }
+
+/* Dato del día */
+.home-daily-card {
+  border-radius: 18px; border: 1px solid; padding: 16px 18px;
+}
+.home-daily-label { font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; }
+.home-daily-text  { font-size: 14px; color: var(--text-2); line-height: 1.7; }
+
+/* Trivia */
+.home-trivia {
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: 18px; padding: 16px 18px; cursor: pointer;
+  transition: border-color 0.2s;
+}
+.home-trivia:active { transform: scale(0.98); }
+.home-trivia-label { font-size: 10px; font-weight: 800; color: #c084fc; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; }
+.home-trivia-q     { font-size: 15px; font-weight: 800; color: var(--text-1); line-height: 1.4; margin-bottom: 10px; }
+.home-trivia-reveal-hint { font-size: 11px; color: var(--text-3); font-style: italic; }
+.home-trivia-a     { display: none; font-size: 13px; color: var(--text-2); line-height: 1.6; margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border); }
+.home-trivia.revealed { border-color: #c084fc44; }
+.home-trivia.revealed .home-trivia-reveal-hint { display: none; }
+.home-trivia.revealed .home-trivia-a { display: block; }

@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Carnegiella strigata — plateado con rayas oblicuas marrones. El más pequeño de las hachas."
-  ],
-  "description": "El Hacha Marmolada (Carnegiella strigata) es la especie más pequeña de las hachas, originaria de la cuenca amazónica y Guayanas. Sus rayas oblicuas marrones sobre fondo plateado le dan el aspecto marmolado característico. Igual que todas las hachas, vive en superficie estricta y puede saltar distancias sorprendentes. Más delicada al transporte que el Hacha de Plata.",
+  "order": "Characiformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "América del Sur (Amazonas, Guayanas)",
     "countries": [
@@ -17,13 +15,16 @@
   },
   "max_size_cm": 4,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Insectívoro de superficie. Micro-gránulos flotantes, drosophila, mosquito larvae.",
-  "behavior": "Superficie estricta. Cardumen mínimo 6. Salta — tapa obligatoria.",
+  "level": "Superficie",
   "recommended_school": 6,
-  "level": "Intermedio",
+  "description": "El Hacha Marmolada (Carnegiella strigata) es la especie más pequeña de las hachas, originaria de la cuenca amazónica y Guayanas. Sus rayas oblicuas marrones sobre fondo plateado le dan el aspecto marmolado característico. Igual que todas las hachas, vive en superficie estricta y puede saltar distancias sorprendentes. Más delicada al transporte que el Hacha de Plata.",
+  "variants": [
+    "Carnegiella strigata — plateado con rayas oblicuas marrones. El más pequeño de las hachas."
+  ],
+  "behavior": "Superficie estricta. Cardumen mínimo 6. Salta — tapa obligatoria.",
+  "feeding_detail": "Insectívoro de superficie. Micro-gránulos flotantes, drosophila, mosquito larvae.",
+  "sexing": "Hembras ligeramente más redondeadas en el área ventral. Diferencia muy sutil — casi imposible sin comparar varios ejemplares.",
+  "reproduction": "Muy difícil en cautiverio. Agua blanda extrema (GH 0–4), ácida (pH 5.5–6.5) y temperatura 26°C. Pone en superficie entre plantas flotantes.",
   "substrate": [
     "Cualquier sustrato"
   ],
@@ -34,8 +35,6 @@
   "light_detail": "8–10 h/día, intensidad media. Plantas flotantes filtran la luz creando el ambiente sombreado de superficie que prefiere.",
   "filtration": "Filtro de esponja de muy bajo caudal con salida completamente sumergida. Sin turbulencia en superficie.",
   "water_changes": "20–25% semanal",
-  "sexing": "Hembras ligeramente más redondeadas en el área ventral. Diferencia muy sutil — casi imposible sin comparar varios ejemplares.",
-  "reproduction": "Muy difícil en cautiverio. Agua blanda extrema (GH 0–4), ácida (pH 5.5–6.5) y temperatura 26°C. Pone en superficie entre plantas flotantes.",
   "compatibility_notes": "Pacífico nano. Incompatible con cualquier pez que nade en la zona de superficie. Compatible con Tetras de zona baja, Corydoras y Otocinclus. TAPA HERMÉTICA obligatoria.",
   "diseases": [
     {
@@ -44,9 +43,7 @@
       "solution": "Elevar temperatura. Anti-ich."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Más delicado que el Hacha de Plata. Tapa OBLIGATORIA.",
-  "order": "Characiformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Más delicado que el Hacha de Plata. Tapa OBLIGATORIA."
 }

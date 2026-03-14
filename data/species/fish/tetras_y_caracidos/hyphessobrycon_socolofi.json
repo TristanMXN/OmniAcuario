@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Hyphessobrycon socolofi — forma tipo, cuerpo rojizo-rosado translúcido, mancha humeral negra"
-  ],
-  "description": "El Tetra Fantasma Rojo (Hyphessobrycon socolofi) es originario de la cuenca del Río Negro en Brasil, donde habita en aguas negras ácidas y blandas bajo densa vegetación. Su cuerpo rojizo-rosado translúcido con una mancha humeral oscura lo distingue del Fantasma Negro. Especie robusta y fácil de mantener, muy apreciada en acuarios plantados.",
+  "order": "Characiformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "América del Sur (Brasil)",
     "countries": [
@@ -14,13 +12,16 @@
   },
   "max_size_cm": 4,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Escamas/gránulos de calidad, artemia congelada, dafnia. 2 veces al día en pequeñas cantidades.",
-  "behavior": "Cardumen de mínimo 6. Pacífico con todas las especies. Nada en estrato medio. Los machos exhiben las aletas en presencia de hembras.",
+  "level": "Medio",
   "recommended_school": 6,
-  "level": "Fácil",
+  "description": "El Tetra Fantasma Rojo (Hyphessobrycon socolofi) es originario de la cuenca del Río Negro en Brasil, donde habita en aguas negras ácidas y blandas bajo densa vegetación. Su cuerpo rojizo-rosado translúcido con una mancha humeral oscura lo distingue del Fantasma Negro. Especie robusta y fácil de mantener, muy apreciada en acuarios plantados.",
+  "variants": [
+    "Hyphessobrycon socolofi — forma tipo, cuerpo rojizo-rosado translúcido, mancha humeral negra"
+  ],
+  "behavior": "Cardumen de mínimo 6. Pacífico con todas las especies. Nada en estrato medio. Los machos exhiben las aletas en presencia de hembras.",
+  "feeding_detail": "Escamas/gránulos de calidad, artemia congelada, dafnia. 2 veces al día en pequeñas cantidades.",
+  "sexing": "Macho con mancha negra bordeada de blanco en la aleta dorsal muy pronunciada. Hembra más redondeada en el abdomen.",
+  "reproduction": "Ovíparo de freza libre entre plantas finas. Sin cuidado parental — los adultos comen los huevos.",
   "substrate": [
     "Arena fina oscura"
   ],
@@ -31,8 +32,6 @@
   "light_detail": "6–8 h/día, luz difusa. El rojo profundiza con agua oscura y ácida y luz suave.",
   "filtration": "Filtro de esponja de bajo caudal. Agua blanda (GH 2–12), ácida (pH 5.5–7.0).",
   "water_changes": "20–25% semanal",
-  "sexing": "Macho con mancha negra bordeada de blanco en la aleta dorsal muy pronunciada. Hembra más redondeada en el abdomen.",
-  "reproduction": "Ovíparo de freza libre entre plantas finas. Sin cuidado parental — los adultos comen los huevos.",
   "compatibility_notes": "Compatible con Tetras pequeños pacíficos, Corydoras y Rasboras de agua blanda. No combinar con peces de agua dura.",
   "diseases": [
     {
@@ -46,9 +45,7 @@
       "solution": "Oscurecer acuario. Tratamiento con sulfato de cobre o antiparasitario."
     }
   ],
+  "important_notes": "El Tetra Fantasma Rojo tiene coloración más intensa que el Fantasma Negro. El rojo profundiza con agua ácida y oscura.",
   "iucn": "No evaluado",
-  "market_notes": "Disponible en tiendas especializadas. A veces confundido con el Fantasma Negro.",
-  "order": "Characiformes",
-  "class": "Actinopterygii",
-  "important_notes": "El Tetra Fantasma Rojo tiene coloración más intensa que el Fantasma Negro. El rojo profundiza con agua ácida y oscura."
+  "market_notes": "Disponible en tiendas especializadas. A veces confundido con el Fantasma Negro."
 }

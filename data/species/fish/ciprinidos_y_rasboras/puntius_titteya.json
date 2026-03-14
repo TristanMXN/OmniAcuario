@@ -1,14 +1,6 @@
 {
   "order": "Cypriniformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    5,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "Asia del Sur",
     "countries": [
@@ -18,14 +10,31 @@
     "habitat": "Ríos sombreados de agua blanda, ligeramente ácida y oscura, bajo vegetación densa de bosque",
     "wild_params": "pH 6.0–7.5, GH 2–12, temperatura 23–27 °C"
   },
+  "max_size_cm": 5,
+  "lifespan_years": "4–6",
+  "level": "Medio",
+  "recommended_school": 6,
+  "description": "El Barbo Cereza (Puntius titteya) es endémico de Sri Lanka, habitando ríos sombreados de agua blanda y oscura bajo bosques densos. Los machos en buena condición muestran un rojo cereza intenso. Es considerado una especie amenazada en su hábitat natural por deforestación masiva, aunque la reproducción en cautiverio es masiva y los ejemplares de tiendas son siempre de criadero.",
+  "variants": [
+    "Puntius titteya var. Rojo — macho en óptimas condiciones, rojo cereza intenso",
+    "Puntius titteya var. Albino — cuerpo amarillo pálido, ojos rojos",
+    "Puntius titteya var. Velo — aletas elongadas (cultivar)"
+  ],
+  "behavior": "Uno de los barbos más pacíficos. Compatible con casi cualquier especie. Los machos rivalizan en coloración con pequeñas persecuciones pero sin daño físico. Grupo mínimo de 6.",
+  "feeding_detail": "Omnívoro. Acepta escamas, gránulos micro, artemia, dafnia, vegetales. Dieta variada. 2 veces al día.",
+  "sexing": "Macho rojo cereza intenso. Hembra con color base marrón-dorado con franja lateral oscura — mucho más apagada que el macho.",
+  "reproduction": "Ovíparo de freza libre entre plantas finas (musgo de Java). Sin cuidado parental — retirar adultos tras la freza.",
   "substrate": [
     "Arena fina oscura"
   ],
   "substrate_detail": "Sustrato oscuro (arena negra o sustrato plantado). El fondo oscuro intensifica el rojo cereza de los machos.",
-  "lighting": "Moderada",
-  "description": "El Barbo Cereza (Puntius titteya) es endémico de Sri Lanka, habitando ríos sombreados de agua blanda y oscura bajo bosques densos. Los machos en buena condición muestran un rojo cereza intenso. Es considerado una especie amenazada en su hábitat natural por deforestación masiva, aunque la reproducción en cautiverio es masiva y los ejemplares de tiendas son siempre de criadero.",
-  "behavior": "Uno de los barbos más pacíficos. Compatible con casi cualquier especie. Los machos rivalizan en coloración con pequeñas persecuciones pero sin daño físico. Grupo mínimo de 6.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Recomendadas",
+  "plant_detail": "Vegetación densa proporciona refugio. Hojas de catappa para biotopo Sri Lanka.",
+  "light": "Baja",
+  "light_detail": "6–8 h/día, intensidad suave-media. Zonas de sombra con plantas densas hacen que los machos exhiban su mejor coloración.",
+  "filtration": "Filtro de esponja o externo de caudal bajo-moderado. Agua ligeramente ácida y blanda.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "El barbo más pacífico del hobby. Compatible con Neon Tetra, Rasboras, Corydoras y prácticamente cualquier especie no agresiva.",
   "diseases": [
     {
       "symptom": "Pérdida del rojo en machos",
@@ -43,29 +52,7 @@
       "solution": "Antibiótico de amplio espectro."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "max_size_cm": 5,
-  "lifespan_years": "4–6",
-  "feeding_detail": "Omnívoro. Acepta escamas, gránulos micro, artemia, dafnia, vegetales. Dieta variada. 2 veces al día.",
-  "recommended_school": 6,
-  "level": "Fácil",
-  "plants": "Recomendadas",
-  "plant_detail": "Vegetación densa proporciona refugio. Hojas de catappa para biotopo Sri Lanka.",
-  "light": "Baja",
-  "light_detail": "6–8 h/día, intensidad suave-media. Zonas de sombra con plantas densas hacen que los machos exhiban su mejor coloración.",
-  "filtration": "Filtro de esponja o externo de caudal bajo-moderado. Agua ligeramente ácida y blanda.",
-  "water_changes": "20% semanal",
-  "sexing": "Macho rojo cereza intenso. Hembra con color base marrón-dorado con franja lateral oscura — mucho más apagada que el macho.",
-  "reproduction": "Ovíparo de freza libre entre plantas finas (musgo de Java). Sin cuidado parental — retirar adultos tras la freza.",
-  "compatibility_notes": "El barbo más pacífico del hobby. Compatible con Neon Tetra, Rasboras, Corydoras y prácticamente cualquier especie no agresiva.",
+  "important_notes": "El único Barbo completamente pacífico — no muerde aletas. Los machos se exhiben constantemente frente a las hembras con el rojo más intenso posible.",
   "iucn": "Vulnerable (VU) en poblaciones silvestres",
-  "market_notes": "Disponible en tiendas. Todos los ejemplares son de criadero (principalmente Europa del Este y Asia).",
-  "class": "Actinopterygii",
-  "variants": [
-    "Puntius titteya var. Rojo — macho en óptimas condiciones, rojo cereza intenso",
-    "Puntius titteya var. Albino — cuerpo amarillo pálido, ojos rojos",
-    "Puntius titteya var. Velo — aletas elongadas (cultivar)"
-  ],
-  "important_notes": "El único Barbo completamente pacífico — no muerde aletas. Los machos se exhiben constantemente frente a las hembras con el rojo más intenso posible."
+  "market_notes": "Disponible en tiendas. Todos los ejemplares son de criadero (principalmente Europa del Este y Asia)."
 }

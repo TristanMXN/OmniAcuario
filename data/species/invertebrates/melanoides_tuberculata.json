@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Melanoides tuberculata — concha cónica alargada, marrón moteada",
-    "Melanoides tuberculata var. Rojo — forma roja seleccionada en acuario"
-  ],
-  "description": "El Caracol Trompeta (Melanoides tuberculata) es originario de África y Asia, ampliamente distribuido en trópicos. Vive enterrado en el sustrato durante el día y sale de noche. Su función es invaluable: remueve el sustrato constantemente evitando zonas anóxicas y bolsas de gas. Considerado plaga visual por su proliferación, pero ecológicamente muy beneficioso. El Caracol Asesino es su control natural más eficaz.",
+  "order": "Caenogastropoda",
+  "nitrate_max": 40,
   "origin": {
     "region": "África y Asia tropical",
     "countries": [
@@ -15,13 +12,17 @@
   },
   "max_size_cm": 3,
   "lifespan_years": "1–3",
-  "nitrate_max": 40,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Detritos y materia orgánica del sustrato. No necesita alimentación directa si hay suficiente materia orgánica.",
-  "behavior": "Nocturno — sale de noche, se entierra de día. Remueve el sustrato de forma continua. Partenogenético — solo hembras en la mayoría de poblaciones de acuario.",
-  "recommended_school": 1,
   "level": "Fondo (enterrado)",
+  "recommended_school": 1,
+  "description": "El Caracol Trompeta (Melanoides tuberculata) es originario de África y Asia, ampliamente distribuido en trópicos. Vive enterrado en el sustrato durante el día y sale de noche. Su función es invaluable: remueve el sustrato constantemente evitando zonas anóxicas y bolsas de gas. Considerado plaga visual por su proliferación, pero ecológicamente muy beneficioso. El Caracol Asesino es su control natural más eficaz.",
+  "variants": [
+    "Melanoides tuberculata — concha cónica alargada, marrón moteada",
+    "Melanoides tuberculata var. Rojo — forma roja seleccionada en acuario"
+  ],
+  "behavior": "Nocturno — sale de noche, se entierra de día. Remueve el sustrato de forma continua. Partenogenético — solo hembras en la mayoría de poblaciones de acuario.",
+  "feeding_detail": "Detritos y materia orgánica del sustrato. No necesita alimentación directa si hay suficiente materia orgánica.",
+  "sexing": "Partenogenético en acuario — solo hembras.",
+  "reproduction": "Partenogénesis — se multiplica solo. Control con Caracol Asesino o reducción de alimento.",
   "substrate": [
     "Arena fina",
     "Sustrato blando"
@@ -33,8 +34,6 @@
   "light_detail": "Sale cuando se apaga la luz.",
   "filtration": "Cualquier filtración.",
   "water_changes": "15–20% semanal",
-  "sexing": "Partenogenético en acuario — solo hembras.",
-  "reproduction": "Partenogénesis — se multiplica solo. Control con Caracol Asesino o reducción de alimento.",
   "compatibility_notes": "Compatible con todo. Su control biológico del sustrato es beneficioso en cualquier acuario.",
   "diseases": [
     {
@@ -43,9 +42,7 @@
       "solution": "Cambio de agua. Carbón activo."
     }
   ],
+  "important_notes": "El Caracol Trompeta vive enterrado en el sustrato durante el día — airea el fondo activamente, lo que beneficia las raíces de las plantas. Indicador de oxígeno bajo.",
   "iucn": "No evaluado",
-  "market_notes": "Frecuentemente llega solo en plantas o sustrato. Beneficioso tener algunos — solo problemático en exceso.",
-  "order": "Caenogastropoda",
-  "class": "Gastropoda",
-  "important_notes": "El Caracol Trompeta vive enterrado en el sustrato durante el día — airea el fondo activamente, lo que beneficia las raíces de las plantas. Indicador de oxígeno bajo."
+  "market_notes": "Frecuentemente llega solo en plantas o sustrato. Beneficioso tener algunos — solo problemático en exceso."
 }

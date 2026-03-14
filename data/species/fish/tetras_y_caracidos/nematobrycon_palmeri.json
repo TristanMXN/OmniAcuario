@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Nematobrycon palmeri — forma tipo, ojos azul-violeta",
-    "Nematobrycon lacortei var. Negro — N. lacortei, ojo rojo (especie distinta)"
-  ],
-  "description": "El Tetra Emperador (Nematobrycon palmeri) es originario de los ríos del Chocó en Colombia. Los machos son inconfundibles: cuerpo azul-violeta con aletas oscuras y una extensión triple en la caudal que le da un aspecto majestuoso. Es el único Nematobrycon del hobby. Los machos exhiben sus aletas constantemente frente a otros machos.",
+  "order": "Characiformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "América del Sur (Colombia — ríos del Chocó)",
     "countries": [
@@ -15,13 +12,17 @@
   },
   "max_size_cm": 5,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Omnívoro. Micro-gránulos, artemia, dafnia congelada. 2 veces al día.",
-  "behavior": "Los machos se exhiben continuamente con las aletas extendidas. Cardumen de mínimo 6.",
+  "level": "Medio",
   "recommended_school": 6,
-  "level": "Fácil",
+  "description": "El Tetra Emperador (Nematobrycon palmeri) es originario de los ríos del Chocó en Colombia. Los machos son inconfundibles: cuerpo azul-violeta con aletas oscuras y una extensión triple en la caudal que le da un aspecto majestuoso. Es el único Nematobrycon del hobby. Los machos exhiben sus aletas constantemente frente a otros machos.",
+  "variants": [
+    "Nematobrycon palmeri — forma tipo, ojos azul-violeta",
+    "Nematobrycon lacortei var. Negro — N. lacortei, ojo rojo (especie distinta)"
+  ],
+  "behavior": "Los machos se exhiben continuamente con las aletas extendidas. Cardumen de mínimo 6.",
+  "feeding_detail": "Omnívoro. Micro-gránulos, artemia, dafnia congelada. 2 veces al día.",
+  "sexing": "Macho con extensión triple en la aleta caudal (lira) muy prominente y ojo azul-violeta intenso. Hembra sin la extensión caudal y con abdomen redondeado.",
+  "reproduction": "Ovíparo entre plantas finas de hoja pequeña. Los machos se exhiben extensivamente antes de la freza. Sin cuidado parental — los adultos comen los huevos.",
   "substrate": [
     "Arena fina oscura",
     "Sustrato neutro"
@@ -33,8 +34,6 @@
   "light_detail": "8–10 h/día, intensidad media. La iridiscencia azul-violeta se aprecia mejor con iluminación lateral que cenital.",
   "filtration": "Filtro externo o de esponja de caudal moderado. Agua ligeramente ácida (pH 5.0–7.5) y blanda. Sensible a nitratos elevados.",
   "water_changes": "20–25% semanal",
-  "sexing": "Macho con extensión triple en la aleta caudal (lira) muy prominente y ojo azul-violeta intenso. Hembra sin la extensión caudal y con abdomen redondeado.",
-  "reproduction": "Ovíparo entre plantas finas de hoja pequeña. Los machos se exhiben extensivamente antes de la freza. Sin cuidado parental — los adultos comen los huevos.",
   "compatibility_notes": "Pacífico. Compatible con Tetras pequeños, Rasboras, Corydoras y otros peces de agua blanda ácida. Los machos se exhiben constantemente — no intimidar con peces agresivos.",
   "diseases": [
     {
@@ -43,9 +42,7 @@
       "solution": "Elevar temperatura. Anti-ich."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Las exhibiciones de los machos son muy llamativas.",
-  "order": "Characiformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Las exhibiciones de los machos son muy llamativas."
 }

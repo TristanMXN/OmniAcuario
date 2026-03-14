@@ -1,14 +1,6 @@
 {
   "order": "Cypriniformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    5,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "Asia (Japón — seleccionada de Cyprinus carpio de Asia central)",
     "countries": [
@@ -18,15 +10,33 @@
     "habitat": "Estanques exteriores profundos (mínimo 1m), bien filtrados, con espacio para nadar. No apta para acuario doméstico.",
     "wild_params": "pH 6.5–8.5, GH 8–20, temperatura 4–28 °C (hiberna bajo cero)."
   },
+  "max_size_cm": 90,
+  "lifespan_years": "20–35",
+  "level": "Fondo",
+  "recommended_school": 1,
+  "description": "La Carpa Koi (Cyprinus carpio) es la variedad ornamental más valiosa del mundo — ejemplares de competición alcanzan cientos de miles de euros. Originaria de Japón como variante seleccionada de la carpa común. Especie de estanque exterior: puede superar el metro de longitud y vivir 30+ años. Sus patrones de color (kohaku, sanke, showa) son la base de una clasificación muy elaborada.",
+  "variants": [
+    "Cyprinus carpio var. Kohaku — blanco con manchas rojas",
+    "Cyprinus carpio var. Sanke — blanco, rojo y negro",
+    "Cyprinus carpio var. Showa — negro base con rojo y blanco",
+    "Cyprinus carpio var. Butterfly — aletas elongadas"
+  ],
+  "behavior": "Muy inteligente — reconoce a su cuidador y come de la mano. Excava y remueve el sustrato constantemente. Social — vive en grupos.",
+  "feeding_detail": "Gránulos flotantes específicos para koi según temperatura. Verduras, frutas. No alimentar bajo 10°C.",
+  "sexing": "Hembras notablemente más gordas y redondeadas vistas desde arriba. Machos pueden mostrar tubérculos en la frente en época reproductiva.",
+  "reproduction": "Ovíparo masivo en primavera (agua 18–20°C). Los machos persiguen y golpean a las hembras para estimular la puesta. Miles de huevos adheridos a plantas. Sin cuidado parental.",
   "substrate": [
     "Arena fina",
     "Grava"
   ],
   "substrate_detail": "Sustrato de fondo de estanque: grava gruesa, arena o fondo de tierra. El Koi excava y remueve todo — no usar decoración pequeña que pueda tragar.",
-  "lighting": "Moderada",
-  "description": "La Carpa Koi (Cyprinus carpio) es la variedad ornamental más valiosa del mundo — ejemplares de competición alcanzan cientos de miles de euros. Originaria de Japón como variante seleccionada de la carpa común. Especie de estanque exterior: puede superar el metro de longitud y vivir 30+ años. Sus patrones de color (kohaku, sanke, showa) son la base de una clasificación muy elaborada.",
-  "behavior": "Muy inteligente — reconoce a su cuidador y come de la mano. Excava y remueve el sustrato constantemente. Social — vive en grupos.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Incompatible (las destruye)",
+  "plant_detail": "Solo plantas muy robustas en estanque.",
+  "light": "Natural (estanque)",
+  "light_detail": "Luz natural exterior — no requiere iluminación artificial. Ciclo de luz solar natural es el ideal. Interior solo con potentes lámparas de espectro solar.",
+  "filtration": "Sistema de filtración de estanque con cámara de sedimentación, filtro biológico (moving bed o estático) y UV esterilizador. Mínimo 10x el volumen del estanque por hora.",
+  "water_changes": "10–20% semanal",
+  "compatibility_notes": "Solo con otros Koi o Goldfish de tamaño similar en estanque exterior. Incompatible con peces pequeños de jardín. Las carpas comunes son competidoras agresivas por el alimento.",
   "diseases": [
     {
       "symptom": "KHV (Herpesvirus de la Koi)",
@@ -44,30 +54,7 @@
       "solution": "Tratamiento antiparasitario en el estanque."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "variants": [
-    "Cyprinus carpio var. Kohaku — blanco con manchas rojas",
-    "Cyprinus carpio var. Sanke — blanco, rojo y negro",
-    "Cyprinus carpio var. Showa — negro base con rojo y blanco",
-    "Cyprinus carpio var. Butterfly — aletas elongadas"
-  ],
-  "max_size_cm": 90,
-  "lifespan_years": "20–35",
-  "feeding_detail": "Gránulos flotantes específicos para koi según temperatura. Verduras, frutas. No alimentar bajo 10°C.",
-  "recommended_school": 1,
-  "level": "Intermedio",
-  "plants": "Incompatible (las destruye)",
-  "plant_detail": "Solo plantas muy robustas en estanque.",
-  "light": "Natural (estanque)",
-  "light_detail": "Luz natural exterior — no requiere iluminación artificial. Ciclo de luz solar natural es el ideal. Interior solo con potentes lámparas de espectro solar.",
-  "filtration": "Sistema de filtración de estanque con cámara de sedimentación, filtro biológico (moving bed o estático) y UV esterilizador. Mínimo 10x el volumen del estanque por hora.",
-  "water_changes": "10–20% semanal",
-  "sexing": "Hembras notablemente más gordas y redondeadas vistas desde arriba. Machos pueden mostrar tubérculos en la frente en época reproductiva.",
-  "reproduction": "Ovíparo masivo en primavera (agua 18–20°C). Los machos persiguen y golpean a las hembras para estimular la puesta. Miles de huevos adheridos a plantas. Sin cuidado parental.",
-  "compatibility_notes": "Solo con otros Koi o Goldfish de tamaño similar en estanque exterior. Incompatible con peces pequeños de jardín. Las carpas comunes son competidoras agresivas por el alimento.",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Especie de estanque exterior. No apto para acuario doméstico.",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Especie de estanque exterior. No apto para acuario doméstico."
 }

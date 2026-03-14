@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Hap Azul Eléctrico"
-  ],
-  "description": "Hap Azul Eléctrico (Sciaenochromis fryeri) es una especie de acuario moderado de cuidar, originaria de África Oriental. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 20 cm en cautiverio.",
+  "order": "Cichliformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "África Oriental (Lago Malawi)",
     "countries": [
@@ -16,13 +14,16 @@
   },
   "max_size_cm": 20,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "En acuario: artemia viva o congelada, gusanos de sangre, tubifex, insectos acuáticos, gambas. Alimentar 1-2 veces al día en cantidades moderadas.",
-  "behavior": "Se puede mantener individualmente o en pequeños grupos. Especie semi-agresivo que habita el estrato medio-bajo del acuario.",
-  "recommended_school": 3,
   "level": "Medio",
+  "recommended_school": 3,
+  "description": "Hap Azul Eléctrico (Sciaenochromis fryeri) es una especie de acuario moderado de cuidar, originaria de África Oriental. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 20 cm en cautiverio.",
+  "variants": [
+    "Hap Azul Eléctrico"
+  ],
+  "behavior": "Se puede mantener individualmente o en pequeños grupos. Especie semi-agresivo que habita el estrato medio-bajo del acuario.",
+  "feeding_detail": "En acuario: artemia viva o congelada, gusanos de sangre, tubifex, insectos acuáticos, gambas. Alimentar 1-2 veces al día en cantidades moderadas.",
+  "sexing": "Macho: azul eléctrico intenso y uniforme con ocelos en la aleta anal. Hembra: gris-plateada sin el azul eléctrico.",
+  "reproduction": "Incubadora bucal — la hembra incuba 30–50 huevos en la boca durante 3 semanas sin comer. Las crías salen completamente formadas.",
   "substrate": [
     "Arena fina",
     "Grava"
@@ -34,8 +35,6 @@
   "light_detail": "10–12 h/día, intensidad alta. El lago Malawi tiene aguas muy transparentes con fuerte penetración solar.",
   "filtration": "Filtro externo muy potente con alta oxigenación. Agua dura, alcalina y muy bien oxigenada obligatoria.",
   "water_changes": "20–25% semanal",
-  "sexing": "Macho: azul eléctrico intenso y uniforme con ocelos en la aleta anal. Hembra: gris-plateada sin el azul eléctrico.",
-  "reproduction": "Incubadora bucal — la hembra incuba 30–50 huevos en la boca durante 3 semanas sin comer. Las crías salen completamente formadas.",
   "compatibility_notes": "Compatible con otros haps del lago Malawi de tamaño similar. Incompatible con mbunas pequeños (los caza) y con cíclidos de otros lagos.",
   "diseases": [
     {
@@ -54,9 +53,7 @@
       "solution": "Separar agresores. Tratamiento antibiótico tópico si hay infección secundaria."
     }
   ],
+  "important_notes": "El Hap Azul Eléctrico es el cíclido azul más intenso del lago Malawi. Solo un macho por acuario — los machos se matan entre sí. Dieta rica en proteína animal.",
   "iucn": "No evaluado",
-  "market_notes": "El cíclido azul eléctrico más impactante del Lago Malawi. Muy buscado en el hobby.",
-  "order": "Cichliformes",
-  "class": "Actinopterygii",
-  "important_notes": "El Hap Azul Eléctrico es el cíclido azul más intenso del lago Malawi. Solo un macho por acuario — los machos se matan entre sí. Dieta rica en proteína animal."
+  "market_notes": "El cíclido azul eléctrico más impactante del Lago Malawi. Muy buscado en el hobby."
 }

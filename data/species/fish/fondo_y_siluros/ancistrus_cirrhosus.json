@@ -1,14 +1,6 @@
 {
   "order": "Siluriformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    5,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "Sudamérica",
     "countries": [
@@ -21,15 +13,32 @@
     "habitat": "Ríos de moderada corriente, fondos rocosos y con troncos sumergidos, agua bien oxigenada",
     "wild_params": "pH 6.0–7.5, GH 3–15, temperatura 20–27 °C"
   },
+  "max_size_cm": 13,
+  "lifespan_years": "8–12",
+  "level": "Fondo",
+  "recommended_school": 1,
+  "description": "El Ancistrus (Ancistrus cirrhosus) es originario de Sudamérica, principalmente en la cuenca del Paraguay-Paraná. Los machos desarrollan tentáculos ramificados carnosos en el hocico y frente — las 'cerdas' características del género. Con apenas 12 cm y su eficiencia ramonando algas en acuarios plantados, es el pleco más recomendado para la mayoría de acuarios.",
+  "variants": [
+    "Ancistrus cirrhosus — forma tipo, tentáculos nasales en machos adultos",
+    "Ancistrus sp. var. Albino — cuerpo amarillo-blanco, ojos rojos",
+    "Ancistrus sp. var. Longfin — aletas elongadas (cultivar)"
+  ],
+  "behavior": "Pacífico con otras especies. Los machos son territoriales entre sí en acuarios pequeños — un macho por acuario pequeño. Nocturno pero activo en penumbra. Se adhiere a todas las superficies raspeando algas y biofilm.",
+  "feeding_detail": "Herbívoro xilófago. Base: tabletas de algas, espirulina, zucchini y pepino blanqueados, espinaca. Madera sumergida (bogwood) OBLIGATORIA para raspar celulosa. Complementar con pastillas de fondo. Alimentar al apagar las luces.",
+  "sexing": "Los machos adultos desarrollan tentáculos (bristles) en el morro. Las hembras tienen tentáculos solo en los bordes de la boca. Dimorfismo muy claro en adultos.",
+  "reproduction": "El macho limpia el interior de una cueva (tubo de PVC, coco hueco, cueva de cerámica). La hembra deposita los huevos y el macho los incuba y abanica hasta la eclosión.",
   "substrate": [
     "Arena fina",
     "Grava fina"
   ],
   "substrate_detail": "Arena fina o grava pequeña redondeada. Troncos de madera blanda OBLIGATORIOS — los raspa constantemente para obtener celulosa y bacterias.",
-  "lighting": "Moderada",
-  "description": "El Ancistrus (Ancistrus cirrhosus) es originario de Sudamérica, principalmente en la cuenca del Paraguay-Paraná. Los machos desarrollan tentáculos ramificados carnosos en el hocico y frente — las 'cerdas' características del género. Con apenas 12 cm y su eficiencia ramonando algas en acuarios plantados, es el pleco más recomendado para la mayoría de acuarios.",
-  "behavior": "Pacífico con otras especies. Los machos son territoriales entre sí en acuarios pequeños — un macho por acuario pequeño. Nocturno pero activo en penumbra. Se adhiere a todas las superficies raspeando algas y biofilm.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Recomendadas",
+  "plant_detail": "No come plantas sanas. Excelente compañero de acuarios plantados.",
+  "light": "Media",
+  "light_detail": "8 h/día. Especie nocturna — se esconde durante el día. La iluminación indirecta favorece el crecimiento de algas blandas en el cristal.",
+  "filtration": "Filtro externo potente. Produce grandes cantidades de heces — el sustrato debe aspirarse en cada cambio de agua.",
+  "water_changes": "20–25% semanal",
+  "compatibility_notes": "Compatible con prácticamente todo. Territorial con otros Ancistrus — solo 1 macho por acuario. Compatible con múltiples hembras.",
   "diseases": [
     {
       "symptom": "Manchas o parches blancos en el cuerpo, no tipo sal",
@@ -47,29 +56,7 @@
       "solution": "Proporcionar madera para raspar y tabletas de algas frescas. Si hay infección: antibiótico."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "max_size_cm": 13,
-  "lifespan_years": "8–12",
-  "feeding_detail": "Herbívoro xilófago. Base: tabletas de algas, espirulina, zucchini y pepino blanqueados, espinaca. Madera sumergida (bogwood) OBLIGATORIA para raspar celulosa. Complementar con pastillas de fondo. Alimentar al apagar las luces.",
-  "recommended_school": 1,
-  "level": "Fácil",
-  "plants": "Recomendadas",
-  "plant_detail": "No come plantas sanas. Excelente compañero de acuarios plantados.",
-  "light": "Media",
-  "light_detail": "8 h/día. Especie nocturna — se esconde durante el día. La iluminación indirecta favorece el crecimiento de algas blandas en el cristal.",
-  "filtration": "Filtro externo potente. Produce grandes cantidades de heces — el sustrato debe aspirarse en cada cambio de agua.",
-  "water_changes": "20–25% semanal",
-  "sexing": "Los machos adultos desarrollan tentáculos (bristles) en el morro. Las hembras tienen tentáculos solo en los bordes de la boca. Dimorfismo muy claro en adultos.",
-  "reproduction": "El macho limpia el interior de una cueva (tubo de PVC, coco hueco, cueva de cerámica). La hembra deposita los huevos y el macho los incuba y abanica hasta la eclosión.",
-  "compatibility_notes": "Compatible con prácticamente todo. Territorial con otros Ancistrus — solo 1 macho por acuario. Compatible con múltiples hembras.",
+  "important_notes": "El Pleco Escoba es el control de algas más efectivo y resistente del hobby. Diferente a los Plecos comunes — permanece pequeño (15 cm) y es manejable.",
   "iucn": "Preocupación menor (LC)",
-  "market_notes": "Ampliamente disponible. El más recomendado de todos los plecos para la mayoría de acuarios. Existen múltiples especies del género Ancistrus vendidas bajo el mismo nombre.",
-  "class": "Actinopterygii",
-  "variants": [
-    "Ancistrus cirrhosus — forma tipo, tentáculos nasales en machos adultos",
-    "Ancistrus sp. var. Albino — cuerpo amarillo-blanco, ojos rojos",
-    "Ancistrus sp. var. Longfin — aletas elongadas (cultivar)"
-  ],
-  "important_notes": "El Pleco Escoba es el control de algas más efectivo y resistente del hobby. Diferente a los Plecos comunes — permanece pequeño (15 cm) y es manejable."
+  "market_notes": "Ampliamente disponible. El más recomendado de todos los plecos para la mayoría de acuarios. Existen múltiples especies del género Ancistrus vendidas bajo el mismo nombre."
 }

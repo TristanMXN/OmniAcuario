@@ -1,14 +1,6 @@
 {
   "order": "Cyprinodontiformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    5,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "América Central",
     "countries": [
@@ -20,15 +12,33 @@
     "habitat": "Ríos de corriente moderada, aguas claras, duras y alcalinas, vegetación marginal densa",
     "wild_params": "pH 7.0–8.5, GH 12–30, temperatura 18–27 °C"
   },
+  "max_size_cm": 12,
+  "lifespan_years": "3–5",
+  "level": "Medio",
+  "recommended_school": 4,
+  "description": "El Espada (Xiphophorus hellerii) es originario de México y Guatemala, habitando ríos de agua dura y moderadamente alcalina. El macho desarrolla la elongación del lóbulo inferior de la aleta caudal — la 'espada' — que puede igualar la longitud del cuerpo. Existen variedades de color: rojo, verde, negro, pintado. Especie robusta y enérgica.",
+  "variants": [
+    "Xiphophorus hellerii var. Rojo — forma más común, rojo intenso",
+    "Xiphophorus hellerii var. Neón — cuerpo azul-verdoso iridiscente",
+    "Xiphophorus hellerii var. Piña — cuerpo amarillo-naranja moteado",
+    "Xiphophorus hellerii var. Berlín — rojo y negro combinados"
+  ],
+  "behavior": "Pacífico con otras especies. Los machos pueden volverse agresivos entre sí en espacios reducidos. Las hembras pueden cambiar de sexo espontáneamente (fenómeno documentado en Xiphophorus). La espada del macho se desarrolla a los 6–12 meses.",
+  "feeding_detail": "Omnívoro. Acepta cualquier alimento: escamas, gránulos, artemia, vegetales. Tendencia herbívora moderada — incluir espirulina. 2 veces al día.",
+  "sexing": "Imposible confundir — el macho adulto tiene la extensión caudal inferior (espada) muy desarrollada. Gonopodio visible. Hembra sin espada y con abdomen redondeado.",
+  "reproduction": "Vivíparo. La hembra pare crías completamente formadas cada 4–6 semanas. Los machos pueden cambiar de sexo a hembra en ausencia de machos — fenómeno documentado.",
   "substrate": [
     "Arena",
     "Grava"
   ],
   "substrate_detail": "Arena fina o grava media. Plantas densas y flotantes proporcionan refugio a las crías. Especie activa que usa todo el espacio.",
-  "lighting": "Moderada",
-  "description": "El Espada (Xiphophorus hellerii) es originario de México y Guatemala, habitando ríos de agua dura y moderadamente alcalina. El macho desarrolla la elongación del lóbulo inferior de la aleta caudal — la 'espada' — que puede igualar la longitud del cuerpo. Existen variedades de color: rojo, verde, negro, pintado. Especie robusta y enérgica.",
-  "behavior": "Pacífico con otras especies. Los machos pueden volverse agresivos entre sí en espacios reducidos. Las hembras pueden cambiar de sexo espontáneamente (fenómeno documentado en Xiphophorus). La espada del macho se desarrolla a los 6–12 meses.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Recomendadas",
+  "plant_detail": "Plantas densas protegen las crías. Compatible con plantas de agua dura (Vallisneria, Egeria).",
+  "light": "Media–Alta",
+  "light_detail": "8–10 h/día, intensidad media. Los colores del macho se intensifican con buena iluminación y agua dura.",
+  "filtration": "Filtro de esponja o externo con caudal moderado. Agua dura y alcalina — evitar agua blanda y ácida.",
+  "water_changes": "25% semanal",
+  "compatibility_notes": "Compatible con Platy, Molly, Guppy y Tetras pacíficos. Los machos se persiguen entre sí — mínimo 2–3 hembras por macho para distribuir el acoso.",
   "diseases": [
     {
       "symptom": "Columnaris, cuerpo curvado, manchas blancas en la piel",
@@ -46,30 +56,7 @@
       "solution": "Antiséptico tópico. Cambios de agua frecuentes. Revisar compatibilidad."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "max_size_cm": 12,
-  "lifespan_years": "3–5",
-  "feeding_detail": "Omnívoro. Acepta cualquier alimento: escamas, gránulos, artemia, vegetales. Tendencia herbívora moderada — incluir espirulina. 2 veces al día.",
-  "recommended_school": 4,
-  "level": "Fácil",
-  "plants": "Recomendadas",
-  "plant_detail": "Plantas densas protegen las crías. Compatible con plantas de agua dura (Vallisneria, Egeria).",
-  "light": "Media–Alta",
-  "light_detail": "8–10 h/día, intensidad media. Los colores del macho se intensifican con buena iluminación y agua dura.",
-  "filtration": "Filtro de esponja o externo con caudal moderado. Agua dura y alcalina — evitar agua blanda y ácida.",
-  "water_changes": "25% semanal",
-  "sexing": "Imposible confundir — el macho adulto tiene la extensión caudal inferior (espada) muy desarrollada. Gonopodio visible. Hembra sin espada y con abdomen redondeado.",
-  "reproduction": "Vivíparo. La hembra pare crías completamente formadas cada 4–6 semanas. Los machos pueden cambiar de sexo a hembra en ausencia de machos — fenómeno documentado.",
-  "compatibility_notes": "Compatible con Platy, Molly, Guppy y Tetras pacíficos. Los machos se persiguen entre sí — mínimo 2–3 hembras por macho para distribuir el acoso.",
+  "important_notes": "La espada del macho solo se desarrolla completamente en agua dura y alcalina (GH 12+, pH 7.5+). En agua blanda la espada queda corta y el color apagado.",
   "iucn": "Preocupación menor (LC)",
-  "market_notes": "Disponible en todas las tiendas. Las variedades Hi-Fin y Lyretail son más sensibles.",
-  "class": "Actinopterygii",
-  "variants": [
-    "Xiphophorus hellerii var. Rojo — forma más común, rojo intenso",
-    "Xiphophorus hellerii var. Neón — cuerpo azul-verdoso iridiscente",
-    "Xiphophorus hellerii var. Piña — cuerpo amarillo-naranja moteado",
-    "Xiphophorus hellerii var. Berlín — rojo y negro combinados"
-  ],
-  "important_notes": "La espada del macho solo se desarrolla completamente en agua dura y alcalina (GH 12+, pH 7.5+). En agua blanda la espada queda corta y el color apagado."
+  "market_notes": "Disponible en todas las tiendas. Las variedades Hi-Fin y Lyretail son más sensibles."
 }

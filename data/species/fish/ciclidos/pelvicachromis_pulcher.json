@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Pelvicachromis pulcher — forma tipo, vientre violeta-rosa en hembras",
-    "Pelvicachromis pulcher var. Albino — cuerpo pálido, vientre rosado"
-  ],
-  "description": "El Kribensis (Pelvicachromis pulcher) es originario de los ríos del delta del Níger en Nigeria y Camerún. Es el cíclido africano más popular para acuarios comunitarios por su tamaño pequeño (10cm) y comportamiento relativamente pacífico. Las hembras desarrollan un vientre violeta-rosa intenso en reproducción. El cuidado parental en pareja es un espectáculo educativo.",
+  "order": "Cichliformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "África Occidental (Nigeria, Camerún)",
     "countries": [
@@ -16,13 +13,17 @@
   },
   "max_size_cm": 10,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Omnívoro. Gránulos, artemia, gusanos de sangre, vegetales. 2 veces al día.",
-  "behavior": "Pacífico excepto en reproducción. La hembra protege agresivamente la puesta.",
+  "level": "Fondo",
   "recommended_school": 1,
-  "level": "Fácil",
+  "description": "El Kribensis (Pelvicachromis pulcher) es originario de los ríos del delta del Níger en Nigeria y Camerún. Es el cíclido africano más popular para acuarios comunitarios por su tamaño pequeño (10cm) y comportamiento relativamente pacífico. Las hembras desarrollan un vientre violeta-rosa intenso en reproducción. El cuidado parental en pareja es un espectáculo educativo.",
+  "variants": [
+    "Pelvicachromis pulcher — forma tipo, vientre violeta-rosa en hembras",
+    "Pelvicachromis pulcher var. Albino — cuerpo pálido, vientre rosado"
+  ],
+  "behavior": "Pacífico excepto en reproducción. La hembra protege agresivamente la puesta.",
+  "feeding_detail": "Omnívoro. Gránulos, artemia, gusanos de sangre, vegetales. 2 veces al día.",
+  "sexing": "Hembras con vientre violeta-rosado brillante INTENSO en condición reproductiva — el indicador más claro. Machos más grandes y con aleta dorsal más puntiaguda.",
+  "reproduction": "Ovíparo en cuevas. La hembra incuba y cuida los huevos sola. El macho defiende el exterior de la cueva. Las crías salen en 4–5 días y son cuidadas activamente por la hembra.",
   "substrate": [
     "Arena fina"
   ],
@@ -33,8 +34,6 @@
   "light_detail": "8–10 h/día, intensidad media. Los colores del macho — azul, verde y naranja — se muestran mejor con iluminación lateral.",
   "filtration": "Filtro externo o de esponja de caudal moderado. Agua de dureza muy variable (pH 5.5–8.0) — una de las especies más tolerantes a parámetros.",
   "water_changes": "20–25% semanal",
-  "sexing": "Hembras con vientre violeta-rosado brillante INTENSO en condición reproductiva — el indicador más claro. Machos más grandes y con aleta dorsal más puntiaguda.",
-  "reproduction": "Ovíparo en cuevas. La hembra incuba y cuida los huevos sola. El macho defiende el exterior de la cueva. Las crías salen en 4–5 días y son cuidadas activamente por la hembra.",
   "compatibility_notes": "Pacífico excepto en reproducción donde defiende agresivamente la cueva. Compatible con Tetras de África Occidental, Corydoras y peces de zona media. Un par por acuario.",
   "diseases": [
     {
@@ -43,9 +42,7 @@
       "solution": "Anti-ich."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Excelente para observar comportamiento parental. Cuevas obligatorias.",
-  "order": "Cichliformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Excelente para observar comportamiento parental. Cuevas obligatorias."
 }

@@ -1,14 +1,6 @@
 {
   "order": "Characiformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    5,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "Sudamérica",
     "countries": [
@@ -20,14 +12,31 @@
     "habitat": "Aguas negras ácidas, poca corriente, bajo dosel forestal denso",
     "wild_params": "pH 4.0–6.5, GH 1–5, temperatura 21–25 °C"
   },
+  "max_size_cm": 4,
+  "lifespan_years": "3–5",
+  "level": "Medio",
+  "recommended_school": 8,
+  "description": "El Tetra Neón (Paracheirodon innesi) es originario de las cuencas del Putumayo y Amazonas en Perú, Colombia y Brasil, donde habita aguas negras ácidas de poca luz bajo dosel forestal denso. Su franja azul iridiscente y el vientre rojo lo convierten en uno de los peces ornamentales más vendidos del mundo, con decenas de millones de ejemplares producidos anualmente en criaderos asiáticos.",
+  "variants": [
+    "Paracheirodon innesi — forma tipo, banda azul y rojo",
+    "Paracheirodon innesi var. Albino — cuerpo blanco, banda azul-rosa pálida",
+    "Paracheirodon innesi var. Diamante — escamas dorsales iridiscentes añadidas"
+  ],
+  "behavior": "Cardumen obligatorio de mínimo 8 ejemplares. En grupos menores se estresa y pierde color. Nada en estrato medio, pacífico con todas las especies de tamaño similar o menor.",
+  "feeding_detail": "Acepta todo alimento pequeño: escamas micro, gránulos nano, artemia, dafnia y gusanos de sangre congelados. Alimentar 2 veces al día en pequeñas cantidades que consuman en 2 minutos.",
+  "sexing": "Hembra con abdomen visiblemente redondeado que hace la línea azul curvarse hacia abajo. Macho completamente recto.",
+  "reproduction": "Ovíparo de freza libre. Agua blanda (GH 0–4), ácida (pH 6.0), oscuridad total y temperatura 24°C. Separar adultos tras la freza — comen los huevos. Crías visibles a los 3–4 días.",
   "substrate": [
     "Arena fina oscura"
   ],
   "substrate_detail": "Sustrato oscuro (arena negra o grava fina oscura) intensifica los colores. Hojas de catappa beneficiosas.",
-  "lighting": "Moderada",
-  "description": "El Tetra Neón (Paracheirodon innesi) es originario de las cuencas del Putumayo y Amazonas en Perú, Colombia y Brasil, donde habita aguas negras ácidas de poca luz bajo dosel forestal denso. Su franja azul iridiscente y el vientre rojo lo convierten en uno de los peces ornamentales más vendidos del mundo, con decenas de millones de ejemplares producidos anualmente en criaderos asiáticos.",
-  "behavior": "Cardumen obligatorio de mínimo 8 ejemplares. En grupos menores se estresa y pierde color. Nada en estrato medio, pacífico con todas las especies de tamaño similar o menor.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Recomendadas",
+  "plant_detail": "Vegetación densa con plantas de hoja fina. Hojas de catappa acidifican y oscurecen el agua al estilo biotopo.",
+  "light": "Baja",
+  "light_detail": "6–8 h/día, intensidad tenue. Luz difusa simula el dosel amazónico y resalta el neón lateral.",
+  "filtration": "Filtro de esponja o caja con caudal muy bajo. La corriente fuerte agota y estresa al cardumen.",
+  "water_changes": "20–25% semanal",
+  "compatibility_notes": "Compatible con Cardinal Tetra, Corydoras, Otocinclus, Rasboras y Gurami enano. Incompatible con Ángel (los caza), Betta (ataca cardúmenes) y cualquier pez > 8 cm.",
   "diseases": [
     {
       "symptom": "Decoloración progresiva, cuerpo blancuzco que avanza desde la cola",
@@ -45,29 +54,7 @@
       "solution": "Oscurecer el acuario. Sal 1 g/L. Tratamiento anti-Velvet con cobre o malachite green."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "max_size_cm": 4,
-  "lifespan_years": "3–5",
-  "feeding_detail": "Acepta todo alimento pequeño: escamas micro, gránulos nano, artemia, dafnia y gusanos de sangre congelados. Alimentar 2 veces al día en pequeñas cantidades que consuman en 2 minutos.",
-  "recommended_school": 8,
-  "level": "Fácil",
-  "plants": "Recomendadas",
-  "plant_detail": "Vegetación densa con plantas de hoja fina. Hojas de catappa acidifican y oscurecen el agua al estilo biotopo.",
-  "light": "Baja",
-  "light_detail": "6–8 h/día, intensidad tenue. Luz difusa simula el dosel amazónico y resalta el neón lateral.",
-  "filtration": "Filtro de esponja o caja con caudal muy bajo. La corriente fuerte agota y estresa al cardumen.",
-  "water_changes": "20–25% semanal",
-  "sexing": "Hembra con abdomen visiblemente redondeado que hace la línea azul curvarse hacia abajo. Macho completamente recto.",
-  "reproduction": "Ovíparo de freza libre. Agua blanda (GH 0–4), ácida (pH 6.0), oscuridad total y temperatura 24°C. Separar adultos tras la freza — comen los huevos. Crías visibles a los 3–4 días.",
-  "compatibility_notes": "Compatible con Cardinal Tetra, Corydoras, Otocinclus, Rasboras y Gurami enano. Incompatible con Ángel (los caza), Betta (ataca cardúmenes) y cualquier pez > 8 cm.",
+  "important_notes": "El neon es uno de los peces más vendidos del mundo — y uno de los más maltratados. Muere si el acuario no está maduro. Jamás añadir a acuarios nuevos.",
   "iucn": "Preocupación menor (LC)",
-  "market_notes": "Disponible en todas las tiendas. La mayoría son de criadero. Evitar ejemplares con franja azul opaca o nadan erráticamente.",
-  "class": "Actinopterygii",
-  "variants": [
-    "Paracheirodon innesi — forma tipo, banda azul y rojo",
-    "Paracheirodon innesi var. Albino — cuerpo blanco, banda azul-rosa pálida",
-    "Paracheirodon innesi var. Diamante — escamas dorsales iridiscentes añadidas"
-  ],
-  "important_notes": "El neon es uno de los peces más vendidos del mundo — y uno de los más maltratados. Muere si el acuario no está maduro. Jamás añadir a acuarios nuevos."
+  "market_notes": "Disponible en todas las tiendas. La mayoría son de criadero. Evitar ejemplares con franja azul opaca o nadan erráticamente."
 }

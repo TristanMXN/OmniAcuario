@@ -1,11 +1,6 @@
 {
-  "variants": [
-    "Neritina natalensis — rayas negras y amarillas sobre fondo dorado",
-    "Neritina pulligera — Casco Militar (especie distinta, patrón diferente)",
-    "Neritina communis — rayas más finas y regulares",
-    "Vittina semiconica — puntos en lugar de rayas (vendida como Nerita)"
-  ],
-  "description": "El Caracol Cebra (Neritina natalensis) es originario de África Oriental, donde habita en ríos, lagos y estuarios. Es el caracol limpiador de algas más eficaz disponible en el hobby — raspa algas duras (punto verde, mancha verde, algas de vidrio) con una eficiencia extraordinaria. Ventaja crucial: NO se reproduce en agua dulce (las larvas requieren agua salada), por lo que nunca se convierte en plaga.",
+  "order": "Cycloneritida",
+  "nitrate_max": 20,
   "origin": {
     "region": "África Oriental (Kenya, Tanzania, Mozambique)",
     "countries": [
@@ -19,13 +14,19 @@
   },
   "max_size_cm": 2,
   "lifespan_years": "1–3",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Raspa algas adheridas al vidrio, decoración y plantas. No suplementar si hay algas suficientes. Con acuarios muy limpios, añadir tabletas de espirulina o verduras blanqueadas.",
-  "behavior": "Activo explorador del vidrio y decoración. No toca plantas ni gambas. Deja huevecillos blancos en el vidrio y decoración — normales, estéticos, inofensivos.",
-  "recommended_school": 1,
   "level": "Fondo / Vidrios",
+  "recommended_school": 1,
+  "description": "El Caracol Cebra (Neritina natalensis) es originario de África Oriental, donde habita en ríos, lagos y estuarios. Es el caracol limpiador de algas más eficaz disponible en el hobby — raspa algas duras (punto verde, mancha verde, algas de vidrio) con una eficiencia extraordinaria. Ventaja crucial: NO se reproduce en agua dulce (las larvas requieren agua salada), por lo que nunca se convierte en plaga.",
+  "variants": [
+    "Neritina natalensis — rayas negras y amarillas sobre fondo dorado",
+    "Neritina pulligera — Casco Militar (especie distinta, patrón diferente)",
+    "Neritina communis — rayas más finas y regulares",
+    "Vittina semiconica — puntos en lugar de rayas (vendida como Nerita)"
+  ],
+  "behavior": "Activo explorador del vidrio y decoración. No toca plantas ni gambas. Deja huevecillos blancos en el vidrio y decoración — normales, estéticos, inofensivos.",
+  "feeding_detail": "Raspa algas adheridas al vidrio, decoración y plantas. No suplementar si hay algas suficientes. Con acuarios muy limpios, añadir tabletas de espirulina o verduras blanqueadas.",
+  "sexing": "Imposible a simple vista.",
+  "reproduction": "Deposita huevecillos blancos en superficies duras. Las larvas necesitan agua salada — no se reproduce en agua dulce.",
   "substrate": [
     "Cualquier sustrato"
   ],
@@ -36,8 +37,6 @@
   "light_detail": "8–10 h/día para estimular algas que comer.",
   "filtration": "Cualquier filtración moderada.",
   "water_changes": "20% semanal",
-  "sexing": "Imposible a simple vista.",
-  "reproduction": "Deposita huevecillos blancos en superficies duras. Las larvas necesitan agua salada — no se reproduce en agua dulce.",
   "compatibility_notes": "Compatible con todo. Solo incompatible con peces que coman caracoles (botias, algunos cíclidos).",
   "diseases": [
     {
@@ -51,9 +50,7 @@
       "solution": "Cambio de agua inmediato. Carbón activo."
     }
   ],
+  "important_notes": "Los caracoles Nerite nunca se reproducen en agua dulce — los huevos blancos que depositan en el cristal son estériles en acuario. Excelente control de algas.",
   "iucn": "No evaluado",
-  "market_notes": "El caracol limpiador más recomendado para acuarios plantados. 1 caracol por cada 10L como referencia.",
-  "order": "Cycloneritida",
-  "class": "Gastropoda",
-  "important_notes": "Los caracoles Nerite nunca se reproducen en agua dulce — los huevos blancos que depositan en el cristal son estériles en acuario. Excelente control de algas."
+  "market_notes": "El caracol limpiador más recomendado para acuarios plantados. 1 caracol por cada 10L como referencia."
 }

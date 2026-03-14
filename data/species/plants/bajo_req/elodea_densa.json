@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Elodea densa — hojas verticiladas verde brillante",
-    "⚠️ Especie invasora en muchos países — verificar legalidad local"
-  ],
-  "description": "La Egeria Densa (Elodea densa / Egeria densa) es originaria de América del Sur. Oxigenadora excepcional y filtradora de nitratos. Crece muy rápido. Fácil de propagar — simplemente cortar. ⚠️ Es invasora en muchos ecosistemas — nunca verter en aguas naturales.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "América del Sur (Argentina, Brasil, Uruguay)",
     "countries": [
@@ -18,12 +15,13 @@
   },
   "max_size_cm": 100,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": false,
-  "fertilizer": "No requiere fertilización específica. Absorbe nutrientes del agua.",
-  "uses": "Planta de tallo oxigenadora y filtradora. Fondo trasero o flotante.",
+  "level": "Todos los estratos",
+  "description": "La Egeria Densa (Elodea densa / Egeria densa) es originaria de América del Sur. Oxigenadora excepcional y filtradora de nitratos. Crece muy rápido. Fácil de propagar — simplemente cortar. ⚠️ Es invasora en muchos ecosistemas — nunca verter en aguas naturales.",
+  "variants": [
+    "Elodea densa — hojas verticiladas verde brillante",
+    "⚠️ Especie invasora en muchos países — verificar legalidad local"
+  ],
+  "behavior": "Tallo en la columna de agua de crecimiento muy rápido. Excelente oxigenadora. Invasora en muchos países — nunca exterior.",
   "propagation": "Esquejes del tallo. Plantar directamente en sustrato o dejar flotar.",
   "substrate": [
     "Arena",
@@ -31,28 +29,17 @@
     "Sustrato nutritivo"
   ],
   "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compite fuertemente por nutrientes. Puede sombrear plantas más lentas.",
   "light": "Media",
   "light_detail": "8–10 h/día.",
+  "co2": false,
+  "co2_detail": "No necesario pero acelera el crecimiento.",
+  "fertilizer": "No requiere fertilización específica. Absorbe nutrientes del agua.",
+  "uses": "Planta de tallo oxigenadora y filtradora. Fondo trasero o flotante.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -70,12 +57,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "Especie invasora en muchos países — no liberar al medio natural. Oxigenadora muy eficiente. Puede competir agresivamente con otras plantas.",
   "iucn": "No evaluado",
-  "market_notes": "Muy disponible. ⚠️ Invasora en muchos países — nunca verter en exterior.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Tallo en la columna de agua de crecimiento muy rápido. Excelente oxigenadora. Invasora en muchos países — nunca exterior.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Compite fuertemente por nutrientes. Puede sombrear plantas más lentas.",
-  "co2_detail": "No necesario pero acelera el crecimiento."
+  "market_notes": "Muy disponible. ⚠️ Invasora en muchos países — nunca verter en exterior."
 }

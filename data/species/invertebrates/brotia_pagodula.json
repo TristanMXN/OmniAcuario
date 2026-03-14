@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Brotia pagodula — concha cónica escalonada con quillas pronunciadas, marrón oscura"
-  ],
-  "description": "El Caracol Pagoda (Brotia pagodula) es originario de ríos de montaña de Tailandia y Myanmar. Su concha cónica escalonada con quillas o 'pisos' que recuerdan a una pagoda asiática lo hace absolutamente único y decorativo. Es vivíparo y de reproducción muy lenta, por lo que nunca se convierte en plaga. Requiere corriente moderada y agua bien oxigenada, imitando su hábitat natural en ríos rápidos.",
+  "order": "Caenogastropoda",
+  "nitrate_max": 15,
   "origin": {
     "region": "Asia (Tailandia, Myanmar)",
     "countries": [
@@ -15,13 +13,16 @@
   },
   "max_size_cm": 6,
   "lifespan_years": "3–5",
-  "nitrate_max": 15,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Algas duras adheridas a rocas, biofilm, detritos. Suplementar con tabletas de espirulina o verduras blanqueadas.",
-  "behavior": "Lento y discreto. Activo principalmente de noche. Prefiere zonas de corriente moderada. No toca plantas.",
-  "recommended_school": 1,
   "level": "Fondo / Decoración",
+  "recommended_school": 1,
+  "description": "El Caracol Pagoda (Brotia pagodula) es originario de ríos de montaña de Tailandia y Myanmar. Su concha cónica escalonada con quillas o 'pisos' que recuerdan a una pagoda asiática lo hace absolutamente único y decorativo. Es vivíparo y de reproducción muy lenta, por lo que nunca se convierte en plaga. Requiere corriente moderada y agua bien oxigenada, imitando su hábitat natural en ríos rápidos.",
+  "variants": [
+    "Brotia pagodula — concha cónica escalonada con quillas pronunciadas, marrón oscura"
+  ],
+  "behavior": "Lento y discreto. Activo principalmente de noche. Prefiere zonas de corriente moderada. No toca plantas.",
+  "feeding_detail": "Algas duras adheridas a rocas, biofilm, detritos. Suplementar con tabletas de espirulina o verduras blanqueadas.",
+  "sexing": "Difícil. Vivíparo de reproducción lenta.",
+  "reproduction": "Vivíparo — pare crías pequeñas ocasionalmente. Nunca se convierte en plaga.",
   "substrate": [
     "Grava fina",
     "Arena gruesa",
@@ -34,8 +35,6 @@
   "light_detail": "6–8 h/día.",
   "filtration": "Filtración con corriente moderada orientada al fondo.",
   "water_changes": "15–20% semanal",
-  "sexing": "Difícil. Vivíparo de reproducción lenta.",
-  "reproduction": "Vivíparo — pare crías pequeñas ocasionalmente. Nunca se convierte en plaga.",
   "compatibility_notes": "Compatible con gambas, peces pacíficos y plantas. Incompatible con cíclidos grandes.",
   "diseases": [
     {
@@ -49,9 +48,7 @@
       "solution": "Cambio de agua. Aumentar oxigenación."
     }
   ],
+  "important_notes": "El Caracol Pagoda tiene el caparazón más ornamental del hobby. Especie poco común que prefiere agua blanda ligeramente ácida con minerales disueltos.",
   "iucn": "No evaluado",
-  "market_notes": "Disponible en tiendas especializadas. Su concha escalonada es muy apreciada en acuarios de biotopo asiático.",
-  "order": "Caenogastropoda",
-  "class": "Gastropoda",
-  "important_notes": "El Caracol Pagoda tiene el caparazón más ornamental del hobby. Especie poco común que prefiere agua blanda ligeramente ácida con minerales disueltos."
+  "market_notes": "Disponible en tiendas especializadas. Su concha escalonada es muy apreciada en acuarios de biotopo asiático."
 }

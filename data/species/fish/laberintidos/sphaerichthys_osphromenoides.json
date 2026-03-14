@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Gurami Chocolate"
-  ],
-  "description": "Gurami Chocolate (Sphaerichthys osphromenoides) es una especie de acuario difícil de cuidar, originaria de Asia Oriental. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 6 cm en cautiverio.",
+  "order": "Anabantiformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "Asia (SE Asia — Malasia, Indonesia, Tailandia)",
     "countries": [
@@ -17,13 +15,16 @@
   },
   "max_size_cm": 6,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "En acuario: escamas/gránulos de calidad, artemia congelada, dafnia, gusanos de sangre, tubifex. Alimentar 2 veces al día en pequeñas cantidades.",
-  "behavior": "Se puede mantener individualmente o en pequeños grupos. Especie pacífico que habita el estrato medio-bajo del acuario.",
-  "recommended_school": 4,
   "level": "Medio",
+  "recommended_school": 4,
+  "description": "Gurami Chocolate (Sphaerichthys osphromenoides) es una especie de acuario difícil de cuidar, originaria de Asia Oriental. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 6 cm en cautiverio.",
+  "variants": [
+    "Gurami Chocolate"
+  ],
+  "behavior": "Se puede mantener individualmente o en pequeños grupos. Especie pacífico que habita el estrato medio-bajo del acuario.",
+  "feeding_detail": "En acuario: escamas/gránulos de calidad, artemia congelada, dafnia, gusanos de sangre, tubifex. Alimentar 2 veces al día en pequeñas cantidades.",
+  "sexing": "Macho con franja ventral más pronunciada. Prácticamente indistinguible fuera de reproducción.",
+  "reproduction": "Incubadora bucal — el macho incuba los huevos en la boca. Muy raro en acuario doméstico por las exigencias de parámetros.",
   "substrate": [
     "Arena fina",
     "Grava"
@@ -35,8 +36,6 @@
   "light_detail": "6 h/día, intensidad muy tenue. Especie de aguas negras bajo dosel tupido — la luz intensa la estresa gravemente.",
   "filtration": "Filtro de esponja de caudal muy bajo. pH 4.0–5.5 obligatorio — agua de ósmosis con turba.",
   "water_changes": "20–25% semanal",
-  "sexing": "Macho con franja ventral más pronunciada. Prácticamente indistinguible fuera de reproducción.",
-  "reproduction": "Incubadora bucal — el macho incuba los huevos en la boca. Muy raro en acuario doméstico por las exigencias de parámetros.",
   "compatibility_notes": "Solo con peces de aguas negras ácidas de temperamento muy tranquilo. Incompatible con cualquier especie activa o de agua dura.",
   "diseases": [
     {
@@ -55,9 +54,7 @@
       "solution": "Kanamicina. Cambios de agua. Acuario hospital."
     }
   ],
+  "important_notes": "El Gurami Chocolate es el gurami más difícil del hobby — requiere agua de ósmosis pura con pH 4.0–5.5. Los ejemplares importados mueren frecuentemente en pocos días.",
   "iucn": "No evaluado",
-  "market_notes": "La especie más difícil de los guramis. Solo para agua extremadamente blanda y ácida.",
-  "order": "Anabantiformes",
-  "class": "Actinopterygii",
-  "important_notes": "El Gurami Chocolate es el gurami más difícil del hobby — requiere agua de ósmosis pura con pH 4.0–5.5. Los ejemplares importados mueren frecuentemente en pocos días."
+  "market_notes": "La especie más difícil de los guramis. Solo para agua extremadamente blanda y ácida."
 }

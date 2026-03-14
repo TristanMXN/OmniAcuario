@@ -1,12 +1,6 @@
 {
-  "variants": [
-    "Pomacea bridgesii var. Dorado — concha amarilla con espiral dorada",
-    "Pomacea bridgesii var. Azul — pie azul oscuro, concha amarilla pálida",
-    "Pomacea bridgesii var. Blanco / Marfil — pie blanco-rosado, concha blanca",
-    "Pomacea bridgesii var. Marrón — forma tipo silvestre",
-    "⚠️ No confundir con Pomacea canaliculata — plaga invasora que sí come plantas"
-  ],
-  "description": "El Caracol Manzana (Pomacea bridgesii) es originario de Bolivia, Brasil y Paraguay. A diferencia de Pomacea canaliculata (plaga invasora), P. bridgesii NO come plantas sanas — solo algas, biofilm y materia orgánica en descomposición. Sus llamativos colores (dorado, azul, blanco) lo convierten en uno de los invertebrados ornamentales más populares. Respira aire atmosférico — necesita espacio entre el agua y la tapa.",
+  "order": "Architaenioglossa",
+  "nitrate_max": 20,
   "origin": {
     "region": "América del Sur (Bolivia, Brasil, Paraguay)",
     "countries": [
@@ -20,13 +14,20 @@
   },
   "max_size_cm": 6,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Algas, biofilm, verduras blanqueadas (calabacín, espinaca), tabletas de espirulina. NO come plantas sanas. Suplementar con calcio (concha de sepia o mineral de calcio).",
-  "behavior": "Activo durante el día y la noche. Explora todo el acuario. Sale parcialmente del agua para desovar en la parte seca de la tapa. Opérculo hermético que lo protege de la desecación.",
-  "recommended_school": 1,
   "level": "Fondo / Todas las zonas",
+  "recommended_school": 1,
+  "description": "El Caracol Manzana (Pomacea bridgesii) es originario de Bolivia, Brasil y Paraguay. A diferencia de Pomacea canaliculata (plaga invasora), P. bridgesii NO come plantas sanas — solo algas, biofilm y materia orgánica en descomposición. Sus llamativos colores (dorado, azul, blanco) lo convierten en uno de los invertebrados ornamentales más populares. Respira aire atmosférico — necesita espacio entre el agua y la tapa.",
+  "variants": [
+    "Pomacea bridgesii var. Dorado — concha amarilla con espiral dorada",
+    "Pomacea bridgesii var. Azul — pie azul oscuro, concha amarilla pálida",
+    "Pomacea bridgesii var. Blanco / Marfil — pie blanco-rosado, concha blanca",
+    "Pomacea bridgesii var. Marrón — forma tipo silvestre",
+    "⚠️ No confundir con Pomacea canaliculata — plaga invasora que sí come plantas"
+  ],
+  "behavior": "Activo durante el día y la noche. Explora todo el acuario. Sale parcialmente del agua para desovar en la parte seca de la tapa. Opérculo hermético que lo protege de la desecación.",
+  "feeding_detail": "Algas, biofilm, verduras blanqueadas (calabacín, espinaca), tabletas de espirulina. NO come plantas sanas. Suplementar con calcio (concha de sepia o mineral de calcio).",
+  "sexing": "Difícil externamente. Los machos montan a las hembras para reproducirse.",
+  "reproduction": "Desova fuera del agua en la tapa o cristal. La puesta rosa/naranja contiene 100–500 huevos. Eclosión en 2–3 semanas.",
   "substrate": [
     "Arena fina",
     "Grava fina"
@@ -38,8 +39,6 @@
   "light_detail": "8–10 h/día.",
   "filtration": "Filtración moderada. Proteger entrada del filtro.",
   "water_changes": "20% semanal",
-  "sexing": "Difícil externamente. Los machos montan a las hembras para reproducirse.",
-  "reproduction": "Desova fuera del agua en la tapa o cristal. La puesta rosa/naranja contiene 100–500 huevos. Eclosión en 2–3 semanas.",
   "compatibility_notes": "Incompatible con peces que coman tentáculos (Tetra Buenos Aires, algunos cíclidos). Compatible con gambas y peces pacíficos pequeños.",
   "diseases": [
     {
@@ -58,9 +57,7 @@
       "solution": "Cambio de agua inmediato. El cobre es letal para todos los caracoles."
     }
   ],
+  "important_notes": "El Caracol Manzana puede salir del agua por la noche — tapa sin huecos o se escapa. Sus huevos rosas emergen del agua (normales — no están mal colocados).",
   "iucn": "No evaluado",
-  "market_notes": "Muy popular en tiendas. Verificar que sea P. bridgesii y no P. canaliculata (prohibida en muchos países por ser plaga).",
-  "order": "Architaenioglossa",
-  "class": "Gastropoda",
-  "important_notes": "El Caracol Manzana puede salir del agua por la noche — tapa sin huecos o se escapa. Sus huevos rosas emergen del agua (normales — no están mal colocados)."
+  "market_notes": "Muy popular en tiendas. Verificar que sea P. bridgesii y no P. canaliculata (prohibida en muchos países por ser plaga)."
 }

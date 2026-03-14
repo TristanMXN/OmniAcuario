@@ -1,14 +1,6 @@
 {
   "order": "Cypriniformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    12,
-    15
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 6,
   "origin": {
     "region": "Asia del Sur (India — Kerala y Karnataka)",
     "countries": [
@@ -18,15 +10,30 @@
     "habitat": "Ríos rápidos de montaña con agua fría, limpia y bien oxigenada.",
     "wild_params": "pH 6.5–7.8, GH 5–15, temperatura 15–25 °C."
   },
+  "max_size_cm": 15,
+  "lifespan_years": "5–8",
+  "level": "Medio",
+  "recommended_school": 6,
+  "description": "El Barbo de Roseline o Barbo Denison (Sahyadria denisonii) es endémico de los ríos de montaña de Kerala, India. En peligro de extinción por sobrecolecta para el acuario y destrucción del hábitat. Su franja roja que recorre la mitad anterior y la cola roja y negra lo convierten en uno de los peces más llamativos del hobby. Todos los ejemplares deben ser criados en cautiverio.",
+  "variants": [
+    "Sahyadria denisonii — franja roja desde morro hasta mitad del cuerpo, cola roja y negra"
+  ],
+  "behavior": "Cardumen activo de mínimo 6. Nada continuamente. Necesita mucho espacio abierto para nadar — mínimo 200L, mejor 400L para adultos.",
+  "feeding_detail": "Omnívoro. Gránulos de calidad, artemia, dafnia, vegetales. 2 veces al día.",
+  "sexing": "Difícil externamente. Las hembras pueden ser ligeramente más redondeadas en el abdomen cuando llenas de huevos. Sin dimorfismo claro fuera de la reproducción.",
+  "reproduction": "Prácticamente imposible en acuario doméstico. Especie de río migratorio — requiere condiciones de reproducción específicas que no se han logrado en cautiverio doméstico.",
   "substrate": [
     "Arena fina",
     "Grava"
   ],
   "substrate_detail": "Grava fina o arena. Zonas de nado abierto MUY amplias — el Barbo Denison necesita nadar largo. Decoración mínima para maximizar el espacio.",
-  "lighting": "Moderada",
-  "description": "El Barbo de Roseline o Barbo Denison (Sahyadria denisonii) es endémico de los ríos de montaña de Kerala, India. En peligro de extinción por sobrecolecta para el acuario y destrucción del hábitat. Su franja roja que recorre la mitad anterior y la cola roja y negra lo convierten en uno de los peces más llamativos del hobby. Todos los ejemplares deben ser criados en cautiverio.",
-  "behavior": "Cardumen activo de mínimo 6. Nada continuamente. Necesita mucho espacio abierto para nadar — mínimo 200L, mejor 400L para adultos.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Recomendadas",
+  "plant_detail": "Compatible con plantas robustas.",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día, intensidad media. La franja roja y la cola bicolor se aprecian mejor con iluminación lateral de calidad.",
+  "filtration": "Filtro externo muy potente con buena oxigenación y corriente moderada — especie de ríos de montaña bien oxigenados. Agua fresca (15–25°C).",
+  "water_changes": "20–25% semanal",
+  "compatibility_notes": "Activo y pacífico. Necesita acuario largo (mínimo 150cm) para nadar. Compatible con peces robustos y activos. Incompatible con peces lentos o de aletas largas que pueda asustar.",
   "diseases": [
     {
       "symptom": "Ich",
@@ -39,27 +46,7 @@
       "solution": "Bajar temperatura. Buena oxigenación."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "variants": [
-    "Sahyadria denisonii — franja roja desde morro hasta mitad del cuerpo, cola roja y negra"
-  ],
-  "max_size_cm": 15,
-  "lifespan_years": "5–8",
-  "feeding_detail": "Omnívoro. Gránulos de calidad, artemia, dafnia, vegetales. 2 veces al día.",
-  "recommended_school": 6,
-  "level": "Intermedio",
-  "plants": "Recomendadas",
-  "plant_detail": "Compatible con plantas robustas.",
-  "light": "Moderada",
-  "light_detail": "8–10 h/día, intensidad media. La franja roja y la cola bicolor se aprecian mejor con iluminación lateral de calidad.",
-  "filtration": "Filtro externo muy potente con buena oxigenación y corriente moderada — especie de ríos de montaña bien oxigenados. Agua fresca (15–25°C).",
-  "water_changes": "20–25% semanal",
-  "sexing": "Difícil externamente. Las hembras pueden ser ligeramente más redondeadas en el abdomen cuando llenas de huevos. Sin dimorfismo claro fuera de la reproducción.",
-  "reproduction": "Prácticamente imposible en acuario doméstico. Especie de río migratorio — requiere condiciones de reproducción específicas que no se han logrado en cautiverio doméstico.",
-  "compatibility_notes": "Activo y pacífico. Necesita acuario largo (mínimo 150cm) para nadar. Compatible con peces robustos y activos. Incompatible con peces lentos o de aletas largas que pueda asustar.",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "En peligro (endémico de Kerala, India)",
-  "market_notes": "En peligro en la naturaleza. Comprar solo ejemplares criados en cautiverio.",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "En peligro en la naturaleza. Comprar solo ejemplares criados en cautiverio."
 }

@@ -1,12 +1,6 @@
 {
-  "variants": [
-    "Tylomelania zemis — cuerpo naranja intenso, concha oscura (la más popular)",
-    "Tylomelania perfecta — cuerpo amarillo, concha marrón-negra",
-    "Tylomelania sp. 'Chocolate' — cuerpo chocolate, concha oscura",
-    "Tylomelania sp. 'White Spotted' — pie blanco moteado, concha negra",
-    "Nota: muchas especies de Tylomelania son endémicas del lago Poso — comercio puede amenazar poblaciones silvestres"
-  ],
-  "description": "El Caracol Conejo (Tylomelania sp.) es endémico del lago Poso en Sulawesi (Indonesia), un lago antiguo de agua cálida y alcalina. Su cuerpo estirado y su concha alargada cónica le dan un aspecto completamente distinto a otros caracoles. Es vivíparo — pare crías vivas de gran tamaño, por lo que nunca se convierte en plaga. Requiere agua cálida y alcalina específica de su hábitat.",
+  "order": "Caenogastropoda",
+  "nitrate_max": 20,
   "origin": {
     "region": "Asia (Indonesia — lago Poso y otros lagos de Sulawesi)",
     "countries": [
@@ -18,13 +12,20 @@
   },
   "max_size_cm": 10,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Biofilm, algas blandas, detritos. Suplementar con verduras blanqueadas, tabletas de espirulina y alimento específico para caracoles. Come lentamente pero constantemente.",
-  "behavior": "Movimiento lento y deliberado. Cuello extensible característico. No toca plantas. Vivíparo — pare 1 cría grande cada 4–6 semanas.",
-  "recommended_school": 1,
   "level": "Fondo",
+  "recommended_school": 1,
+  "description": "El Caracol Conejo (Tylomelania sp.) es endémico del lago Poso en Sulawesi (Indonesia), un lago antiguo de agua cálida y alcalina. Su cuerpo estirado y su concha alargada cónica le dan un aspecto completamente distinto a otros caracoles. Es vivíparo — pare crías vivas de gran tamaño, por lo que nunca se convierte en plaga. Requiere agua cálida y alcalina específica de su hábitat.",
+  "variants": [
+    "Tylomelania zemis — cuerpo naranja intenso, concha oscura (la más popular)",
+    "Tylomelania perfecta — cuerpo amarillo, concha marrón-negra",
+    "Tylomelania sp. 'Chocolate' — cuerpo chocolate, concha oscura",
+    "Tylomelania sp. 'White Spotted' — pie blanco moteado, concha negra",
+    "Nota: muchas especies de Tylomelania son endémicas del lago Poso — comercio puede amenazar poblaciones silvestres"
+  ],
+  "behavior": "Movimiento lento y deliberado. Cuello extensible característico. No toca plantas. Vivíparo — pare 1 cría grande cada 4–6 semanas.",
+  "feeding_detail": "Biofilm, algas blandas, detritos. Suplementar con verduras blanqueadas, tabletas de espirulina y alimento específico para caracoles. Come lentamente pero constantemente.",
+  "sexing": "Difícil. Vivíparo — la hembra tiene bolsa de cría interna.",
+  "reproduction": "Vivíparo — 1 cría de 1–2cm cada 4–6 semanas. Control de población natural, nunca plaga.",
   "substrate": [
     "Arena fina suave"
   ],
@@ -35,8 +36,6 @@
   "light_detail": "8–10 h/día.",
   "filtration": "Filtración moderada con buena oxigenación.",
   "water_changes": "15% semanal con agua envejecida y cálida",
-  "sexing": "Difícil. Vivíparo — la hembra tiene bolsa de cría interna.",
-  "reproduction": "Vivíparo — 1 cría de 1–2cm cada 4–6 semanas. Control de población natural, nunca plaga.",
   "compatibility_notes": "Compatible con gambas, peces pacíficos y plantas. Incompatible con cíclidos grandes o peces que rompan conchas.",
   "diseases": [
     {
@@ -55,9 +54,7 @@
       "solution": "Cambio de agua inmediato."
     }
   ],
+  "important_notes": "El Caracol Conejo se reproduce lentamente — solo 1 cría a la vez. Puede vivir 3+ años. Las crías nacen completamente formadas envueltas en una bolsa de mucus.",
   "iucn": "Vulnerables (varias especies endémicas de Sulawesi)",
-  "market_notes": "Requiere agua cálida y alcalina específica. No apto para acuarios de agua blanda o fría.",
-  "order": "Caenogastropoda",
-  "class": "Gastropoda",
-  "important_notes": "El Caracol Conejo se reproduce lentamente — solo 1 cría a la vez. Puede vivir 3+ años. Las crías nacen completamente formadas envueltas en una bolsa de mucus."
+  "market_notes": "Requiere agua cálida y alcalina específica. No apto para acuarios de agua blanda o fría."
 }

@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
   <meta name="theme-color" content="#050e1a" />
   <title>OmniAcuario</title>
-  <link rel="stylesheet" href="css/app.css" />
+  <link rel="stylesheet" href="css/main.css" />
 </head>
 <body>
 
@@ -45,19 +45,19 @@
           <button class="modal-close" onclick="closeInfoModal()">×</button>
         </div>
         <div class="info-modal-body">
-          <div class="info-version">Versión 1.0 · Agua dulce</div>
+          <div class="info-version">Versión 1.1 · Agua dulce</div>
           <p class="info-desc">
             <strong>OmniAcuario</strong> es una guía de referencia para acuaristas de agua dulce.
-            Incluye catálogo de 170 especies con fichas detalladas, compatibilidades en tiempo real,
+            Incluye catálogo de 171 especies con fichas detalladas, compatibilidades en tiempo real,
             armado de pecera virtual, calculadoras de acuario y sustrato, y módulo de química del agua.
           </p>
 
           <div class="info-stat-row">
-            <div class="info-stat"><span class="info-stat-n">100</span><span class="info-stat-l">Peces</span></div>
+            <div class="info-stat"><span class="info-stat-n">101</span><span class="info-stat-l">Peces</span></div>
             <div class="info-stat"><span class="info-stat-n">50</span><span class="info-stat-l">Plantas</span></div>
             <div class="info-stat"><span class="info-stat-n">20</span><span class="info-stat-l">Invertebrados</span></div>
-            <div class="info-stat"><span class="info-stat-n">22</span><span class="info-stat-l">Sustratos</span></div>
-            <div class="info-stat"><span class="info-stat-n">17</span><span class="info-stat-l">Químicos</span></div>
+            <div class="info-stat"><span class="info-stat-n">21</span><span class="info-stat-l">Sustratos</span></div>
+            <div class="info-stat"><span class="info-stat-n">21</span><span class="info-stat-l">Químicos</span></div>
           </div>
 
           <div class="info-section-title">Creación</div>
@@ -71,13 +71,14 @@
 
           <div class="info-section-title">Fuentes de referencia</div>
           <div class="info-sources">
-            <div class="info-source">🔬 <strong>FishBase</strong> — parámetros, taxonomía y distribución de especies</div>
-            <div class="info-source">🌿 <strong>The Aquatic Plant Database (TAPD)</strong> — datos de plantas acuáticas</div>
-            <div class="info-source">🦐 <strong>ShrimpScience</strong> — camarones de agua dulce y parámetros</div>
+            <div class="info-source">Los datos de especies, parámetros y cuidados fueron compilados a partir del conocimiento general del acuarismo de agua dulce disponible en la comunidad científica y aficionada.</div>
+            <div class="info-source">🖼️ <strong>Wikimedia Commons</strong> — imágenes bajo licencias libres</div>
             <div class="info-source">🌍 <strong>IUCN Red List</strong> — estado de conservación de especies</div>
-            <div class="info-source">🖼️ <strong>Wikimedia Commons</strong> — imágenes y contenido de referencia libre</div>
-            <div class="info-source">🧪 <strong>Seachem, API, Tropica</strong> — fichas técnicas de productos</div>
-            <div class="info-source">📐 <strong>Glasscages & literatura de ingeniería</strong> — cálculos de vidrio y acuario</div>
+          </div>
+
+          <div class="info-section-title">Agradecimientos</div>
+          <div class="info-sources">
+            <div class="info-source">A la comunidad acuarista por mantener vivo el conocimiento y la pasión por el acuarismo.</div>
           </div>
 
           <div class="info-footer">
@@ -113,6 +114,17 @@
     </button>
   </nav>
 
-  <script src="js/app.js"></script>
+  <!-- Modal genérico -->
+  <div id="generic-modal" class="modal-overlay hidden" onclick="if(event.target===this)closeGenericModal()">
+    <div class="modal-box">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;padding:18px 18px 0;flex-shrink:0">
+        <div id="generic-modal-title" style="font-size:17px;font-weight:700"></div>
+        <button class="modal-close" onclick="closeGenericModal()">×</button>
+      </div>
+      <div id="generic-modal-body" style="overflow-y:auto;flex:1;padding:0 18px 18px"></div>
+    </div>
+  </div>
+
+  <script type="module" src="js/main.js"></script>
 </body>
 </html>

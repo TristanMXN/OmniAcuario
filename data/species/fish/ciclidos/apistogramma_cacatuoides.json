@@ -1,14 +1,6 @@
 {
   "order": "Cichliformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    5,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "Sudamérica",
     "countries": [
@@ -20,14 +12,31 @@
     "habitat": "Pequeños arroyos lentos con hojas caídas, ramas y refugios bajo vegetación densa",
     "wild_params": "pH 5.5–7.0, GH 1–10, temperatura 22–28 °C"
   },
+  "max_size_cm": 9,
+  "lifespan_years": "3–5",
+  "level": "Fondo",
+  "recommended_school": 3,
+  "description": "El Apistogramma Cacatuoides (Apistogramma cacatuoides) es nativo de la cuenca del Ucayali en Perú, habitando pequeños arroyos cálidos con fondos de hojas caídas y ramas sumergidas. Los machos ostentan aleta dorsal con las primeras espinas elongadas como cresta y coloración de amarillo, azul y rojo intensos. Es el cíclido enano más accesible para principiantes del extenso género Apistogramma.",
+  "variants": [
+    "Apistogramma cacatuoides var. Double Red — aletas roja y caudal bicolor roja",
+    "Apistogramma cacatuoides var. Triple Red — también aleta anal roja",
+    "Apistogramma cacatuoides var. Orange — tonos naranja-amarillo más cálidos"
+  ],
+  "behavior": "Semi-agresivo en reproducción. El macho defiende un harén de 2–4 hembras en territorios separados. Las hembras cuidan la cueva con gran intensidad. Compatible con tetras pequeños y corydoras fuera del territorio.",
+  "feeding_detail": "Carnívoro tendencia. Acepta artemia, dafnia, gusanos de sangre, Cyclops como base. También gránulos pequeños de fondo. Los machos de mayor tamaño requieren alimento más grande. 2 veces al día.",
+  "sexing": "Macho con aletas extendidas y coloración azul-amarilla intensa. Hembra de 5 cm amarilla pálida, especialmente brillante amarilla dorada al cuidar crías.",
+  "reproduction": "La hembra deposita 50–150 huevos en el interior de una cueva. Cuida sola los huevos y larvas con gran ferocidad — el macho es expulsado durante el cuidado.",
   "substrate": [
     "Arena fina muy suave"
   ],
   "substrate_detail": "Arena fina oscura OBLIGATORIA. El Apisto excava con el morro — la grava áspero lo hiere. Cuevas y refugios (cocos huecos, tubos de cerámica) esenciales.",
-  "lighting": "Moderada",
-  "description": "El Apistogramma Cacatuoides (Apistogramma cacatuoides) es nativo de la cuenca del Ucayali en Perú, habitando pequeños arroyos cálidos con fondos de hojas caídas y ramas sumergidas. Los machos ostentan aleta dorsal con las primeras espinas elongadas como cresta y coloración de amarillo, azul y rojo intensos. Es el cíclido enano más accesible para principiantes del extenso género Apistogramma.",
-  "behavior": "Semi-agresivo en reproducción. El macho defiende un harén de 2–4 hembras en territorios separados. Las hembras cuidan la cueva con gran intensidad. Compatible con tetras pequeños y corydoras fuera del territorio.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Recomendadas",
+  "plant_detail": "Plantas de hoja grande (Echinodorus, Anubias) delimitan visualmente los territorios. Musgo Java proporciona refugio a las crías.",
+  "light": "Baja",
+  "light_detail": "8 h/día, luz suave o difusa. Zonas de sombra con plantas densas reducen el estrés y estimulan la reproducción.",
+  "filtration": "Filtro de esponja de bajo caudal. Sensible al nitrato — máximo 10 ppm. Agua blanda y ácida con extracto de catappa.",
+  "water_changes": "20% 2 veces por semana",
+  "compatibility_notes": "Compatible con Tetras pequeños, Corydoras y Otocinclus que no compitan por el territorio de fondo. Incompatible con otros Apisto machos y con peces que invadan las cuevas.",
   "diseases": [
     {
       "symptom": "Hoyos en la cabeza, delgadez, heces blancas",
@@ -45,29 +54,7 @@
       "solution": "Levamisol 10 mg/10 L. Tratamiento preventivo tras compra recomendado."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "max_size_cm": 9,
-  "lifespan_years": "3–5",
-  "feeding_detail": "Carnívoro tendencia. Acepta artemia, dafnia, gusanos de sangre, Cyclops como base. También gránulos pequeños de fondo. Los machos de mayor tamaño requieren alimento más grande. 2 veces al día.",
-  "recommended_school": 3,
-  "level": "Medio",
-  "plants": "Recomendadas",
-  "plant_detail": "Plantas de hoja grande (Echinodorus, Anubias) delimitan visualmente los territorios. Musgo Java proporciona refugio a las crías.",
-  "light": "Baja",
-  "light_detail": "8 h/día, luz suave o difusa. Zonas de sombra con plantas densas reducen el estrés y estimulan la reproducción.",
-  "filtration": "Filtro de esponja de bajo caudal. Sensible al nitrato — máximo 10 ppm. Agua blanda y ácida con extracto de catappa.",
-  "water_changes": "20% 2 veces por semana",
-  "sexing": "Macho con aletas extendidas y coloración azul-amarilla intensa. Hembra de 5 cm amarilla pálida, especialmente brillante amarilla dorada al cuidar crías.",
-  "reproduction": "La hembra deposita 50–150 huevos en el interior de una cueva. Cuida sola los huevos y larvas con gran ferocidad — el macho es expulsado durante el cuidado.",
-  "compatibility_notes": "Compatible con Tetras pequeños, Corydoras y Otocinclus que no compitan por el territorio de fondo. Incompatible con otros Apisto machos y con peces que invadan las cuevas.",
+  "important_notes": "Existen más de 300 especies descritas de Apistogramma. Cada variante geográfica tiene parámetros ligeramente distintos. Comprar siempre con la localidad de origen especificada.",
   "iucn": "Preocupación menor (LC)",
-  "market_notes": "Ampliamente disponible. Las variedades Double Red y Triple Red son criadero Alemania/Rep. Checa. Comprar siempre en parejas o 1 macho + 2–3 hembras.",
-  "class": "Actinopterygii",
-  "variants": [
-    "Apistogramma cacatuoides var. Double Red — aletas roja y caudal bicolor roja",
-    "Apistogramma cacatuoides var. Triple Red — también aleta anal roja",
-    "Apistogramma cacatuoides var. Orange — tonos naranja-amarillo más cálidos"
-  ],
-  "important_notes": "Existen más de 300 especies descritas de Apistogramma. Cada variante geográfica tiene parámetros ligeramente distintos. Comprar siempre con la localidad de origen especificada."
+  "market_notes": "Ampliamente disponible. Las variedades Double Red y Triple Red son criadero Alemania/Rep. Checa. Comprar siempre en parejas o 1 macho + 2–3 hembras."
 }

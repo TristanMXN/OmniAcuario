@@ -1,10 +1,6 @@
 {
-  "variants": [
-    "Planorbarius corneus — forma tipo, concha marrón-grisácea",
-    "Planorbarius corneus var. Rojo — pie rojo por hemoglobina, concha más clara",
-    "Planorbella duryi — especie tropical similar, más pequeña (Planorbis rojo de tiendas)"
-  ],
-  "description": "El Caracol Planorbis (Planorbarius corneus) es originario de Europa y Asia. Su concha en espiral plana (como un cuerno de carnero) es característica. Usa hemoglobina para transportar oxígeno — de ahí su color rojizo interno. Eficaz limpiador de algas y detritos. Puede convertirse en plaga si hay exceso de alimento, pero el Caracol Asesino lo controla eficazmente.",
+  "order": "Hygrophila",
+  "nitrate_max": 30,
   "origin": {
     "region": "Europa y Asia",
     "countries": [
@@ -17,13 +13,18 @@
   },
   "max_size_cm": 3,
   "lifespan_years": "1–2",
-  "nitrate_max": 30,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Algas blandas, biofilm, restos de alimento, plantas muertas. Controlador de la contaminación del fondo.",
-  "behavior": "Activo. Hermafrodita — cualquier dos individuos pueden reproducirse. Se multiplica rápido si hay exceso de nutrientes. Controlable reduciendo la alimentación.",
-  "recommended_school": 1,
   "level": "Fondo / Vidrios / Plantas",
+  "recommended_school": 1,
+  "description": "El Caracol Planorbis (Planorbarius corneus) es originario de Europa y Asia. Su concha en espiral plana (como un cuerno de carnero) es característica. Usa hemoglobina para transportar oxígeno — de ahí su color rojizo interno. Eficaz limpiador de algas y detritos. Puede convertirse en plaga si hay exceso de alimento, pero el Caracol Asesino lo controla eficazmente.",
+  "variants": [
+    "Planorbarius corneus — forma tipo, concha marrón-grisácea",
+    "Planorbarius corneus var. Rojo — pie rojo por hemoglobina, concha más clara",
+    "Planorbella duryi — especie tropical similar, más pequeña (Planorbis rojo de tiendas)"
+  ],
+  "behavior": "Activo. Hermafrodita — cualquier dos individuos pueden reproducirse. Se multiplica rápido si hay exceso de nutrientes. Controlable reduciendo la alimentación.",
+  "feeding_detail": "Algas blandas, biofilm, restos de alimento, plantas muertas. Controlador de la contaminación del fondo.",
+  "sexing": "Hermafrodita — no aplica.",
+  "reproduction": "Muy prolífico. Pone masas gelatinosas de huevos en plantas y decoración. Control: reducir comida y usar Caracol Asesino.",
   "substrate": [
     "Cualquier sustrato"
   ],
@@ -34,8 +35,6 @@
   "light_detail": "Muy tolerante.",
   "filtration": "Cualquier filtración.",
   "water_changes": "15–20% semanal",
-  "sexing": "Hermafrodita — no aplica.",
-  "reproduction": "Muy prolífico. Pone masas gelatinosas de huevos en plantas y decoración. Control: reducir comida y usar Caracol Asesino.",
   "compatibility_notes": "Compatible con gambas y peces pacíficos. Peces que lo coman lo controlan naturalmente (Tetra Buenos Aires, algunos cíclidos).",
   "diseases": [
     {
@@ -49,9 +48,7 @@
       "solution": "Cambio de agua. Carbón activo."
     }
   ],
+  "important_notes": "El Planorbis puede ser plaga si el acuario está sobrealimentado. En cantidades controladas es beneficioso — come restos y algas. Color rojo = hemoglobina, no tinte.",
   "iucn": "Preocupación menor",
-  "market_notes": "A menudo llega al acuario como polizón en plantas. Controlable — solo es plaga con sobrealimentación.",
-  "order": "Hygrophila",
-  "class": "Gastropoda",
-  "important_notes": "El Planorbis puede ser plaga si el acuario está sobrealimentado. En cantidades controladas es beneficioso — come restos y algas. Color rojo = hemoglobina, no tinte."
+  "market_notes": "A menudo llega al acuario como polizón en plantas. Controlable — solo es plaga con sobrealimentación."
 }

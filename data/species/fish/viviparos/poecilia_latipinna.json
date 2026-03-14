@@ -1,11 +1,6 @@
 {
-  "variants": [
-    "Poecilia latipinna — forma tipo, gris-verde con escamas iridiscentes",
-    "Poecilia latipinna var. Negro — completamente negro, la más común en tiendas",
-    "Poecilia latipinna var. Dálmata — blanco y negro moteado",
-    "Poecilia latipinna var. Albino — cuerpo amarillo-blanco, ojos rojos"
-  ],
-  "description": "El Molly Velifera (Poecilia latipinna) es nativo de las costas del Golfo de México, desde Carolina del Norte hasta Yucatán, habitando en estuarios, marismas y ríos de agua dura y salobre. Los machos adultos desarrollan una aleta dorsal extraordinariamente alta que despliegan en exhibición ante las hembras. Se diferencia del Molly Común (P. sphenops) por su mayor tamaño y la aleta dorsal característica.",
+  "order": "Cyprinodontiformes",
+  "nitrate_max": 30,
   "origin": {
     "region": "América del Norte (costa del Golfo de México)",
     "countries": [
@@ -18,13 +13,19 @@
   },
   "max_size_cm": 12,
   "lifespan_years": "3–5",
-  "nitrate_max": 30,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Escamas/gránulos con base vegetal, espirulina, verduras blanqueadas. Complementar con artemia. 2–3 veces al día.",
-  "behavior": "Pacífico. Los machos exhiben la aleta dorsal constantemente. Pueden acosar a las hembras — mantener 1 macho por 2–3 hembras. Se beneficia de algo de sal de acuario (1–3 g/L).",
+  "level": "Superficie",
   "recommended_school": 1,
-  "level": "Fácil",
+  "description": "El Molly Velifera (Poecilia latipinna) es nativo de las costas del Golfo de México, desde Carolina del Norte hasta Yucatán, habitando en estuarios, marismas y ríos de agua dura y salobre. Los machos adultos desarrollan una aleta dorsal extraordinariamente alta que despliegan en exhibición ante las hembras. Se diferencia del Molly Común (P. sphenops) por su mayor tamaño y la aleta dorsal característica.",
+  "variants": [
+    "Poecilia latipinna — forma tipo, gris-verde con escamas iridiscentes",
+    "Poecilia latipinna var. Negro — completamente negro, la más común en tiendas",
+    "Poecilia latipinna var. Dálmata — blanco y negro moteado",
+    "Poecilia latipinna var. Albino — cuerpo amarillo-blanco, ojos rojos"
+  ],
+  "behavior": "Pacífico. Los machos exhiben la aleta dorsal constantemente. Pueden acosar a las hembras — mantener 1 macho por 2–3 hembras. Se beneficia de algo de sal de acuario (1–3 g/L).",
+  "feeding_detail": "Escamas/gránulos con base vegetal, espirulina, verduras blanqueadas. Complementar con artemia. 2–3 veces al día.",
+  "sexing": "Fácil — el macho tiene gonopodio y en el Vela la aleta dorsal enormemente desarrollada. La hembra es mucho más grande que el macho estándar.",
+  "reproduction": "Vivíparo. Camadas de 50–200 crías. Los machos de Vela son los más grandes del género — la gran aleta dorsal requiere agua dura para desarrollarse plenamente.",
   "substrate": [
     "Arena",
     "Grava"
@@ -36,8 +37,6 @@
   "light_detail": "10–12 h/día, intensidad alta. La luz intensa promueve el crecimiento de algas que complementan la dieta herbívora del Molly.",
   "filtration": "Filtro externo potente. Agua muy dura y alcalina — el agua blanda causa enfermedad de terciopelo.",
   "water_changes": "25–30% semanal",
-  "sexing": "Fácil — el macho tiene gonopodio y en el Vela la aleta dorsal enormemente desarrollada. La hembra es mucho más grande que el macho estándar.",
-  "reproduction": "Vivíparo. Camadas de 50–200 crías. Los machos de Vela son los más grandes del género — la gran aleta dorsal requiere agua dura para desarrollarse plenamente.",
   "compatibility_notes": "Compatible con Guppy, Platy, Espadilla y Tetras pacíficos. Agua dura incompatible con peces ácidos (Neon, Discus).",
   "diseases": [
     {
@@ -51,9 +50,7 @@
       "solution": "Elevar temperatura. Anti-ich comercial."
     }
   ],
+  "important_notes": "La aleta dorsal del Molly de Vela macho puede alcanzar 7 cm de altura — solo se desarrolla plenamente en agua muy dura (GH 20+) y con buena alimentación.",
   "iucn": "No evaluado",
-  "market_notes": "Disponible en tiendas. Confirmar que sea P. latipinna y no P. sphenops (Molly Común).",
-  "order": "Cyprinodontiformes",
-  "class": "Actinopterygii",
-  "important_notes": "La aleta dorsal del Molly de Vela macho puede alcanzar 7 cm de altura — solo se desarrolla plenamente en agua muy dura (GH 20+) y con buena alimentación."
+  "market_notes": "Disponible en tiendas. Confirmar que sea P. latipinna y no P. sphenops (Molly Común)."
 }

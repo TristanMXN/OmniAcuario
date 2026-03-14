@@ -1,10 +1,6 @@
 {
-  "variants": [
-    "Salvinia auriculata — frondas ovaladas con pelos en la superficie",
-    "Salvinia natans — algo más grande",
-    "Salvinia cucullata — frondas enrolladas características"
-  ],
-  "description": "La Salvinia (Salvinia auriculata) es un helecho flotante originario de América Central y del Sur. Sus frondas cubiertas de pelos hidrófobos repelen el agua. Crea sombra natural que reduce el crecimiento de algas. Refugio ideal para peces laberínticos que construyen nidos de burbujas.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "América Central y del Sur",
     "countries": [
@@ -19,39 +15,30 @@
   },
   "max_size_cm": 3,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": false,
-  "fertilizer": "No requiere fertilización directa.",
-  "uses": "Helecho flotante. Sombra natural, reduce algas, refugio para crías.",
+  "level": "Superficie",
+  "description": "La Salvinia (Salvinia auriculata) es un helecho flotante originario de América Central y del Sur. Sus frondas cubiertas de pelos hidrófobos repelen el agua. Crea sombra natural que reduce el crecimiento de algas. Refugio ideal para peces laberínticos que construyen nidos de burbujas.",
+  "variants": [
+    "Salvinia auriculata — frondas ovaladas con pelos en la superficie",
+    "Salvinia natans — algo más grande",
+    "Salvinia cucullata — frondas enrolladas características"
+  ],
+  "behavior": "Flotante en superficie con hojas pilosas características que repelen el agua. Crecimiento rápido.",
   "propagation": "División espontánea de las frondas.",
   "substrate": [
     "Flotante"
   ],
   "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Controlar que no bloquee la luz a plantas del fondo.",
   "light": "Media",
   "light_detail": "8–12 h/día.",
+  "co2": false,
+  "co2_detail": "No necesario.",
+  "fertilizer": "No requiere fertilización directa.",
+  "uses": "Helecho flotante. Sombra natural, reduce algas, refugio para crías.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -69,12 +56,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "No sumergir — es estrictamente flotante. Las hojas tienen microestructuras hidrófobas que repelen el agua. Excelente para reducir luz en acuarios con peces de superficie.",
   "iucn": "No evaluado",
-  "market_notes": "Disponible. Multiplicación rápida — controlar cantidad.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Flotante en superficie con hojas pilosas características que repelen el agua. Crecimiento rápido.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Controlar que no bloquee la luz a plantas del fondo.",
-  "co2_detail": "No necesario."
+  "market_notes": "Disponible. Multiplicación rápida — controlar cantidad."
 }

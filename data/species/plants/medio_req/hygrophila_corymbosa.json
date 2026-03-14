@@ -1,10 +1,6 @@
 {
-  "variants": [
-    "Hygrophila corymbosa — hojas grandes lanceoladas verde oscuro",
-    "Hygrophila corymbosa 'Siamensis' — hojas más estrechas",
-    "Hygrophila corymbosa 'Kompakt' — variedad enana más densa"
-  ],
-  "description": "La Hygrophila Corymbosa es originaria de India y SE Asia. Una de las plantas de tallo más robustas y vistosas. Sus hojas grandes y verdes crean un fondo impresionante. Más exigente que H. polysperma pero con mayor impacto visual.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "Asia (India, SE Asia)",
     "countries": [
@@ -19,12 +15,14 @@
   },
   "max_size_cm": 50,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": false,
-  "fertilizer": "Fertilizante completo semanal. CO₂ mejora significativamente el crecimiento.",
-  "uses": "Planta de tallo robusta para fondo trasero. Hojas grandes y llamativas.",
+  "level": "Zona media",
+  "description": "La Hygrophila Corymbosa es originaria de India y SE Asia. Una de las plantas de tallo más robustas y vistosas. Sus hojas grandes y verdes crean un fondo impresionante. Más exigente que H. polysperma pero con mayor impacto visual.",
+  "variants": [
+    "Hygrophila corymbosa — hojas grandes lanceoladas verde oscuro",
+    "Hygrophila corymbosa 'Siamensis' — hojas más estrechas",
+    "Hygrophila corymbosa 'Kompakt' — variedad enana más densa"
+  ],
+  "behavior": "Tallo erecto de gran tamaño (40–60cm). Hojas grandes y vistosas. Crecimiento moderado-rápido.",
   "propagation": "Esquejes del tallo. Plantar los 5cm inferiores.",
   "substrate": [
     "Arena",
@@ -32,28 +30,17 @@
     "Sustrato nutritivo"
   ],
   "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con plantas de fondo. No sombrear plantas pequeñas cercanas.",
   "light": "Media",
   "light_detail": "8–10 h/día.",
+  "co2": false,
+  "co2_detail": "No necesario pero beneficia el crecimiento.",
+  "fertilizer": "Fertilizante completo semanal. CO₂ mejora significativamente el crecimiento.",
+  "uses": "Planta de tallo robusta para fondo trasero. Hojas grandes y llamativas.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -71,12 +58,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "Crece muy rápido en buenas condiciones — puede necesitar poda semanal. Los tallos podados pueden replantarse directamente.",
   "iucn": "No evaluado",
-  "market_notes": "Disponible. Variante 'Kompakt' ideal para acuarios medianos.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Tallo erecto de gran tamaño (40–60cm). Hojas grandes y vistosas. Crecimiento moderado-rápido.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Compatible con plantas de fondo. No sombrear plantas pequeñas cercanas.",
-  "co2_detail": "No necesario pero beneficia el crecimiento."
+  "market_notes": "Disponible. Variante 'Kompakt' ideal para acuarios medianos."
 }

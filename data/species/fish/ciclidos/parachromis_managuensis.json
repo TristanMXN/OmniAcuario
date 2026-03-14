@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Parachromis managuensis — dorado con reticulado negro, cambia a patrón jaguar en adultos"
-  ],
-  "description": "El Cíclido Jaguar (Parachromis managuensis) es originario de la cuenca del lago Nicaragua y ríos de Honduras y Costa Rica. Uno de los depredadores de cíclidos más grandes del hobby — puede alcanzar 55cm. Su patrón cambia con la edad: de reticulado en juveniles al patrón manchado tipo jaguar en adultos. Personalidad fuerte — reconoce a su cuidador.",
+  "order": "Cichliformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "América Central (Honduras, Nicaragua, Costa Rica)",
     "countries": [
@@ -16,13 +14,16 @@
   },
   "max_size_cm": 55,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Carnívoro voraz. Peces, gusanos, camarones, filetes. Solo alimento de origen animal.",
-  "behavior": "Muy agresivo y territorial. Depreda peces y crustáceos. Personalidad fuerte.",
+  "level": "Todos los estratos",
   "recommended_school": 1,
-  "level": "Intermedio",
+  "description": "El Cíclido Jaguar (Parachromis managuensis) es originario de la cuenca del lago Nicaragua y ríos de Honduras y Costa Rica. Uno de los depredadores de cíclidos más grandes del hobby — puede alcanzar 55cm. Su patrón cambia con la edad: de reticulado en juveniles al patrón manchado tipo jaguar en adultos. Personalidad fuerte — reconoce a su cuidador.",
+  "variants": [
+    "Parachromis managuensis — dorado con reticulado negro, cambia a patrón jaguar en adultos"
+  ],
+  "behavior": "Muy agresivo y territorial. Depreda peces y crustáceos. Personalidad fuerte.",
+  "feeding_detail": "Carnívoro voraz. Peces, gusanos, camarones, filetes. Solo alimento de origen animal.",
+  "sexing": "Machos notablemente más grandes (hasta 55cm vs 35cm de la hembra). Los adultos tienen el patrón manchado más definido. Las hembras son más redondeadas.",
+  "reproduction": "Ovíparo sobre roca plana con cuidado biparental muy agresivo. Deposita 500–5.000 huevos. La pareja defiende el territorio completo durante meses.",
   "substrate": [
     "Grava gruesa",
     "Roca"
@@ -34,8 +35,6 @@
   "light_detail": "8–10 h/día, intensidad media. La buena iluminación resalta el patrón manchado tipo jaguar de los adultos.",
   "filtration": "Filtro externo muy potente (6x el volumen/hora). Cíclido grande que produce masas de residuos. Cambios 30% semanales mínimo.",
   "water_changes": "20–25% semanal",
-  "sexing": "Machos notablemente más grandes (hasta 55cm vs 35cm de la hembra). Los adultos tienen el patrón manchado más definido. Las hembras son más redondeadas.",
-  "reproduction": "Ovíparo sobre roca plana con cuidado biparental muy agresivo. Deposita 500–5.000 huevos. La pareja defiende el territorio completo durante meses.",
   "compatibility_notes": "Solo con cíclidos centroamericanos de tamaño similar o mayor. Come absolutamente todo lo que quepa en su boca. Prácticamente solo apto para acuario monoespecífico.",
   "diseases": [
     {
@@ -44,9 +43,7 @@
       "solution": "Mejorar dieta. Agua limpia."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Especie enorme (55cm). Solo para acuarios de 800L+.",
-  "order": "Cichliformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Especie enorme (55cm). Solo para acuarios de 800L+."
 }

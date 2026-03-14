@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Neritina pulligera — concha negra o gris oscura, casi lisa, con iridiscencia",
-    "Neritina turrita — similar, concha más cónica (especie relacionada)"
-  ],
-  "description": "El Caracol Casco Militar (Neritina pulligera) es originario del sudeste asiático. Su concha oscura, casi negra, de forma ovoide le da un aspecto elegante y minimalista muy apreciado en acuarios plantados de estética japonesa o Dutch. Como todos los Neritina, es un excelente limpiador de algas y no se reproduce en agua dulce. Algo más grande que el Caracol Cebra.",
+  "order": "Cycloneritida",
+  "nitrate_max": 20,
   "origin": {
     "region": "Asia (SE Asia)",
     "countries": [
@@ -18,13 +15,17 @@
   },
   "max_size_cm": 3,
   "lifespan_years": "1–3",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Algas adheridas al vidrio, rocas y decoración. Suplementar con espirulina o verduras si el acuario está muy limpio.",
-  "behavior": "Muy similar al Caracol Cebra. Activo en vidrio y decoración. Deja huevecillos blancos inofensivos.",
-  "recommended_school": 1,
   "level": "Fondo / Vidrios",
+  "recommended_school": 1,
+  "description": "El Caracol Casco Militar (Neritina pulligera) es originario del sudeste asiático. Su concha oscura, casi negra, de forma ovoide le da un aspecto elegante y minimalista muy apreciado en acuarios plantados de estética japonesa o Dutch. Como todos los Neritina, es un excelente limpiador de algas y no se reproduce en agua dulce. Algo más grande que el Caracol Cebra.",
+  "variants": [
+    "Neritina pulligera — concha negra o gris oscura, casi lisa, con iridiscencia",
+    "Neritina turrita — similar, concha más cónica (especie relacionada)"
+  ],
+  "behavior": "Muy similar al Caracol Cebra. Activo en vidrio y decoración. Deja huevecillos blancos inofensivos.",
+  "feeding_detail": "Algas adheridas al vidrio, rocas y decoración. Suplementar con espirulina o verduras si el acuario está muy limpio.",
+  "sexing": "Imposible externamente.",
+  "reproduction": "Igual que N. natalensis — huevecillos blancos sin reproducción en agua dulce.",
   "substrate": [
     "Cualquier sustrato"
   ],
@@ -35,8 +36,6 @@
   "light_detail": "8–10 h/día.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
-  "sexing": "Imposible externamente.",
-  "reproduction": "Igual que N. natalensis — huevecillos blancos sin reproducción en agua dulce.",
   "compatibility_notes": "Compatible con gambas, peces pacíficos y plantas.",
   "diseases": [
     {
@@ -50,9 +49,7 @@
       "solution": "Cambio de agua. Carbón activo."
     }
   ],
+  "important_notes": "El más grande de los Neritina — hasta 3 cm. Limpiador eficaz de algas verdes en cristal y decoración. No se reproduce en agua dulce.",
   "iucn": "No evaluado",
-  "market_notes": "Menos común que el Cebra pero igualmente eficaz. Muy valorado en acuarios de estética oscura.",
-  "order": "Cycloneritida",
-  "class": "Gastropoda",
-  "important_notes": "El más grande de los Neritina — hasta 3 cm. Limpiador eficaz de algas verdes en cristal y decoración. No se reproduce en agua dulce."
+  "market_notes": "Menos común que el Cebra pero igualmente eficaz. Muy valorado en acuarios de estética oscura."
 }

@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Nannostomus beckfordi var. Rojo — línea roja más intensa",
-    "Nannostomus beckfordi var. Dorado — cuerpo dorado predominante"
-  ],
-  "description": "El Pez Lápiz (Nannostomus beckfordi) es originario de las cuencas del Amazonas y ríos de Guayana. Su nombre viene de su cuerpo alargado y delgado como un lápiz. La mayoría de especies presentan un patrón de bandas diferente de noche (patrón nocturno). Son peces muy delicados típicos de aguas blackwater ácidas.",
+  "order": "Characiformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "América del Sur (Brasil, Guyana, Surinam)",
     "countries": [
@@ -17,13 +14,17 @@
   },
   "max_size_cm": 6,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Omnívoro. Micro-gránulos, artemia nauplius, dafnia. Solo come en zona media-superficie.",
-  "behavior": "Cardumen de mínimo 8. Nada horizontal, inclinado. Los machos se exhiben entre sí.",
+  "level": "Medio",
   "recommended_school": 8,
-  "level": "Fácil",
+  "description": "El Pez Lápiz (Nannostomus beckfordi) es originario de las cuencas del Amazonas y ríos de Guayana. Su nombre viene de su cuerpo alargado y delgado como un lápiz. La mayoría de especies presentan un patrón de bandas diferente de noche (patrón nocturno). Son peces muy delicados típicos de aguas blackwater ácidas.",
+  "variants": [
+    "Nannostomus beckfordi var. Rojo — línea roja más intensa",
+    "Nannostomus beckfordi var. Dorado — cuerpo dorado predominante"
+  ],
+  "behavior": "Cardumen de mínimo 8. Nada horizontal, inclinado. Los machos se exhiben entre sí.",
+  "feeding_detail": "Omnívoro. Micro-gránulos, artemia nauplius, dafnia. Solo come en zona media-superficie.",
+  "sexing": "Machos con coloración más intensa y aletas más extendidas. Las hembras son más redondeadas en el abdomen. Diferencia clara en adultos bien alimentados.",
+  "reproduction": "Ovíparo de freza libre entre plantas finas. Agua blanda y muy ácida estimula la reproducción. El patrón de coloración cambia completamente de noche.",
   "substrate": [
     "Arena fina oscura"
   ],
@@ -34,8 +35,6 @@
   "light_detail": "8 h/día, intensidad muy tenue. Especie de aguas negras bajo dosel cerrado — la luz difusa es su hábitat natural.",
   "filtration": "Filtro de esponja de flujo mínimo. Agua blanda (GH 0–8), ácida (pH 4.5–6.5), con turba o catappa. Especie frágil ante parámetros erróneos.",
   "water_changes": "20–25% semanal",
-  "sexing": "Machos con coloración más intensa y aletas más extendidas. Las hembras son más redondeadas en el abdomen. Diferencia clara en adultos bien alimentados.",
-  "reproduction": "Ovíparo de freza libre entre plantas finas. Agua blanda y muy ácida estimula la reproducción. El patrón de coloración cambia completamente de noche.",
   "compatibility_notes": "Pacífico. Solo con especies nano de aguas negras: Boraras, Chili Rasbora y camarones Neocaridina. Incompatible con peces de agua dura o con peces > 4 cm.",
   "diseases": [
     {
@@ -44,9 +43,7 @@
       "solution": "Anti-ich a dosis reducida."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Especie delicada. Agua blanda y ácida. Aclimatación lenta.",
-  "order": "Characiformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Especie delicada. Agua blanda y ácida. Aclimatación lenta."
 }

@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Eriocaulon cinereum — roseta de hojas muy finas verde-gris, globo central"
-  ],
-  "description": "El Eriocaulon Cinereum es originario de India y el SE asiático. Planta de roseta ultra-compacta con hojas muy finas de color verde-grisáceo. Muy exigente en calidad de agua — necesita agua extremadamente blanda y ácida. Para aquascapistas avanzados.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "Asia (India, SE Asia)",
     "countries": [
@@ -18,39 +16,28 @@
   },
   "max_size_cm": 10,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": true,
-  "fertilizer": "CO₂ inyectado + agua de ósmosis + fertilización micro precisa.",
-  "uses": "Roseta de primer plano para aquascaping avanzado. Muy exigente.",
+  "level": "Primer plano",
+  "description": "El Eriocaulon Cinereum es originario de India y el SE asiático. Planta de roseta ultra-compacta con hojas muy finas de color verde-grisáceo. Muy exigente en calidad de agua — necesita agua extremadamente blanda y ácida. Para aquascapistas avanzados.",
+  "variants": [
+    "Eriocaulon cinereum — roseta de hojas muy finas verde-gris, globo central"
+  ],
+  "behavior": "Roseta esférica de hojas finas en abanico. Solo para acuaristas muy avanzados — de las más difíciles.",
   "propagation": "División de la roseta en plantas hijas.",
   "substrate": [
     "Sustrato nutritivo fino (ADA Amazonia)"
   ],
   "substrate_detail": "Sustrato nutritivo para mejores resultados.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Planta especialista — solo en acuarios biotopo de aguas muy blandas.",
   "light": "Alta",
   "light_detail": "10–12 h/día.",
+  "co2": true,
+  "co2_detail": "Obligatorio. Además requiere agua de ósmosis (GH 0–2) y pH 5.5–6.5.",
+  "fertilizer": "CO₂ inyectado + agua de ósmosis + fertilización micro precisa.",
+  "uses": "Roseta de primer plano para aquascaping avanzado. Muy exigente.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -68,12 +55,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "Planta de roseta muy exigente originaria de Asia. Requiere sustrato nutritivo, agua blanda y ácida, CO₂ y luz alta. Solo para acuaristas experimentados.",
   "iucn": "No evaluado",
-  "market_notes": "Solo para acuaristas muy avanzados. Agua de ósmosis obligatoria.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Roseta esférica de hojas finas en abanico. Solo para acuaristas muy avanzados — de las más difíciles.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Planta especialista — solo en acuarios biotopo de aguas muy blandas.",
-  "co2_detail": "Obligatorio. Además requiere agua de ósmosis (GH 0–2) y pH 5.5–6.5."
+  "market_notes": "Solo para acuaristas muy avanzados. Agua de ósmosis obligatoria."
 }

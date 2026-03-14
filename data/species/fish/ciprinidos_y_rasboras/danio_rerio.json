@@ -1,14 +1,6 @@
 {
   "order": "Cypriniformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    5,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "Sur de Asia",
     "countries": [
@@ -22,16 +14,35 @@
     "habitat": "Arrozales, arroyos de montaña y llanura, pozas temporales — aguas claras a levemente turbias",
     "wild_params": "pH 6.0–8.0, GH 5–15, temperatura 16–24 °C"
   },
+  "max_size_cm": 5,
+  "lifespan_years": "3–5",
+  "level": "Medio",
+  "recommended_school": 6,
+  "description": "El Danio Cebra (Danio rerio) es nativo del noreste de India, Nepal y Bangladesh, habitando arrozales, riachuelos y pozas temporales de agua templada. Es el vertebrado de laboratorio más utilizado en el mundo en biología del desarrollo y genética (modelo animal de referencia). Extremadamente resistente, tolera temperaturas de 15–30 °C y amplia variación de parámetros.",
+  "variants": [
+    "Danio rerio — forma tipo, rayas azules y doradas",
+    "Danio rerio var. Longfin — cultivar de aleta larga",
+    "Danio rerio var. Leopard — Danio frankei (patrón moteado, válido como especie o cultivar)",
+    "Danio rerio var. Albino",
+    "Danio rerio var. GloFish — modificado genéticamente (patentado)"
+  ],
+  "behavior": "Activo, rápido y de cardumen compacto. Grupo mínimo de 6. Nada en estrato medio-superior. Puede perseguir a peces más lentos pero raramente causa daño. Ideal como especie de ciclado y para acuarios de principiantes.",
+  "feeding_detail": "Omnívoro. Acepta cualquier alimento: escamas, gránulos micro, artemia, dafnia. 2 veces al día. No requiere dieta especial.",
+  "sexing": "Hembras notablemente más voluminosas en el vientre — especialmente cuando están llenas de huevos. Machos más esbeltos.",
+  "reproduction": "Ovíparo de freza libre y voraz con sus propios huevos. Colocar rejilla en el fondo o usar mucho Java Moss para proteger huevos. Sin cuidado parental.",
   "substrate": [
     "Arena",
     "Grava",
     "Cualquier sustrato"
   ],
   "substrate_detail": "Sustrato indiferente — grava, arena o mixto. Especie muy adaptable que vive en zona media-alta, lejos del fondo.",
-  "lighting": "Moderada",
-  "description": "El Danio Cebra (Danio rerio) es nativo del noreste de India, Nepal y Bangladesh, habitando arrozales, riachuelos y pozas temporales de agua templada. Es el vertebrado de laboratorio más utilizado en el mundo en biología del desarrollo y genética (modelo animal de referencia). Extremadamente resistente, tolera temperaturas de 15–30 °C y amplia variación de parámetros.",
-  "behavior": "Activo, rápido y de cardumen compacto. Grupo mínimo de 6. Nada en estrato medio-superior. Puede perseguir a peces más lentos pero raramente causa daño. Ideal como especie de ciclado y para acuarios de principiantes.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Opcionales",
+  "plant_detail": "No requiere plantas pero las disfruta como refugio. Plantas densas favorecen la reproducción.",
+  "light": "Media–Alta",
+  "light_detail": "8–12 h/día, cualquier intensidad. Especie de aguas claras de montaña — tolera bien la iluminación intensa.",
+  "filtration": "Filtro de esponja o externo. Tolera corriente moderada — activo y nadador, la corriente lo ejercita.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Compatible con prácticamente cualquier especie pacífica. Puede intimidar a peces tímidos por su velocidad. Incompatible con peces lentos de aletas largas que pueda morder.",
   "diseases": [
     {
       "symptom": "Micobacteriosis — cuerpo curvado, úlceras, adelgazamiento crónico",
@@ -49,31 +60,7 @@
       "solution": "Antibiótico de amplio espectro. Aislar el ejemplar afectado."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "variants": [
-    "Danio rerio — forma tipo, rayas azules y doradas",
-    "Danio rerio var. Longfin — cultivar de aleta larga",
-    "Danio rerio var. Leopard — Danio frankei (patrón moteado, válido como especie o cultivar)",
-    "Danio rerio var. Albino",
-    "Danio rerio var. GloFish — modificado genéticamente (patentado)"
-  ],
   "important_notes": "El Danio es uno de los primeros organismos vertebrados utilizados en investigación genética — el GloFish® fue creado con genes de medusa insertados en su ADN en 1999.",
-  "max_size_cm": 5,
-  "lifespan_years": "3–5",
-  "feeding_detail": "Omnívoro. Acepta cualquier alimento: escamas, gránulos micro, artemia, dafnia. 2 veces al día. No requiere dieta especial.",
-  "recommended_school": 6,
-  "level": "Fácil",
-  "plants": "Opcionales",
-  "plant_detail": "No requiere plantas pero las disfruta como refugio. Plantas densas favorecen la reproducción.",
-  "light": "Media–Alta",
-  "light_detail": "8–12 h/día, cualquier intensidad. Especie de aguas claras de montaña — tolera bien la iluminación intensa.",
-  "filtration": "Filtro de esponja o externo. Tolera corriente moderada — activo y nadador, la corriente lo ejercita.",
-  "water_changes": "20% semanal",
-  "sexing": "Hembras notablemente más voluminosas en el vientre — especialmente cuando están llenas de huevos. Machos más esbeltos.",
-  "reproduction": "Ovíparo de freza libre y voraz con sus propios huevos. Colocar rejilla en el fondo o usar mucho Java Moss para proteger huevos. Sin cuidado parental.",
-  "compatibility_notes": "Compatible con prácticamente cualquier especie pacífica. Puede intimidar a peces tímidos por su velocidad. Incompatible con peces lentos de aletas largas que pueda morder.",
   "iucn": "Preocupación menor (LC)",
-  "market_notes": "Disponible en todas las tiendas. Los GloFish (fluorescentes) son Danio rerio transgénico — solo disponibles en EE.UU.",
-  "class": "Actinopterygii"
+  "market_notes": "Disponible en todas las tiendas. Los GloFish (fluorescentes) son Danio rerio transgénico — solo disponibles en EE.UU."
 }

@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Aponogeton madagascariensis — hoja completamente calada, solo nervios visibles (aspecto de red)"
-  ],
-  "description": "El Aponogeton Madagascariensis es endémico de Madagascar. Sus hojas son completamente caladas — la lámina foliar está ausente, quedando solo el esqueleto de nervios visible. La planta más espectacular y rara del hobby. Requiere agua fresca, buena corriente y alta calidad de agua.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "Madagascar (endémica)",
     "countries": [
@@ -14,40 +12,29 @@
   },
   "max_size_cm": 60,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": true,
-  "fertilizer": "CO₂ + fertilizante completo + agua fresca y bien oxigenada.",
-  "uses": "Planta de bulbo única con hojas caladas (sin lámina foliar). La más rara del hobby.",
+  "level": "Zona media",
+  "description": "El Aponogeton Madagascariensis es endémico de Madagascar. Sus hojas son completamente caladas — la lámina foliar está ausente, quedando solo el esqueleto de nervios visible. La planta más espectacular y rara del hobby. Requiere agua fresca, buena corriente y alta calidad de agua.",
+  "variants": [
+    "Aponogeton madagascariensis — hoja completamente calada, solo nervios visibles (aspecto de red)"
+  ],
+  "behavior": "Hoja única: un esqueleto de nervaduras sin tejido laminar (hoja en red). Espectacular y rarísima.",
   "propagation": "Semillas o división del tubérculo.",
   "substrate": [
     "Sustrato nutritivo",
     "Grava fina"
   ],
   "substrate_detail": "Sustrato nutritivo para mejores resultados.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Planta solitaria — solo 1 en el acuario es suficiente por su impacto visual.",
   "light": "Media-Alta",
   "light_detail": "10–12 h/día.",
+  "co2": true,
+  "co2_detail": "Muy recomendado. Requiere agua fresca (22°C) y corriente moderada además del CO₂.",
+  "fertilizer": "CO₂ + fertilizante completo + agua fresca y bien oxigenada.",
+  "uses": "Planta de bulbo única con hojas caladas (sin lámina foliar). La más rara del hobby.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -65,12 +52,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "La planta enrejada más espectacular del acuario — solo tiene nervaduras, sin lámina foliar. Requiere aguas frías (18–22 °C) y descanso estacional. Muy difícil de mantener.",
   "iucn": "No evaluado",
-  "market_notes": "La más rara y espectacular del hobby. Requiere cuidados avanzados.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Hoja única: un esqueleto de nervaduras sin tejido laminar (hoja en red). Espectacular y rarísima.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Planta solitaria — solo 1 en el acuario es suficiente por su impacto visual.",
-  "co2_detail": "Muy recomendado. Requiere agua fresca (22°C) y corriente moderada además del CO₂."
+  "market_notes": "La más rara y espectacular del hobby. Requiere cuidados avanzados."
 }

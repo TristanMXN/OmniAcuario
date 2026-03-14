@@ -1,14 +1,6 @@
 {
   "order": "Characiformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    7,
-    8
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 6,
   "origin": {
     "region": "África Central (República Democrática del Congo)",
     "countries": [
@@ -18,15 +10,30 @@
     "habitat": "Aguas negras ácidas con mucha vegetación y materia orgánica en descomposición.",
     "wild_params": "pH 5.5–7.0, GH 1–10, temperatura 23–27 °C."
   },
+  "max_size_cm": 8,
+  "lifespan_years": "3–5",
+  "level": "Medio",
+  "recommended_school": 8,
+  "description": "El Tetra del Congo (Phenacogrammus interruptus) es originario de la cuenca del río Congo en la República Democrática del Congo. Es el tetra africano más popular del hobby. Los machos adultos son espectaculares: cuerpo con iridiscencia dorada-azul-verde que cambia con el ángulo de la luz, y aleta caudal con una extensión central característica. Requiere grupos grandes para lucir bien.",
+  "variants": [
+    "Phenacogrammus interruptus — iridiscencia dorada-azul, aleta caudal con extensión central en machos"
+  ],
+  "behavior": "Cardumen de mínimo 8 individuos para comportamiento natural. Los machos se exhiben continuamente. Zona media. Puede saltar — tapa recomendada.",
+  "feeding_detail": "Omnívoro. Escamas, gránulos, artemia, dafnia. 2 veces al día.",
+  "sexing": "Machos con aleta caudal con extensión central característica (filamento). La iridiscencia del cuerpo es más intensa en machos. Hembras más redondeadas sin el filamento caudal.",
+  "reproduction": "Ovíparo. Pone entre plantas finas. Sin cuidado parental. Los machos realizan exhibiciones de aletas extendidas antes del apareamiento. Agua blanda y ácida.",
   "substrate": [
     "Arena fina",
     "Grava"
   ],
   "substrate_detail": "Sustrato oscuro (arena negra o grava oscura). Hojas de catappa en el fondo para reproducir las aguas oscuras del río Congo. La iridiscencia resalta sobre fondos oscuros.",
-  "lighting": "Moderada",
-  "description": "El Tetra del Congo (Phenacogrammus interruptus) es originario de la cuenca del río Congo en la República Democrática del Congo. Es el tetra africano más popular del hobby. Los machos adultos son espectaculares: cuerpo con iridiscencia dorada-azul-verde que cambia con el ángulo de la luz, y aleta caudal con una extensión central característica. Requiere grupos grandes para lucir bien.",
-  "behavior": "Cardumen de mínimo 8 individuos para comportamiento natural. Los machos se exhiben continuamente. Zona media. Puede saltar — tapa recomendada.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Muy recomendadas",
+  "plant_detail": "Plantas de hoja ancha. Iluminación que resalte la iridiscencia.",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día, intensidad media-alta. La iridiscencia dorada-azul-verde solo se aprecia con buena iluminación desde el lateral. Evitar luz cenital directa.",
+  "filtration": "Filtro externo de caudal moderado con buena oxigenación. Agua ligeramente ácida y blanda (pH 6.0–7.0, GH 4–10). Sensible a nitratos elevados.",
+  "water_changes": "20–25% semanal",
+  "compatibility_notes": "Pacífico con peces de tamaño similar. No mezclar con peces pequeños (< 3 cm) que pueda perseguir. Compatible con Corydoras africanos, Loricaridos y Tetras grandes. Mínimo 8 individuos.",
   "diseases": [
     {
       "symptom": "Ich",
@@ -39,27 +46,7 @@
       "solution": "Mejorar iluminación. Verificar parámetros."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "variants": [
-    "Phenacogrammus interruptus — iridiscencia dorada-azul, aleta caudal con extensión central en machos"
-  ],
-  "max_size_cm": 8,
-  "lifespan_years": "3–5",
-  "feeding_detail": "Omnívoro. Escamas, gránulos, artemia, dafnia. 2 veces al día.",
-  "recommended_school": 8,
-  "level": "Intermedio",
-  "plants": "Muy recomendadas",
-  "plant_detail": "Plantas de hoja ancha. Iluminación que resalte la iridiscencia.",
-  "light": "Moderada",
-  "light_detail": "8–10 h/día, intensidad media-alta. La iridiscencia dorada-azul-verde solo se aprecia con buena iluminación desde el lateral. Evitar luz cenital directa.",
-  "filtration": "Filtro externo de caudal moderado con buena oxigenación. Agua ligeramente ácida y blanda (pH 6.0–7.0, GH 4–10). Sensible a nitratos elevados.",
-  "water_changes": "20–25% semanal",
-  "sexing": "Machos con aleta caudal con extensión central característica (filamento). La iridiscencia del cuerpo es más intensa en machos. Hembras más redondeadas sin el filamento caudal.",
-  "reproduction": "Ovíparo. Pone entre plantas finas. Sin cuidado parental. Los machos realizan exhibiciones de aletas extendidas antes del apareamiento. Agua blanda y ácida.",
-  "compatibility_notes": "Pacífico con peces de tamaño similar. No mezclar con peces pequeños (< 3 cm) que pueda perseguir. Compatible con Corydoras africanos, Loricaridos y Tetras grandes. Mínimo 8 individuos.",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "La iridiscencia solo se aprecia bien con iluminación adecuada.",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "La iridiscencia solo se aprecia bien con iluminación adecuada."
 }

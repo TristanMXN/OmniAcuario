@@ -1,14 +1,6 @@
 {
   "order": "Atheriniformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    5,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "Asia (Indonesia — lagos Ajamaru, Irian Jaya)",
     "countries": [
@@ -18,15 +10,30 @@
     "habitat": "Lagos de agua clara y cálida con vegetación acuática densa.",
     "wild_params": "pH 7.0–8.0, GH 10–20, temperatura 25–30 °C."
   },
+  "max_size_cm": 11,
+  "lifespan_years": "5–8",
+  "level": "Medio",
+  "recommended_school": 6,
+  "description": "El Pez Arcoíris de Boeseman (Melanotaenia boesemani) es endémico de los lagos Ajamaru en Irian Jaya, Indonesia Occidental. Su coloración bicolor es única en el mundo acuario: la mitad anterior azul-violeta y la posterior naranja-amarillo brillante. Todos los ejemplares en comercio son criados en cautiverio — la especie está en peligro en su hábitat natural.",
+  "variants": [
+    "Melanotaenia boesemani — mitad anterior azul-violeta, mitad posterior naranja-amarillo"
+  ],
+  "behavior": "Pez activo y veloz. Los machos exhiben sus colores constantemente compitiendo entre sí. Cardumen de mínimo 6 con varias hembras por macho. Puede saltar — tapa recomendada.",
+  "feeding_detail": "Omnívoro. Escamas/gránulos, artemia, mosquito larvae, vegetales. 2 veces al día.",
+  "sexing": "Machos con la coloración bicolor mucho más intensa: azul-violeta anterior y naranja-amarillo posterior. Hembras con colores apagados y cuerpo más plateado-grisáceo.",
+  "reproduction": "Ovíparo. La hembra pone huevos con filamentos en plantas o musgos. Sin cuidado parental. Los adultos pueden comer los huevos — separar o usar mucho musgo de Java.",
   "substrate": [
     "Arena fina",
     "Grava"
   ],
   "substrate_detail": "Arena fina o grava pequeña. Sustrato oscuro contrasta con el azul-violeta de la mitad anterior. Vegetación densa en los laterales y zona de nado abierta en el centro.",
-  "lighting": "Moderada",
-  "description": "El Pez Arcoíris de Boeseman (Melanotaenia boesemani) es endémico de los lagos Ajamaru en Irian Jaya, Indonesia Occidental. Su coloración bicolor es única en el mundo acuario: la mitad anterior azul-violeta y la posterior naranja-amarillo brillante. Todos los ejemplares en comercio son criados en cautiverio — la especie está en peligro en su hábitat natural.",
-  "behavior": "Pez activo y veloz. Los machos exhiben sus colores constantemente compitiendo entre sí. Cardumen de mínimo 6 con varias hembras por macho. Puede saltar — tapa recomendada.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Muy recomendadas",
+  "plant_detail": "Acuario plantado con espacio abierto para nadar.",
+  "light": "Moderada-Alta",
+  "light_detail": "10–12 h/día, intensidad media-alta. La coloración bicolor del Boesemani solo se manifiesta plenamente con buena iluminación y espacio para nadar.",
+  "filtration": "Filtro externo o interior de caudal moderado con buena oxigenación. Agua de pH 7.0–8.0, ligeramente dura — diferente a la mayoría de peces tropicales.",
+  "water_changes": "20–25% semanal",
+  "compatibility_notes": "Pacífico. Compatible con otros arcoíris, Tetras robustos, Corydoras y Rasboras. La corriente en el acuario ejercita al cardumen. Incompatible con peces de agua muy ácida.",
   "diseases": [
     {
       "symptom": "Ich",
@@ -39,27 +46,7 @@
       "solution": "Mejorar dieta con alimento vivo. Aumentar horas de luz."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "variants": [
-    "Melanotaenia boesemani — mitad anterior azul-violeta, mitad posterior naranja-amarillo"
-  ],
-  "max_size_cm": 11,
-  "lifespan_years": "5–8",
-  "feeding_detail": "Omnívoro. Escamas/gránulos, artemia, mosquito larvae, vegetales. 2 veces al día.",
-  "recommended_school": 6,
-  "level": "Intermedio",
-  "plants": "Muy recomendadas",
-  "plant_detail": "Acuario plantado con espacio abierto para nadar.",
-  "light": "Moderada-Alta",
-  "light_detail": "10–12 h/día, intensidad media-alta. La coloración bicolor del Boesemani solo se manifiesta plenamente con buena iluminación y espacio para nadar.",
-  "filtration": "Filtro externo o interior de caudal moderado con buena oxigenación. Agua de pH 7.0–8.0, ligeramente dura — diferente a la mayoría de peces tropicales.",
-  "water_changes": "20–25% semanal",
-  "sexing": "Machos con la coloración bicolor mucho más intensa: azul-violeta anterior y naranja-amarillo posterior. Hembras con colores apagados y cuerpo más plateado-grisáceo.",
-  "reproduction": "Ovíparo. La hembra pone huevos con filamentos en plantas o musgos. Sin cuidado parental. Los adultos pueden comer los huevos — separar o usar mucho musgo de Java.",
-  "compatibility_notes": "Pacífico. Compatible con otros arcoíris, Tetras robustos, Corydoras y Rasboras. La corriente en el acuario ejercita al cardumen. Incompatible con peces de agua muy ácida.",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "En peligro (endémico del lago Ajamaru, Indonesia)",
-  "market_notes": "Todos los ejemplares en comercio son criados en cautiverio.",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Todos los ejemplares en comercio son criados en cautiverio."
 }

@@ -1,14 +1,6 @@
 {
   "order": "Characiformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    4,
-    5
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 6,
   "origin": {
     "region": "América del Sur (Brasil, Bolivia)",
     "countries": [
@@ -19,15 +11,31 @@
     "habitat": "Aguas lentas con vegetación densa y substratos oscuros.",
     "wild_params": "pH 6.0–7.5, GH 2–15, temperatura 22–28 °C."
   },
+  "max_size_cm": 4,
+  "lifespan_years": "3–5",
+  "level": "Medio",
+  "recommended_school": 6,
+  "description": "El Tetra Fantasma Negro (Hyphessobrycon megalopterus) es originario de las cuencas del río São Francisco y río Paraguay en Brasil y Bolivia. Los machos son completamente negros con aletas muy desarrolladas que lucen constantemente frente a otros machos. Las hembras son más coloridas: cuerpo rojizo con mancha negra. Un espectáculo continuo en el acuario.",
+  "variants": [
+    "Hyphessobrycon megalopterus — forma tipo, aletas negras translúcidas",
+    "Hyphessobrycon megalopterus var. Velo — aletas elongadas (cultivar)"
+  ],
+  "behavior": "Los machos exhiben sus aletas extendidas constantemente en rituales de dominancia — raramente hay peleas reales. Zona media. Cardumen de 6+.",
+  "feeding_detail": "Omnívoro. Escamas pequeñas, artemia, dafnia congelada. 2 veces al día.",
+  "sexing": "Machos completamente negros con aletas muy desarrolladas. Hembras con cuerpo rojizo-rosado y mancha negra en el flanco — más coloridas que los machos.",
+  "reproduction": "Ovíparo de freza libre entre plantas. Sin cuidado parental. Los machos se exhiben elaboradamente antes del apareamiento — extensión total de aletas en ritual constante.",
   "substrate": [
     "Arena fina",
     "Grava"
   ],
   "substrate_detail": "Sustrato oscuro. Hojas de catappa y turba para aguas ligeramente ácidas. El fondo oscuro realza el negro intenso de los machos.",
-  "lighting": "Moderada",
-  "description": "El Tetra Fantasma Negro (Hyphessobrycon megalopterus) es originario de las cuencas del río São Francisco y río Paraguay en Brasil y Bolivia. Los machos son completamente negros con aletas muy desarrolladas que lucen constantemente frente a otros machos. Las hembras son más coloridas: cuerpo rojizo con mancha negra. Un espectáculo continuo en el acuario.",
-  "behavior": "Los machos exhiben sus aletas extendidas constantemente en rituales de dominancia — raramente hay peleas reales. Zona media. Cardumen de 6+.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Muy recomendadas",
+  "plant_detail": "Acuario plantado oscuro. Resalta el negro del pez.",
+  "light": "Tenue-Moderada",
+  "light_detail": "8 h/día, luz suave. Zonas de sombra con plantas densas son esenciales — los machos exhiben sus aletas extendidas en luz difusa.",
+  "filtration": "Filtro de esponja o externo de bajo caudal. Agua blanda (GH 2–15) y ligeramente ácida. Nitratos < 20 ppm.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Pacífico. Compatible con Tetras pequeños, Rasboras, Corydoras y peces de agua blanda. Los machos se exhiben entre sí constantemente — raramente hay peleas reales.",
   "diseases": [
     {
       "symptom": "Ich",
@@ -40,28 +48,7 @@
       "solution": "Revisar compatibilidad. Mejorar calidad de agua."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "variants": [
-    "Hyphessobrycon megalopterus — forma tipo, aletas negras translúcidas",
-    "Hyphessobrycon megalopterus var. Velo — aletas elongadas (cultivar)"
-  ],
-  "max_size_cm": 4,
-  "lifespan_years": "3–5",
-  "feeding_detail": "Omnívoro. Escamas pequeñas, artemia, dafnia congelada. 2 veces al día.",
-  "recommended_school": 6,
-  "level": "Fácil",
-  "plants": "Muy recomendadas",
-  "plant_detail": "Acuario plantado oscuro. Resalta el negro del pez.",
-  "light": "Tenue-Moderada",
-  "light_detail": "8 h/día, luz suave. Zonas de sombra con plantas densas son esenciales — los machos exhiben sus aletas extendidas en luz difusa.",
-  "filtration": "Filtro de esponja o externo de bajo caudal. Agua blanda (GH 2–15) y ligeramente ácida. Nitratos < 20 ppm.",
-  "water_changes": "20% semanal",
-  "sexing": "Machos completamente negros con aletas muy desarrolladas. Hembras con cuerpo rojizo-rosado y mancha negra en el flanco — más coloridas que los machos.",
-  "reproduction": "Ovíparo de freza libre entre plantas. Sin cuidado parental. Los machos se exhiben elaboradamente antes del apareamiento — extensión total de aletas en ritual constante.",
-  "compatibility_notes": "Pacífico. Compatible con Tetras pequeños, Rasboras, Corydoras y peces de agua blanda. Los machos se exhiben entre sí constantemente — raramente hay peleas reales.",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Los machos exhiben sus aletas continuamente — muy decorativos.",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Los machos exhiben sus aletas continuamente — muy decorativos."
 }

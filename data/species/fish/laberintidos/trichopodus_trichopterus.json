@@ -1,14 +1,6 @@
 {
   "order": "Anabantiformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    12,
-    15
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 2,
   "origin": {
     "region": "Asia (SE Asia — Myanmar, Tailandia, Laos, Vietnam, Indonesia)",
     "countries": [
@@ -22,15 +14,33 @@
     "habitat": "Aguas lentas o estancadas con vegetación densa. Tolera agua con poco oxígeno.",
     "wild_params": "pH 6.0–8.5, GH 5–25, temperatura 22–28 °C."
   },
+  "max_size_cm": 15,
+  "lifespan_years": "4–6",
+  "level": "Superficie",
+  "recommended_school": 1,
+  "description": "El Gurami de Tres Puntos (Trichogaster trichopterus) es originario del SE asiático. Su nombre viene de las tres manchas características: dos en los flancos y una en el ojo. Existe en variantes de crianza: azul, dorado, cosby (marmolado) y plateado. Es uno de los guramis más resistentes y asequibles. Semi-agresivo con otros gurami macho.",
+  "variants": [
+    "Trichopodus trichopterus var. Azul — forma tipo azul-grisácea",
+    "Trichopodus trichopterus var. Oro — dorado uniforme sin manchas oscuras",
+    "Trichopodus trichopterus var. Opalino — azul pálido con manchas difusas",
+    "Trichopodus trichopterus var. Cosby — patrón marmolado azul y negro"
+  ],
+  "behavior": "Semi-agresivo con otros gurami macho — solo 1 macho por acuario. Compatible con peces pacíficos de tamaño similar. El macho construye nido de burbujas.",
+  "feeding_detail": "Omnívoro. Escamas, gránulos, artemia, pequeños insectos. 2 veces al día.",
+  "sexing": "Macho con aleta dorsal puntiaguda y más larga. Hembra con aleta dorsal redondeada y abdomen más voluminoso. Diferencia clara en adultos.",
+  "reproduction": "El macho construye nido de burbujas en superficie bajo plantas flotantes. Tras la freza, cuida los huevos solo. Retirar la hembra tras la puesta.",
   "substrate": [
     "Arena fina",
     "Grava"
   ],
   "substrate_detail": "Arena fina o grava. Plantas flotantes para el nido de burbujas. Tolerante con cualquier sustrato — especie robusta.",
-  "lighting": "Moderada",
-  "description": "El Gurami de Tres Puntos (Trichogaster trichopterus) es originario del SE asiático. Su nombre viene de las tres manchas características: dos en los flancos y una en el ojo. Existe en variantes de crianza: azul, dorado, cosby (marmolado) y plateado. Es uno de los guramis más resistentes y asequibles. Semi-agresivo con otros gurami macho.",
-  "behavior": "Semi-agresivo con otros gurami macho — solo 1 macho por acuario. Compatible con peces pacíficos de tamaño similar. El macho construye nido de burbujas.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Recomendadas",
+  "plant_detail": "Vegetación densa para refugio de la hembra.",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día, intensidad media. Las distintas variedades de color (azul, dorado, cosby) muestran mejor sus colores con iluminación lateral.",
+  "filtration": "Filtro de esponja o externo de bajo-moderado caudal. Especie robusta que tolera variaciones de calidad del agua. Sin corriente fuerte.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Semi-agresivo con otros guramis macho — solo 1 macho por acuario. Compatible con Tetras, Rasboras y Corydoras pacíficos. Incompatible con Betta — peleas mortales.",
   "diseases": [
     {
       "symptom": "Ich",
@@ -43,30 +53,7 @@
       "solution": "Antibiótico. Mejorar calidad de agua."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "reproduction": "El macho construye nido de burbujas en superficie bajo plantas flotantes. Tras la freza, cuida los huevos solo. Retirar la hembra tras la puesta.",
-  "variants": [
-    "Trichopodus trichopterus var. Azul — forma tipo azul-grisácea",
-    "Trichopodus trichopterus var. Oro — dorado uniforme sin manchas oscuras",
-    "Trichopodus trichopterus var. Opalino — azul pálido con manchas difusas",
-    "Trichopodus trichopterus var. Cosby — patrón marmolado azul y negro"
-  ],
-  "max_size_cm": 15,
-  "lifespan_years": "4–6",
-  "feeding_detail": "Omnívoro. Escamas, gránulos, artemia, pequeños insectos. 2 veces al día.",
-  "recommended_school": 1,
-  "level": "Fácil",
-  "plants": "Recomendadas",
-  "plant_detail": "Vegetación densa para refugio de la hembra.",
-  "light": "Moderada",
-  "light_detail": "8–10 h/día, intensidad media. Las distintas variedades de color (azul, dorado, cosby) muestran mejor sus colores con iluminación lateral.",
-  "filtration": "Filtro de esponja o externo de bajo-moderado caudal. Especie robusta que tolera variaciones de calidad del agua. Sin corriente fuerte.",
-  "water_changes": "20% semanal",
-  "sexing": "Macho con aleta dorsal puntiaguda y más larga. Hembra con aleta dorsal redondeada y abdomen más voluminoso. Diferencia clara en adultos.",
-  "compatibility_notes": "Semi-agresivo con otros guramis macho — solo 1 macho por acuario. Compatible con Tetras, Rasboras y Corydoras pacíficos. Incompatible con Betta — peleas mortales.",
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "Muy resistente. Disponible en varias coloraciones.",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "Muy resistente. Disponible en varias coloraciones."
 }

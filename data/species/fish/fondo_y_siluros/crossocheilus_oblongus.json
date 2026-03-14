@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Crossocheilus oblongus — franja negra lateral, aletas transparentes con borde oscuro"
-  ],
-  "description": "El Zorro Volador (Crossocheilus oblongus) es originario del SE asiático. Su franja lateral negra sobre cuerpo plateado es característica, aunque frecuentemente se confunde con el True Flying Fox (Epalzeorhynchos kalopterus). Es un eficaz comedor de algas negras barba (BBA) y algas en pelo. Semi-agresivo con su propia especie: solo 1 o grupos de 5+.",
+  "order": "Cypriniformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "Asia (SE Asia — Tailandia, Malasia, Indonesia)",
     "countries": [
@@ -17,13 +15,16 @@
   },
   "max_size_cm": 15,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Herbívoro. Raspa algas del sustrato y decoración. Suplementar con verduras y tabletas.",
-  "behavior": "Semi-agresivo con otros Crossocheilus. Solo 1 por acuario o grupos de 5+.",
+  "level": "Fondo",
   "recommended_school": 1,
-  "level": "Fácil",
+  "description": "El Zorro Volador (Crossocheilus oblongus) es originario del SE asiático. Su franja lateral negra sobre cuerpo plateado es característica, aunque frecuentemente se confunde con el True Flying Fox (Epalzeorhynchos kalopterus). Es un eficaz comedor de algas negras barba (BBA) y algas en pelo. Semi-agresivo con su propia especie: solo 1 o grupos de 5+.",
+  "variants": [
+    "Crossocheilus oblongus — franja negra lateral, aletas transparentes con borde oscuro"
+  ],
+  "behavior": "Semi-agresivo con otros Crossocheilus. Solo 1 por acuario o grupos de 5+.",
+  "feeding_detail": "Herbívoro. Raspa algas del sustrato y decoración. Suplementar con verduras y tabletas.",
+  "sexing": "Prácticamente imposible externamente. Las hembras pueden ser ligeramente más redondeadas en el abdomen.",
+  "reproduction": "No se ha reproducido con éxito en cautiverio doméstico. Todos los ejemplares del mercado son importados o criados en criaderos asiáticos.",
   "substrate": [
     "Arena",
     "Grava fina"
@@ -35,8 +36,6 @@
   "light_detail": "8–10 h/día, intensidad media. La buena iluminación estimula el crecimiento de algas blandas que son su alimento principal.",
   "filtration": "Filtro externo de caudal moderado. Agua ligeramente ácida (pH 6.5–7.5). Especie de ríos de corriente moderada.",
   "water_changes": "20–25% semanal",
-  "sexing": "Prácticamente imposible externamente. Las hembras pueden ser ligeramente más redondeadas en el abdomen.",
-  "reproduction": "No se ha reproducido con éxito en cautiverio doméstico. Todos los ejemplares del mercado son importados o criados en criaderos asiáticos.",
   "compatibility_notes": "Semi-agresivo con su propia especie — 1 por acuario o grupos de 5+ para dispersar la agresividad. Compatible con peces de zona media y alta que no compitan por el fondo.",
   "diseases": [
     {
@@ -45,9 +44,7 @@
       "solution": "Anti-ich."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "No confundir con Epalzeorhynchos kalopterus (Flying Fox verdadero).",
-  "order": "Cypriniformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "No confundir con Epalzeorhynchos kalopterus (Flying Fox verdadero)."
 }

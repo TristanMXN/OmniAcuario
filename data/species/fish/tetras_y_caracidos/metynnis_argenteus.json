@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Pez Dólar de Plata"
-  ],
-  "description": "Pez Dólar de Plata (Metynnis argenteus) es una especie de acuario fácil de cuidar, originaria de América del Sur. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 15 cm en cautiverio.",
+  "order": "Characiformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "América del Sur (Brasil, Venezuela, Guyana, Paraguay)",
     "countries": [
@@ -17,13 +15,16 @@
   },
   "max_size_cm": 15,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "En acuario: espirulina, algas, verduras blanqueadas (espinaca, pepino, calabacín), alimento en escamas vegetales. Alimentar 2-3 veces al día.",
-  "behavior": "Mantener en grupos de mínimo 6 ejemplares. Especie pacífico que habita el estrato medio-bajo del acuario.",
-  "recommended_school": 6,
   "level": "Medio",
+  "recommended_school": 6,
+  "description": "Pez Dólar de Plata (Metynnis argenteus) es una especie de acuario fácil de cuidar, originaria de América del Sur. Apreciada en el hobby por su belleza y comportamiento. Alcanza aproximadamente 15 cm en cautiverio.",
+  "variants": [
+    "Pez Dólar de Plata"
+  ],
+  "behavior": "Mantener en grupos de mínimo 6 ejemplares. Especie pacífico que habita el estrato medio-bajo del acuario.",
+  "feeding_detail": "En acuario: espirulina, algas, verduras blanqueadas (espinaca, pepino, calabacín), alimento en escamas vegetales. Alimentar 2-3 veces al día.",
+  "sexing": "Machos con borde posterior de la aleta anal rojizo. Hembras más redondeadas y sin el borde rojo.",
+  "reproduction": "Ovíparo de freza libre. Puede desovar en acuario pero rara vez se logra criar las crías — comen los huevos.",
   "substrate": [
     "Arena fina",
     "Grava"
@@ -35,8 +36,6 @@
   "light_detail": "8–10 h/día, intensidad media. Especie robusta que tolera bien variaciones de iluminación.",
   "filtration": "Filtro externo potente. Especie grande que produce muchos residuos nitrogenados.",
   "water_changes": "20–25% semanal",
-  "sexing": "Machos con borde posterior de la aleta anal rojizo. Hembras más redondeadas y sin el borde rojo.",
-  "reproduction": "Ovíparo de freza libre. Puede desovar en acuario pero rara vez se logra criar las crías — comen los huevos.",
   "compatibility_notes": "Compatible solo con peces grandes que no entren en su boca. Incompatible absolutamente con plantas blandas y con cualquier pez pequeño.",
   "diseases": [
     {
@@ -55,9 +54,7 @@
       "solution": "Metronidazol 400mg/100L durante 3 días con recambios parciales."
     }
   ],
+  "important_notes": "El Dólar de Plata puede llegar a 15 cm — frecuentemente comprado a 3 cm. Devora cualquier planta que no sea dura. Solo para acuarios grandes con peces robustos.",
   "iucn": "No evaluado",
-  "market_notes": "Crece hasta 15cm. Devora plantas absolutamente todas. Solo para acuarios sin vegetación.",
-  "order": "Characiformes",
-  "class": "Actinopterygii",
-  "important_notes": "El Dólar de Plata puede llegar a 15 cm — frecuentemente comprado a 3 cm. Devora cualquier planta que no sea dura. Solo para acuarios grandes con peces robustos."
+  "market_notes": "Crece hasta 15cm. Devora plantas absolutamente todas. Solo para acuarios sin vegetación."
 }

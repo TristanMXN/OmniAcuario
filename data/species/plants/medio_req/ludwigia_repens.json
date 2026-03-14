@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Ludwigia repens — hojas verde oscuro por encima, rojizo por debajo con poca luz",
-    "Ludwigia repens 'Rubin' — rojo intenso con buena luz y CO₂"
-  ],
-  "description": "La Ludwigia Repens es originaria de América del Norte y Central. Planta de tallo que desarrolla coloración roja intensa con buena luz y CO₂. Sin ellos, permanece verde. Es la introducción perfecta al mundo de las plantas rojas.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "América del Norte y Central",
     "countries": [
@@ -18,12 +15,13 @@
   },
   "max_size_cm": 50,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": true,
-  "fertilizer": "Fertilizante completo con hierro. CO₂ para máxima coloración roja.",
-  "uses": "Planta de tallo roja para fondo trasero. Contraste de color en acuarios plantados.",
+  "level": "Zona media",
+  "description": "La Ludwigia Repens es originaria de América del Norte y Central. Planta de tallo que desarrolla coloración roja intensa con buena luz y CO₂. Sin ellos, permanece verde. Es la introducción perfecta al mundo de las plantas rojas.",
+  "variants": [
+    "Ludwigia repens — hojas verde oscuro por encima, rojizo por debajo con poca luz",
+    "Ludwigia repens 'Rubin' — rojo intenso con buena luz y CO₂"
+  ],
+  "behavior": "Tallo erecto con hojas verdes en el envés y rojo-naranja en el haz con buena luz. Crecimiento moderado.",
   "propagation": "Esquejes del tallo. Plantar los 5cm inferiores.",
   "substrate": [
     "Arena",
@@ -31,28 +29,17 @@
     "Sustrato nutritivo"
   ],
   "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con todas las plantas. El color rojo se intensifica con CO₂.",
   "light": "Media-Alta",
   "light_detail": "10–12 h/día.",
+  "co2": true,
+  "co2_detail": "Beneficioso. Sin CO₂ las hojas son verdes; con CO₂ desarrollan el rojo característico.",
+  "fertilizer": "Fertilizante completo con hierro. CO₂ para máxima coloración roja.",
+  "uses": "Planta de tallo roja para fondo trasero. Contraste de color en acuarios plantados.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -70,12 +57,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "Similar a L. palustris pero de hojas más redondeadas. Una de las plantas rojas más accesibles para principiantes con algo de luz.",
   "iucn": "No evaluado",
-  "market_notes": "Muy disponible. Color rojo solo con CO₂ y luz intensa.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Tallo erecto con hojas verdes en el envés y rojo-naranja en el haz con buena luz. Crecimiento moderado.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Compatible con todas las plantas. El color rojo se intensifica con CO₂.",
-  "co2_detail": "Beneficioso. Sin CO₂ las hojas son verdes; con CO₂ desarrollan el rojo característico."
+  "market_notes": "Muy disponible. Color rojo solo con CO₂ y luz intensa."
 }

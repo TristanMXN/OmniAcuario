@@ -1,10 +1,6 @@
 {
-  "variants": [
-    "Anubias barteri var. barteri — forma tipo, hojas grandes ovaladas",
-    "Anubias barteri var. coffeifolia — hojas con relieve como granos de café",
-    "Anubias barteri var. caladiifolia — hojas muy grandes"
-  ],
-  "description": "La Anubias Barteri es la versión grande del género Anubias. Misma dureza y requisitos mínimos que la Nana pero con hojas de hasta 25cm. Perfecta para acuarios de cíclidos africanos o americanos que destrozarían plantas más delicadas.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "África Occidental (Camerún, Nigeria, Guinea)",
     "countries": [
@@ -18,12 +14,14 @@
   },
   "max_size_cm": 25,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": false,
-  "fertilizer": "Fertilizante líquido muy ocasionalmente.",
-  "uses": "Planta de rizoma para fondo medio. Robusta, ideal con cíclidos.",
+  "level": "Zona media",
+  "description": "La Anubias Barteri es la versión grande del género Anubias. Misma dureza y requisitos mínimos que la Nana pero con hojas de hasta 25cm. Perfecta para acuarios de cíclidos africanos o americanos que destrozarían plantas más delicadas.",
+  "variants": [
+    "Anubias barteri var. barteri — forma tipo, hojas grandes ovaladas",
+    "Anubias barteri var. coffeifolia — hojas con relieve como granos de café",
+    "Anubias barteri var. caladiifolia — hojas muy grandes"
+  ],
+  "behavior": "Rizoma robusto de crecimiento muy lento. Hojas grandes y coriáceas que resisten mordidas. Florece bajo agua.",
   "propagation": "División del rizoma. Atar a decoración — nunca enterrar el rizoma.",
   "substrate": [
     "Sobre roca",
@@ -31,28 +29,17 @@
     "Grava"
   ],
   "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Convive perfectamente con cualquier planta — su crecimiento lento no compite.",
   "light": "Baja",
   "light_detail": "6–8 h/día.",
+  "co2": false,
+  "co2_detail": "No necesario. Crece igual con o sin CO₂.",
+  "fertilizer": "Fertilizante líquido muy ocasionalmente.",
+  "uses": "Planta de rizoma para fondo medio. Robusta, ideal con cíclidos.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -70,12 +57,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "No enterrar el rizoma — debe quedar sobre el sustrato o atado a roca/tronco. El enterramiento pudre el rizoma y mata la planta.",
   "iucn": "No evaluado",
-  "market_notes": "Muy disponible. No enterrar el rizoma. Crecimiento muy lento — paciencia.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Rizoma robusto de crecimiento muy lento. Hojas grandes y coriáceas que resisten mordidas. Florece bajo agua.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Convive perfectamente con cualquier planta — su crecimiento lento no compite.",
-  "co2_detail": "No necesario. Crece igual con o sin CO₂."
+  "market_notes": "Muy disponible. No enterrar el rizoma. Crecimiento muy lento — paciencia."
 }

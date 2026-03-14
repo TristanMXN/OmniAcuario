@@ -1,14 +1,6 @@
 {
   "order": "Cypriniformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    5,
-    10
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 1,
   "origin": {
     "region": "Sudeste Asiático",
     "countries": [
@@ -21,14 +13,30 @@
     "habitat": "Ríos lentos con fondos de hojas caídas, raíces y arena fina, aguas blandas y ácidas bajo bosque",
     "wild_params": "pH 5.0–7.0, GH 1–8, temperatura 24–30 °C"
   },
+  "max_size_cm": 12,
+  "lifespan_years": "8–12",
+  "level": "Fondo",
+  "recommended_school": 5,
+  "description": "La Locha Kuhlii (Pangio kuhlii) es originaria de la Península Malaya, Sumatra, Java y Borneo, habitando bajo hojas caídas y raíces de ríos de aguas blandas y ácidas. Su cuerpo vermiforme con bandas alternadas naranja-oscuro es inconfundible. Especie nocturna y secretiva que pasa el día oculta entre la vegetación o el sustrato.",
+  "variants": [
+    "Pangio kuhlii — bandas oscuras anchas sobre fondo naranja-rosado",
+    "Pangio semicincta — bandas incompletas que no rodean el vientre"
+  ],
+  "behavior": "Pacífico y tímido. En solitario se esconde permanentemente y declina. Grupo mínimo de 5 para que muestre comportamiento activo. Compatible con peces pequeños pacíficos y camarones adultos.",
+  "feeding_detail": "Omnívoro bentónico. Pastillas de fondo, artemia congelada, tubifex, dafnia, alimento vivo pequeño. Alimentar al apagar las luces — es de hábitos nocturnos.",
+  "sexing": "Las hembras son notablemente más gruesas y voluminosas que los machos cuando están llenas de huevos. Difícil fuera de condición reproductiva.",
+  "reproduction": "Muy difícil en acuario doméstico. Ovíparo — deposita huevos verdes brillantes en la cara inferior de hojas flotantes en grupos.",
   "substrate": [
     "Arena fina muy suave (obligatoria)"
   ],
   "substrate_detail": "Arena fina y suave OBLIGATORIA — la locha se entierra completamente. La grava o sustrato áspero hiere su cuerpo sin escamas.",
-  "lighting": "Moderada",
-  "description": "La Locha Kuhlii (Pangio kuhlii) es originaria de la Península Malaya, Sumatra, Java y Borneo, habitando bajo hojas caídas y raíces de ríos de aguas blandas y ácidas. Su cuerpo vermiforme con bandas alternadas naranja-oscuro es inconfundible. Especie nocturna y secretiva que pasa el día oculta entre la vegetación o el sustrato.",
-  "behavior": "Pacífico y tímido. En solitario se esconde permanentemente y declina. Grupo mínimo de 5 para que muestre comportamiento activo. Compatible con peces pequeños pacíficos y camarones adultos.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Recomendadas",
+  "plant_detail": "Plantas de raíz densa y hojas flotantes proporcionan las zonas oscuras que necesita.",
+  "light": "Muy baja",
+  "light_detail": "8 h/día. Especie estrictamente nocturna — rara vez visible de día. La oscuridad o luz muy tenue aumenta la actividad.",
+  "filtration": "Filtro de esponja o con rejilla fina en la entrada — la locha puede meterse en el filtro y morir. Cubrir cualquier abertura.",
+  "water_changes": "20% semanal",
+  "compatibility_notes": "Completamente pacífico. Compatible con cualquier especie no agresiva. Mínimo 3–5 individuos — los solitarios se esconden permanentemente y languidecen.",
   "diseases": [
     {
       "symptom": "Ich (puntos blancos tipo sal)",
@@ -46,28 +54,7 @@
       "solution": "Alimentar al apagar las luces. Proporcionar múltiples puntos de alimentación."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
-  "max_size_cm": 12,
-  "lifespan_years": "8–12",
-  "feeding_detail": "Omnívoro bentónico. Pastillas de fondo, artemia congelada, tubifex, dafnia, alimento vivo pequeño. Alimentar al apagar las luces — es de hábitos nocturnos.",
-  "recommended_school": 5,
-  "level": "Fácil",
-  "plants": "Recomendadas",
-  "plant_detail": "Plantas de raíz densa y hojas flotantes proporcionan las zonas oscuras que necesita.",
-  "light": "Muy baja",
-  "light_detail": "8 h/día. Especie estrictamente nocturna — rara vez visible de día. La oscuridad o luz muy tenue aumenta la actividad.",
-  "filtration": "Filtro de esponja o con rejilla fina en la entrada — la locha puede meterse en el filtro y morir. Cubrir cualquier abertura.",
-  "water_changes": "20% semanal",
-  "sexing": "Las hembras son notablemente más gruesas y voluminosas que los machos cuando están llenas de huevos. Difícil fuera de condición reproductiva.",
-  "reproduction": "Muy difícil en acuario doméstico. Ovíparo — deposita huevos verdes brillantes en la cara inferior de hojas flotantes en grupos.",
-  "compatibility_notes": "Completamente pacífico. Compatible con cualquier especie no agresiva. Mínimo 3–5 individuos — los solitarios se esconden permanentemente y languidecen.",
+  "important_notes": "La locha de kuhli puede escapar por agujeros muy pequeños — revisar toda la tapa. Se ha encontrado en filtros, dentro de tubos y bajo decoraciones selladas.",
   "iucn": "Preocupación menor (LC)",
-  "market_notes": "Disponible en tiendas. Las especies del género Pangio son frecuentemente confundidas entre sí.",
-  "class": "Actinopterygii",
-  "variants": [
-    "Pangio kuhlii — bandas oscuras anchas sobre fondo naranja-rosado",
-    "Pangio semicincta — bandas incompletas que no rodean el vientre"
-  ],
-  "important_notes": "La locha de kuhli puede escapar por agujeros muy pequeños — revisar toda la tapa. Se ha encontrado en filtros, dentro de tubos y bajo decoraciones selladas."
+  "market_notes": "Disponible en tiendas. Las especies del género Pangio son frecuentemente confundidas entre sí."
 }

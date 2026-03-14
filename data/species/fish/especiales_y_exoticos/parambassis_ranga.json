@@ -1,9 +1,6 @@
 {
-  "variants": [
-    "Parambassis ranga — forma natural transparente",
-    "Parambassis ranga var. Pigmentado — ejemplares inyectados con tinte artificial (no recomendable)"
-  ],
-  "description": "El Pez Vidrio Indio (Parambassis ranga) es originario del sur de Asia, desde India a Myanmar y Tailandia. Su cuerpo completamente transparente muestra los órganos internos y el esqueleto claramente. Es víctima frecuente de la tinción artificial con colorantes inyectados (práctica cruel e ilegal en muchos países). NUNCA comprar ejemplares con colores artificiales.",
+  "order": "Perciformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "Asia del Sur (India, Bangladesh, Myanmar, Tailandia)",
     "countries": [
@@ -18,13 +15,17 @@
   },
   "max_size_cm": 8,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Carnívoro. Artemia viva o congelada, dafnia, micro-gránulos. 2 veces al día.",
-  "behavior": "Cardumen de mínimo 6. Zona media. Activo durante el día.",
+  "level": "Medio",
   "recommended_school": 6,
-  "level": "Intermedio",
+  "description": "El Pez Vidrio Indio (Parambassis ranga) es originario del sur de Asia, desde India a Myanmar y Tailandia. Su cuerpo completamente transparente muestra los órganos internos y el esqueleto claramente. Es víctima frecuente de la tinción artificial con colorantes inyectados (práctica cruel e ilegal en muchos países). NUNCA comprar ejemplares con colores artificiales.",
+  "variants": [
+    "Parambassis ranga — forma natural transparente",
+    "Parambassis ranga var. Pigmentado — ejemplares inyectados con tinte artificial (no recomendable)"
+  ],
+  "behavior": "Cardumen de mínimo 6. Zona media. Activo durante el día.",
+  "feeding_detail": "Carnívoro. Artemia viva o congelada, dafnia, micro-gránulos. 2 veces al día.",
+  "sexing": "Machos con vejiga natatoria visible de color azulado al trasluz. Hembras con vejiga natatoria de bordes más redondeados. Diferencia sutil.",
+  "reproduction": "Ovíparo entre plantas finas. Las crías son muy pequeñas y necesitan infusorios como primer alimento. Difícil de criar en acuario doméstico.",
   "substrate": [
     "Arena fina",
     "Grava fina"
@@ -36,8 +37,6 @@
   "light_detail": "8–10 h/día, intensidad media. NUNCA comprar ejemplares con colores artificiales inyectados (\"painted fish\") — práctica cruel y los mata en meses.",
   "filtration": "Filtro de esponja o externo de bajo caudal. Agua neutra a ligeramente alcalina. Puede tolerar agua levemente salobre.",
   "water_changes": "20–25% semanal",
-  "sexing": "Machos con vejiga natatoria visible de color azulado al trasluz. Hembras con vejiga natatoria de bordes más redondeados. Diferencia sutil.",
-  "reproduction": "Ovíparo entre plantas finas. Las crías son muy pequeñas y necesitan infusorios como primer alimento. Difícil de criar en acuario doméstico.",
   "compatibility_notes": "Pacífico. Compatible con peces pequeños pacíficos de agua neutra. Cardumen de mínimo 6. Incompatible con peces agresivos que los persigan.",
   "diseases": [
     {
@@ -46,9 +45,7 @@
       "solution": "No comprar ejemplares inyectados — práctica cruel y dañina."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "NUNCA comprar ejemplares con colores artificiales inyectados. Solo la forma natural transparente.",
-  "order": "Perciformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "NUNCA comprar ejemplares con colores artificiales inyectados. Solo la forma natural transparente."
 }

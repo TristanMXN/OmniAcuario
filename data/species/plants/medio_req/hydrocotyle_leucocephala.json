@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Hydrocotyle leucocephala — hojas redondas lobuladas verde claro brillante"
-  ],
-  "description": "La Hydrocotyle Leucocephala es originaria de América Central y del Sur. Sus hojas redondas y brillantes son muy decorativas. Puede cultivarse plantada en sustrato o flotante. Crecimiento muy rápido — excelente filtradora de nitratos. Algo menos invasiva que H. verticillata.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "América Central y del Sur",
     "countries": [
@@ -17,12 +15,12 @@
   },
   "max_size_cm": 50,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": false,
-  "fertilizer": "Fertilizante líquido completo.",
-  "uses": "Planta de tallo o flotante. Hojas redondas características. Crecimiento muy rápido.",
+  "level": "Todos los estratos",
+  "description": "La Hydrocotyle Leucocephala es originaria de América Central y del Sur. Sus hojas redondas y brillantes son muy decorativas. Puede cultivarse plantada en sustrato o flotante. Crecimiento muy rápido — excelente filtradora de nitratos. Algo menos invasiva que H. verticillata.",
+  "variants": [
+    "Hydrocotyle leucocephala — hojas redondas lobuladas verde claro brillante"
+  ],
+  "behavior": "Tallo flotante o semisumergido con hojas redondas. Crecimiento rápido y colonizador.",
   "propagation": "Esquejes del tallo.",
   "substrate": [
     "Arena",
@@ -30,28 +28,17 @@
     "Sustrato nutritivo"
   ],
   "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Puede dominar el espacio rápidamente. Controlar para no sombrear otras plantas.",
   "light": "Media",
   "light_detail": "8–10 h/día.",
+  "co2": false,
+  "co2_detail": "No necesario.",
+  "fertilizer": "Fertilizante líquido completo.",
+  "uses": "Planta de tallo o flotante. Hojas redondas características. Crecimiento muy rápido.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -69,12 +56,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "Crece muy rápido alcanzando la superficie. Puede usarse flotando o plantada. Excelente para acuarios en ciclado por su voraz absorción de nitratos.",
   "iucn": "No evaluado",
-  "market_notes": "Disponible. Crecimiento muy rápido — puede invadir el acuario.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Tallo flotante o semisumergido con hojas redondas. Crecimiento rápido y colonizador.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Puede dominar el espacio rápidamente. Controlar para no sombrear otras plantas.",
-  "co2_detail": "No necesario."
+  "market_notes": "Disponible. Crecimiento muy rápido — puede invadir el acuario."
 }

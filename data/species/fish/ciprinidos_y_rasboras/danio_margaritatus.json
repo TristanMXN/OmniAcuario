@@ -1,14 +1,6 @@
 {
   "order": "Cypriniformes",
-  "ammonia_max": 0,
-  "nitrite_max": 0,
   "nitrate_max": 20,
-  "size": [
-    2,
-    3
-  ],
-  "lifespan": "3-5 años",
-  "group_min": 8,
   "origin": {
     "region": "Asia (Myanmar — lago Inle y alrededores)",
     "countries": [
@@ -18,15 +10,30 @@
     "habitat": "Aguas poco profundas, claras y frescas sobre vegetación densa.",
     "wild_params": "pH 7.0–8.0, GH 6–16, temperatura 20–26 °C."
   },
+  "max_size_cm": 2,
+  "lifespan_years": "3–5",
+  "level": "Medio",
+  "recommended_school": 10,
+  "description": "La Rasbora Galaxia (Danio margaritatus) fue descubierta en Myanmar en 2006 y causó furor mundial. Su cuerpo azul noche con puntos dorados y aletas rojas con negro es uno de los patrones más hermosos del hobby. Endémica de unos pocos lagos del norte de Myanmar — todos los ejemplares actuales en el mercado son criados en cautiverio, lo que ha salvado las poblaciones silvestres del agotamiento.",
+  "variants": [
+    "Danio margaritatus — azul profundo con puntos dorados, aletas rojas con negro"
+  ],
+  "behavior": "Cardumen activo de mínimo 10. Zona media-superficie. Los machos compiten exhibiendo colores. Prefiere temperatura algo más fresca que la mayoría de peces tropicales.",
+  "feeding_detail": "Micro-gránulos, artemia nauplius, artemia congelada. 2–3 veces al día.",
+  "sexing": "Machos con el azul eléctrico del cuerpo más intenso y los puntos dorados más brillantes. Las aletas rojas son más vivas en los machos. Hembras más pálidas y redondeadas.",
+  "reproduction": "Ovíparo entre musgos finos. Sin cuidado parental. Agua algo más fresca (22°C) estimula la reproducción. Los adultos no depredan activamente los huevos.",
   "substrate": [
     "Arena fina",
     "Grava"
   ],
   "substrate_detail": "Arena fina oscura o grava pequeña. Sustrato oscuro resalta los puntos dorados sobre el azul noche del cuerpo. Vegetación densa lateral.",
-  "lighting": "Moderada",
-  "description": "La Rasbora Galaxia (Danio margaritatus) fue descubierta en Myanmar en 2006 y causó furor mundial. Su cuerpo azul noche con puntos dorados y aletas rojas con negro es uno de los patrones más hermosos del hobby. Endémica de unos pocos lagos del norte de Myanmar — todos los ejemplares actuales en el mercado son criados en cautiverio, lo que ha salvado las poblaciones silvestres del agotamiento.",
-  "behavior": "Cardumen activo de mínimo 10. Zona media-superficie. Los machos compiten exhibiendo colores. Prefiere temperatura algo más fresca que la mayoría de peces tropicales.",
-  "breeding": "Reproducción posible en cautiverio con las condiciones adecuadas.",
+  "plants": "Muy recomendadas",
+  "plant_detail": "Tapizantes de primer plano y musgos resaltan sus colores.",
+  "light": "Moderada",
+  "light_detail": "8–10 h/día, intensidad media. Especie de lagos claros pero no muy cálidos (20–26°C). Sin calefactor en ambientes templados.",
+  "filtration": "Filtro de esponja o externo de bajo caudal. Agua más fresca que la media (20–26°C) — temperatura alta > 26°C la debilita y acorta su vida.",
+  "water_changes": "15–20% semanal",
+  "compatibility_notes": "Pacífico. Ideal con peces nano que toleren agua de dureza media: Otocinclus, Corydoras habrosus. Temperatura más fresca limita los compañeros compatibles.",
   "diseases": [
     {
       "symptom": "Decoloración",
@@ -39,27 +46,7 @@
       "solution": "Anti-ich a media dosis."
     }
   ],
-  "compatible_with": [],
-  "incompatible_with": [],
   "important_notes": "NOTA TAXONÓMICA: El \"Galaxy Rasbora\" fue descrito inicialmente como Celestichthys margaritatus en 2007. Análisis moleculares posteriores lo reubicaron en el género Danio (Danio margaritatus). NO es una rasbora botánica — se mantiene en la categoría por nombre comercial. Procede de Hopong, Myanmar, donde la temperatura del agua es 18-22°C. En muchos acuarios tropicales se mantiene demasiado caliente para esta especie.",
-  "variants": [
-    "Danio margaritatus — azul profundo con puntos dorados, aletas rojas con negro"
-  ],
-  "max_size_cm": 2,
-  "lifespan_years": "3–5",
-  "feeding_detail": "Micro-gránulos, artemia nauplius, artemia congelada. 2–3 veces al día.",
-  "recommended_school": 10,
-  "level": "Fácil",
-  "plants": "Muy recomendadas",
-  "plant_detail": "Tapizantes de primer plano y musgos resaltan sus colores.",
-  "light": "Moderada",
-  "light_detail": "8–10 h/día, intensidad media. Especie de lagos claros pero no muy cálidos (20–26°C). Sin calefactor en ambientes templados.",
-  "filtration": "Filtro de esponja o externo de bajo caudal. Agua más fresca que la media (20–26°C) — temperatura alta > 26°C la debilita y acorta su vida.",
-  "water_changes": "15–20% semanal",
-  "sexing": "Machos con el azul eléctrico del cuerpo más intenso y los puntos dorados más brillantes. Las aletas rojas son más vivas en los machos. Hembras más pálidas y redondeadas.",
-  "reproduction": "Ovíparo entre musgos finos. Sin cuidado parental. Agua algo más fresca (22°C) estimula la reproducción. Los adultos no depredan activamente los huevos.",
-  "compatibility_notes": "Pacífico. Ideal con peces nano que toleren agua de dureza media: Otocinclus, Corydoras habrosus. Temperatura más fresca limita los compañeros compatibles.",
   "iucn": "Vulnerable (endémico de Myanmar)",
-  "market_notes": "Todos los ejemplares son criados en cautiverio. No recolectar en naturaleza.",
-  "class": "Actinopterygii"
+  "market_notes": "Todos los ejemplares son criados en cautiverio. No recolectar en naturaleza."
 }

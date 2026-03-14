@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Synodontis nigriventris — marrón moteado, nada permanentemente boca abajo"
-  ],
-  "description": "El Bagre Boca Abajo (Synodontis nigriventris) es originario de la cuenca del río Congo en África Central. Como su nombre indica, nada permanentemente boca abajo — tiene el vientre más oscuro que el dorso (inversión del patrón habitual) para mimetizarse cuando nada al revés. Este comportamiento es completamente normal y no indica enfermedad.",
+  "order": "Siluriformes",
+  "nitrate_max": 20,
   "origin": {
     "region": "África Central (República Democrática del Congo)",
     "countries": [
@@ -15,13 +13,16 @@
   },
   "max_size_cm": 10,
   "lifespan_years": "3–5",
-  "nitrate_max": 20,
-  "ammonia_max": 0,
-  "nitrite_max": 0,
-  "feeding_detail": "Omnívoro. Tabletas de fondo (come al revés), artemia, gusanos, vegetales.",
-  "behavior": "Nada boca abajo continuamente. Activo de noche. Sociable — grupos de 4+.",
+  "level": "Fondo",
   "recommended_school": 4,
-  "level": "Fácil",
+  "description": "El Bagre Boca Abajo (Synodontis nigriventris) es originario de la cuenca del río Congo en África Central. Como su nombre indica, nada permanentemente boca abajo — tiene el vientre más oscuro que el dorso (inversión del patrón habitual) para mimetizarse cuando nada al revés. Este comportamiento es completamente normal y no indica enfermedad.",
+  "variants": [
+    "Synodontis nigriventris — marrón moteado, nada permanentemente boca abajo"
+  ],
+  "behavior": "Nada boca abajo continuamente. Activo de noche. Sociable — grupos de 4+.",
+  "feeding_detail": "Omnívoro. Tabletas de fondo (come al revés), artemia, gusanos, vegetales.",
+  "sexing": "Hembras más grandes y redondeadas. La diferencia es más evidente cuando las hembras están llenas de huevos.",
+  "reproduction": "Ovíparo. Muy difícil en acuario doméstico. El macho limpia una cueva y la hembra deposita los huevos al revés (nada boca abajo incluso en reproducción).",
   "substrate": [
     "Arena fina",
     "Troncos"
@@ -33,8 +34,6 @@
   "light_detail": "8 h/día. Especie estrictamente nocturna — casi invisible de día. La luz difusa o tenue aumenta el tiempo de actividad visible.",
   "filtration": "Filtro de esponja o externo moderado. Agua ligeramente ácida a neutra (pH 6.0–8.0). Especie robusta que tolera cierta variación.",
   "water_changes": "20–25% semanal",
-  "sexing": "Hembras más grandes y redondeadas. La diferencia es más evidente cuando las hembras están llenas de huevos.",
-  "reproduction": "Ovíparo. Muy difícil en acuario doméstico. El macho limpia una cueva y la hembra deposita los huevos al revés (nada boca abajo incluso en reproducción).",
   "compatibility_notes": "Pacífico. Compatible con peces africanos de agua moderada: Cíclidos enanos africanos, Tetras del Congo y Botias. No mezclar con peces muy pequeños que coma de noche.",
   "diseases": [
     {
@@ -43,9 +42,7 @@
       "solution": "Anti-ich."
     }
   ],
+  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados.",
   "iucn": "No evaluado",
-  "market_notes": "El nado invertido es completamente normal — no es un problema de salud.",
-  "order": "Siluriformes",
-  "class": "Actinopterygii",
-  "important_notes": "Especie con requisitos específicos — revisar parámetros recomendados."
+  "market_notes": "El nado invertido es completamente normal — no es un problema de salud."
 }

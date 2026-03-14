@@ -1,8 +1,6 @@
 {
-  "variants": [
-    "Cryptocoryne beckettii — hojas lanceoladas onduladas, verde-marrón"
-  ],
-  "description": "La Cryptocoryne Beckettii es originaria de Sri Lanka. Algo más pequeña que C. wendtii con hojas lanceoladas onduladas características. Misma facilidad de mantenimiento. Ideal para crear alfombras medianas de fondo.",
+  "order": "Plantae",
+  "nitrate_max": 50,
   "origin": {
     "region": "Asia (Sri Lanka)",
     "countries": [
@@ -14,12 +12,12 @@
   },
   "max_size_cm": 20,
   "lifespan_years": "Perenne",
-  "nitrate_max": 50,
-  "ammonia_max": 0.5,
-  "nitrite_max": 0,
-  "co2": false,
-  "fertilizer": "Fertilizante en pastillas en el sustrato.",
-  "uses": "Primer plano y fondo medio. Hojas onduladas decorativas.",
+  "level": "Zona media",
+  "description": "La Cryptocoryne Beckettii es originaria de Sri Lanka. Algo más pequeña que C. wendtii con hojas lanceoladas onduladas características. Misma facilidad de mantenimiento. Ideal para crear alfombras medianas de fondo.",
+  "variants": [
+    "Cryptocoryne beckettii — hojas lanceoladas onduladas, verde-marrón"
+  ],
+  "behavior": "Roseta de hoja más pequeña y delgada que C. wendtii. Crece lentamente en el fondo.",
   "propagation": "División de la mata o runners.",
   "substrate": [
     "Arena",
@@ -27,28 +25,17 @@
     "Sustrato nutritivo"
   ],
   "substrate_detail": "Tolera sustrato inerte con fertilización líquida.",
+  "plants": "Compatible con otras plantas",
+  "plant_detail": "Compatible con otras Cryptocorynes y plantas de media-baja demanda.",
   "light": "Baja-Media",
   "light_detail": "6–10 h/día.",
+  "co2": false,
+  "co2_detail": "No necesario.",
+  "fertilizer": "Fertilizante en pastillas en el sustrato.",
+  "uses": "Primer plano y fondo medio. Hojas onduladas decorativas.",
   "filtration": "Filtración moderada.",
   "water_changes": "20% semanal",
   "compatibility_notes": "Compatible con la mayoría de peces e invertebrados.",
-  "problems": [
-    {
-      "symptom": "Hojas amarillas",
-      "cause": "Deficiencia de hierro o nitrógeno",
-      "solution": "Fertilizante completo con quelato de hierro."
-    },
-    {
-      "symptom": "BBA en hojas",
-      "cause": "Fluctuación de CO₂ o luz excesiva",
-      "solution": "Estabilizar CO₂. Reducir fotoperíodo."
-    },
-    {
-      "symptom": "Hojas transparentes o agujereadas",
-      "cause": "Deficiencia de potasio",
-      "solution": "Añadir sulfato de potasio."
-    }
-  ],
   "diseases": [
     {
       "symptom": "Hojas amarillas",
@@ -66,12 +53,7 @@
       "solution": "Añadir sulfato de potasio."
     }
   ],
+  "important_notes": "Sufre \"enfermedad de Crypt\" al cambiar de condiciones — las hojas se disuelven. No es muerte: la planta rebrota desde el rizoma en 2–3 semanas.",
   "iucn": "No evaluado",
-  "market_notes": "Disponible. Algo más delicada que C. wendtii.",
-  "order": "Plantae",
-  "class": "Varied",
-  "behavior": "Roseta de hoja más pequeña y delgada que C. wendtii. Crece lentamente en el fondo.",
-  "plants": "Compatible con otras plantas",
-  "plant_detail": "Compatible con otras Cryptocorynes y plantas de media-baja demanda.",
-  "co2_detail": "No necesario."
+  "market_notes": "Disponible. Algo más delicada que C. wendtii."
 }
